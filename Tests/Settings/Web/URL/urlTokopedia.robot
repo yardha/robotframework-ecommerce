@@ -1,3 +1,4 @@
 *** Settings ***
 
-tokopedia="https://www.tokopedia.com/"
+***Variables***
+${URL TOKOPEDIA}      https://www.tokopedia.com/
