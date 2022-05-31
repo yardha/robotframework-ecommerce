@@ -1,5 +1,5 @@
 *** Settings ***
-Resource    ..Tests/TestSteps/stepTokopedia.robot
-Resource    ../Tests/Settings/Web/URL/urlMain.robot
+Resource    ../TestSteps/stepTokopedia.robot
+Resource    ../Settings/Web/URL/urlMain.robot
 
 ***Keywords***

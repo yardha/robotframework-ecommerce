@@ -1,2 +1,2 @@
-cd Tests/TestSteps
-robot -d Results caseTokopedia.robot
+cd ../../TestCases
+robot -d ../../Results caseTokopedia.robot

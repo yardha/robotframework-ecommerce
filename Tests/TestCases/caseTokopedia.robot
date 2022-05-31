@@ -1,8 +1,9 @@
 *** Settings ***
 Documentation                             This test suite to test functionality survey, each type survey have 1 survey
 Library                                   SeleniumLibrary
-Resource                                  ../Tests/TestCases/stepMain.robot
-Resource                                  ../Tests/Variables/varMain.robot
+Resource                                  ../TestSteps/stepMain.robot
+Resource                                  ../TestSteps/stepTokopedia.robot
+Resource                                  ../Variables/varMain.robot
 
 *** Comments ***
 
