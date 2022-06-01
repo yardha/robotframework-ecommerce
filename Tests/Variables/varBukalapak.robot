@@ -1,6 +1,5 @@
 *** Variables ***
 
-${LOGO BUKALAPAK}           xpath=
-${SEARCH BOX BUKALAPAK}     xpath=
-@{ITEM 1 NAME BUKALAPAK}    xpath=    xiaomi
-${SEARCH BUTTON BUKALAPAK}  xpath=
+${SEARCH BOX BUKALAPAK}     xpath=//*[@id="v-omnisearch__input"]
+@{ITEM 1 NAME BUKALAPAK}    xpath=//*[@id="v-omnisearch__input"]    xiaomi
+${SEARCH BUTTON BUKALAPAK}  xpath=//*[@id="v-omnisearch"]/button

@@ -10,7 +10,6 @@ Resource                                  ../Variables/varMain.robot
 *** Test Cases ***
 SHOPEE Open Website Under Test
     Open Website Shopee
-    Validate Shopee
 
 SHOPEE Search For Item
     Click Search Box Shopee

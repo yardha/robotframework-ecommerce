@@ -1,2 +1,2 @@
 cd ../../TestCases
-robot -d ../../Results caseBukalapak.robot
+robot -d ../../Results/Bukalapak caseBukalapak.robot

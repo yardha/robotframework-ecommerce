@@ -4,11 +4,9 @@ Resource    ../Settings/Web/URL/urlMain.robot
 
 ***Keywords***
 Open Website Shopee
-    Open Browser                             ${URL SHOPEE}
-
-Validate Shopee
-    Wait Until Element Is Visible            ${LOGO SHOPEE}
+    Open Browser                             @{URL SHOPEE}
     Sleep                                    3
+    Maximize Browser Window
 
 Click Search Box Shopee
     Click Element                            ${SEARCH BOX SHOPEE}
@@ -20,3 +18,4 @@ Type Item 1 Name Shopee
 
 Hit Submit Button Shopee
     Click Element                            ${SEARCH BUTTON SHOPEE}
+    Sleep                                    3

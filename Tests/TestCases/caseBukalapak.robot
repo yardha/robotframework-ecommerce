@@ -10,7 +10,6 @@ Resource                                  ../Variables/varMain.robot
 *** Test Cases ***
 BUKALAPAK Open Website Under Test
     Open Website Bukalapak
-    Validate Bukalapak
 
 BUKALAPAK Search For Item
     Click Search Box Bukalapak

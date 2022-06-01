@@ -10,7 +10,6 @@ Resource                                  ../Variables/varMain.robot
 *** Test Cases ***
 LAZADA Open Website Under Test
     Open Website Lazada
-    Validate Lazada
 
 LAZADA Search For Item
     Click Search Box Lazada

@@ -5,10 +5,8 @@ Resource    ../Settings/Web/URL/urlMain.robot
 ***Keywords***
 Open Website Tokopedia
     Open Browser                             @{URL TOKOPEDIA}
-
-Validate Tokopedia
-    Wait Until Element Is Visible            ${LOGO TOKOPEDIA}
     Sleep                                    3
+    Maximize Browser Window
 
 Click Search Box Tokopedia
     Click Element                            ${SEARCH BOX TOKOPEDIA}

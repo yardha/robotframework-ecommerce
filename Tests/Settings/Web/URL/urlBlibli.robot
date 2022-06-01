@@ -1,4 +1,4 @@
 *** Settings ***
 
 ***Variables***
-${URL BLIBLI}      https://www.blibli.com/  chrome
+@{URL BLIBLI}      https://www.blibli.com/  chrome

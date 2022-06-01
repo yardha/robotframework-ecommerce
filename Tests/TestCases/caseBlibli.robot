@@ -10,7 +10,6 @@ Resource                                  ../Variables/varMain.robot
 *** Test Cases ***
 BLIBLI Open Website Under Test
     Open Website Blibli
-    Validate Blibli
 
 BLIBLI Search For Item
     Click Search Box Blibli

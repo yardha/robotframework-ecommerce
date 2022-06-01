@@ -10,7 +10,6 @@ Resource                                  ../Variables/varMain.robot
 *** Test Cases ***
 TOKOPEDIA Open Website Under Test
     Open Website Tokopedia
-    Validate Tokopedia
 
 TOKOPEDIA Search For Item
     Click Search Box Tokopedia

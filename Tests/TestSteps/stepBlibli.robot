@@ -5,10 +5,8 @@ Resource    ../Settings/Web/URL/urlMain.robot
 ***Keywords***
 Open Website Blibli
     Open Browser                             @{URL BLIBLI}
-
-Validate Blibli
-    Wait Until Element Is Visible            ${LOGO BLIBLI}
     Sleep                                    3
+    Maximize Browser Window
 
 Click Search Box Blibli
     Click Element                            ${SEARCH BOX BLIBLI}
@@ -20,3 +18,4 @@ Type Item 1 Name Blibli
 
 Hit Submit Button Blibli
     Click Element                            ${SEARCH BUTTON BLIBLI}
+    Sleep                                    3

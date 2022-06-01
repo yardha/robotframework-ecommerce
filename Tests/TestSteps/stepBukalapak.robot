@@ -5,10 +5,8 @@ Resource    ../Settings/Web/URL/urlMain.robot
 ***Keywords***
 Open Website Bukalapak
     Open Browser                             @{URL BUKALAPAK}
-
-Validate Bukalapak
-    Wait Until Element Is Visible            ${LOGO BUKALAPAK}
     Sleep                                    3
+    Maximize Browser Window
 
 Click Search Box Bukalapak
     Click Element                            ${SEARCH BOX BUKALAPAK}
@@ -20,3 +18,4 @@ Type Item 1 Name Bukalapak
 
 Hit Submit Button Bukalapak
     Click Element                            ${SEARCH BUTTON BUKALAPAK}
+    Sleep                                    3
