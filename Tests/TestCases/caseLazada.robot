@@ -8,14 +8,14 @@ Resource                                  ../Variables/varMain.robot
 
 
 *** Test Cases ***
-TOKOPEDIA Open Website Under Test
-    Open Website Tokopedia
-    Validate Tokopedia
+LAZADA Open Website Under Test
+    Open Website Lazada
+    Validate Lazada
 
-TOKOPEDIA Search For Item
-    Click Search Box Tokopedia
-    Type Item 1 Name Tokopedia
-    Hit Submit Button Tokopedia
+LAZADA Search For Item
+    Click Search Box Lazada
+    Type Item 1 Name Lazada
+    Hit Submit Button Lazada
 
-TOKOPEDIA Close Browser
+LAZADA Close Browser
     Close Browser

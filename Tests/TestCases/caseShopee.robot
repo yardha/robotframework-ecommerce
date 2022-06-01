@@ -8,14 +8,14 @@ Resource                                  ../Variables/varMain.robot
 
 
 *** Test Cases ***
-TOKOPEDIA Open Website Under Test
-    Open Website Tokopedia
-    Validate Tokopedia
+SHOPEE Open Website Under Test
+    Open Website Shopee
+    Validate Shopee
 
-TOKOPEDIA Search For Item
-    Click Search Box Tokopedia
-    Type Item 1 Name Tokopedia
-    Hit Submit Button Tokopedia
+SHOPEE Search For Item
+    Click Search Box Shopee
+    Type Item 1 Name Shopee
+    Hit Submit Button Shopee
 
-TOKOPEDIA Close Browser
+SHOPEE Close Browser
     Close Browser

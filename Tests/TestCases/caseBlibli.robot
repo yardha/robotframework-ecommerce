@@ -8,14 +8,14 @@ Resource                                  ../Variables/varMain.robot
 
 
 *** Test Cases ***
-TOKOPEDIA Open Website Under Test
-    Open Website Tokopedia
-    Validate Tokopedia
+BLIBLI Open Website Under Test
+    Open Website Blibli
+    Validate Blibli
 
-TOKOPEDIA Search For Item
-    Click Search Box Tokopedia
-    Type Item 1 Name Tokopedia
-    Hit Submit Button Tokopedia
+BLIBLI Search For Item
+    Click Search Box Blibli
+    Type Item 1 Name Blibli
+    Hit Submit Button Blibli
 
-TOKOPEDIA Close Browser
+BLIBLI Close Browser
     Close Browser
