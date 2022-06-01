@@ -12,3 +12,11 @@ Resource                                  ../Variables/varMain.robot
 Open Website Under Test
     Open Website Tokopedia
     Validate Tokopedia
+
+Search For Item
+    Click Search Box Tokopedia
+    Type Item 1 Name Tokopedia
+    Hit Submit Button Tokopedia
+
+Close Browser
+    Close Browser
