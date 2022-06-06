@@ -21,10 +21,15 @@ Hit Submit Button Tokopedia
     Sleep                                    3
 
 Get All Product Name Tokopedia
-    ${PRODUCTS 1 NAME TOKOPEDIA}             Get WebElements                        ${PRODUCTS 1 GROUP TOKOPEDIA}
-    FOR     ${ITEM}     IN      @{PRODUCTS 1 NAME TOKOPEDIA}
-        ${type string}=    Evaluate     type(${ITEM})
-        Log To Console     ${type string}
-    END
+    ${PRODUCTS 1 NAME TOKOPEDIA}=      get text    ${PRODUCTS 1 GROUP TOKOPEDIA}
+    log to console     ${PRODUCTS 1 NAME TOKOPEDIA}
+
+
+
+    # ${PRODUCTS 1 NAME TOKOPEDIA}             Get WebElements                        ${PRODUCTS 1 GROUP TOKOPEDIA}
+    # FOR     ${ITEM}     IN      @{PRODUCTS 1 NAME TOKOPEDIA}
+    #     ${type string}=    Evaluate     type(${ITEM})
+    #     Log To Console     ${type string}
+    # END
     # ${PRODUCTS 1 NAME TOKOPEDIA}             Get All Text From Html             ${PRODUCTS 1 GROUP TOKOPEDIA}
     # ${PRODUCTS 1 NAME TOKOPEDIA}             Log To Console                       ${PRODUCTS 1 GROUP TOKOPEDIA}

@@ -1,17 +1,17 @@
 ***Settings***
 Library             SeleniumLibrary
-Suite Setup         Open Browser    ${URL}     ${BROWSER}
-Suite Teardown      Close Browser
+Suite Teardown      Close all browsers
 
 ***Variables***
-${NAVIGATION}       //nav[@id="navigation"]
-${BROWSER}          chrome
-${URL}              https://robotframework.org
+# ${NAVIGATION}       //nav[@id="navigation"]
+# ${BROWSER}          chrome
+# ${URL}              https://robotframework.org
 
 
 ***Test Cases***
-Get Text Link
-    ${get_text}     Get WebElements     ${NAVIGATION}
-    FOR     ${item}     IN                  @{get_text}
-        Log To Console                  ${item.text}
-    END
+xpath-test
+    Open Browser       https://www.tokopedia.com/       browser=chrome
+    Maximize Browser Window
+    ${logo text}=      get text    xpath=//*[@id="zeus-root"]/div/main/section[1]/div/div[1]
+    log to console     ${logo text}
+    # should be equal as strings      ${logo text}    Deutschland
