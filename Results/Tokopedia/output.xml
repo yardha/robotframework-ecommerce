@@ -1,111 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.2.2 (Python 3.7.0 on win32)" generated="20220601 23:54:07.435" rpa="false">
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220603 16:20:08.642" rpa="false" schemaversion="3">
 <suite id="s1" name="caseTokopedia" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\caseTokopedia.robot">
-<test id="s1-t1" name="TOKOPEDIA Open Website Under Test">
+<test id="s1-t1" name="TOKOPEDIA Open Website Under Test" line="11">
 <kw name="Open Website Tokopedia" library="stepTokopedia">
 <kw name="Open Browser" library="SeleniumLibrary">
-<doc>Opens a new browser instance to the optional ``url``.</doc>
-<arguments>
 <arg>@{URL TOKOPEDIA}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:07.617" level="INFO">Opening browser 'chrome' to base url 'https://www.tokopedia.com/'.</msg>
-<status status="PASS" starttime="20220601 23:54:07.617" endtime="20220601 23:54:10.392"></status>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20220603 16:20:08.811" level="INFO">Opening browser 'chrome' to base url 'https://www.tokopedia.com/'.</msg>
+<status status="PASS" starttime="20220603 16:20:08.811" endtime="20220603 16:20:22.275"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:13.404" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:10.393" endtime="20220601 23:54:13.404"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220603 16:20:25.282" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220603 16:20:22.275" endtime="20220603 16:20:25.282"/>
 </kw>
 <kw name="Maximize Browser Window" library="SeleniumLibrary">
 <doc>Maximizes current browser window.</doc>
-<status status="PASS" starttime="20220601 23:54:13.404" endtime="20220601 23:54:13.565"></status>
+<status status="PASS" starttime="20220603 16:20:25.282" endtime="20220603 16:20:25.681"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:07.616" endtime="20220601 23:54:13.565"></status>
+<status status="PASS" starttime="20220603 16:20:08.811" endtime="20220603 16:20:25.681"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:07.616" endtime="20220601 23:54:13.565" critical="yes"></status>
+<status status="PASS" starttime="20220603 16:20:08.810" endtime="20220603 16:20:25.682"/>
 </test>
-<test id="s1-t2" name="TOKOPEDIA Search For Item">
+<test id="s1-t2" name="TOKOPEDIA Search For Item" line="14">
 <kw name="Click Search Box Tokopedia" library="stepTokopedia">
 <kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
 <arg>${SEARCH BOX TOKOPEDIA}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:13.567" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
-<status status="PASS" starttime="20220601 23:54:13.567" endtime="20220601 23:54:13.654"></status>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220603 16:20:25.685" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
+<status status="PASS" starttime="20220603 16:20:25.685" endtime="20220603 16:20:25.784"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:16.665" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:13.654" endtime="20220601 23:54:16.665"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220603 16:20:28.800" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220603 16:20:25.785" endtime="20220603 16:20:28.800"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:13.567" endtime="20220601 23:54:16.665"></status>
+<status status="PASS" starttime="20220603 16:20:25.685" endtime="20220603 16:20:28.800"/>
 </kw>
 <kw name="Type Item 1 Name Tokopedia" library="stepTokopedia">
 <kw name="Input Text" library="SeleniumLibrary">
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<arguments>
 <arg>@{ITEM 1 NAME TOKOPEDIA}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:16.666" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
-<status status="PASS" starttime="20220601 23:54:16.666" endtime="20220601 23:54:16.719"></status>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220603 16:20:28.801" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
+<status status="PASS" starttime="20220603 16:20:28.801" endtime="20220603 16:20:28.855"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:19.726" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:16.719" endtime="20220601 23:54:19.726"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220603 16:20:31.863" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220603 16:20:28.855" endtime="20220603 16:20:31.863"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:16.665" endtime="20220601 23:54:19.726"></status>
+<status status="PASS" starttime="20220603 16:20:28.800" endtime="20220603 16:20:31.863"/>
 </kw>
 <kw name="Hit Submit Button Tokopedia" library="stepTokopedia">
 <kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
 <arg>${SEARCH BUTTON TOKOPEDIA}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:19.727" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/button'.</msg>
-<status status="PASS" starttime="20220601 23:54:19.727" endtime="20220601 23:54:19.808"></status>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220603 16:20:31.864" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/button'.</msg>
+<status status="PASS" starttime="20220603 16:20:31.864" endtime="20220603 16:20:31.974"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:22.816" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:19.808" endtime="20220601 23:54:22.816"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220603 16:20:34.978" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220603 16:20:31.974" endtime="20220603 16:20:34.978"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:19.726" endtime="20220601 23:54:22.816"></status>
+<status status="PASS" starttime="20220603 16:20:31.863" endtime="20220603 16:20:34.978"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:13.566" endtime="20220601 23:54:22.817" critical="yes"></status>
+<status status="PASS" starttime="20220603 16:20:25.684" endtime="20220603 16:20:34.978"/>
 </test>
-<test id="s1-t3" name="TOKOPEDIA Close Browser">
+<test id="s1-t3" name="TOKOPEDIA Get Displayed Items Name" line="19">
+<kw name="Get All Product Name Tokopedia" library="stepTokopedia">
+<kw name="Get WebElements" library="SeleniumLibrary">
+<var>${PRODUCTS 1 NAME TOKOPEDIA}</var>
+<arg>${PRODUCTS 1 GROUP TOKOPEDIA}</arg>
+<doc>Returns a list of WebElement objects matching the ``locator``.</doc>
+<msg timestamp="20220603 16:20:34.990" level="INFO">${PRODUCTS 1 NAME TOKOPEDIA} = [&lt;selenium.webdriver.remote.webelement.WebElement (session="0f845619e91ffbb02fc2086aaa58ca63", element="ad1978a9-6652-466f-b221-d69a4bb4d0eb")&gt;]</msg>
+<status status="PASS" starttime="20220603 16:20:34.980" endtime="20220603 16:20:34.990"/>
+</kw>
+<for flavor="IN">
+<var>${ITEM}</var>
+<value>@{PRODUCTS 1 NAME TOKOPEDIA}</value>
+<iter>
+<var name="${ITEM}">&lt;selenium.webdriver.remote.webelement.WebElement (session="0f845619e91ffbb02fc2086aaa58ca63", element="ad1978a9-6652-466f-b221-d69a4bb4d0eb")&gt;</var>
+<kw name="Evaluate" library="BuiltIn">
+<var>${type string}</var>
+<arg>type(${ITEM})</arg>
+<doc>Evaluates the given expression in Python and returns the result.</doc>
+<msg timestamp="20220603 16:20:34.991" level="FAIL">Evaluating expression 'type(&lt;selenium.webdriver.remote.webelement.WebElement (session="0f845619e91ffbb02fc2086aaa58ca63", element="ad1978a9-6652-466f-b221-d69a4bb4d0eb")&gt;)' failed: SyntaxError: invalid syntax (&lt;string&gt;, line 1)</msg>
+<status status="FAIL" starttime="20220603 16:20:34.990" endtime="20220603 16:20:34.992"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>${type string}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="NOT RUN" starttime="20220603 16:20:34.992" endtime="20220603 16:20:34.992"/>
+</kw>
+<status status="FAIL" starttime="20220603 16:20:34.990" endtime="20220603 16:20:34.992"/>
+</iter>
+<status status="FAIL" starttime="20220603 16:20:34.990" endtime="20220603 16:20:34.992"/>
+</for>
+<status status="FAIL" starttime="20220603 16:20:34.980" endtime="20220603 16:20:34.993"/>
+</kw>
+<status status="FAIL" starttime="20220603 16:20:34.979" endtime="20220603 16:20:34.993">Evaluating expression 'type(&lt;selenium.webdriver.remote.webelement.WebElement (session="0f845619e91ffbb02fc2086aaa58ca63", element="ad1978a9-6652-466f-b221-d69a4bb4d0eb")&gt;)' failed: SyntaxError: invalid syntax (&lt;string&gt;, line 1)</status>
+</test>
+<test id="s1-t4" name="TOKOPEDIA Close Browser" line="22">
 <kw name="Close Browser" library="SeleniumLibrary">
 <doc>Closes the current browser.</doc>
-<status status="PASS" starttime="20220601 23:54:22.819" endtime="20220601 23:54:25.010"></status>
+<status status="PASS" starttime="20220603 16:20:34.996" endtime="20220603 16:20:37.351"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:22.818" endtime="20220601 23:54:25.010" critical="yes"></status>
+<status status="PASS" starttime="20220603 16:20:34.995" endtime="20220603 16:20:37.351"/>
 </test>
 <doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
-<status status="PASS" starttime="20220601 23:54:07.436" endtime="20220601 23:54:25.012"></status>
+<status status="FAIL" starttime="20220603 16:20:08.643" endtime="20220603 16:20:37.353"/>
 </suite>
 <statistics>
 <total>
-<stat pass="3" fail="0">Critical Tests</stat>
-<stat pass="3" fail="0">All Tests</stat>
+<stat pass="3" fail="1" skip="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="3" fail="0" id="s1" name="caseTokopedia">caseTokopedia</stat>
+<stat pass="3" fail="1" skip="0" id="s1" name="caseTokopedia">caseTokopedia</stat>
 </suite>
 </statistics>
 <errors>

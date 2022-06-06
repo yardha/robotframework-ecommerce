@@ -16,5 +16,8 @@ TOKOPEDIA Search For Item
     Type Item 1 Name Tokopedia
     Hit Submit Button Tokopedia
 
+TOKOPEDIA Get Displayed Items Name
+    Get All Product Name Tokopedia
+
 TOKOPEDIA Close Browser
     Close Browser
