@@ -1,113 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220607 00:42:41.639" rpa="false" schemaversion="3">
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220612 00:00:59.017" rpa="false" schemaversion="3">
 <suite id="s1" name="caseTokopedia" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\caseTokopedia.robot">
 <test id="s1-t1" name="TOKOPEDIA Open Website Under Test" line="11">
 <kw name="Open Website Tokopedia" library="stepTokopedia">
 <kw name="Open Browser" library="SeleniumLibrary">
 <arg>@{URL TOKOPEDIA}</arg>
 <doc>Opens a new browser instance to the optional ``url``.</doc>
-<msg timestamp="20220607 00:42:41.812" level="INFO">Opening browser 'chrome' to base url 'https://www.tokopedia.com/'.</msg>
-<status status="PASS" starttime="20220607 00:42:41.812" endtime="20220607 00:42:44.466"/>
+<msg timestamp="20220612 00:00:59.184" level="INFO">Opening browser 'chrome' to base url 'https://www.tokopedia.com/'.</msg>
+<status status="PASS" starttime="20220612 00:00:59.184" endtime="20220612 00:01:01.581"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220607 00:42:47.480" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220607 00:42:44.466" endtime="20220607 00:42:47.480"/>
+<msg timestamp="20220612 00:01:04.593" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:01.581" endtime="20220612 00:01:04.593"/>
 </kw>
 <kw name="Maximize Browser Window" library="SeleniumLibrary">
 <doc>Maximizes current browser window.</doc>
-<status status="PASS" starttime="20220607 00:42:47.480" endtime="20220607 00:42:47.778"/>
+<status status="PASS" starttime="20220612 00:01:04.593" endtime="20220612 00:01:04.720"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:41.812" endtime="20220607 00:42:47.778"/>
+<status status="PASS" starttime="20220612 00:00:59.183" endtime="20220612 00:01:04.720"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:41.811" endtime="20220607 00:42:47.778"/>
+<status status="PASS" starttime="20220612 00:00:59.182" endtime="20220612 00:01:04.721"/>
 </test>
 <test id="s1-t2" name="TOKOPEDIA Search For Item" line="14">
 <kw name="Click Search Box Tokopedia" library="stepTokopedia">
 <kw name="Click Element" library="SeleniumLibrary">
 <arg>${SEARCH BOX TOKOPEDIA}</arg>
 <doc>Click the element identified by ``locator``.</doc>
-<msg timestamp="20220607 00:42:47.781" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
-<status status="PASS" starttime="20220607 00:42:47.780" endtime="20220607 00:42:47.877"/>
+<msg timestamp="20220612 00:01:04.723" level="INFO">Clicking element 'xpath=//*[@id="header-main-wrapper"]/div[2]/div[2]/div/div/div/div/input'.</msg>
+<status status="PASS" starttime="20220612 00:01:04.722" endtime="20220612 00:01:04.797"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220607 00:42:50.882" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220607 00:42:47.877" endtime="20220607 00:42:50.882"/>
+<msg timestamp="20220612 00:01:07.803" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:04.798" endtime="20220612 00:01:07.803"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:47.780" endtime="20220607 00:42:50.882"/>
+<status status="PASS" starttime="20220612 00:01:04.722" endtime="20220612 00:01:07.803"/>
 </kw>
 <kw name="Type Item 1 Name Tokopedia" library="stepTokopedia">
 <kw name="Input Text" library="SeleniumLibrary">
 <arg>@{ITEM 1 NAME TOKOPEDIA}</arg>
 <doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<msg timestamp="20220607 00:42:50.883" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="search-container"]/form/div/div/div/input'.</msg>
-<status status="PASS" starttime="20220607 00:42:50.883" endtime="20220607 00:42:50.940"/>
+<msg timestamp="20220612 00:01:07.804" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="header-main-wrapper"]/div[2]/div[2]/div/div/div/div/input'.</msg>
+<status status="PASS" starttime="20220612 00:01:07.804" endtime="20220612 00:01:07.848"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220607 00:42:53.948" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220607 00:42:50.941" endtime="20220607 00:42:53.948"/>
+<msg timestamp="20220612 00:01:10.856" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:07.848" endtime="20220612 00:01:10.856"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:50.882" endtime="20220607 00:42:53.948"/>
+<status status="PASS" starttime="20220612 00:01:07.803" endtime="20220612 00:01:10.856"/>
 </kw>
 <kw name="Hit Submit Button Tokopedia" library="stepTokopedia">
 <kw name="Click Element" library="SeleniumLibrary">
 <arg>${SEARCH BUTTON TOKOPEDIA}</arg>
 <doc>Click the element identified by ``locator``.</doc>
-<msg timestamp="20220607 00:42:53.949" level="INFO">Clicking element 'xpath=//*[@id="search-container"]/form/div/div/div/button'.</msg>
-<status status="PASS" starttime="20220607 00:42:53.949" endtime="20220607 00:42:54.048"/>
+<msg timestamp="20220612 00:01:10.857" level="INFO">Clicking element 'xpath=//*[@id="header-main-wrapper"]/div[2]/div[2]/div/div/div/div/button'.</msg>
+<status status="PASS" starttime="20220612 00:01:10.857" endtime="20220612 00:01:10.954"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220607 00:42:57.056" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220607 00:42:54.048" endtime="20220607 00:42:57.056"/>
+<msg timestamp="20220612 00:01:13.961" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:10.954" endtime="20220612 00:01:13.961"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:53.948" endtime="20220607 00:42:57.056"/>
+<status status="PASS" starttime="20220612 00:01:10.856" endtime="20220612 00:01:13.961"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:47.779" endtime="20220607 00:42:57.056"/>
+<status status="PASS" starttime="20220612 00:01:04.721" endtime="20220612 00:01:13.961"/>
 </test>
 <test id="s1-t3" name="TOKOPEDIA Get Displayed Items Name" line="19">
 <kw name="Get All Product Name Tokopedia" library="stepTokopedia">
 <kw name="Get Text" library="SeleniumLibrary">
 <var>${PRODUCTS 1 NAME TOKOPEDIA}</var>
-<arg>${PRODUCTS 1 GROUP TOKOPEDIA}</arg>
+<arg>${PRODUCTS 1 GROUP 1 TOKOPEDIA}</arg>
 <doc>Returns the text value of the element identified by ``locator``.</doc>
-<msg timestamp="20220607 00:42:57.168" level="INFO">${PRODUCTS 1 NAME TOKOPEDIA} = Ad
-Xiaomi Poco M4 Pro 8/256GB - Poco M4 Pro 6/128GB Garansi Resmi
-Rp3.349.000
+<msg timestamp="20220612 00:01:14.072" level="INFO">${PRODUCTS 1 NAME TOKOPEDIA} = Ad
+Sisa 10
+Xiaomi Redmi Note 10 5G - 8GB 128GB (8/128)-New Original Garansi Resmi
+Rp2.849.000
 Cashback
 Jakarta Utara
-SONIC Gadgets
+CA Shop
 5.0
-Terjual 16
+Terjual 500+
 Ad
-Xiaomi Mi Pad 5 Pro Tablet 2.5K 120HZ SD 870 WiFi Version
-Rp5.199.0...</msg>
-<status status="PASS" starttime="20220607 00:42:57.058" endtime="20220607 00:42:57.168"/>
+Xiaomi Redmi Note 4x 4/64GB Garansi 1 Tahun
+Rp865.000
+J...</msg>
+<status status="PASS" starttime="20220612 00:01:13.963" endtime="20220612 00:01:14.072"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>${PRODUCTS 1 NAME TOKOPEDIA}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20220607 00:42:57.168" endtime="20220607 00:42:57.177"/>
+<status status="PASS" starttime="20220612 00:01:14.072" endtime="20220612 00:01:14.082"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:57.058" endtime="20220607 00:42:57.178"/>
+<kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:16.084" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:14.082" endtime="20220612 00:01:16.084"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:57.057" endtime="20220607 00:42:57.178"/>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:16.084" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:16.458" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:16.084" endtime="20220612 00:01:16.489"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:19.491" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:16.489" endtime="20220612 00:01:19.491"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:19.491" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:19.790" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:19.491" endtime="20220612 00:01:19.805"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:22.820" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:19.805" endtime="20220612 00:01:22.820"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:22.821" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:23.138" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:22.820" endtime="20220612 00:01:23.146"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:26.150" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:23.146" endtime="20220612 00:01:26.150"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:26.150" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:27.218" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:26.150" endtime="20220612 00:01:27.261"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:30.270" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:27.261" endtime="20220612 00:01:30.270"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:30.270" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:30.732" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:30.270" endtime="20220612 00:01:30.784"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:33.797" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:30.785" endtime="20220612 00:01:33.797"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>xpath=//body</arg>
+<arg>\ue00f</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220612 00:01:33.797" level="INFO">Sending key(s) ('\ue00f',) to xpath=//body element.</msg>
+<msg timestamp="20220612 00:01:34.136" level="INFO">Sending key </msg>
+<status status="PASS" starttime="20220612 00:01:33.797" endtime="20220612 00:01:34.162"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220612 00:01:37.169" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220612 00:01:34.163" endtime="20220612 00:01:37.169"/>
+</kw>
+<status status="PASS" starttime="20220612 00:01:13.963" endtime="20220612 00:01:37.169"/>
+</kw>
+<status status="PASS" starttime="20220612 00:01:13.962" endtime="20220612 00:01:37.169"/>
 </test>
 <test id="s1-t4" name="TOKOPEDIA Close Browser" line="22">
 <kw name="Close Browser" library="SeleniumLibrary">
 <doc>Closes the current browser.</doc>
-<status status="PASS" starttime="20220607 00:42:57.180" endtime="20220607 00:42:59.361"/>
+<status status="PASS" starttime="20220612 00:01:37.171" endtime="20220612 00:01:39.430"/>
 </kw>
-<status status="PASS" starttime="20220607 00:42:57.179" endtime="20220607 00:42:59.361"/>
+<status status="PASS" starttime="20220612 00:01:37.170" endtime="20220612 00:01:39.430"/>
 </test>
 <doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
-<status status="PASS" starttime="20220607 00:42:41.641" endtime="20220607 00:42:59.363"/>
+<status status="PASS" starttime="20220612 00:00:59.019" endtime="20220612 00:01:39.432"/>
 </suite>
 <statistics>
 <total>
