@@ -33,6 +33,6 @@ Get All Product Name Tokopedia
     END
     Sleep                                    2
     ${PRODUCTS 1 NAME TOKOPEDIA}=            Get Text                                       ${PRODUCTS 1 GROUP 1 TOKOPEDIA}
-    Log To Console                           ${PRODUCTS 1 NAME TOKOPEDIA}
+    Log                                      ${PRODUCTS 1 NAME TOKOPEDIA}
     Sleep                                    2
     # Mouse Over                               $
