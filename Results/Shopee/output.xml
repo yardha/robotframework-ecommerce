@@ -1,111 +1,755 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.2.2 (Python 3.7.0 on win32)" generated="20220601 23:54:37.404" rpa="false">
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220617 02:06:35.891" rpa="false" schemaversion="3">
 <suite id="s1" name="caseShopee" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\caseShopee.robot">
-<test id="s1-t1" name="SHOPEE Open Website Under Test">
+<test id="s1-t1" name="SHOPEE Open Website Under Test" line="11">
 <kw name="Open Website Shopee" library="stepShopee">
 <kw name="Open Browser" library="SeleniumLibrary">
-<doc>Opens a new browser instance to the optional ``url``.</doc>
-<arguments>
 <arg>@{URL SHOPEE}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:37.585" level="INFO">Opening browser 'chrome' to base url 'https://shopee.co.id/'.</msg>
-<status status="PASS" starttime="20220601 23:54:37.584" endtime="20220601 23:54:40.669"></status>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20220617 02:06:36.065" level="INFO">Opening browser 'chrome' to base url 'https://shopee.co.id/'.</msg>
+<status status="PASS" starttime="20220617 02:06:36.065" endtime="20220617 02:06:39.265"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:43.673" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:40.670" endtime="20220601 23:54:43.673"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:42.274" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 02:06:39.265" endtime="20220617 02:06:42.274"/>
 </kw>
 <kw name="Maximize Browser Window" library="SeleniumLibrary">
 <doc>Maximizes current browser window.</doc>
-<status status="PASS" starttime="20220601 23:54:43.673" endtime="20220601 23:54:43.783"></status>
+<status status="PASS" starttime="20220617 02:06:42.274" endtime="20220617 02:06:42.404"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:37.584" endtime="20220601 23:54:43.784"></status>
+<status status="PASS" starttime="20220617 02:06:36.065" endtime="20220617 02:06:42.404"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:37.583" endtime="20220601 23:54:43.784" critical="yes"></status>
+<status status="PASS" starttime="20220617 02:06:36.064" endtime="20220617 02:06:42.405"/>
 </test>
-<test id="s1-t2" name="SHOPEE Search For Item">
-<kw name="Click Search Box Shopee" library="stepShopee">
-<kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
-<arg>${SEARCH BOX SHOPEE}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:43.786" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/div[2]/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
-<status status="PASS" starttime="20220601 23:54:43.786" endtime="20220601 23:54:43.880"></status>
+<test id="s1-t2" name="SHOPEE Search For Item" line="14">
+<kw name="Close Pop Up Shopee" library="stepShopee">
+<kw name="Click Element At Coordinates" library="SeleniumLibrary">
+<arg>${CLOSE POP UP BUTTON SHOPEE}</arg>
+<arg>${X COORDINATES CLOSE SHOPEE}</arg>
+<arg>${Y COORDINATES CLOSE SHOPEE}</arg>
+<doc>Click the element ``locator`` at ``xoffset/yoffset``.</doc>
+<msg timestamp="20220617 02:06:42.408" level="INFO">Clicking element 'xpath=//*[@id="main"]' at coordinates x=500, y=200.</msg>
+<status status="PASS" starttime="20220617 02:06:42.407" endtime="20220617 02:06:43.022"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<arguments>
-<arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:46.883" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:43.880" endtime="20220601 23:54:46.883"></status>
+<msg timestamp="20220617 02:06:45.034" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220617 02:06:43.023" endtime="20220617 02:06:45.034"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:43.786" endtime="20220601 23:54:46.883"></status>
+<status status="PASS" starttime="20220617 02:06:42.407" endtime="20220617 02:06:45.034"/>
+</kw>
+<kw name="Click Search Box Shopee" library="stepShopee">
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${SEARCH BOX SHOPEE}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:06:45.035" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
+<status status="PASS" starttime="20220617 02:06:45.035" endtime="20220617 02:06:45.076"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:47.085" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220617 02:06:45.077" endtime="20220617 02:06:47.085"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:45.034" endtime="20220617 02:06:47.085"/>
 </kw>
 <kw name="Type Item 1 Name Shopee" library="stepShopee">
 <kw name="Input Text" library="SeleniumLibrary">
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<arguments>
 <arg>@{ITEM 1 NAME SHOPEE}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:46.885" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="main"]/div/div[2]/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
-<status status="PASS" starttime="20220601 23:54:46.884" endtime="20220601 23:54:46.944"></status>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220617 02:06:47.087" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
+<status status="PASS" starttime="20220617 02:06:47.087" endtime="20220617 02:06:47.147"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:49.957" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:46.944" endtime="20220601 23:54:49.957"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:50.163" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 02:06:47.148" endtime="20220617 02:06:50.163"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:46.884" endtime="20220601 23:54:49.957"></status>
+<status status="PASS" starttime="20220617 02:06:47.086" endtime="20220617 02:06:50.163"/>
 </kw>
 <kw name="Hit Submit Button Shopee" library="stepShopee">
 <kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
 <arg>${SEARCH BUTTON SHOPEE}</arg>
-</arguments>
-<msg timestamp="20220601 23:54:49.958" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/div[2]/div[2]/div/div[1]/div[1]/button'.</msg>
-<status status="PASS" starttime="20220601 23:54:49.958" endtime="20220601 23:54:50.018"></status>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:06:50.165" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/button'.</msg>
+<status status="PASS" starttime="20220617 02:06:50.165" endtime="20220617 02:06:50.234"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:54:53.028" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:54:50.018" endtime="20220601 23:54:53.028"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:53.236" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 02:06:50.234" endtime="20220617 02:06:53.236"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:49.957" endtime="20220601 23:54:53.028"></status>
+<status status="PASS" starttime="20220617 02:06:50.164" endtime="20220617 02:06:53.236"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:43.785" endtime="20220601 23:54:53.028" critical="yes"></status>
+<status status="PASS" starttime="20220617 02:06:42.406" endtime="20220617 02:06:53.236"/>
 </test>
-<test id="s1-t3" name="SHOPEE Close Browser">
+<test id="s1-t3" name="SHOPEE Get Displayed Items Name 1" line="20">
+<kw name="Get All Product Name Shopee" library="stepShopee">
+<for flavor="IN RANGE">
+<var>${i}</var>
+<value>0</value>
+<value>2</value>
+<iter>
+<var name="${i}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:54.241" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:53.238" endtime="20220617 02:06:54.241"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>20</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:55.250" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:54.241" endtime="20220617 02:06:55.250"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,${counter}*500)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220617 02:06:55.250" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*500)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220617 02:06:55.250" endtime="20220617 02:06:55.258"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:56.261" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:55.259" endtime="20220617 02:06:56.261"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Element</arg>
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies that element ``locator`` is found on the current page.</doc>
+<msg timestamp="20220617 02:06:56.271" level="INFO">Current page contains element 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[2]/div[3]/div/button[8]'.</msg>
+<status status="PASS" starttime="20220617 02:06:56.261" endtime="20220617 02:06:56.271"/>
+</kw>
+<msg timestamp="20220617 02:06:56.271" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220617 02:06:56.261" endtime="20220617 02:06:56.271"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${status}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 02:06:56.271" level="INFO">True</msg>
+<status status="PASS" starttime="20220617 02:06:56.271" endtime="20220617 02:06:56.271"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220617 02:06:56.272" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220617 02:06:56.272" endtime="20220617 02:06:56.272"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:56.271" endtime="20220617 02:06:56.272"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220617 02:06:56.272" endtime="20220617 02:06:56.273"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:54.241" endtime="20220617 02:06:56.273"/>
+</iter>
+<status status="PASS" starttime="20220617 02:06:54.241" endtime="20220617 02:06:56.273"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:57.278" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:56.273" endtime="20220617 02:06:57.278"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${PRODUCTS 1 NAME SHOPEE}</var>
+<arg>${PRODUCTS 1 GROUP 1 SHOPEE}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:06:57.637" level="INFO">${PRODUCTS 1 NAME SHOPEE} = 3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+7%
+...</msg>
+<status status="PASS" starttime="20220617 02:06:57.278" endtime="20220617 02:06:57.637"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${PRODUCTS 1 NAME SHOPEE}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 02:06:57.638" level="INFO">3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+7%
+OFF
+Iklan
+Xiaomi Redmi 9A (3+32GB) Layar DotDrop 6.53" HD+, Baterai 5000mAh, Prosesor Helio G25, 13MP AI
+Diskon 50%
+100% Ori
+Rp1.499.000
+Rp1.399.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+50%
+OFF
+Iklan
+HP Xiaomi Redmi Note9 Ram 8/128GB Smartphone 4G LET 6.53inches Layar Penuh 13MP+48MP Kamera Handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp10.000
+Rp1.420.000 - Rp2.500.000
+KOTA BEKASI
+10%
+OFF
+Iklan
+Xiaomi 11T (8GB+256GB) Dimensity 1200 Ultra 108MP Triple Kamera Layar 6.67" AMOLED 5000mAh
+Diskon 50%
+100% Ori
+Rp6.099.000
+Rp5.499.000
+3,6RB Terjual
+KOTA JAKARTA UTARA
+50%
+OFF
+Iklan
+HP Xiaomi Redmi Note9 Ram 8/128GB Smartphone 4G LET 6.53inches Layar Penuh 13MP+48MP Kamera Handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp15.000
+Rp360.000 - Rp2.500.000
+1 Terjual
+KOTA BEKASI
+4%
+OFF
+Xiaomi Redmi Note 11 (4GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Diskon 50%
+Free XL Perdana
+Rp2.599.000
+Rp2.499.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+9%
+OFF
+Xiaomi Redmi Note 10 5G (8GB+128GB)
+Diskon 50%
+100% Ori
+Rp3.199.000
+Rp2.899.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+10%
+OFF
+Xiaomi Redmi Note 10S (6GB+128GB) Helio G95 64MP Quad Kamera Layar 6.43” Super AMOLED 5000mAh
+Diskon 50%
+100% Ori
+Rp2.999.000
+Rp2.699.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+22%
+OFF
+【Bisa COD】V1V0 Y50 Pro RAM 6GB ROM 128GB Smartphone 6.53 inci android handphone Hp Murah 4G baru ponsel pintar cuci gudang hp murah pk xiomi reno 6
+Diskon Rp10,999RB
+Pilih 2, diskon Rp10.999
+Rp699.000 - Rp799.000
+3,6RB Terjual
+KOTA JAKARTA BARAT
+3%
+OFF
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+redmi note 8 4/64 ram 6/128 second original
+Murah Lebay
+Rp1.650.000 - Rp2.175.000
+1,3RB Terjual
+KAB. BOGOR
+65%
+OFF
+【Bisa COD】0PP0 RENO 5 PRO RAM 6/128GB hp murah cuci gudang 500 kebawah 6.3inci handphone Baru produk asli Reno5 pro Reno6 Garansi resmi Gratis Ongkir termurah promo Bisa COD Cicilan gaming phone
+Diskon Rp8RB
+Pilih 2, diskon Rp99
+Rp729.000 - Rp799.000
+898 Terjual
+KOTA JAKARTA UTARA
+5%
+OFF
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+62%
+OFF
+Xiaomi Redmi Note 3 3GB RAM 32GB ROM | HP Baru Xiaomi Note 3 Redmi 3S Redmi Note 2 New Bnib Imei Aman 4G Smartphone Handphone Android Murah hp xiaomi hp redmi hp xiaomi murah hp redmi murah
+Rp469.000 - Rp659.000
+3 Terjual
+KOTA JAKARTA BARAT
+5%
+OFF
+Xiaomi Redmi 10C (4GB+64GB) Snapdragon® 680 50MP AI Super Kamera Layar Dot Drop 6,71" 5000mAh
+Diskon 50%
+Rp1.999.000
+Rp1.899.000
+1,4RB Terjual
+KOTA JAKARTA UTARA</msg>
+<status status="PASS" starttime="20220617 02:06:57.637" endtime="20220617 02:06:57.638"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:06:58.643" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:57.638" endtime="20220617 02:06:58.643"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:06:58.644" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[2]/div[3]/div/button[8]'.</msg>
+<status status="PASS" starttime="20220617 02:06:58.643" endtime="20220617 02:06:59.225"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${i}</var>
+<arg>${i}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220617 02:06:59.226" level="INFO">${i} = 0+1</msg>
+<status status="PASS" starttime="20220617 02:06:59.226" endtime="20220617 02:06:59.226"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:53.238" endtime="20220617 02:06:59.226"/>
+</iter>
+<iter>
+<var name="${i}">1</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:07:00.227" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:06:59.226" endtime="20220617 02:07:00.227"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>20</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:07:01.227" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:07:00.227" endtime="20220617 02:07:01.227"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,${counter}*500)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220617 02:07:01.228" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*500)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220617 02:07:01.227" endtime="20220617 02:07:01.246"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:07:02.261" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:07:01.246" endtime="20220617 02:07:02.261"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Element</arg>
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies that element ``locator`` is found on the current page.</doc>
+<msg timestamp="20220617 02:07:02.270" level="INFO">Current page contains element 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[2]/div[3]/div/button[8]'.</msg>
+<status status="PASS" starttime="20220617 02:07:02.261" endtime="20220617 02:07:02.270"/>
+</kw>
+<msg timestamp="20220617 02:07:02.270" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220617 02:07:02.261" endtime="20220617 02:07:02.270"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${status}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 02:07:02.270" level="INFO">True</msg>
+<status status="PASS" starttime="20220617 02:07:02.270" endtime="20220617 02:07:02.270"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220617 02:07:02.271" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220617 02:07:02.271" endtime="20220617 02:07:02.271"/>
+</kw>
+<status status="PASS" starttime="20220617 02:07:02.271" endtime="20220617 02:07:02.271"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220617 02:07:02.271" endtime="20220617 02:07:02.271"/>
+</kw>
+<status status="PASS" starttime="20220617 02:07:00.227" endtime="20220617 02:07:02.271"/>
+</iter>
+<status status="PASS" starttime="20220617 02:07:00.227" endtime="20220617 02:07:02.272"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:07:03.285" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:07:02.272" endtime="20220617 02:07:03.285"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${PRODUCTS 1 NAME SHOPEE}</var>
+<arg>${PRODUCTS 1 GROUP 1 SHOPEE}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:07:03.765" level="INFO">${PRODUCTS 1 NAME SHOPEE} = 3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+7%
+...</msg>
+<status status="PASS" starttime="20220617 02:07:03.285" endtime="20220617 02:07:03.766"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${PRODUCTS 1 NAME SHOPEE}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 02:07:03.766" level="INFO">3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+7%
+OFF
+Iklan
+Xiaomi Redmi 9A (3+32GB) Layar DotDrop 6.53" HD+, Baterai 5000mAh, Prosesor Helio G25, 13MP AI
+Diskon 50%
+100% Ori
+Rp1.499.000
+Rp1.399.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+50%
+OFF
+Iklan
+HP Xiaomi Redmi Note9 Ram 8/128GB Smartphone 4G LET 6.53inches Layar Penuh 13MP+48MP Kamera Handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp10.000
+Rp1.420.000 - Rp2.500.000
+KOTA BEKASI
+10%
+OFF
+Iklan
+Xiaomi 11T (8GB+256GB) Dimensity 1200 Ultra 108MP Triple Kamera Layar 6.67" AMOLED 5000mAh
+Diskon 50%
+100% Ori
+Rp6.099.000
+Rp5.499.000
+3,6RB Terjual
+KOTA JAKARTA UTARA
+50%
+OFF
+Iklan
+HP Xiaomi Redmi Note9 Ram 8/128GB Smartphone 4G LET 6.53inches Layar Penuh 13MP+48MP Kamera Handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp15.000
+Rp360.000 - Rp2.500.000
+1 Terjual
+KOTA BEKASI
+4%
+OFF
+Xiaomi Redmi Note 11 (4GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Diskon 50%
+Free XL Perdana
+Rp2.599.000
+Rp2.499.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+9%
+OFF
+Xiaomi Redmi Note 10 5G (8GB+128GB)
+Diskon 50%
+100% Ori
+Rp3.199.000
+Rp2.899.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+10%
+OFF
+Xiaomi Redmi Note 10S (6GB+128GB) Helio G95 64MP Quad Kamera Layar 6.43” Super AMOLED 5000mAh
+Diskon 50%
+100% Ori
+Rp2.999.000
+Rp2.699.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+22%
+OFF
+【Bisa COD】V1V0 Y50 Pro RAM 6GB ROM 128GB Smartphone 6.53 inci android handphone Hp Murah 4G baru ponsel pintar cuci gudang hp murah pk xiomi reno 6
+Diskon Rp10,999RB
+Pilih 2, diskon Rp10.999
+Rp699.000 - Rp799.000
+3,6RB Terjual
+KOTA JAKARTA BARAT
+Produk Serupa
+3%
+OFF
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+redmi note 8 4/64 ram 6/128 second original
+Murah Lebay
+Rp1.650.000 - Rp2.175.000
+1,3RB Terjual
+KAB. BOGOR
+65%
+OFF
+【Bisa COD】0PP0 RENO 5 PRO RAM 6/128GB hp murah cuci gudang 500 kebawah 6.3inci handphone Baru produk asli Reno5 pro Reno6 Garansi resmi Gratis Ongkir termurah promo Bisa COD Cicilan gaming phone
+Diskon Rp8RB
+Pilih 2, diskon Rp99
+Rp729.000 - Rp799.000
+898 Terjual
+KOTA JAKARTA UTARA
+5%
+OFF
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+62%
+OFF
+Xiaomi Redmi Note 3 3GB RAM 32GB ROM | HP Baru Xiaomi Note 3 Redmi 3S Redmi Note 2 New Bnib Imei Aman 4G Smartphone Handphone Android Murah hp xiaomi hp redmi hp xiaomi murah hp redmi murah
+Rp469.000 - Rp659.000
+3 Terjual
+KOTA JAKARTA BARAT
+5%
+OFF
+Xiaomi Redmi 10C (4GB+64GB) Snapdragon® 680 50MP AI Super Kamera Layar Dot Drop 6,71" 5000mAh
+Diskon 50%
+Rp1.999.000
+Rp1.899.000
+1,4RB Terjual
+KOTA JAKARTA UTARA
+Star
+1%
+OFF
+NEW HP NOKIA 105 2017 DUAL SIM
+100% Ori
+Grosir
+Rp128.000
+Rp126.720
+10RB+ Terjual
+KOTA JAKARTA BARAT
+11%
+OFF
+OPPO A16 &amp; A16e 3GB/32GB [13MP Triple Camera, HD+ Eye-care Display, 5000mAh]
+Murah Lebay
+100% Ori
+Rp1.599.000 - Rp1.899.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+iPHONE 11 128GB/64GB GOOD CONDITIONS LIKE NEW BERGARANSI RESMI FREE SERUM WHITENING
+Rp5.700.000
+9,6RB Terjual
+KOTA JAKARTA TIMUR
+Samsung Galaxy M22 6/128 GB - Black
+Diskon 50%
+100% Ori
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+iPhone XR 128GB/64GB GOOD CONDITION LIKE NEW BERGARANSI RESMI
+Rp4.200.000
+10RB+ Terjual
+KOTA JAKARTA TIMUR
+Star
+2%
+OFF
+Samsung Lipat Caramel GT E1272 Dual SIM Grosir
+Murah Lebay
+Grosir
+Rp158.000
+Rp154.840
+10RB+ Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Samsung Galaxy M23 5G 6/128GB - Light Blue
+Diskon 50%
+Rp3.699.000
+Rp3.599.000
+3,3RB Terjual
+KOTA JAKARTA UTARA
+Star
+Jarum Sim Card Hp Handphone Tusukan Pin Kartu
+Rp99
+10RB+ Terjual
+KOTA SURABAYA
+6%
+OFF
+Xiaomi Redmi 10A Kamera 13MP AI 5000mAh Garansi TAM
+Diskon Rp500
+Murah Lebay
+Rp1.219.000 - Rp1.589.000
+691 Terjual
+KAB. TANGERANG
+8%
+OFF
+Xiaomi Redmi Note 10 Pro (8GB+128GB) AMOLED 6.67" 108MP Quad Kamera Snapdragon 732G Baterai 5020mAh
+Diskon 50%
+100% Ori
+Rp3.999.000
+Rp3.699.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Iklan
+POCO M4 Pro (8GB+256GB) Helio G96 64MP Triple Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Diskon 50%
+Rp3.499.000
+Rp3.399.000
+3,2RB Terjual
+KOTA JAKARTA UTARA
+4%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (4GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Diskon 50%
+Free XL Perdana
+Rp2.599.000
+Rp2.499.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+2%
+OFF
+Iklan
+Xiaomi Redmi Note 11 Pro 5G (8GB+128GB) Snapdragon® 695 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 120Hz 5000mAh
+Diskon 50%
+Rp4.299.000
+Rp4.199.000
+4,9RB Terjual
+KOTA JAKARTA UTARA
+5%
+OFF
+Iklan
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+Diskon 50%
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+5%
+OFF
+Iklan
+Xiaomi Redmi 10C (4GB+64GB) Snapdragon® 680 50MP AI Super Kamera Layar Dot Drop 6,71" 5000mAh
+Diskon 50%
+Rp1.999.000
+Rp1.899.000
+1,4RB Terjual
+KOTA JAKARTA UTARA</msg>
+<status status="PASS" starttime="20220617 02:07:03.766" endtime="20220617 02:07:03.766"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 02:07:04.780" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 02:07:03.767" endtime="20220617 02:07:04.780"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON SHOPEE}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 02:07:04.780" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[2]/div[3]/div/button[8]'.</msg>
+<status status="PASS" starttime="20220617 02:07:04.780" endtime="20220617 02:07:04.962"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${i}</var>
+<arg>${i}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220617 02:07:04.963" level="INFO">${i} = 1+1</msg>
+<status status="PASS" starttime="20220617 02:07:04.962" endtime="20220617 02:07:04.963"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:59.226" endtime="20220617 02:07:04.963"/>
+</iter>
+<status status="PASS" starttime="20220617 02:06:53.238" endtime="20220617 02:07:04.963"/>
+</for>
+<status status="PASS" starttime="20220617 02:06:53.238" endtime="20220617 02:07:04.963"/>
+</kw>
+<status status="PASS" starttime="20220617 02:06:53.237" endtime="20220617 02:07:04.963"/>
+</test>
+<test id="s1-t4" name="SHOPEE Close Browser" line="23">
 <kw name="Close Browser" library="SeleniumLibrary">
 <doc>Closes the current browser.</doc>
-<status status="PASS" starttime="20220601 23:54:53.030" endtime="20220601 23:54:55.223"></status>
+<status status="PASS" starttime="20220617 02:07:04.966" endtime="20220617 02:07:07.211"/>
 </kw>
-<status status="PASS" starttime="20220601 23:54:53.029" endtime="20220601 23:54:55.223" critical="yes"></status>
+<status status="PASS" starttime="20220617 02:07:04.965" endtime="20220617 02:07:07.211"/>
 </test>
 <doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
-<status status="PASS" starttime="20220601 23:54:37.405" endtime="20220601 23:54:55.225"></status>
+<status status="PASS" starttime="20220617 02:06:35.892" endtime="20220617 02:07:07.213"/>
 </suite>
 <statistics>
 <total>
-<stat pass="3" fail="0">Critical Tests</stat>
-<stat pass="3" fail="0">All Tests</stat>
+<stat pass="4" fail="0" skip="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="3" fail="0" id="s1" name="caseShopee">caseShopee</stat>
+<stat pass="4" fail="0" skip="0" id="s1" name="caseShopee">caseShopee</stat>
 </suite>
 </statistics>
 <errors>

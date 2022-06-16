@@ -12,9 +12,13 @@ SHOPEE Open Website Under Test
     Open Website Shopee
 
 SHOPEE Search For Item
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 1 Name Shopee
     Hit Submit Button Shopee
+
+SHOPEE Get Displayed Items Name 1
+    Get All Product Name Shopee
 
 SHOPEE Close Browser
     Close Browser
