@@ -16,5 +16,8 @@ BUKALAPAK Search For Item
     Type Item 1 Name Bukalapak
     Hit Submit Button Bukalapak
 
+BUKALAPAK Get Displayed Items Name 1
+    Get All Product Name Bukalapak
+
 BUKALAPAK Close Browser
     Close Browser

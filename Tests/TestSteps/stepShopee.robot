@@ -28,13 +28,13 @@ Get All Product Name Shopee
     FOR                                     ${i}                                            IN RANGE                        0                   2
         Sleep                                    1
         FOR                                      ${counter}                                     IN RANGE                         0                  20
-        Sleep                                    1
-        Execute Javascript                       window.scrollTo(0,${counter}*500)
-        Sleep                                    1
-        ${status}                                Run Keyword And Return Status                Page Should Contain Element      ${NEXT PAGE BUTTON SHOPEE}         loglevel=NONE
-        Log                                      ${status}
-        Run Keyword If                           ${status}                                    Exit For Loop
-        ${counter}                               Set Variable                                 ${counter}+1
+            Sleep                                    1
+            Execute Javascript                       window.scrollTo(0,${counter}*500)
+            Sleep                                    1
+            ${status}                                Run Keyword And Return Status                Page Should Not Contain Element      ${NEXT PAGE BUTTON SHOPEE}         loglevel=NONE
+            Log                                      ${status}
+            Run Keyword If                           ${status}                                    Exit For Loop
+            ${counter}                               Set Variable                                 ${counter}+1
         END
         Sleep                                    1
         ${PRODUCTS 1 NAME SHOPEE}=            Get Text                                       ${PRODUCTS 1 GROUP 1 SHOPEE}
