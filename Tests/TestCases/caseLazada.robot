@@ -16,5 +16,8 @@ LAZADA Search For Item
     Type Item 1 Name Lazada
     Hit Submit Button Lazada
 
+LAZADA Get Displayed Items Name 1
+    Get All Product Name Lazada
+
 LAZADA Close Browser
     Close Browser

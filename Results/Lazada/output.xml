@@ -1,111 +1,717 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.2.2 (Python 3.7.0 on win32)" generated="20220601 23:55:27.135" rpa="false">
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220617 15:06:56.174" rpa="false" schemaversion="3">
 <suite id="s1" name="caseLazada" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\caseLazada.robot">
-<test id="s1-t1" name="LAZADA Open Website Under Test">
+<test id="s1-t1" name="LAZADA Open Website Under Test" line="11">
 <kw name="Open Website Lazada" library="stepLazada">
 <kw name="Open Browser" library="SeleniumLibrary">
-<doc>Opens a new browser instance to the optional ``url``.</doc>
-<arguments>
 <arg>@{URL LAZADA}</arg>
-</arguments>
-<msg timestamp="20220601 23:55:27.303" level="INFO">Opening browser 'chrome' to base url 'https://www.lazada.co.id/'.</msg>
-<status status="PASS" starttime="20220601 23:55:27.303" endtime="20220601 23:55:49.708"></status>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20220617 15:06:56.347" level="INFO">Opening browser 'chrome' to base url 'https://www.lazada.co.id/'.</msg>
+<status status="PASS" starttime="20220617 15:06:56.347" endtime="20220617 15:07:19.083"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:55:52.721" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:55:49.708" endtime="20220601 23:55:52.721"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:22.090" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 15:07:19.084" endtime="20220617 15:07:22.090"/>
 </kw>
 <kw name="Maximize Browser Window" library="SeleniumLibrary">
 <doc>Maximizes current browser window.</doc>
-<status status="PASS" starttime="20220601 23:55:52.721" endtime="20220601 23:55:52.848"></status>
+<status status="PASS" starttime="20220617 15:07:22.090" endtime="20220617 15:07:22.219"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:27.302" endtime="20220601 23:55:52.848"></status>
+<status status="PASS" starttime="20220617 15:06:56.347" endtime="20220617 15:07:22.219"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:27.302" endtime="20220601 23:55:52.848" critical="yes"></status>
+<status status="PASS" starttime="20220617 15:06:56.346" endtime="20220617 15:07:22.219"/>
 </test>
-<test id="s1-t2" name="LAZADA Search For Item">
+<test id="s1-t2" name="LAZADA Search For Item" line="14">
 <kw name="Click Search Box Lazada" library="stepLazada">
 <kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
 <arg>${SEARCH BOX LAZADA}</arg>
-</arguments>
-<msg timestamp="20220601 23:55:52.850" level="INFO">Clicking element 'xpath=//*[@id="q"]'.</msg>
-<status status="PASS" starttime="20220601 23:55:52.850" endtime="20220601 23:55:52.906"></status>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:07:22.221" level="INFO">Clicking element 'xpath=//*[@id="q"]'.</msg>
+<status status="PASS" starttime="20220617 15:07:22.221" endtime="20220617 15:07:22.275"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:55:55.908" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:55:52.906" endtime="20220601 23:55:55.908"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:25.283" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 15:07:22.276" endtime="20220617 15:07:25.283"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:52.850" endtime="20220601 23:55:55.908"></status>
+<status status="PASS" starttime="20220617 15:07:22.221" endtime="20220617 15:07:25.283"/>
 </kw>
 <kw name="Type Item 1 Name Lazada" library="stepLazada">
 <kw name="Input Text" library="SeleniumLibrary">
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<arguments>
 <arg>@{ITEM 1 NAME LAZADA}</arg>
-</arguments>
-<msg timestamp="20220601 23:55:55.909" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="q"]'.</msg>
-<status status="PASS" starttime="20220601 23:55:55.909" endtime="20220601 23:55:55.968"></status>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220617 15:07:25.284" level="INFO">Typing text 'xiaomi' into text field 'xpath=//*[@id="q"]'.</msg>
+<status status="PASS" starttime="20220617 15:07:25.284" endtime="20220617 15:07:25.341"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:55:58.971" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:55:55.968" endtime="20220601 23:55:58.971"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:28.345" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 15:07:25.341" endtime="20220617 15:07:28.345"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:55.908" endtime="20220601 23:55:58.971"></status>
+<status status="PASS" starttime="20220617 15:07:25.283" endtime="20220617 15:07:28.345"/>
 </kw>
 <kw name="Hit Submit Button Lazada" library="stepLazada">
 <kw name="Click Element" library="SeleniumLibrary">
-<doc>Click the element identified by ``locator``.</doc>
-<arguments>
 <arg>${SEARCH BUTTON LAZADA}</arg>
-</arguments>
-<msg timestamp="20220601 23:55:58.972" level="INFO">Clicking element 'xpath=//*[@id="topActionHeader"]/div/div[2]/div/div[1]/form/div/div[2]/button'.</msg>
-<status status="PASS" starttime="20220601 23:55:58.972" endtime="20220601 23:56:22.156"></status>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:07:28.346" level="INFO">Clicking element 'xpath=//*[@id="topActionHeader"]/div/div[2]/div/div[1]/form/div/div[2]/button'.</msg>
+<status status="PASS" starttime="20220617 15:07:28.346" endtime="20220617 15:07:50.090"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<doc>Pauses the test executed for the given time.</doc>
-<arguments>
 <arg>3</arg>
-</arguments>
-<msg timestamp="20220601 23:56:25.173" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220601 23:56:22.156" endtime="20220601 23:56:25.173"></status>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:53.106" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220617 15:07:50.090" endtime="20220617 15:07:53.106"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:58.971" endtime="20220601 23:56:25.173"></status>
+<status status="PASS" starttime="20220617 15:07:28.345" endtime="20220617 15:07:53.106"/>
 </kw>
-<status status="PASS" starttime="20220601 23:55:52.849" endtime="20220601 23:56:25.173" critical="yes"></status>
+<status status="PASS" starttime="20220617 15:07:22.220" endtime="20220617 15:07:53.106"/>
 </test>
-<test id="s1-t3" name="LAZADA Close Browser">
+<test id="s1-t3" name="LAZADA Get Displayed Items Name 1" line="19">
+<kw name="Get All Product Name Lazada" library="stepLazada">
+<for flavor="IN RANGE">
+<var>${i}</var>
+<value>0</value>
+<value>2</value>
+<iter>
+<var name="${i}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:54.121" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:53.109" endtime="20220617 15:07:54.121"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>20</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:55.127" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:54.121" endtime="20220617 15:07:55.127"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,${counter}*500)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220617 15:07:55.127" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*500)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220617 15:07:55.127" endtime="20220617 15:07:55.131"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:56.133" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:55.131" endtime="20220617 15:07:56.133"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Element</arg>
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies that element ``locator`` is found on the current page.</doc>
+<msg timestamp="20220617 15:07:56.143" level="INFO">Current page contains element 'xpath=//*[@id="root"]/div/div[3]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button'.</msg>
+<status status="PASS" starttime="20220617 15:07:56.133" endtime="20220617 15:07:56.143"/>
+</kw>
+<msg timestamp="20220617 15:07:56.143" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220617 15:07:56.133" endtime="20220617 15:07:56.143"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${status}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 15:07:56.144" level="INFO">True</msg>
+<status status="PASS" starttime="20220617 15:07:56.143" endtime="20220617 15:07:56.144"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220617 15:07:56.144" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220617 15:07:56.144" endtime="20220617 15:07:56.145"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:56.144" endtime="20220617 15:07:56.145"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220617 15:07:56.145" endtime="20220617 15:07:56.145"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:54.121" endtime="20220617 15:07:56.145"/>
+</iter>
+<status status="PASS" starttime="20220617 15:07:54.121" endtime="20220617 15:07:56.145"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:57.154" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:56.145" endtime="20220617 15:07:57.154"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${PRODUCTS 1 NAME LAZADA}</var>
+<arg>${PRODUCTS 1 GROUP 1 LAZADA}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:07:57.393" level="INFO">${PRODUCTS 1 NAME LAZADA} = Xiaomi Redmi 10A (3/64GB) Smartphone
+Rp1.599.000
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/32GB NEW ORIGINAL GARANSI RESMI
+Rp1.487.000
+Rp1.561.350
+-5%
+(4)
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/64GB ORIGIN...</msg>
+<status status="PASS" starttime="20220617 15:07:57.154" endtime="20220617 15:07:57.393"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${PRODUCTS 1 NAME LAZADA}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 15:07:57.394" level="INFO">Xiaomi Redmi 10A (3/64GB) Smartphone
+Rp1.599.000
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/32GB NEW ORIGINAL GARANSI RESMI
+Rp1.487.000
+Rp1.561.350
+-5%
+(4)
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/64GB ORIGINAL XIAOMI GARANSI RESMI
+Rp1.554.000
+Rp1.631.700
+-5%
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/32 3/64 RAM 3 ROM 32 64 GB 3GB 32GB 64GB HP Smartphone Android Original Garansi Resmi Handphone
+Rp1.467.000
+Rp1.515.000
+-3%
+Kota Jakarta Pusat
+XIAOMI REDMI NOTE 11 - 4GB/128GB - ChipsetQualcomm SM6225 Snapdragon 680 4G (6 nm) - BISA COD
+Rp2.318.000
+Rp3.000.000
+-23%
+Kab. Madiun
+Xiaomi Redmi Note 11 [4GB+128GB - 6GB+128GB] Snapdragon 680 4G - 50MP Quad Camera - NFC - 6.43" Super AMOLED - 5000mAh Garansi Resmi Xiaomi 15 Bulan
+Rp2.438.000
+Rp2.599.000
+-6%
+(28)
+Kab. Bekasi
+XIAOMI Redmi Note 10S RAM8GB ROM128GB Layar 6,43”Super AMOLED DotDisplay MediaTek Helio G95 AI Quad Camera NFC Baterai 5000 mAh (typ) Pengisian daya cepat 33 W Garansi Resmi Bisa COD 100% Original hp android ram 8gb rom 128 gb murah
+Rp3.299.000
+Rp3.999.000
+-18%
+Kota Jakarta Barat
+Xiaomi Poco M3 Pro 5G [4GB+64GB - 6GB+128GB] Dimensity 700 5G - 48MP Triple Camera - NFC - 6.5" IPS LCD - 5000mAh Garansi Resmi Xiaomi
+Rp2.428.000
+Rp2.799.000
+-13%
+(18)
+Kab. Bekasi
+Xiaomi Redmi 10A 3/32 3/64 RAM 3 ROM 32 64 GB 3GB 32GB 64GB HP Smartphone Android Original Garansi Resmi Handphone
+Rp1.470.000
+Rp1.520.000
+-3%
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3GB + 64GB Garansi Resmi Xiaomi Indonesia
+Rp1.547.000
+Rp1.599.000
+-3%
+Kota Jakarta Utara
+Xiaomi Redmi 10A [3GB+32GB - 3GB+64GB] Helio G25 - 13MP - 6.53" IPS LCD - Li-Ion 5000mAh Garansi Resmi Xiaomi 15 Bulan
+Rp1.488.000
+Rp1.549.000
+-4%
+(1)
+Kab. Bekasi
+NEW! Xiaomi Poco M4 Pro 8GB/256GB &amp; 6GB/128GB Smartphone ( GARANSI RESMI + COD + GRATIS ONGKIR0
+Rp3.399.000
+Rp3.499.000
+-3%
+Kota Bandung
+Xiaomi Poco M4 Pro [6GB+128GB - 8GB+256GB] MediaTek Helio G96 - 64MP Triple Camera - NFC - 6.43" IPS LCD - 5000mAh Garansi Resmi Xiaomi 15 Bulan
+Rp2.883.000
+Rp3.099.000
+-7%
+(3)
+Kab. Bekasi
+xiaomi redmi 9A ram 3/32 2/32 garansi resmi
+Rp1.225.000
+Rp1.345.000
+-9%
+Kab. Tasikmalaya
+Redmi Note 10S 6/64gb 8/128gb RAM 6GB/8GB ROM 64GB/128GB MediaTek Helio G95 Baterai 5000mAh,33W FastCharge,Ukuran layar 6.43inci Super AMOLED DotDisplay 64MP AI Quad Camera Garansi Resmi Gratis Ongkir pengiriman cepat xiaomi mi 11 pro 5g
+Rp2.899.000
+Rp3.899.000
+-26%
+Kota Jakarta Barat
+Redmi Note 10S 6/64GB Layar 6,43inch Super AMOLED MediaTek Helio G95 Baterai 5000 mAh (typ) 33W FastCharge 64MP AI Quad Camera NFC multifungsi BISA COD Garansi Resmi Gratis Ongkir xiaomi store official resmi hp redmi note10 s
+Rp2.799.000
+Rp3.699.000
+-24%
+Kota Jakarta Barat
+XIAOMI REDMI 10A RAM 3/32GB GARANSI RESMI
+Rp1.475.000
+Rp1.599.000
+-8%
+Kota Kediri
+XIAOMI REDMI 9C - 4/64GB - GARANSI RESMI PT. XIAOMI INDONESIA
+Rp1.700.000
+Rp1.860.000
+-9%
+(71)
+Kota Bandung
+Xiaomi Redmi 9A Ram 2/32 Garansi Resmi 1 Tahun, Mediatek Helio G25, Single Camera 13MP dan Selfie 5MP, LCD 6.53", Battery 5000mAh
+Rp1.229.000
+Rp1.699.000
+-28%
+(768)
+Kota Jakarta Barat
+Xiaomi Redmi Note 10s NFC 6GB+64GB - 6GB+128GB - 8GB+128GB Garansi Resmi Xiaomi indonesia,Size 6.43 inches, Chipset Mediatek Helio G95, Main Camera Quad 64MP+8MP+2MP+2MP, Selfie camera Single 13MP, Battery Type Li-Po 5000 mAh, non-removable
+Rp2.575.000
+Rp3.159.000
+-18%
+(435)
+Kota Jakarta Barat
+Xiaomi redmi 10A 3/32GB 3/64GB - Dual Camera 13MP - MediaTek Helio G25 - Baterai 5000mAh -Garansi resmi
+Rp1.533.000
+Rp1.649.000
+-7%
+(4)
+Kota Jakarta Pusat
+Xiaomi Redmi 10A - 3GB 64GB (3/64) 5000mAh G25 HD+ Fingerprint Resmi
+Rp1.545.000
+Kota Jakarta Utara
+Xiaomi Redmi Note 5A 3GB/32GB RAM, New, Original, Garansi 1Tahun, Fullset
+Rp748.500
+Rp1.300.000
+-42%
+Kota Depok
+Xiaomi Redmi 10 2022 4GB + 64GB Garansi Resmi Xiaomi Indonesia
+Rp2.107.000
+Rp2.399.000
+-12%
+(1)
+Kota Jakarta Utara
+Xiaomi Mi Smart Band 4 Promo Gratis Ongkir
+Rp25.000
+Rp95.000
+-74%
+Kota Surabaya
+Xiaomi Poco M4 Pro 8/256 6/128 Garansi Resmi
+Rp2.910.000
+Kota Medan
+Xiaomi Redmi 10A 3/32GB Garansi Resmi - hp murah - bisa cod
+Rp1.472.000
+Rp1.499.000
+-2%
+Kota Jakarta Pusat
+XIAOMI REDMINOTE 11 RAM 4/128 GARANSI RESMI
+Rp2.480.000
+Kota Semarang
+Xiaomi Redmi 10A 3/32 garansi resmi
+Rp1.459.000
+Rp1.599.000
+-9%
+Kota Surabaya
+XIAOMI REDMI 10A 3/32 GB
+Rp1.475.000
+Kota Medan
+Xiaomi Redmi Note 10 Pro 6GB + 128GB Garansi Resmi Xiaomi Indonesia
+Rp3.343.000
+Rp3.799.000
+-12%
+(5)
+Kota Jakarta Utara
+Promo Xiaomi Redmi 6 5.5inci 4+64GB Handphone android Murah Dual Sim octa core Gransi 1 bulan
+Rp1.075.500
+Rp1.800.000
+-40%
+Kota Depok
+Xiaomi Redmi 10C (4/128GB) Ram 4GB Rom 128GB Garansi Resmi
+Rp1.995.000
+Rp2.079.000
+-4%
+Kota Surabaya
+Xiaomi Redmi Note 10S 6GB + 128GB Garansi Resmi Xiaomi Indonesia
+Rp2.573.000
+Rp2.999.000
+-14%
+Kota Jakarta Utara
+[Baru] Promo Xiaomi Redmi6 5.45 Inci MediaTek Helio A22 Prosesor Smartphone Murah 64GB/32GB RAM 4G LTE 3000mAh New HP Handphone
+Rp1.072.500
+Kota Jakarta Utara
+XIAOMI REDMI 10A 3/64 GB
+Rp1.540.000
+Kota Medan
+Xiaomi Redmi 9C Ram 4 Rom 64GB (SECOND)
+Rp1.499.000
+Kab. Bogor
+Xiaomi Redmi 10A Ram 3/64GB Garansi Resmi
+Rp1.599.000
+Kota Tegal
+CCTV Xiaomi Xiaovv Outdoor Panoramic INTER VERSION
+Rp401.000
+Kota Jakarta Utara
+XIAOMI REDMI 10A 3/64 GB
+Rp1.540.000
+Kota Medan</msg>
+<status status="PASS" starttime="20220617 15:07:57.394" endtime="20220617 15:07:57.394"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:58.394" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:57.394" endtime="20220617 15:07:58.394"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:07:58.394" level="INFO">Clicking element 'xpath=//*[@id="root"]/div/div[3]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button'.</msg>
+<status status="PASS" starttime="20220617 15:07:58.394" endtime="20220617 15:07:58.572"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${i}</var>
+<arg>${i}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220617 15:07:58.572" level="INFO">${i} = 0+1</msg>
+<status status="PASS" starttime="20220617 15:07:58.572" endtime="20220617 15:07:58.572"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:53.108" endtime="20220617 15:07:58.572"/>
+</iter>
+<iter>
+<var name="${i}">1</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:07:59.584" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:58.572" endtime="20220617 15:07:59.584"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>20</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:08:00.585" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:07:59.584" endtime="20220617 15:08:00.585"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,${counter}*500)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220617 15:08:00.586" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*500)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220617 15:08:00.585" endtime="20220617 15:08:00.588"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:08:01.593" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:08:00.588" endtime="20220617 15:08:01.593"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Element</arg>
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies that element ``locator`` is found on the current page.</doc>
+<msg timestamp="20220617 15:08:01.599" level="INFO">Current page contains element 'xpath=//*[@id="root"]/div/div[3]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button'.</msg>
+<status status="PASS" starttime="20220617 15:08:01.593" endtime="20220617 15:08:01.599"/>
+</kw>
+<msg timestamp="20220617 15:08:01.599" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220617 15:08:01.593" endtime="20220617 15:08:01.599"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${status}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 15:08:01.600" level="INFO">True</msg>
+<status status="PASS" starttime="20220617 15:08:01.600" endtime="20220617 15:08:01.600"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220617 15:08:01.600" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220617 15:08:01.600" endtime="20220617 15:08:01.601"/>
+</kw>
+<status status="PASS" starttime="20220617 15:08:01.600" endtime="20220617 15:08:01.601"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220617 15:08:01.601" endtime="20220617 15:08:01.601"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:59.584" endtime="20220617 15:08:01.601"/>
+</iter>
+<status status="PASS" starttime="20220617 15:07:59.584" endtime="20220617 15:08:01.601"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:08:02.614" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:08:01.601" endtime="20220617 15:08:02.614"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${PRODUCTS 1 NAME LAZADA}</var>
+<arg>${PRODUCTS 1 GROUP 1 LAZADA}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:08:02.828" level="INFO">${PRODUCTS 1 NAME LAZADA} = XIAOMI REDMINOTE 11 RAM 6/128 GARANSI RESMI
+Rp2.770.000
+Kota Semarang
+Xiaomi Mi Watch S1 Active Smartwatch GPS Garansi Resmi
+Rp1.799.000
+Rp1.900.000
+-5%
+Kota Jakarta Utara
+Xiaomi Redmi Note 10 5G [8GB...</msg>
+<status status="PASS" starttime="20220617 15:08:02.614" endtime="20220617 15:08:02.828"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${PRODUCTS 1 NAME LAZADA}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220617 15:08:02.828" level="INFO">XIAOMI REDMINOTE 11 RAM 6/128 GARANSI RESMI
+Rp2.770.000
+Kota Semarang
+Xiaomi Mi Watch S1 Active Smartwatch GPS Garansi Resmi
+Rp1.799.000
+Rp1.900.000
+-5%
+Kota Jakarta Utara
+Xiaomi Redmi Note 10 5G [8GB/128GB] Muklay Version Dimensity 700, 48MP Triple Kamera, Layar 6.5” 90Hz AdaptiveSync FHD+, 5000mAh, NFC
+Rp2.899.000
+Rp3.199.000
+-9%
+(101)
+Kota Depok
+Xiaomi Mi Band 7 1.62"AMOLED Smartwatch miband 7 FREE STRAP PROMO TERBATAS READY STOK
+Rp799.000
+Rp1.009.000
+-21%
+Kota Jakarta Barat
+Mesin Xiaomi Redmi Note 3 RAM 2GB ROM 32GB Normal
+Rp95.000
+Kab. Jember
+Xiaomi redmi 10a 3gb 32gb garansi resmi
+Rp1.499.000
+Kota Bandung
+Xiaomi Redmi 9A (2GB + 32GB) Smartphone Layar DotDrop 6.53" HD+, Baterai 5000mAh 34 Hari Standby, Prosesor Helio G25, 13MP AI
+Rp1.249.000
+Rp1.399.000
+-11%
+(11810)
+Kota Depok
+Xiaomi Pad 5 (6GB+256GB) Snapdragon™ 860 13MP Kamera Layar WQHD+ 11" 120Hz 8720mAh
+Rp5.147.100
+Rp5.199.000
+-1%
+(51)
+Kota Depok
+Xiaomi Redmi Note 11 4/128 garansi resmi
+Rp2.485.000
+Rp2.599.000
+-4%
+Kota Surabaya
+Xiaomi Redmi 10C 4/64 garansi resmi
+Rp1.869.000
+Rp2.049.000
+-9%
+Kota Surabaya
+Xiaomi Poco M4 Pro 6GB + 128GB Garansi Resmi Xiaomi Indonesia
+Rp2.887.000
+Rp2.999.000
+-4%
+Kota Jakarta Utara
+Xiaomi Redmi Note 10 5G garansi resmi
+Rp2.825.000
+Rp2.899.000
+-3%
+Kota Surabaya
+Xiaomi Redmi Note 10 5G 4/128GB
+Rp2.599.000
+Kota Tasikmalaya
+Xiaomi Pad 5 6GB/256GB
+Rp4.929.000
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3/32 3/64 RAM 3 ROM 32 64 GB 3GB 32GB 64GB HP Smartphone Android Original Garansi Resmi Handphone
+Rp1.467.000
+Rp1.515.000
+-3%
+Kota Jakarta Pusat
+Xiaomi Redmi Note 11 4/128 6/128 Garansi Resmi
+Rp2.475.000
+Rp2.700.000
+-8%
+Kab. Tasikmalaya
+Xiaomi Redmi 9A 6,53” HD+ Layar Dot Drop RAM2GB/3GB ROM 32GB MediaTek Helio G25 Baterai 5000 mAh (typ) Kamera Utama AI 13MP Garansi Resmi 100% original xiaomi store official resmi Handphone xiaomi murah pormo HP xiaomi redmi 9a baru cuci gudang promo grat
+Rp1.349.000
+Rp1.689.000
+-20%
+Kota Jakarta Barat
+Xiaomi Redmi Note 10 5G Smartphone (4/128GB) Garansi Resmi
+Rp2.499.000
+Rp2.599.000
+-4%
+Kota Jakarta Pusat
+XIAOMI MI WATCH LITE FITNESS SMARTWATCH 11 MODE OLAHRAGA GARANSI RESMI XIAOMI
+Rp679.000
+Rp799.000
+-15%
+Kota Palembang
+XIAOMI REDMI 9A 3/32 GB GARANSI RESMI
+Rp1.420.000
+Kota Medan
+XIAOMI REDMI 10A RAM 3/64GB GARANSI RESMI
+Rp1.575.000
+Rp1.699.000
+-7%
+Kota Kediri
+[Baru] Promo Xiaomi Redmi6A 5.45 Inci MediaTek Helio A22 Prosesor Smartphone Murah 64GB/32GB RAM 4G LTE 3000mAh New HP Handphone
+Rp943.000
+Rp1.800.000
+-48%
+Kota Depok
+XIAOMI REDMI 10C [4/64 GB] GARANSI RESMI
+Rp1.849.000
+Kota Makassar
+Xiaomi Poco F3 6/128GB Garansi Resmi
+Rp5.085.888
+Kota Bandar Lampung
+Hp Xiaomi Mi 4C Second 2/16
+Rp500.000
+Rp550.000
+-9%
+Kab. Purbalingga
+xiaomi redmi 9c 4/64 3/32 Garansi resmi
+Rp1.525.000
+Rp1.555.000
+-2%
+Kab. Tasikmalaya
+Promo Xiaomi Redmi 4X 5.0 inci Handphone android Murah Snapdragon 435 Gransi 1 bulan
+Rp719.000
+Rp1.250.000
+-42%
+Kota Depok
+XIAOMI REDMI 10 (2022) 4/64GB GARANSI RESMI
+Rp2.105.000
+Kota Kediri
+XIAOMI REDMI 10C 4/64, 4/128 GB GARANSI RESMI
+Rp1.840.000
+Kota Medan
+Xiaomi Mi Band 6 MiBand 6 Smartband Smart Band SpO2 Full Screen - MIBAND 6 GLOBAL
+Rp439.000
+Kota Jakarta Barat
+Xiaomi Redmi Note 11 - 6GB 128GB (6/128) Snapdragon 680 NFC 90Hz Resmi
+Rp2.785.000
+Kota Jakarta Utara
+XiaoMi Redmi 10A 3/32 RAM 3GB ROM 32GB GARANSI RESMI
+Rp1.464.000
+Rp1.691.000
+-13%
+Kota Tangerang
+Xiaomi Redmi 10A 3/32GB Garansi Resmi - hp murah - bisa cod
+Rp1.472.000
+Rp1.499.000
+-2%
+Kota Jakarta Pusat
+Xiaomi Redmi 10A 3GB+64GB New Garansi Resmi
+Rp1.598.000
+Kota Semarang
+Xiaomi Redmi Note 10 5G Smartphone (8/128GB) Garansi Resmi
+Rp2.789.000
+Rp2.899.000
+-4%
+Kota Jakarta Pusat
+Xiaomi Redmi 9A (3+32GB) Layar DotDrop 6.53 HD+, Baterai 5000mAh, Garansi Resmi
+Rp1.418.000
+Rp1.499.000
+-5%
+Kota Bandung
+XIAOMI NOTE 3 [2/16 GB] DEMO UNIT ONLY
+Rp650.000
+Kota Makassar
+XIAOMI REDMI NOT 10 5G RAM 8/128GB Nfc Garansi Resmi Original
+Rp2.599.000
+Rp4.999.000
+-48%
+Kab. Sukabumi
+XIAOMI REDMI 10C 4/128 GB GARANSI RESMI
+Rp2.199.000
+Kota Jakarta Pusat
+Hp Xiaomi Redmi 10C RAM 4GB Internal 64GB Snapdragon® 680 50MP AI Super Kamera Layar Dot Drop 6,71" 5000mAh Garansi Resmi
+Rp2.099.000
+Rp2.199.000
+-5%
+Kota Pekanbaru</msg>
+<status status="PASS" starttime="20220617 15:08:02.828" endtime="20220617 15:08:02.828"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220617 15:08:03.839" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220617 15:08:02.828" endtime="20220617 15:08:03.839"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${NEXT PAGE BUTTON LAZADA}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220617 15:08:03.839" level="INFO">Clicking element 'xpath=//*[@id="root"]/div/div[3]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button'.</msg>
+<status status="PASS" starttime="20220617 15:08:03.839" endtime="20220617 15:08:03.938"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${i}</var>
+<arg>${i}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220617 15:08:03.938" level="INFO">${i} = 1+1</msg>
+<status status="PASS" starttime="20220617 15:08:03.938" endtime="20220617 15:08:03.938"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:58.572" endtime="20220617 15:08:03.938"/>
+</iter>
+<status status="PASS" starttime="20220617 15:07:53.108" endtime="20220617 15:08:03.938"/>
+</for>
+<status status="PASS" starttime="20220617 15:07:53.108" endtime="20220617 15:08:03.938"/>
+</kw>
+<status status="PASS" starttime="20220617 15:07:53.107" endtime="20220617 15:08:03.939"/>
+</test>
+<test id="s1-t4" name="LAZADA Close Browser" line="22">
 <kw name="Close Browser" library="SeleniumLibrary">
 <doc>Closes the current browser.</doc>
-<status status="PASS" starttime="20220601 23:56:25.175" endtime="20220601 23:56:27.318"></status>
+<status status="PASS" starttime="20220617 15:08:03.941" endtime="20220617 15:08:06.114"/>
 </kw>
-<status status="PASS" starttime="20220601 23:56:25.174" endtime="20220601 23:56:27.318" critical="yes"></status>
+<status status="PASS" starttime="20220617 15:08:03.940" endtime="20220617 15:08:06.114"/>
 </test>
 <doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
-<status status="PASS" starttime="20220601 23:55:27.136" endtime="20220601 23:56:27.319"></status>
+<status status="PASS" starttime="20220617 15:06:56.175" endtime="20220617 15:08:06.116"/>
 </suite>
 <statistics>
 <total>
-<stat pass="3" fail="0">Critical Tests</stat>
-<stat pass="3" fail="0">All Tests</stat>
+<stat pass="4" fail="0" skip="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="3" fail="0" id="s1" name="caseLazada">caseLazada</stat>
+<stat pass="4" fail="0" skip="0" id="s1" name="caseLazada">caseLazada</stat>
 </suite>
 </statistics>
 <errors>
