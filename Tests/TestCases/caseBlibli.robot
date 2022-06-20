@@ -12,9 +12,13 @@ BLIBLI Open Website Under Test
     Open Website Blibli
 
 BLIBLI Search For Item
+    Close Pop Up Blibli
     Click Search Box Blibli
     Type Item 1 Name Blibli
     Hit Submit Button Blibli
+
+BLIBLI Get Displayed Items Name 1
+    Get All Product Name Blibli
 
 BLIBLI Close Browser
     Close Browser
