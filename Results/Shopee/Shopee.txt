@@ -1,0 +1,841 @@
+==============================================================================
+caseShopee :: This test suite to test functionality survey, each type surve...
+==============================================================================
+SHOPEE Open Website Under Test                                        | PASS |
+------------------------------------------------------------------------------
+SHOPEE Search For Item                                                | PASS |
+------------------------------------------------------------------------------
+SHOPEE Get Displayed Items Name 1                                     False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+2%
+OFF
+Iklan
+Xiaomi Redmi Note 11 Pro 5G (8GB+128GB) Snapdragon® 695 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 120Hz 5000mAh
+Rp4.299.000
+Rp4.199.000
+5,2RB Terjual
+KOTA JAKARTA UTARA
+10%
+OFF
+Iklan
+Xiaomi 11T (8GB+256GB) Dimensity 1200 Ultra 108MP Triple Kamera Layar 6.67" AMOLED 5000mAh
+100% Ori
+Rp6.099.000
+Rp5.499.000
+3,8RB Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Iklan
+POCO M4 Pro (6GB+128GB) Helio G96 64MP Triple Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Rp2.999.000
+Rp2.899.000
+2,9RB Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Iklan
+POCO M4 Pro (8GB+256GB) Helio G96 64MP Triple Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Rp3.499.000
+Rp3.399.000
+3,6RB Terjual
+KOTA JAKARTA UTARA
+5%
+OFF
+Iklan
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+6%
+OFF
+Xiaomi Redmi 10A (3GB+64GB) Kamera Ganda 13MP 5000mAh Layar Dot Drop 6,53"" HD+ Prosesor Octa-core
+Rp1.699.000
+Rp1.599.000
+2,5RB Terjual
+KOTA JAKARTA UTARA
+6%
+OFF
+Xiaomi Redmi 10A (3GB+32GB) Kamera Ganda 13MP 5000mAh Layar Dot Drop 6,53"" HD+ Prosesor Octa-core
+Rp1.599.000
+Rp1.499.000
+2,5RB Terjual
+KOTA JAKARTA UTARA
+PROMO BESAR BESARAN HP Xiaomi Poco M4 Pro [6GB+128GB] [8GB+256GB]
+Rp1.000.000 - Rp1.500.000
+1 Terjual
+KAB. TANGERANG
+98%
+OFF
+CUCI GUDANG HP 2022 !!!XIAOMI(REDMI NOTE 8) RAM 4 GB ROM 64 GB(MISTERYBOX) Snapdragon 865 COD Terbaru @Motion J-Phone
+Rp1.550.000
+Rp33.000
+396 Terjual
+KOTA METRO
+30%
+OFF
+?Bisa COD?XlAOMl M3 Pro RAM 8GB ROM 256GB Smartphone 5.5inci android handphone Hp Murah 5G baru ponsel pintar cuci gudang hp murah pk xiomi M3 PRO
+Diskon Rp5RB
+Rp999.000
+Rp699.000
+63 Terjual
+KOTA JAKARTA UTARA
+XIAOMI BLACK SHALK 01 8/128
+Rp2.000.000 - Rp8.000.000
+17 Terjual
+KAB. SIDOARJO
+New Xiaomi Jaringan 4G Promo Handphone Baru Original
+Diskon Rp25RB
+Rp600.000
+1RB Terjual
+KOTA PEKANBARU
+Star
+9%
+OFF
+Xiaomi Redmi Note 11 6/128 Gb NFC Layar Amoled Snapdragon ™ 680 Garansi Resmi
+Rp2.449.000 - Rp2.455.000
+78 Terjual
+KAB. GROBOGAN
+22%
+OFF
+?Bisa COD?V1V0 Y50 Pro RAM 6GB ROM 128GB Smartphone 6.53 inci android handphone Hp Murah 4G baru ponsel pintar cuci gudang hp murah pk xiomi reno 6
+Diskon 99%
+Pilih 2, diskon Rp10.999
+Rp699.000 - Rp799.000
+4,1RB Terjual
+Star
+XIAOMI POCO X3 NFC GARANSI RESMI XIAOMI 15 BULAN
+Rp4.169.000
+5 Terjual
+KOTA JAKARTA BARAT
+4%
+OFF
+Xiaomi Redmi Note 11 (4GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Free XL Perdana
+Rp2.599.000
+Rp2.499.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+XIOMY REDMI NOTE 8 SECOND
+Rp1.999.000
+28 Terjual
+KAB. BLORA
+45%
+OFF
+?COD+ Flash Sale? xioami M10T Pro Handphone android 4g/5g 6+128GB 6.1inch Garasi resmi hp murah di bawah 1 juta smartphone HD Camera Gratis ongkir
+Diskon Rp18RB
+Kombo Hemat
+Rp1.440.000
+Rp789.000
+205 Terjual
+KOTA JAKARTA BARAT
+Xiaomi Redmi 8A Garansi Resmi Tam 2/32
+Rp1.130.000
+32 Terjual
+KAB. KENDAL
+22%
+OFF
+Xiaomi Mi TV 4 32 inch HD LED Smart TV - Patchwall OS 3.0 - Netflix - Bluetooth
+100% Ori
+Rp2.699.000
+Rp2.099.000
+8,8RB Terjual
+KOTA JAKARTA UTARA
+15%
+OFF
+Xiaomi Mi 10T Pro (8GB + 128GB) Snapdragon 865 108MP AI Triple Camera Layar 144Hz 6.67” FHD+ 5000mAh Mistery Box Anti Zonk!!!
+Rp35.000
+Rp29.750
+137 Terjual
+KOTA METRO
+Redmi 9
+Rp1.563.000
+169 Terjual
+KAB. BOGOR
+XIAOMI POCO M3 PRO 5G NFC RAM 4/64 - 6/128 GB GARANSI RESMI
+Rp2.379.000
+674 Terjual
+KOTA SURABAYA
+54%
+OFF
+HP Xiaomi Redmi Note9 Ram 8/128GB Smartphone 4G LET 6.53inches Layar Penuh 13MP+48MP Kamera Handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp15.000
+Rp1.420.000 - Rp2.300.000
+8 Terjual
+KOTA BEKASI
+Star
+Redmi 9A
+Rp1.214.000
+157 Terjual
+KOTA MALANG
+Handphone Xiaomi Redmi 9A 3/32 GB Garansi Resmi Xiaomi Indonesia
+Rp1.050.000 - Rp1.990.000
+10 Terjual
+KAB. BANTUL
+4%
+OFF
+Xiaomi Redmi 10C dan 9C Baterai 5000mAh Garansi Resmi
+Murah Lebay
+100% Ori
+Rp1.539.000 - Rp1.729.000
+100 Terjual
+KAB. TANGERANG
+7%
+OFF
+Xiaomi Redmi 9A (3+32GB) Layar DotDrop 6.53" HD+, Baterai 5000mAh, Prosesor Helio G25, 13MP AI
+100% Ori
+Rp1.499.000
+Rp1.399.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Xiaomi Redmi 8A Pro Ram 3GB Rom 32GB Garansi Resmi(SECOND)
+Rp1.250.000
+16 Terjual
+KOTA SURABAYA
+Star
+12%
+OFF
+Xiaomi Redmi 9A Ram 3/32GB Garansi Resmi
+100% Ori
+Rp1.552.000
+Rp1.364.000
+78 Terjual
+KOTA SURABAYA
+XIAOMI REDMI NOTE 11 RAM 4/128 & 6/128 GB GARANSI RESMI
+Rp2.409.000 - Rp2.725.000
+561 Terjual
+KOTA SURABAYA
+Star
+12%
+OFF
+Xiaomi Redmi 10C 4/128GB - Redmi 10 6/128GB - Redmi 10 A (Garansi Resmi)
+Cashback 5%
+Rp1.448.000 - Rp2.498.000
+23 Terjual
+KOTA SURABAYA
+51%
+OFF
+Xiaomi Redmi 9A 4GB+128GB 4GB+64GB Layar DotDrop 6.53" HD+?Baterai 5000mAh, Prosesor Helio G25, 13MP AI
+Diskon Rp10RB
+Pilih 2, diskon Rp15.000
+Rp1.280.000 - Rp1.400.000
+95 Terjual
+KOTA BEKASI
+6%
+OFF
+Xiaomi Redmi 10A Kamera 13MP AI 5000mAh Garansi TAM
+Murah Lebay
+100% Ori
+Rp1.219.000 - Rp1.299.000
+732 Terjual
+KAB. TANGERANG
+3%
+OFF
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+100% Ori
+Free XL Perdana
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+realme narzo 50A Prime 4GB+64GB [5000mAh Massive Battery | 18W Quick Charge | Powerful Unisoc T612 Processor]
+100% Ori
+Rp2.199.000
+7,3RB Terjual
+KOTA JAKARTA UTARA
+XIAOMI REDMI 9C GARANSI RESMI INDONESIA | RAM 4/64 & 3/32 GB
+Murah Lebay
+Rp1.449.000 - Rp1.770.000
+2 Terjual
+KOTA SURABAYA
+Xiaomi redmi 4a Original minus lecet
+Rp150.000
+KAB. SUKABUMI
+Xiaomi Redmi Note 11 4/128 + 6/128 Garansi Resmi Xiaomi Indonesia/TAM
+Diskon 90%
+100% Ori
+Rp2.539.000 - Rp2.829.000
+12 Terjual
+KOTA SURABAYA
+5%
+OFF
+PROMO CUCI GUDANG HP 2022 !!! Xiaomi Mi 10T Pro 8GB+128GB (MISTERYBOX) Snapdragon 865 COD Terbaru @bomm_store
+Pilih 2, diskon Rp2.000
+Rp30.000
+Rp28.500
+187 Terjual
+KOTA METRO
+Xiaomi Mi 11T 8/256 5G White Second Super Duper Like New 99,9% Garansi Resmi Xiaomi Indonesia 15 Bulan
+Rp4.900.000
+5 Terjual
+KOTA SURABAYA
+Star
+xiaomi redmi note 9 ram 4/64gb matot batangan
+Rp2.500.000 - Rp10.000.000
+211 Terjual
+KAB. KUDUS
+Star
+Xiaomi Redmi Note 11 & Note 11 Pro Original Garansi Resmi
+Rp2.490.000 - Rp4.090.000
+10 Terjual
+KOTA JAMBI
+Redmi 9 3/32 Ram 3gb internal 32gb second mulus
+Diskon Rp1RB
+Rp1.249.999
+4 Terjual
+KAB. TULUNGAGUNG
+3%
+OFF
+Xiaomi Redmi Note 11 Pro (8GB+128GB) Helio G96 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67" 120Hz 5000mAh
+Free XL Perdana
+Rp3.899.000
+Rp3.799.000
+1,7RB Terjual
+KOTA JAKARTA UTARA
+50%
+OFF
+?Bisa COD? HP murah VIV0 X60 pro Handphone android 4G/5G 6GB+128GB 6.35inci hp 500 ribuan murah CUCI gudang Indonesia siap Gratis ongkir
+Diskon Rp18RB
+Kombo Hemat
+Rp699.000 - Rp789.000
+370 Terjual
+KOTA JAKARTA BARAT
+Xiaomi Redmi 9A garansi resmi
+Rp1.299.000
+63 Terjual
+KOTA SEMARANG
+5%
+OFF
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Xiaomi Mi 8 6/128 (Bisa Cod)
+Rp1.500.000
+KAB. PANDEGLANG
+REDMI 9C 3/32 4/64 GARANSI RESMI XIAOMI
+Rp1.499.940
+151 Terjual
+KAB. SEMARANG
+Star
+XIAOMI REDMI 9A 3/32GB RAM 3 INTERNAL 32 GARANSI RESMI
+100% Ori
+Rp1.385.000 - Rp1.399.000
+37 Terjual
+KAB. PONOROGO
+Star
+23%
+OFF
+XIAOMI REDMI 9C ( 3/32GB & 4/64GB ) GARANSI RESMI TAM XIAOMI 100% ORIGINAL GARANSI XIAOMI
+Cashback 99%
+Murah Lebay
+Rp1.549.000 - Rp1.701.000
+988 Terjual
+KOTA SURABAYA
+XIAOMI REDMI 9C RAM 3/32 GARANSI RESMI
+Rp1.495.000
+4 Terjual
+KOTA TANGERANG
+Star
+Xiaomi Redmi Note 2 4G Ram 2GB - 16GB [ Segel ]
+Diskon Rp4RB
+Murah Lebay
+Rp450.000
+6,8RB Terjual
+KOTA JAKARTA UTARA
+2%
+OFF
+Xiaomi Redmi Note 11 Pro 5G (8GB+128GB) Snapdragon® 695 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 120Hz 5000mAh
+Rp4.299.000
+Rp4.199.000
+5,2RB Terjual
+KOTA JAKARTA UTARA
+8%
+OFF
+Iklan
+Xiaomi 11T Pro (12GB+256GB) Snapdragon 888 108MP Triple Kamera 6.67” AMOLED 120W Charge 5000mAh
+100% Ori
+Rp7.599.000
+Rp6.999.000
+1,1RB Terjual
+KOTA JAKARTA UTARA
+13%
+OFF
+Iklan
+Xiaomi Redmi Note 10S (6GB+128GB) Helio G95 64MP Quad Kamera Layar 6.43” Super AMOLED 5000mAh
+100% Ori
+Rp2.999.000
+Rp2.598.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+4%
+OFF
+Iklan
+Xiaomi Redmi Note 11 (4GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Free XL Perdana
+Rp2.599.000
+Rp2.499.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+6%
+OFF
+Iklan
+Xiaomi Redmi 10A (3GB+64GB) Kamera Ganda 13MP 5000mAh Layar Dot Drop 6,53"" HD+ Prosesor Octa-core
+Rp1.699.000
+Rp1.599.000
+2,5RB Terjual
+KOTA JAKARTA UTARA
+15%
+OFF
+Iklan
+Xiaomi Redmi Note 10S (8GB+128GB) Helio G95 64MP Quad Kamera Layar 6.43? Super AMOLED 5000mAh
+100% Ori
+Rp3.299.000
+Rp2.798.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+36%
+OFF
+Iklan
+?Produk Baru HP?Ponsel Pintar Baru Note11pro+ 7,5 inci HD Kamera Ponsel Android RAM 12GB + ROM 512GB Siswa Belajar Ponsel dual card dual standby gaming phone hp murah Baru Asli Smartphone
+Diskon Rp30RB
+Rp1.120.000 - Rp1.220.000
+12 Terjual
+KOTA JAKARTA BARAT
+Star
+22%
+OFF
+Iklan
+Xiaomi Redmi 9a RAM 4GB/128GB 5MP depan 13MP kamera belakang layar 6.52 inci hp Garansi 1 Tahun
+Pilih 2, diskon Rp10.000
+Rp1.280.000 - Rp1.400.000
+211 Terjual
+KOTA BEKASI
+3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 Pro (8GB+128GB) Helio G96 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67" 120Hz 5000mAh
+Free XL Perdana
+Rp3.899.000
+Rp3.799.000
+1,7RB Terjual
+KOTA JAKARTA UTARA
+6%
+OFF
+Iklan
+Xiaomi Redmi 10A (3GB+32GB) Kamera Ganda 13MP 5000mAh Layar Dot Drop 6,53"" HD+ Prosesor Octa-core
+Rp1.599.000
+Rp1.499.000
+2,5RB Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Iklan
+Xiaomi Redmi Note 11 Pro (6GB+128GB) Helio G96 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 120Hz 5000mAh
+Free XL Perdana
+Rp3.599.000
+Rp3.499.000
+1,3RB Terjual
+KOTA JAKARTA UTARA
+Xiaomi redmi 4a Original minus lecet
+Rp150.000
+KAB. SUKABUMI
+14%
+OFF
+POCO M3 Pro 5G (4GB+64GB) Dimensity 700 48MP AI Triple Kamera Layar 90Hz 6.5? FHD+ 5000mAh NFC
+100% Ori
+Rp2.799.000
+Rp2.398.000
+4RB Terjual
+KOTA JAKARTA UTARA
+28%
+OFF
+Xiaomi 11T [8+256GB] Garansi Resmi Xiaomi 12 Bulan
+100% Ori
+Kombo Hemat
+Rp7.599.000
+Rp5.495.000
+139 Terjual
+KOTA JAKARTA BARAT
+5%
+OFF
+PROMO CUCI GUDANG HP 2022 !!! Xiaomi Mi 10T Pro 8GB+128GB (MISTERYBOX) Snapdragon 865 COD Terbaru @bomm_store
+Pilih 2, diskon Rp2.000
+Rp30.000
+Rp28.500
+187 Terjual
+KOTA METRO
+Xiaomi Mi 11T 8/256 5G White Second Super Duper Like New 99,9% Garansi Resmi Xiaomi Indonesia 15 Bulan
+Rp4.900.000
+5 Terjual
+KOTA SURABAYA
+Star
+xiaomi redmi note 9 ram 4/64gb matot batangan
+Rp2.500.000 - Rp10.000.000
+211 Terjual
+KAB. KUDUS
+11%
+OFF
+Xiaomi Redmi Note 10 Pro (6GB+128GB) AMOLED 6.67" 108MP Quad Kamera Snapdragon 732G Baterai 5020mAh
+100% Ori
+Rp3.799.000
+Rp3.398.000
+7,1RB Terjual
+KOTA JAKARTA UTARA
+Redmi 9 3/32 Ram 3gb internal 32gb second mulus
+Diskon Rp1RB
+Rp1.249.999
+4 Terjual
+KAB. TULUNGAGUNG
+50%
+OFF
+?Bisa COD? HP murah VIV0 X60 pro Handphone android 4G/5G 6GB+128GB 6.35inci hp 500 ribuan murah CUCI gudang Indonesia siap Gratis ongkir
+Diskon Rp18RB
+Kombo Hemat
+Rp699.000 - Rp789.000
+370 Terjual
+KOTA JAKARTA BARAT
+Xiaomi Mi 8 6/128 (Bisa Cod)
+Rp1.500.000
+KAB. PANDEGLANG
+Star
+Xiaomi Redmi Note 2 4G Ram 2GB - 16GB [ Segel ]
+Diskon Rp4RB
+Murah Lebay
+Rp450.000
+6,8RB Terjual
+KOTA JAKARTA UTARA
+Star
+xiaomi note 9 pro 8/128 garansi resmi
+Rp4.000.000 - Rp8.000.000
+108 Terjual
+KAB. BATANG
+Star
+Xiaomi Redmi Note 5 6/64GB Bekas Second Eks Distributor
+Rp1.299.000
+5 Terjual
+KAB. SLEMAN
+58%
+OFF
+Xiaomi Redmi Note 5 Layar 5.99” 3/32GB - 4/64GB - 6/64GB - 6/128GB (32 + 64 + 128 ) Garansi 1 Tahun
+Rp1.165.000 - Rp1.350.000
+763 Terjual
+KOTA JAKARTA BARAT
+3%
+OFF
+Xiaomi Redmi Note 11 (6GB+128GB) Snapdragon® 680 50MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 90Hz 5000mAh
+100% Ori
+Free XL Perdana
+Rp2.899.000
+Rp2.799.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+3%
+OFF
+Xiaomi Poco M4 Pro Smartphone (6GB / 128GB)
+Rp2.999.000
+Rp2.899.000
+124 Terjual
+KOTA JAKARTA PUSAT
+Ready Xiaomi Redmi 9C 4/64 Garansi Resmi NO REPACK
+Rp1.649.000
+116 Terjual
+KAB. SLEMAN
+10%
+OFF
+Poco M3 Pro 5G (6GB+128GB) Special Edition Herzven
+100% Ori
+Rp3.099.000
+Rp2.799.000
+2RB Terjual
+KOTA MAKASSAR
+2%
+OFF
+Xiaomi Redmi 10A 3/32GB + 3/64GB Garansi Resmi Xiaomi Indonesia
+Cashback 5%
+Murah Lebay
+Rp1.475.000 - Rp1.565.000
+4,8RB Terjual
+KOTA JAKARTA BARAT
+4%
+OFF
+Xiaomi Redmi 9A Smartphone (2GB / 32GB)
+100% Ori
+Rp1.299.000
+Rp1.249.000
+248 Terjual
+KOTA JAKARTA PUSAT
+61%
+OFF
+[Baru] "Xiaomi Redmi Note 3 3GB RAM 32GB ROM | HP Xiaomi Note 3 Redmi 3S Redmi Note 2 New Bnib Imei Aman 4G Smartphone Handphone Android Murah hp xiaomi hp redmi hp xiaomi murah hp redmi murah Garansi 12 Bulan
+Rp475.000 - Rp669.000
+639 Terjual
+Star
+22%
+OFF
+Xiaomi Redmi 9a RAM 4GB/128GB 5MP depan 13MP kamera belakang layar 6.52 inci hp Garansi 1 Tahun
+Pilih 2, diskon Rp10.000
+Rp1.280.000 - Rp1.400.000
+211 Terjual
+KOTA BEKASI
+redmi note 8 resmi garansi xioami
+Rp5.000.000
+52 Terjual
+KOTA KEDIRI
+XIAOMI REDMI 10 RAM 4/64 & 6/128 GB GARANSI RESMI
+100% Ori
+Rp2.029.000 - Rp2.429.000
+2,1RB Terjual
+KOTA SURABAYA
+Star
+Xiaomi Redmi 9c 3/32 Garansi Resmi
+Rp1.499.500
+49 Terjual
+KAB. TULUNGAGUNG
+XiaoNi M11 6.1 pulgada 8GB RAM + 128GB ROM 4800MAh malaking screen mobile phone Bagong smarhone Android9.1 telepono ay sumusuporta sa mga laro Mobile phone buong HD screen smart phone mobile tp Mobile Phones on Sale Cellphone Smartphone 5G
+Rp549.000 - Rp699.000
+24 Terjual
+KOTA JAKARTA BARAT
+Promo Cuci Gudang HP Xiaomi redmi note 7 ram 4/64 garansi distri global 1 tahun Hp Murah
+Rp578.000
+KOTA BANDUNG
+3%
+OFF
+Xiaomi Redmi Note 11 Pro (8GB+128GB) Helio G96 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67" 120Hz 5000mAh
+Free XL Perdana
+Rp3.899.000
+Rp3.799.000
+1,7RB Terjual
+KOTA JAKARTA UTARA
+Star
+Xiaomi Redmi 10C + 10A + Redmi 9C + 9A
+100% Ori
+Rp1.409.000 - Rp2.079.000
+21 Terjual
+KOTA JAMBI
+Star
+Redmi Note 11 4/64 GB & 6/128 GB Garansi Resmi Xiaomi Indonesia
+Rp2.699.000
+258 Terjual
+KOTA CIREBON
+5%
+OFF
+Redmi 10 2022 (4GB+64GB) Helio G88 50MP AI Quad Kamera Layar FHD+ 6,5" 90Hz 5000mAh
+100% Ori
+Rp2.199.000
+Rp2.099.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Redmi Note3 3/32gb Snapdragon
+Rp499.000 - Rp628.000
+2,6RB Terjual
+Star
+Xiaomi Mi Redmi Watch 2 Lite Smart Watch - Jam Mi Watch LITE GPS Smartwatch Miwatch Sport waterProof GLOBAL VERSION
+Murah Lebay
+100% Ori
+Rp679.000
+887 Terjual
+KAB. TANGERANG
+63%
+OFF
+HP Xiaomi Redmi 6 hp Xiaomi Redmi 6A (3GB+32GB/4GB+64GB) Android HP murah redmi 6a hp redmi 6 Mediatek Helio P22 octa-core/A22 Quad Core processor Mobile Phone 5.45 inch full screen 4G 3000mAh Smartphone Hp Xiaomi Redmi Murah
+Murah Lebay
+Rp789.000 - Rp929.000
+573 Terjual
+Star
+Xiaomi Redmi 9C & 9A 4/64 3/32 Garansi Resmi?
+Murah Lebay
+100% Ori
+Rp1.220.000 - Rp1.690.000
+4,5RB Terjual
+KOTA BOGOR
+2%
+OFF
+Xiaomi Redmi Note 11 Pro 5G (8GB+128GB) Snapdragon® 695 108MP AI Quad Kamera Layar AMOLED FHD+ 6,67"" 120Hz 5000mAh
+Rp4.299.000
+Rp4.199.000
+5,2RB Terjual
+KOTA JAKARTA UTARA
+XIAOMI REDMI 9 RAM 4/64 100% ORIGINAL XIAOMI TAM INDONESIA
+100% Ori
+Rp2.025.000
+40 Terjual
+KOTA SURABAYA
+Black Shark 3
+Rp1.200.000
+1 Terjual
+KOTA DEPOK
+Star
+XIAOMI POCO M3 GARANSI RESMI
+100% Ori
+Rp2.300.000
+53 Terjual
+KOTA BANJARMASIN
+PROMO CUCI GUDANG TAHUN 2021 XIOMI MI 10T PRO 8GB/128GB(MISTERYBOX) COD TERBARU HP
+Pilih 2, diskon Rp2.750
+Rp30.000
+1,8RB Terjual
+KOTA BANDAR LAMPUNG
+Star
+Xiaomi Redmi 4X 3/32GB-2/16GB -Gransi 1tahun -black/gold
+Rp558.000 - Rp780.000
+410 Terjual
+KOTA JAKARTA BARAT
+Star
+Poco X3 GT 8/256 second Garansi Resmi
+Diskon Rp10RB
+Rp3.849.000
+36 Terjual
+KOTA JAKARTA TIMUR
+58%
+OFF
+?HP Terbaru 2022 + COD + layar penuh?Reno 5 7.0 inch Layar besar asli handphone murah baru ram8gb 512gb smartphone android 4g original cuci gudang 8000mah ponsel pintar termurah pk xiomi reno6 Y50pro y21s
+Diskon Rp9,8RB
+Hadiah Gratis
+Rp699.000 - Rp999.000
+128 Terjual
+KAB. TANGERANG
+XIAOMI REDMI NOTE 10s NFC RAM 6/64 & 6/128 & 8/128 GB GARANSI RESMI
+100% Ori
+Rp2.579.000 - Rp2.779.000
+3,3RB Terjual
+KOTA SURABAYA
+3%
+OFF
+POCO M4 Pro (8GB+256GB) Helio G96 64MP Triple Kamera Layar Super AMOLED FHD+ 6,43" 90Hz 5000mAh
+Rp3.499.000
+Rp3.399.000
+3,6RB Terjual
+KOTA JAKARTA UTARA
+10%
+OFF
+Xiaomi Mi 10T Pro (8GB + 128GB) mystery box/misteri box@box_o_box
+Pilih 2, diskon Rp2.000
+Rp26.000
+Rp23.400
+920 Terjual
+KOTA METRO
+Redmi 9A Ram 2/32 dan 3/32 Garansi Resmi
+Rp1.365.000 - Rp1.368.000
+273 Terjual
+KOTA SURAKARTA (SOLO)
+Star
+54%
+OFF
+OPPO A31 RAM 6/128 GB
+Diskon Rp12RB
+Pilih 2, diskon Rp60.000
+Rp2.500.000
+Rp1.159.000
+4,5RB Terjual
+KOTA JAKARTA BARAT
+Xiaomi Redmi 9A 3/32GB dan 2/32GB Garansi Resmi
+100% Ori
+Rp1.349.900
+1,4RB Terjual
+KOTA BANDUNG
+Star
+Xiomi Redmi 9a 3/32 TAM
+Rp1.385.000
+64 Terjual
+KAB. LAMONGAN
+6%
+OFF
+Iklan
+Redmi Watch 2 Lite Xiaomi Layar 1,55” Tahan Air 5 ATM Baterai Hingga 10 Hari 100+ Mode Kebugaran
+100% Ori
+Rp899.000
+Rp848.000
+4,9RB Terjual
+KOTA JAKARTA UTARA
+10%
+OFF
+Iklan
+Xiaomi Redmi Note 10 Pro (8GB+128GB) AMOLED 6.67" 108MP Quad Kamera Snapdragon 732G Baterai 5020mAh
+100% Ori
+Rp3.999.000
+Rp3.598.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+Star
+16%
+OFF
+Iklan
+HP Xiaomi Redmi 9A ram 4/128GB,6.53 inches big HD screen,5000mAh big battery,smartphone handphone
+Diskon Rp10RB
+Pilih 2, diskon Rp15.000
+Rp1.380.000 - Rp1.400.000
+17 Terjual
+KOTA BEKASI
+13%
+OFF
+Iklan
+Xiaomi Redmi Note 10 5G (8GB+128GB)
+100% Ori
+Rp3.199.000
+Rp2.798.000
+10RB+ Terjual
+KOTA JAKARTA UTARA
+1%
+OFF
+Iklan
+Xiaomi 12 Pro (12GB+256GB) Snapdragon? 8 Gen 1 5G 50MP Triple Kamera Layar AMOLED WQHD+ 6,73" 120Hz 4600mAh
+Cashback 3%
+Rp13.099.000
+Rp12.999.000
+197 Terjual
+KOTA JAKARTA UTARA
+| PASS |
+------------------------------------------------------------------------------
+SHOPEE Close Browser                                                  | PASS |
+------------------------------------------------------------------------------
+caseShopee :: This test suite to test functionality survey, each t... | PASS |
+4 tests, 4 passed, 0 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\report.html

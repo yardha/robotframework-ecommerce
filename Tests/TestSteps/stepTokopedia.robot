@@ -28,13 +28,13 @@ Get All Product Name Tokopedia
             Execute Javascript                       window.scrollTo(0,${counter}*500)
             Sleep                                    1
             ${status}                                Run Keyword And Return Status                Page Should Contain Element      ${NEXT PAGE BUTTON TOKOPEDIA}         loglevel=NONE
-            Log                                      ${status}
+            # Log to Console                           ${status}
             Run Keyword If                           ${status}                                    Exit For Loop
             ${counter}                               Set Variable                                 ${counter}+1
         END
         Sleep                                    1
         ${PRODUCTS 1 NAME TOKOPEDIA}=            Get Text                                       ${PRODUCTS 1 GROUP 1 TOKOPEDIA}
-        Log                                      ${PRODUCTS 1 NAME TOKOPEDIA}
+        Log to Console                           ${PRODUCTS 1 NAME TOKOPEDIA}
         Sleep                                    1
         Click Element                            ${NEXT PAGE BUTTON TOKOPEDIA}
     ${i}                                    Set Variable                                    ${i}+1

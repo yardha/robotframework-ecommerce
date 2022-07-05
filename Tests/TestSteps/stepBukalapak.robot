@@ -21,14 +21,14 @@ Hit Submit Button Bukalapak
     Sleep                                    3
 
 Get All Product Name Bukalapak
-    FOR                                     ${i}                                            IN RANGE                        0                   2
+    FOR                                     ${i}                                            IN RANGE                        0                   3
         Sleep                                    2
         FOR                                      ${counter}                                     IN RANGE                         0                  20
             Sleep                                    2
-            Execute Javascript                       window.scrollTo(0,${counter}*500)
+            Execute Javascript                       window.scrollTo(0,${counter}*300)
             Sleep                                    1
             ${status}                                Run Keyword And Return Status                Page Should Not Contain Element      ${NEXT PAGE BUTTON BUKALAPAK}         loglevel=NONE
-            Log                                      ${status}
+            # Log                                      ${status}
             Run Keyword If                           ${status}                                    Exit For Loop
             ${counter}                               Set Variable                                 ${counter}+1
         END

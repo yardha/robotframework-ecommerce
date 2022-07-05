@@ -28,13 +28,13 @@ Get All Product Name Lazada
             Execute Javascript                       window.scrollTo(0,${counter}*500)
             Sleep                                    1
             ${status}                                Run Keyword And Return Status                Page Should Contain Element      ${NEXT PAGE BUTTON LAZADA}         loglevel=NONE
-            Log                                      ${status}
+            # Log                                      ${status}
             Run Keyword If                           ${status}                                    Exit For Loop
             ${counter}                               Set Variable                                 ${counter}+1
         END
         Sleep                                    1
         ${PRODUCTS 1 NAME LAZADA}=               Get Text                                       ${PRODUCTS 1 GROUP 1 LAZADA}
-        Log                                      ${PRODUCTS 1 NAME LAZADA}
+        Log to Console                           ${PRODUCTS 1 NAME LAZADA}
         Sleep                                    1
         Click Element                            ${NEXT PAGE BUTTON LAZADA}
     ${i}                                    Set Variable                                    ${i}+1
