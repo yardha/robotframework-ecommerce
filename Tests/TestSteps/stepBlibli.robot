@@ -4,7 +4,7 @@ Resource    ../Settings/Web/URL/urlMain.robot
 
 ***Keywords***
 Open Website Blibli
-    Open Browser                             @{URL BLIBLI}
+    Open Browser                             @{URL BLIBLI}                      options=add_argument("--disable-blink-features=AutomationControlled")
     Sleep                                    3
     Maximize Browser Window
 
@@ -31,7 +31,7 @@ Get All Product Name Blibli
             Sleep                                    1
             Execute Javascript                       window.scrollTo(0,${counter}*500)
             Sleep                                    1
-            ${status}                                Run Keyword And Return Status                Page Should Contain Element      ${NEXT PAGE BUTTON BLIBLI}         loglevel=NONE
+            ${status}                                Run Keyword And Return Status                Page Should Not Contain Element      ${NEXT PAGE BUTTON BLIBLI}         loglevel=NONE
             Log                                      ${status}
             Run Keyword If                           ${status}                                    Exit For Loop
             ${counter}                               Set Variable                                 ${counter}+1
