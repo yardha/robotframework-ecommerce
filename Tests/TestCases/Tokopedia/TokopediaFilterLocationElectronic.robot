@@ -16,6 +16,11 @@ TOKOPEDIA Search For Item
     Type Item 1 Name Tokopedia
     Hit Submit Button Tokopedia
 
+TOKOPEDIA Activate Filter by Location
+    Hit First Location Tokopedia
+    Hit Second Location Tokopedia
+    Click Option For Choosing Third Location Tokopedia
+
 TOKOPEDIA Get Displayed Items Name 1
     Get All Product Name Tokopedia
 

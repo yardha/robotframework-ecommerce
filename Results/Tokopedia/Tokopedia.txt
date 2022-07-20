@@ -1,1182 +1,435 @@
-Ad
-Tokopedia Tekno
-Redmi Note 10 5G 4GB 128GB Smartphone
-Rp2.549.000
-6%
-Rp2.699.000
-Jakarta Utara
-Xiaomi Official Store
+==============================================================================
+caseTokopedia :: This test suite to test functionality survey, each type su...
+==============================================================================
+TOKOPEDIA Open Website Under Test                                     | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Search For Item                                             | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Activate Filter by Location                                 | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Get Displayed Items Name 1                                  Dipromosikan oleh
+Oke sukses_12
+Harga termurah, hanya di Oke sukses_12!
+Cek Sekarang
+VIVO Y91C FLIP COVER CANVAS DIARY
+Rp 28.500
+5.0
+Terjual 10
+CLEAR VIEW OPPO A39 STANDING COVER FLIP MIRROR
+Rp 28.500
 4.9
-Terjual 80+
+Terjual 30+
+Lihat Produk Lainnya
 Ad
-XIAOMI REDMI 10A 3/32 GB GARANSI RESMI
-Rp1.433.000
+XIAOMI REDMI NOTE 10 PRO ULTIMATE AUTO FOCUS RING ORIGINAL CASE
+Rp50.000
 Cashback
 Jakarta Pusat
-Q-Store Pedia
+Markas acc 88
 5.0
-Terjual 26
+Terjual 50+
 Ad
-WIB
-Poco M4 Pro 6GB 128GB Smartphone - Cool Blue
-Rp2.899.000
-3%
-Rp2.999.000
-Jakarta Utara
-Xiaomi Official Store
-4.9
-Terjual 750+
-Ad
-Hp murah cucigudangasi galaxy Note11 Pro 5g android 7,5inci 12GB+512GB
-Rp1.115.000
-Jakarta Barat
-triwati
-5.0
-Terjual 15
-Ad
-Xiaomi Redmi Note 10S 6/128G NFC Super AMOLED Smart HP - Onyx Gray
-Rp2.699.000
-Jakarta Barat
-SAHABAT_ST0RE
-XIAOMI REDMI 9C RAM 4 64 RAM 3 32 REDMI 9A RAM 3 32 RAM 2 32 GRS RESMI
-Rp1.236.000
+XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK RING SOFT CASE CAFELE
+Rp50.000
 Cashback
-Tangerang
-ALFASTORE-
-4.9
-Terjual 4 rb+
-Produk Populer
-Xiaomi Redmi Note 10s 6/64 GB 6GB 64GB GARANSI RESMI XIAOMI INDONESIA
-Rp2.049.000
-Jakarta Selatan
-ZeiL Store
-5.0
-Terjual 250+
-Super Gadget Day
-Xiaomi Redmi 9A 2/32 GB Garansi Resmi
-Rp1.239.000
-11%
-Rp1.399.000
 Jakarta Pusat
-Gudang-HP
+Case Thebest Official
 5.0
-Terjual 10 rb+
-Super Gadget Day
-XIAOMI REDMI NOTE 10S 8/128 GB REDMI NOTE 10S 6/64 GB GARANSI RESMI
-Rp2.575.000
+Terjual 30+
+Ad
+XIAOMI REDMI NOTE 10 5G SLIDE CASE PROTECTION CAMERA MATTE CANDY - Merah
+Rp15.000
 Cashback
-Tangerang
-STR-STORE
-5.0
-Terjual 1 rb+
-Xiaomi Poco M3 Pro 5G 6/128GB 4/64GB Garansi Resmi 4 64 GB 6 128 GB
-Rp2.372.000
-12%
-Rp2.699.000
 Jakarta Pusat
-Distributor Ponsel
+GALAXY.S ACC
+4.8
+Terjual 70+
+Ad
+XIAOMI REDMI NOTE 10 PRO 5G SOFT CASE AUTO FOCUS CARBON ORIGINAL COVER
+Rp35.000
+Cashback
+Jakarta Pusat
+Best accesories hp
+4.6
+Terjual 23
+Ad
+REDMI NOTE 10 / NOTE 10 PRO SOFT CASE FROSTED TRITONE ORIGINAL - REDMI NOTE 10, Hitam
+Rp60.000
+Cashback
+Jakarta Pusat
+bima sakti online store
 4.9
-Terjual 250+
-Xiaomi Redmi 9A 3/32 GB Garansi Resmi
-Rp1.340.000
+Terjual 100+
+What a drag Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+My whole life is a dark room. Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+What a Drag liquified Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Make Today a Good Day - Lavender XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Bardock Father of a Legend Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+NIGHT FOREST XVII-A Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+a couple Holding each other Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Just a girl who loves fairies Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Think of a wonderful thought Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A Far off Dream... Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Ad
+XIAOMI REDMI NOTE 10 PRO MAX SOFT AUTO FOCUS ULTIMATE RING CASE COVER
+Rp55.000
 Cashback
-Jakarta Utara
-GADING BINTANG
+Jakarta Pusat
+T-ORIGINAL STORE
 5.0
-Terjual 750+
-WIB
-XIAOMI POCO M3 PRO 5G 6/128 GB POCO M3 PRO 5G 4/64 GB GARANSI RESMI
-Rp2.390.000
+Terjual 3
+Ad
+CASE XIAOMI REDMI NOTE 10 PRO AUTOFOCUS CARBON KULIT ANTI SHOCKPROF
+Rp49.000
 Cashback
-Tangerang
-STR-STORE
+Jakarta Pusat
+Wisdom Store7
+5.0
+Terjual 8
+Ad
+REDMI NOTE 10 / NOTE 10 PRO CASING COVER CARBON SOFTCASE FOCUS CARBON - REDMI NOTE 10
+Rp50.000
+Cashback
+Jakarta Pusat
+bima sakti online store
+4.8
+Terjual 50+
+Ad
+Case Kaws Smile Redmi Note 10 Note 10S Liquid Mate Premium Design - Redmi Note 10S
+Rp18.250
+Cashback
+Surabaya
+H8 Enterprise
+Terjual 1
+Ad
+XIAOMI REDMI NOTE 10 PRO 5G SOFT CASE ULTRA THIN TPU CLEAR ORIGINAL
+Rp40.000
+Cashback
+Jakarta Pusat
+MrThebest
+5.0
+Terjual 5
+A Caring Alphonse Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Neko Atsume - Spooky in a Bag Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+I'm a cyborg but that's OK Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Tinkerbell on a harley Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+fairy silhoutte on a swing Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+life is a journey Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A Touch Of Spring Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Turn-A Gundam Grunge Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+A Quiet Spot in Green Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Smooth moves like a panda Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Ad
+Silikon Jelly Case Bahan Tebal Bening Casing Xiaomi Redmi Note 10 Pro
+Rp14.900
+Grosir
+Jakarta Pusat
+wenz acc
 5.0
 Terjual 100+
-Sisa 6
-Xiaomi Poco M3 Pro 5G 4/64GB + 6/128GB Garansi Resmi
-Rp2.399.000
-Cashback
-Jakarta Barat
-duniagadgetku
-5.0
-Terjual 1 rb+
-Produk Populer
-Xiaomi Redmi Note 10s 8/128GB 6/64GB Garansi Resmi 6 64 GB 8 128 GB
-Rp2.392.000
-17%
-Rp2.899.000
-Jakarta Pusat
-Onestop Ponsel
-4.8
-Terjual 250+
-Super Gadget Day
-Xiaomi Redmi 9c 4/64 GB Garansi Resmi
-Rp1.665.000
+Ad
+XIAOMI REDMI NOTE 10 TRITONE SERIES ORIGINAL HARD COVER PC MATTE CASE
+Rp65.000
 Cashback
 Jakarta Pusat
-Gudang-HP
-5.0
-Terjual 10 rb+
-Ad
-XIAOMI REDMI 6A 3/32GB GARANSI 1 TAHUN
-Rp725.000
-Jakarta Barat
-happystore95
-4.7
-Terjual 90+
-Ad
-Xiaomi Redmi 10 new garansi resmi
-Rp2.125.000
-Kab. Tangerang
-Inticom777
+T-ORIGINAL STORE
 4.9
-Terjual 29
+Terjual 21
 Ad
-Produk Terbaru
-XIAOMI Redmi Note 5A 4/64 GB
-Rp889.000
-Jakarta Barat
-Phone88cell
+PREMIUM CASE CASING GLASS FOR REDMI NOTE 10 5G MOTIF NASA 02
+Rp50.000
+Jakarta Pusat
+V2Storee
 Ad
-Xiaomi Redmi 5a 2/16 GB, 3/32 GB
-Rp594.000
-Jakarta Selatan
-maigadget
-4.8
-Terjual 250+
-Ad
-Super Gadget Day
-Redmi 10A 3GB 64GB Smartphone - Graphite Gray
-Rp1.599.000
-Cashback
-Jakarta Utara
-Xiaomi Official Store
-4.9
-Terjual 750+
-Produk Populer
-XIAOMI REDMI NOTE 10 PRO 8/128 GB NOTE 10 PRO 6/64 GB GARANSI RESMI
-Rp3.340.000
-Cashback
-Tangerang
-STR-STORE
-5.0
-Terjual 1 rb+
-Super Gadget Day
-Xiaomi Redmi Note 10s 8/128 GB Garasni Resmi
-Rp2.753.000
+XIAOMI REDMI NOTE 10 PRO 5G SOFT CASE ULTRA THIN ORIGINAL CLEAR CAFELE
+Rp40.000
 Cashback
 Jakarta Pusat
-Gudang-HP
-5.0
-Terjual 6 rb+
-Sisa 8
-XIAOMI REDMI 9C 4/64 GB , REDMI 9C 3/32 GB GARANSI RESMI XIAOMI
-Rp1.455.000
-Cashback
-Tangerang
-STR-STORE
-5.0
-Terjual 500+
-Super Gadget Day
-Xiaomi Redmi 9A 2/32 ~ 3/32 GB Garansi Resmi , IMEI Terdaftar
-Rp1.239.000
-Cashback
-Jakarta Barat
-duniagadgetku
-5.0
-Terjual 8 rb+
-Produk Populer
-XIAOMI REDMI 9C RAM 4 64 RAM 3 32 GARANSI RESMI
-Rp1.449.000
-Cashback
-Tangerang
-Bintang Terang Cell
-4.9
-Terjual 2 rb+
-Xiaomi Poco M3 Pro 5G 6/128 GB 4/64 GB Garansi Resmi Hitam Kuning Biru
-Rp2.372.000
-3%
-Rp2.457.000
-Jakarta Pusat
-Onestop Ponsel
-4.8
-Terjual 250+
-Super Gadget Day
-Redmi 9A New Segel Box 2/32 2GB 32GB Garansi Resmi Xiaomi Indonesia
-Rp1.159.000
-Jakarta Selatan
-ZeiL Store
-5.0
-Terjual 1 rb+
-Sisa 3
-XIAOMI REDMI NOTE 10 5G 8/128 GB , NOTE 10 5G 4/128 GB GARANSI RESMI
-Rp2.475.000
-Cashback
-Tangerang
-STR-STORE
-5.0
-Terjual 250+
-Sisa 2
-Xiaomi Redmi 9C 4/64 GB 4GB 64GB GARANSI RESMI XIAOMI INDONESIA
-Rp1.349.000
-Jakarta Selatan
-ZeiL Store
-5.0
-Terjual 500+
-XIAOMI REDMI 9A 3/32 GB RESMI
-Rp1.218.000
-Cashback
-Tangerang
-angel 19
-5.0
-Terjual 250+
-Ad
-Xiaomi Redmi Note 5 4/64 GB - 6/64 GB
-Rp1.164.000
-Jakarta Selatan
-maigadget
+Best accesories hp
 5.0
 Terjual 7
 Ad
-Xiaomi Redmi Note 2 2/16GB
-Rp465.000
-Jakarta Selatan
-Fortune Ponsel
-4.6
-Terjual 250+
-Ad
-Xiaomi Redmi 10 4/64Gb + 6/128Gb Garansi Resmi
-Rp2.048.000
-Kab. Kendal
-Iam Store Cell
-5.0
-Terjual 28
-Ad
-XIAOMI MI 10T 8/128 GARANSI RESMI XIAOMI INDONESIA 100% NEW
-Rp4.500.000
-Kab. Tangerang
-Bursa Kangtaw
-5.0
-Terjual 20
-Ad
-Xiaomi Redmi 10C 4/64 4/128 Resmi - 4/64Grey
-Rp1.859.000
-Depok
-Galaxy store 3
-5.0
-Terjual 60+
-Super Gadget Day
-Xiaomi Redmi Note 10 Pro 8/128 GB Garansi Resmi
-Rp3.511.000
+XIAOMI REDMI NOTE 10 PRO MAX MATTE TPU RAINBOW ORIGINAL SOFT CASE UME
+Rp25.000
 Cashback
 Jakarta Pusat
-Gudang-HP
-5.0
-Terjual 3 rb+
-Super Gadget Day
-Xiaomi Redmi 9A 3/32 GB Garansi Resmi
-Rp1.375.000
-8%
-Rp1.499.000
-Jakarta Pusat
-Gudang-HP
-5.0
-Terjual 9 rb+
-Xiaomi Redmi Note 10 5G 8/128 RAM 8GB ROM 128GB GARANSI RESMI
-Rp2.705.000
-Cashback
-Depok
-ARM PONSEL
-5.0
-Terjual 250+
-XIAOMI REDMI NOTE 10 PRO 8/128 6/64 GB & NOTE10 4/64 GARANSI RESMI
-Rp2.159.000
-Bekasi
-JJ SHOP PEDIA 2
-5.0
-Terjual 100+
-XIAOMI REDMI 4A 2-16 GARANSI DISTRI 1 TAHUN
-Rp465.000
-Jakarta Pusat
-CTM GadgetShop
-4.8
-Terjual 250+
-Super Gadget Day
-Xiaomi Redmi Note 10 5G 4/128 Ram 4GB Internal 128GB Garansi Resmi
-Rp2.459.000
-Cashback
-Jakarta Pusat
-Kreasindo Online
-4.8
-Terjual 80+
-Super Gadget Day
-Xiaomi Redmi 4A RAM 2/16 Garansi Distributor 1 Tahun
-Rp519.000
-Jakarta Barat
-tami_cell
-4.7
-Terjual 2 rb+
-Super Gadget Day
-Xiaomi Redmi 9c 3/32 GB Garansi Resmi
-Rp1.445.000
-Cashback
-Jakarta Pusat
-Gudang-HP
-5.0
-Terjual 6 rb+
-XIAOMI REDMI 4X RAM 3/32 GB GARANSI DISTRIBUTOR 1 TAHUN
-Rp535.000
-Jakarta Pusat
-007shop n chop
-4.8
-Terjual 250+
-XIAOMI REDMI 9A RAM 3 32 GARANSI RESMI
-Rp1.399.000
-Cashback
-Tangerang
-Bintang Terang Cell
-5.0
-Terjual 1 rb+
-Xiaomi Redmi 4X Ram 2 + 16G/3+32G-Hitam,Mawar emas,Emas
-Rp529.000
-Jakarta Barat
-hp360
-4.6
-Terjual 500+
-Produk Populer
-Xiaomi Redmi Note 10s NFC 6GB+64GB - 8GB+128GB Garansi Resmi
-Rp2.540.000
-Cashback
-Jakarta Barat
-BintangTimurSelindo
-4.7
-Terjual 250+
-Produk Populer
-Xiaomi Redmi Note 10S (6/64GB - 8/128GB) Garansi Resmi TAM
-Rp2.399.000
-Cashback
-Jakarta Selatan
-murahmeriah shop
-5.0
-Terjual 250+
-Sisa 3
-Xiaomi Redmi Note 10 [5G] 4/128GB + 8/128GB Garansi Resmi Xiaomi
-Rp2.468.000
-Cashback
-Jakarta Barat
-36shop
-5.0
-Terjual 250+
-Xiaomi Redmi Note 10 5G - 8GB 128GB (8/128)-New Original Garansi Resmi
-Rp2.799.000
-Cashback
-Jakarta Utara
-CA Shop
-5.0
-Terjual 750+
-Sisa 4
-Xiaomi Redmi 9C 3/32 GB Garansi Resmi 3GB / 32 GB
-Rp1.404.999
-Jakarta Utara
-Flowereve
-5.0
-Terjual 3 rb+
-Selalu OS
-XIAOMI REDMI 9C RAM 4/64 GB GARANSI RESMI
-Rp1.668.000
-Cashback
-Jakarta Pusat
-Q-Store Pedia
-5.0
-Terjual 7 rb+
-Xiaomi Redmi 4X 2/16 GB, 3/32 GB, 4/64 GB
-Rp555.000
-Jakarta Selatan
-maigadget
-4.7
-Terjual 250+
-Xiaomi Redmi Note 10s 8/128GB 6/64GB Garansi Resmi 6 64 GB 8 128 GB
-Rp2.392.000
-8%
-Rp2.600.000
-Jakarta Pusat
-Dewa Ponsel Rakyat
-4.7
-Terjual 250+
-Preorder
-Xiaomi Redmi 4A 2 / 16GB 3/32GB- Emas, Abu-abu, Rosegold
-Rp485.000
-Jakarta Barat
-hp360
-4.6
-Terjual 1 rb+
-Sisa 3
-Xiaomi Redmi 9C 4/64 RAM 4GB ROM 64GB Garansi Resmi Xiaomi Indonesia
-Rp1.664.000
-Cashback
-Jakarta Utara
-Vote VIP
-5.0
-Terjual 500+
-Produk Populer
-Xiaomi Redmi Note 10 Pro Ram 8/128 Gb Garansi Resmi Tam
-Rp3.349.000
-Jakarta Barat
-X GadGeT X
-5.0
-Terjual 80+
-XIAOMI REDMI NOTE 10 5G NFC - 8GB 128GB 8/128 - DIMENSITY 700
-Rp2.759.900
-Cashback
-Jakarta Timur
-Shopyz ID
-5.0
-Terjual 250+
-XIAOMI POCO M3 PRO 5G 6/128 GB GARANSI RESMI
-Rp2.439.000
-Cashback
-Tangerang
-angel 19
-5.0
-Terjual 70+
-Sisa 2
-Xiaomi Redmi Note 10s 8/128 & 6/64 Resmi
-Rp2.569.000
-Bekasi
-vin's olshop
-5.0
-Terjual 100+
-Super Gadget Day
-XIAOMI POCOPHONE POCO M3 PRO 5G NFC - 6GB 128GB 6/128 - DIMENSITY 700
-Rp2.749.900
-8%
-Rp2.999.000
-Jakarta Timur
-Shopyz ID
-5.0
-Terjual 250+
-Xiaomi Redmi 9A 2/32 GB Garansi Resmi
-Rp1.195.000
-Bekasi
-Nixindo Shop
-5.0
-Terjual 500+
-Produk Populer
-Poco X3 PRO 6/128 & 8/256 Garansi Resmi Xiaomi Indonesia
-Rp4.670.000
-Jakarta Pusat
-Gawai Mart
-4.9
-Terjual 80+
-Redmi Note 10 5G 8/128GB & 4/128GBGaransi Resmi Xiaomi Redmi 10 5G NFC
-Rp2.469.000
-9%
-Rp2.700.000
-Jakarta Pusat
-Dewa Ponsel Rakyat
-5.0
-Terjual 100+
-Super Gadget Day
-Xiaomi Redmi Note 10s 8/128 GB - Garansi Resmi Xiaomi Indonesia
-Rp2.760.000
-Cashback
-Jakarta Utara
-Universe Store
-5.0
-Terjual 1 rb+
-Super Gadget Day
-Xiaomi Redmi Note 10 5G 4/128GB + 6/128GB + 8/128GB Garansi Resmi
-Rp2.475.000
-Cashback
-Jakarta Barat
-duniagadgetku
-5.0
-Terjual 2 rb+
-Super Gadget Day
-Xiaomi Redmi 9C 3/32GB / 4/64GB / 32 GB / 64 GB Garansi Resmi TAM
-Rp1.441.000
-10%
-Rp1.600.000
-Jakarta Pusat
-Dewa Ponsel Rakyat
-4.7
-Terjual 1 rb+
-Super Gadget Day
-Xiaomi Redmi 2 1/8GB 2/16GB
-Rp375.000
-Jakarta Barat
-hp360
-4.7
-Terjual 6 rb+
-Sisa 2
-Xiaomi Poco M3 PRO 5G 6/128 RAM 6GB ROM 128GB GARANSI RESMI
-Rp2.674.000
-Depok
-DayPhone
-5.0
-Terjual 250+
-Sisa 2
-Xiaomi Redmi 9C 3/32 GB 3GB 32GB GARANSI RESMI XIAOMI INDONESIA
-Rp1.349.000
-Jakarta Selatan
-ZeiL Store
-4.9
-Terjual 750+
-Xiaomi Redmi 9A Ram 2 Rom 32 GB Garansi Resmi
-Rp1.209.000
-Cashback
-Jakarta Pusat
-Pandawatiga
-4.9
-Terjual 4 rb+
-Xiaomi Poco M3 PRO 5G 6/128GB 4/64GB NFC Triple Kamera Garansi Resmi
-Rp2.372.000
-9%
-Rp2.599.000
-Jakarta Pusat
-Dewa Ponsel Rakyat
-4.8
-Terjual 250+
-Xiaomi Redmi 4a 2/16 GB
-Rp488.000
-Jakarta Barat
-liba baiying
-4.8
-Terjual 500+
-Sisa 2
-XIAOMI POCO X3 GT 5G 8/256 RAM 8GB INTERNAL 256GB GARANSI RESMI
-Rp5.100.000
-Jakarta Utara
-V-Store Pedia
-5.0
-Terjual 250+
-Produk Populer
-Xiaomi Poco X3 Pro 6/128 - 8/256 GB [Garansi Resmi No Repack]
-Rp5.149.900
-Jakarta Selatan
-Eteroline
-5.0
-Terjual 100+
-Ad
-Tokopedia Tekno
-Xiaomi Redmi 10C 4/128 GB Garansi Resmi (No Repack)
-Rp1.999.000
-Kab. Serang
-prima store wanayasa
-5.0
-Terjual 14
-Ad
-XIAOMI REDMI NOTE 2 2/16GB
-Rp409.000
-Jakarta Barat
-allexo
-Terjual 1
-Ad
-Xiaomi Redmi 6A 2 / 16GB - 2/16 GB
-Rp739.000
-Jakarta Selatan
-maigadget
-5.0
-Terjual 1
-Ad
-Xiaomi Redmi 5a ram 3gb rom 32gb original
-Rp638.000
-Jakarta Barat
-mei 8
-4.9
-Terjual 100+
-Ad
-Xiaomi Redmi Note 5 Hp Android Murah Ram 4/64gb Resmi al dual camera
-Rp1.299.000
-Jakarta Utara
-Rucab
-Terjual 2
-Ad
-Xiaomi Black Shark 5 Pro Blackshark 5G 512GB 16GB/256GB 12GB SD8 GEN 1
-Rp13.325.000
-Cashback
-Jakarta Pusat
-chocoapple
-5.0
-Terjual 4
-Ad
-Xiaomi Redmi 10C 4/128 Garansi Resmi - Graphite Gray
-Rp1.997.000
-Cashback
-Jakarta Pusat
-MnM Phone
-5.0
-Terjual 12
-Ad
-Xiaomi Redmi 3s 2 / 16GB
-Rp499.000
-Jakarta Selatan
-Fortune Ponsel
-4.9
-Terjual 28
-Ad
-HP Handphone Redmi Note 4X Xiaomi Murah 16GB 32GB 64GB RedmiNote 4 X
-Rp535.000
-Cashback
-Jakarta Pusat
-kino phone cell
-4.8
-Terjual 100+
-Ad
-XIAOMI REDMI 4A PRIME 2/32 GB
-Rp498.000
-Jakarta Barat
-happystore95
-4.4
-Terjual 90+
-Xiaomi Redminote 3 ram 3gb internal 32Gb
-Rp500.000
-Jakarta Pusat
-Bohan cell 0111
-4.7
-Terjual 100+
-Xiaomi Redmi Note 10s 8/128GB 6/64GB Garansi Resmi 6 64 GB 8 128 GB
-Rp2.392.000
-11%
-Rp2.699.000
-Jakarta Pusat
-Distributor Ponsel
-4.8
-Terjual 1 rb+
-Sisa 4
-Xiaomi Redmi Note 5 4/64 GB
-Rp1.269.000
-Jakarta Barat
-liba baiying
-4.8
-Terjual 100+
-XIAOMI REDMI 9C 3/32 GB 4/64 GB GARANSI RESMI XIAOMI INDONESIA
-Rp1.455.000
-Cashback
-Tangerang
-STR-STORE
-4.9
-Terjual 500+
-Produk Populer
-XIAOMI REDMI NOTE 10 5G RAM 8 128 RAM 4 128 GARANSI RESMI
-Rp2.475.000
-Cashback
-Tangerang
-Bintang Terang Cell
-4.9
-Terjual 100+
-Sisa 9
-Xiaomi Poco M3 Pro 5G 4/64GB Garansi Resmi
-Rp2.387.000
-Cashback
-Jakarta Pusat
-Gudang-HP
-4.9
-Terjual 750+
-Sisa 2
-Xiaomi Redmi Note 10 Pro 8/128GB 6/64GB Garansi Resmi TAM 64 GB 128 GB
-Rp3.303.000
-Cashback
-Jakarta Pusat
-Distributor Ponsel
-4.8
-Terjual 1 rb+
-Produk Populer
-Xiaomi Redmi Note 10s 6/64 - RAM 6GB / ROM 64GB - Garansi Resmi
-Rp2.415.000
-Cashback
-Jakarta Pusat
-H2 Cellular
-5.0
-Terjual 100+
-Xiaomi Redmi Note 3 3/32 Grey - Garansi DIstri 1 Tahun
-Rp648.000
-Jakarta Pusat
-CTM GadgetShop
-4.8
-Terjual 100+
-Xiaomi Redmi 5A Prime 3/32 Gold
-Rp588.000
-Jakarta Barat
-happystore95
+Nillkin Store 888
 4.5
-Terjual 750+
-Ad
-XIAOMI REDMI 6 4G(3GB/32GB,4GB/64GB)HP Baru Android smartphone GARANSI - REDMI 6 GOLD, 3GB+32GB
-Rp998.000
-Jakarta Utara
-Hptokoo
-4.9
-Terjual 18
-Ad
-XIAOMI REDMI 2 2/16GB
-Rp375.000
-Jakarta Selatan
-Fortune Ponsel
-4.7
-Terjual 19
-Ad
-Xiaomi Redmi 2 2/16GB Smartphone Android 4G LTE HP Murah Handphone
-Rp399.000
-Jakarta Utara
-Nofaro
-4.7
-Terjual 19
-Ad
-Xiaomi Redmi Note 11 4/128 GB NFC Garansi Resmi
-Rp2.399.000
-Depok
-TODOSTANLEY 7424
-5.0
-Terjual 100+
-Ad
-Tokopedia Tekno
-Redmi Note 10 5G 4GB 128GB Smartphone
-Rp2.549.000
-6%
-Rp2.699.000
-Jakarta Utara
-Xiaomi Official Store
-4.9
-Terjual 80+
-Super Gadget Day
-Xiaomi Note 10 Pro Smartphone (8/128GB)
-Rp3.649.000
-1%
-Rp3.699.000
+Terjual 23
+Oh look A penny Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
 Jakarta Pusat
-OKESHOP
-4.9
-Terjual 100+
-Produk Populer
-Xiaomi Poco F3 8/256 Garansi Resmi POCO F3 Garansi TAM 8/256 GB
-Rp5.175.000
-Cashback
-Depok
-SM-Original
-5.0
-Terjual 500+
-Sisa 2
-XIAOMI Mi 10t PRO 5G RAM 8/256 GARANSI RESMI INDONESIA Mi10t 8/256Gb
-Rp5.650.000
-Jakarta Selatan
-afra call
-4.9
-Terjual 250+
-Xiaomi Redmi 5A 3 / 32GB
-Rp610.000
-Jakarta Selatan
-Fortune Ponsel
-4.8
-Terjual 250+
-Xiaomi Redmi Note 10 Pro 8/128 Ram 8GB Internal 128GB Garansi Resmi
-Rp3.515.000
-Cashback
+Famous Case
+Eren Jaeger - I have a dream Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
 Jakarta Pusat
-Kreasindo Online
-5.0
-Terjual 500+
-Xiaomi Redminote 3 ram 3gb internal 32gb
-Rp500.000
+Famous Case
+Lavender in a Bottle XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
 Jakarta Pusat
-Dolphin Cell 01
-4.8
-Terjual 250+
-Xiaomi Poco M3 Pro 5G - 6GB 128GB (6/128) - New Original Garansi Resmi
-Rp2.739.000
-Cashback
-Jakarta Utara
-CA Shop
-5.0
-Terjual 250+
-Xiaomi Mi 10t pro 5G 8/256 Resmi Like New + Gift Box Mi10t pro
-Rp4.950.000
-Jakarta Selatan
-afra call
-5.0
-Terjual 70+
-Sisa 5
-Xiaomi Redmi 9C 3/32 Gb Garansi Resmi
-Rp1.457.500
-Cashback
-Jakarta Utara
-MACC
-5.0
-Terjual 500+
-XIAOMI POCO M3 RAM 6 GB INTERNAL 128 GB - GARANSI RESMI
-Rp2.585.000
-Cashback
-Jakarta Timur
-WAHANA ACCESSORIES
-4.9
-Terjual 100+
+Famous Case
+Peek A Boo Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A forever young fairy t-shirt Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-146 Totoro Anime Soft Case Xiaomi Redmi Note 10 6 10S Pro Poco X3 6A
+Rp62.700
+Jakarta Pusat
+Toko anandii
+It Ends with a Bang! Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Anatomy of a Dachshund Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+And a little pixie dust Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A man with two swords Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Zenitsu after sleep a bit Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Just a Splash of Ramen ver. 2 Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+A HERO OF GUNDAM LIGHT Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+shoes in a lavender field XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A View of Fujiyama Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-56 Cute Deadpool Soft Case Xiaomi Redmi Note 10 6 10S Pro Poco X3 6A
+Rp62.200
+Jakarta Pusat
+Toko anandii
+Xingqiu Read a book Peeker Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Send me out...with a bang Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Demon in a box Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+REINCARNATED AS A SLIME Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Casing Soft Case Xiaomi Redmi 10A 9A 9 Note 8 7 K50 K40 K30 K20 Pro
+Rp83.000
+Jakarta Pusat
+restaastore
+BBQ on a Stick Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-33 Anime Your Name Soft Case Xiaomi Redmi Note 10 6 10S Pro Poco X3
+Rp62.100
+Jakarta Pusat
+Toko anandii
+A Real Heroine v2 Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Pretty as a buttercup Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+Anguirus as a Sonic Character Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+TO PIMP A BUTTERFLY Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+let me take a Skelfie Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-25 Donald Duck Soft Case Xiaomi Redmi Note 10 6 10S Pro Poco X3 6A
+Rp60.000
+Jakarta Pusat
+Toko anandii
+It’s a-me Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-263 Dragon Ball Z Son Goku Soft Case Xiaomi Redmi Note 10 6 10S Pro
+Rp58.100
+Jakarta Pusat
+Toko anandii
+Red Panda Bear Reading A Book Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+take a breack Case XIAOMI CASE REDMI NOTE 7 8 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+panda on a tree Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+I am a good kitty Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Look im a Hooman Dur Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+InkTOMBer Day 28 Only a Myth Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
+Rp87.500
+Jakarta Pusat
+Famous Case
+Produk Terbaru
+A-77 We Bare Bears Soft Case Xiaomi Redmi Note 10 6 10S Pro Poco X3 6A
+Rp60.700
+Jakarta Pusat
+Toko anandii
+A 3D Odyssey Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
+A december morning Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
+Rp87.500
+Jakarta Pusat
+Famous Case
 Ad
-XIAOMI MI 11T PRO 5G RAM 12GB/256GB-RAM 8GB/256GB GARANSI RESMI
-Rp6.950.000
-Kab. Bogor
-allshop cell
-5.0
-Terjual 6
-Ad
-XIAOMI REDMI 10A 3/32 GB GARANSI RESMI
-Rp1.433.000
-Cashback
-Jakarta Pusat
-Q-Store Pedia
-5.0
-Terjual 26
-Ad
-Xiaomi Mi Mix 2 4G HP Baru XIAO Murah 6/64GB + 6/128GB Garansi-Hitam
-Rp1.599.000
-Jakarta Utara
-Hptokoo
-4.4
-Terjual 22
-Ad
-Sisa 2
-XIAOMI REDMI 8 4/64 NEW GARANSI RESMI TAM 1TAHUN
-Rp1.900.000
-Grosir
-Jakarta Pusat
-Bintang_cell222
-4.7
-Terjual 40+
-Ad
-Xiaomi note 11 4/128 new garansi resmi
-Rp2.370.000
-Cashback
-Jakarta Pusat
-arena phone cell
-5.0
-Terjual 3
-Sisa 7
-XIAOMI REDMI 9C RAM 4/64 GB [Xiaomi Mi 9c Ram 4 Rom 64 GB] GRS RESMI
-Rp1.550.000
-Cashback
-Jakarta Timur
-WAHANA ACCESSORIES
-4.7
-Terjual 250+
-XIAOMI REDMI 9A 3/32 GB , REDMI 9A 2/32 GB 100% ORI GARANSI RESMI
-Rp1.220.000
-Cashback
-Tangerang
-STR-STORE
-5.0
-Terjual 1 rb+
-Super Gadget Day
-Xiaomi Redmi 9A 2/32 ~ 3/32 GB Garansi Resmi
-Rp1.360.000
-Cashback
-Jakarta Pusat
-PS.ONLINE OFFICIAL STORE
-5.0
-Terjual 1 rb+
-Sisa 6
-XIAOMI REDMI NOTE 10 PRO 8/128 GB - RAM 6/64 GB GARANSI RESMI XIAOMI
-Rp3.335.000
-Cashback
-Tangerang
-angel 19
-5.0
-Terjual 100+
-WIB
-Xiaomi Redmi 9A 2/32 GB Garansi Resmi
-Rp1.210.000
+XIAOMI REDMI NOTE 10 PRO 4G SLIDE CASE PROTECTION CAMERA MATTE CANDY - Hitam, R Note 10 Pro
+Rp15.000
 Cashback
 Jakarta Pusat
-Super Store
-5.0
-Terjual 2 rb+
-XIAOMI REDMI 9A 3/32 RAM 3GB ROM 32GB 3/32GB & 9 A 2/32 GARANSI RESMI
-Rp1.249.000
-Bekasi
-JJ SHOP PEDIA 2
-4.9
-Terjual 100+
-Sisa 4
-Xiaomi Redmi Note 7 4/64GB Resmi TAM
-Rp1.550.000
-Jakarta Utara
-Tokoacoy
-4.4
-Terjual 100+
-XIAOMI REDMI NOTE 3 /32GB GARANSI DISTRIBUTOR
-Rp628.000
-Jakarta Pusat
-007shop n chop
-4.6
-Terjual 500+
-Sisa 5
-Xiaomi redmi note 9 4/64 second fullset likenew
-Rp1.749.000
-Jakarta Selatan
-NextIN Store ID
-4.9
-Terjual 100+
-Sisa 2
-Xiaomi Redmi 9A 3/32 Garansi Resmi TAM
-Rp1.340.000
-Tangerang Selatan
-N2-cell
-5.0
-Terjual 80+
-Produk Populer
-XIAOMI REDMI NOTE 10 PRO 8/128 GB GARANSI RESMI GARANSI TAM 8/128 GB
-Rp3.399.000
-Cashback
-Depok
-SM-Original
-5.0
-Terjual 500+
-Produk Populer
-XIAOMI REDMI NOTE 9 RAM 6/128 GRS RESMI
-Rp3.039.000
-Cashback
-Tangerang
-Bintang Terang Cell
-4.9
-Terjual 750+
-Produk Populer
-Xiaomi Redmi Note 10 5G (8/128 Gb) NFC Garansi Resmi Indonesia
-Rp2.750.000
-Bekasi
-Cahaya Original
-5.0
-Terjual 250+
-Xiaomi Redmi 9A 2/32 GB Garansi Resmi
-Rp1.195.000
-Cashback
-Jakarta Utara
-GADING BINTANG
-5.0
-Terjual 1 rb+
-Sisa 4
-Xiaomi Poco M3 Pro 5G 4/64GB 6/128GB
-Rp2.375.000
-Cashback
-Tangerang
-Myfon Teleshop Official
-5.0
-Terjual 60+
-POCO M3 RAM 4/64 [Xiaomi Poco M3 4/64 GB] GARANSI RESMI
-Rp2.255.000
-Cashback
-Jakarta Timur
-WAHANA ACCESSORIES
-4.9
-Terjual 100+
-Produk Populer
-Xiaomi Redmi Note 10s 8/128 Garansi Resmi Note10 S RAM 8GB 128GB 6/64
-Rp2.599.000
+GALAXY.S ACC
+4.3
+Terjual 11
+Ad
+XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK SOFT CASE COVER CAFELE
+Rp40.000
 Cashback
 Jakarta Pusat
-Laku8pedia
-5.0
-Terjual 80+
-Produk Populer
-XIAOMI REDMI MI 11 LITE RAM 8/128 RAM 6/128 RAM 6/64 GARANSI RESMI
-Rp3.999.000
-Cashback
-Tangerang
-ALFASTORE-
+Case Thebest Official
 5.0
 Terjual 30+
-Tokopedia Tekno
-xiomi redmi 5a 3/32gb new Gold
-Rp658.000
-Jakarta Barat
-bless 89
-4.6
-Terjual 1 rb+
-Sisa 5
-xiaomi 9a 3/32
-Rp1.340.000
-Jakarta Barat
-carisha gabriel
-5.0
-Terjual 100+
-Produk Populer
-Xiaomi Redmi Note 10S 8/128 RAM 8GB ROM 128GB Garansi Resmi Xiaomi
-Rp2.758.000
-Cashback
-Jakarta Selatan
-SFONE OMNI STORE
-4.9
-Terjual 500+
-XIAOMI REDMI NOTE 10 PRO 8/128 6/64 GB & NOTE10 4/64 GARANSI RESMI
-Rp2.275.000
-Bekasi
-gudang ponsel original
-4.8
-Terjual 70+
-Sisa 6
-Xiaomi Redmi Note 9 Pro TAM Garansi Resmi Note9 9pro
-Rp2.699.000
+Ad
+XIAOMI REDMI NOTE 10 5G CRYSTAL CRACK ORIGINAL SOFT CASE COVER CAFELE
+Rp50.000
 Cashback
 Jakarta Pusat
-Laku8pedia
+T-ORIGINAL STORE
 5.0
-Terjual 60+
-Produk Populer
-XIAOMI REDMI NOTE 9 PRO RAM 8/128 GARANSI RESMI
-Rp3.028.000
+Terjual 11
+Ad
+XIAOMI REDMI NOTE 10 PRO 5G CRYSTAL CRACK SOFT CASE TPU COVER CAFELE
+Rp40.000
 Cashback
-Tangerang
-Bintang Terang Cell
-4.9
-Terjual 100+
-Produk Populer
-XIAOMI REDMI NOTE 10PRO 8/128 GB (GARANSI RESMI)
-Rp3.515.000
-Jakarta Utara
-Halo Cellular
-5.0
-Terjual 20
-Redmi 9A Ram 2/32GB - 3/32GB Garansi Resmi Xiaomi Indonesia
-Rp1.214.000
-Cashback
-Jakarta Barat
-36shop
-4.9
-Terjual 1 rb+
-Sisa 2
-xiaomi redmi 9c 4/64
-Rp1.654.999
 Jakarta Pusat
-tokojakpus
+Case Thebest Official
 5.0
-Terjual 250+
-Sisa 10
-XIAOMI REDMI 9A 3/32 RAM 3GB ROM 32GB GARANSI RESMI
-Rp1.201.000
+Terjual 30+
+Ad
+XIAOMI REDMI NOTE 10 FABRIC DENIM ORIGINAL SILICONE HARD CASE CAFELE
+Rp90.000
 Cashback
-Jakarta Barat
-oldhouse
+Jakarta Pusat
+Markas acc 88
 5.0
 Terjual 50+
-Xiaomi Redmi 5a 2/16GB garansi 1 Tahun
-Rp570.000
-Jakarta Timur
-yunishop00
-4.8
-Terjual 1 rb+
-Xiaomi Redmi Note 4X RAM 4GB ROM 64GB Garansi Distributor 1 Tahun
-Rp915.000
-Cashback
-Jakarta Pusat
-cellularline168
-4.7
-Terjual 500+
-Sisa 4
-Xiaomi Redmi Note 10S 6/64Gb | 8/128Gb - Grs resmi Xiaomi
-Rp2.699.000
-Cashback
-Jakarta Timur
-Pluto sellular
-5.0
-Terjual 250+
-Produk Populer
-Xiaomi Poco F3 Pro 8/256Gb Garansi Resmi
-Rp6.200.000
-Jakarta Pusat
-Mgadget co
-4.6
-Terjual 70+
-Sisa 6
-Xiaomi Redmi Note 10 [5G] NFC [128GB/4GB]/[8GB] - Garansi Resmi
-Rp2.460.000
-Cashback
-Jakarta Pusat
-ACS
-5.0
-Terjual 100+
-Sisa 6
-Xiaomi Redmi Note 10 5G (4/128 / 8/128) Garansi Resmi Tam
-Rp2.475.000
-Cashback
-Jakarta Selatan
-murahmeriah shop
-5.0
-Terjual 100+
-Sisa 5
-XIAOMI REDMI NOTE 10 5G RAM 8/128 GB GARANSI RESMI
-Rp2.765.000
-Cashback
-Jakarta Pusat
-Q-Store Pedia
-5.0
-Terjual 500+
-Xiaomi Redmi 4X 16GB RAM 2GB Black Gold Rose Gray
-Rp539.000
-10%
-Rp600.000
-Jakarta Pusat
-kino phone cell
-4.9
-Terjual 250+
-Produk Populer
-Xiaomi Redmi Note 10 Pro 6/128 Ram 6GB Internal 128GB Garansi Resmi
-Rp3.319.000
-Cashback
-Jakarta Pusat
-Kreasindo Online
-4.9
-Terjual 100+
-Produk Populer
-Xiaomi Redmi Note 10 Pro 8/128 GB - Garansi Resmi Xiaomi Indonesia
-Rp3.527.000
-Cashback
-Jakarta Utara
-Universe Store
-5.0
-Terjual 500+
-Xiaomi Redmi 9C Ram 4/64 Gb Garansi Resmi
-Rp1.687.500
-Cashback
-Jakarta Utara
-MACC
-5.0
-Terjual 1 rb+
-Xiaomi Mi 4C Ram 3gb internal 32gb
-Rp550.000
-Jakarta Pusat
-Dolphin Cell 01
-4.5
-Terjual 70+
-Ad
-Xiaomi Note 11 Pro 5G 128 GB New Resmi
-Rp4.000.000
-Depok
-RM STAR PHONE
-5.0
-Terjual 1
-Ad
-Xiaomi note 11 pro 5g 8/128 new garansi resmi
-Rp3.985.000
-Cashback
-Jakarta Pusat
-arena phone cell
-5.0
-Terjual 3
-Ad
-Xiaomi Redmi Note 2 RAM 3GB ROM 32GB
-Rp535.000
-Jakarta Barat
-delojeco87
-4.6
-Terjual 90+
-Ad
-XIAOMI REDMI NOTE 2 2/16GB
-Rp408.000
-Jakarta Barat
-happystore95
-3.8
-Terjual 250+
-Ad
-Xiaomi Redmi 5A 2/16 GB
-Rp568.000
-Jakarta Selatan
-Fortune Ponsel
-4.6
-Terjual 27
+| FAIL |
+Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button' not found.
+------------------------------------------------------------------------------
+TOKOPEDIA Close Browser                                               | PASS |
+------------------------------------------------------------------------------
+caseTokopedia :: This test suite to test functionality survey, eac... | FAIL |
+5 tests, 4 passed, 1 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\report.html

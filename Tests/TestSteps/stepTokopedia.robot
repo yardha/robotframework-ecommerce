@@ -20,15 +20,45 @@ Hit Submit Button Tokopedia
     Click Element                            ${SEARCH BUTTON TOKOPEDIA}
     Sleep                                    3
 
+Click Option For Choosing First Location Tokopedia
+    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
+    Sleep                                    1
+    Input Text                               @{INPUT LOCATION JAKPUS TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${LOCATION JAKPUS TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${APPLY LOCATION TOKOPEDIA}
+    Sleep                                    1
+
+Click Option For Choosing Second Location Tokopedia
+    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
+    Sleep                                    1
+    Input Text                               @{INPUT LOCATION YOGYA TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${LOCATION YOGYA TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${APPLY LOCATION TOKOPEDIA}
+    Sleep                                    1
+
+Click Option For Choosing Third Location Tokopedia
+    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
+    Sleep                                    1
+    Input Text                               @{INPUT LOCATION SBY TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${LOCATION SBY TOKOPEDIA}
+    Sleep                                    1
+    Click Element                            ${APPLY LOCATION TOKOPEDIA}
+
 Get All Product Name Tokopedia
     FOR                                     ${i}                                            IN RANGE                        0                   2
         Sleep                                    1
         FOR                                      ${counter}                                     IN RANGE                         0                  20
             Sleep                                    1
-            Execute Javascript                       window.scrollTo(0,${counter}*500)
+            Execute Javascript                       window.scrollTo(0,${counter}*600)
             Sleep                                    1
-            ${status}                                Run Keyword And Return Status                Page Should Contain Element      ${NEXT PAGE BUTTON TOKOPEDIA}         loglevel=NONE
+            ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${NEXT PAGE BUTTON TOKOPEDIA}         loglevel=NONE
             # Log to Console                           ${status}
+            Sleep                                    1
             Run Keyword If                           ${status}                                    Exit For Loop
             ${counter}                               Set Variable                                 ${counter}+1
         END
