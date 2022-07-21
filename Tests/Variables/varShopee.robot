@@ -1,3 +1,6 @@
+*** Settings ***
+Resource    varMain.robot
+
 *** Variables ***
 
 ${SEARCH BOX SHOPEE}                xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/div/form/input

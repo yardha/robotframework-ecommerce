@@ -1,5 +1,5 @@
 ==============================================================================
-caseTokopedia :: This test suite to test functionality survey, each type su...
+TokopediaFilterLocationElectronic :: This test suite to test functionality ...
 ==============================================================================
 TOKOPEDIA Open Website Under Test                                     | PASS |
 ------------------------------------------------------------------------------
@@ -8,34 +8,30 @@ TOKOPEDIA Search For Item                                             | PASS |
 TOKOPEDIA Activate Filter by Location                                 | PASS |
 ------------------------------------------------------------------------------
 TOKOPEDIA Get Displayed Items Name 1                                  Dipromosikan oleh
-Oke sukses_12
-Harga termurah, hanya di Oke sukses_12!
+sanjayacases
+Cashback 4%
+Custom Case Untuk Semua Tipe Hp + Bisa Pakai Gambar Sendiri !!
 Cek Sekarang
-CLEAR VIEW OPPO A39 STANDING COVER FLIP MIRROR
-Rp 28.500
-4.9
-Terjual 30+
-VIVO Y91C FLIP COVER CANVAS DIARY
-Rp 28.500
-5.0
-Terjual 10
-Lihat Produk Lainnya
+Custom Case Premium Astronot + Bisa Pakai Gambar Sendiri (AT0006) - Anticrack
+Rp 26.500
+4.7
+Terjual 16
+Custom Case Premium Quality All Type Hp Casing Hp Murah [ SC006 ] - Anticrack
+Rp 26.500
+4.6
+Terjual 12
+Custom Case Premium Quality All Type Hp Casing Hp Murah [ SC015 ] - Anticrack
+Rp 26.500
+4.3
+Terjual 15
 Ad
-XIAOMI REDMI NOTE 10 MACARON LIST ORIGINAL CAFELE SOFT SILICONE CASE
-Rp39.000
+XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK RING SOFT CASE CAFELE
+Rp50.000
 Cashback
 Jakarta Pusat
-T-ORIGINAL STORE
+Case Thebest Official
 5.0
-Terjual 4
-Ad
-Silicone bening redmi note 10 / 10s clear case
-Rp15.000
-Grosir
-Jakarta Pusat
-Wina Cellular
-5.0
-Terjual 50+
+Terjual 30+
 Ad
 XIAOMI REDMI NOTE 10 PRO 5G AUTO FOCUS CARBON ORIGINAL SOFT CASE COVER
 Rp50.000
@@ -45,20 +41,27 @@ T-ORIGINAL STORE
 5.0
 Terjual 9
 Ad
-XIAOMI REDMI NOTE 10 5G SLIDE CASE PROTECTION CAMERA MATTE CANDY
-Rp15.000
+XIAOMI REDMI NOTE 10 PRO MATTE TPU RAINBOW ORIGINAL SILICONE CASE UME - CLEAR., NOTE 10 PRO 4G
+Rp35.000
 Cashback
 Jakarta Pusat
-GALAXY.S ACC
-4.8
-Terjual 70+
+Nillkin Store 888
+4.9
+Terjual 90+
 Ad
-XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK RING SOFT CASE CAFELE
-Rp50.000
+XIAOMI REDMI NOTE 10 PRO 5G SOFT CASE AUTO FOCUS CARBON ORIGINAL COVER
+Rp35.000
 Cashback
 Jakarta Pusat
-Case Thebest Official
-5.0
+Best accesories hp
+4.6
+Terjual 23
+Ad
+XIAOMI REDMI NOTE 10 PREMIUM MATTE CASE SOFT BLACK PROTECTION CAMERA
+Rp30.000
+Jakarta Pusat
+Snow Store8
+4.5
 Terjual 30+
 What a drag Case XIAOMI CASE REDMI NOTE 9 10s 10 PRO
 Rp87.500
@@ -101,21 +104,6 @@ Rp87.500
 Jakarta Pusat
 Famous Case
 Ad
-XIAOMI REDMI NOTE 10 PRO 5G SOFT CASE AUTO FOCUS CARBON ORIGINAL COVER
-Rp35.000
-Cashback
-Jakarta Pusat
-Best accesories hp
-4.6
-Terjual 23
-Ad
-XIAOMI REDMI NOTE 10 PREMIUM MATTE CASE SOFT BLACK PROTECTION CAMERA
-Rp30.000
-Jakarta Pusat
-Snow Store8
-4.5
-Terjual 30+
-Ad
 XUNDD Untuk Xiaomi Redmi Note 10S/ Note 10 4G Case Transparan Casing - Beatle Series, RedmiNote 10 4G
 Rp60.000
 76%
@@ -140,6 +128,22 @@ Jakarta Pusat
 T-ORIGINAL STORE
 5.0
 Terjual 3
+Ad
+CASE XIAOMI REDMI NOTE 10 PRO AUTOFOCUS CARBON KULIT ANTI SHOCKPROF
+Rp49.000
+Cashback
+Jakarta Pusat
+Wisdom Store7
+5.0
+Terjual 8
+Ad
+REDMI NOTE 10 / NOTE 10 PRO SOFT CASE CANVAS CROSS PATTERN - REDMINOTE 10PRO, Hitam
+Rp55.000
+Cashback
+Jakarta Pusat
+bima sakti online store
+4.9
+Terjual 80+
 A Caring Alphonse Case XIAOMI CASE REDMI NOTE 5 6 9 10 PRO
 Rp87.500
 Jakarta Pusat
@@ -181,22 +185,6 @@ Rp87.500
 Jakarta Pusat
 Famous Case
 Ad
-CASE XIAOMI REDMI NOTE 10 PRO AUTOFOCUS CARBON KULIT ANTI SHOCKPROF
-Rp49.000
-Cashback
-Jakarta Pusat
-Wisdom Store7
-5.0
-Terjual 8
-Ad
-REDMI NOTE 10 / NOTE 10 PRO SOFT CASE CANVAS CROSS PATTERN - REDMINOTE 10PRO, Hitam
-Rp55.000
-Cashback
-Jakarta Pusat
-bima sakti online store
-4.9
-Terjual 80+
-Ad
 XIAOMI REDMI NOTE 10 TRITONE SERIES ORIGINAL HARD COVER PC MATTE CASE
 Rp65.000
 Cashback
@@ -217,6 +205,21 @@ Jakarta Pusat
 Best accesories hp
 5.0
 Terjual 7
+Ad
+XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK SOFT CASE COVER CAFELE
+Rp40.000
+Cashback
+Jakarta Pusat
+Case Thebest Official
+5.0
+Terjual 30+
+Ad
+Case Motif+Tali Redmi Note 10,Poco X3/X3Pro,RedmiNote 9,RedmiNote 9Pro - Pink, Redmi Note 10
+Rp128.000
+Jakarta Pusat
+Family Top Accesories
+4.9
+Terjual 13
 Oh look A penny Case XIAOMI CASE REDMI NOTE 4 4X 5 5A 10
 Rp87.500
 Jakarta Pusat
@@ -384,21 +387,6 @@ Rp87.500
 Jakarta Pusat
 Famous Case
 Ad
-XIAOMI REDMI NOTE 10 PRO / MAX 4G CRYSTAL CRACK SOFT CASE COVER CAFELE
-Rp40.000
-Cashback
-Jakarta Pusat
-Case Thebest Official
-5.0
-Terjual 30+
-Ad
-Case Motif+Tali Redmi Note 10,Poco X3/X3Pro,RedmiNote 9,RedmiNote 9Pro - Pink, Redmi Note 10
-Rp128.000
-Jakarta Pusat
-Family Top Accesories
-4.9
-Terjual 13
-Ad
 XIAOMI REDMI NOTE 10 5G CRYSTAL CRACK ORIGINAL SOFT CASE COVER CAFELE
 Rp50.000
 Cashback
@@ -415,18 +403,37 @@ Case Thebest Official
 5.0
 Terjual 30+
 Ad
-Jelly Case Xiaomi Redmi Note 10 Pro Silicon Bening Bahan Tebal
-Rp15.000
+XIAOMI REDMI NOTE 10 FABRIC DENIM ORIGINAL SILICONE HARD CASE CAFELE
+Rp90.000
+Cashback
 Jakarta Pusat
-B.GADGET
+Markas acc 88
+5.0
+Terjual 50+
+Ad
+XIAOMI REDMI NOTE 10 PRO SOFT CASE MACARON LIST ORIGINAL CAFELE COVER
+Rp32.500
+Cashback
+Jakarta Pusat
+MrThebest
+4.9
+Terjual 50+
+Ad
+XIAOMI REDMI NOTE 10 PRO MAX SOFT CASE UME MATTE RAINBOW TPU ORIGINAL - CLEAR FC, NOTE 10 PRO MAX
+Rp25.000
+Cashback
+Jakarta Pusat
+Markas acc 88
+5.0
+Terjual 30+
 | FAIL |
 Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button' not found.
 ------------------------------------------------------------------------------
 TOKOPEDIA Close Browser                                               | PASS |
 ------------------------------------------------------------------------------
-caseTokopedia :: This test suite to test functionality survey, eac... | FAIL |
+TokopediaFilterLocationElectronic :: This test suite to test funct... | FAIL |
 5 tests, 4 passed, 1 failed
 ==============================================================================
-Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\output.xml
-Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\log.html
-Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\report.html
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\report.html

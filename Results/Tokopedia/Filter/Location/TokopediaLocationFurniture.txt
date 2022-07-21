@@ -1,0 +1,48 @@
+==============================================================================
+TokopediaFilterLocationFurniture :: This test suite to test functionality s...
+==============================================================================
+TOKOPEDIA Open Website Under Test                                     | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Search For Item                                             | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Activate Filter by Location                                 | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Get Displayed Items Name 1                                  Dipromosikan oleh
+LONNY.FURNITURE
+Cashback Rp5000
+Ada promo menarik untuk produk ori buatan Indonesia.
+Cek Sekarang
+SOFA - SOFA MURAH - SOFA L MINIMALIS - SOFA TAMU - SOFA BERKUALITAS
+Rp 1.350.000
+5.0
+Terjual 1
+SOFA - SOFA MURAH - SOFA RETRO - SOFA MINIMALIS - FREE ONGKIR
+Rp 1.400.000
+SOFA - SOFA MURAH - SOFA L KANCING - FREE ONGKIR - SOFA MINIMALIS
+Rp 1.600.000
+Dipromosikan oleh
+Byan BeanBag
+Harga termurah, hanya di Byan BeanBag!
+Cek Sekarang
+Bean Bag Sofa + Isi Styrofoam Size L - Taslan Biru - Ungu
+Rp 475.000
+5.0
+Terjual 15
+Bean Bag Sofa + Isi Styrofoam Size L - Taslan Navy
+Rp 475.000
+5.0
+Terjual 14
+Sofa Beanbag + Isi Styrofoam Size L - Suede Abu Tua
+Rp 500.000
+5.0
+Terjual 19
+| PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Close Browser                                               | PASS |
+------------------------------------------------------------------------------
+TokopediaFilterLocationFurniture :: This test suite to test functi... | PASS |
+5 tests, 5 passed, 0 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Filter\Location\report.html

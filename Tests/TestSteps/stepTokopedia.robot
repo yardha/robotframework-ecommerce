@@ -16,6 +16,14 @@ Type Item 1 Name Tokopedia
     Input Text                               @{ITEM 1 NAME TOKOPEDIA}
     Sleep                                    3
 
+Type Item 2 Name Tokopedia
+    Input Text                               @{ITEM 2 NAME TOKOPEDIA}
+    Sleep                                    3
+
+Type Item 3 Name Tokopedia
+    Input Text                               @{ITEM 3 NAME TOKOPEDIA}
+    Sleep                                    3
+
 Hit Submit Button Tokopedia
     Click Element                            ${SEARCH BUTTON TOKOPEDIA}
     Sleep                                    3

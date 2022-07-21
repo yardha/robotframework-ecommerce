@@ -1,3 +1,6 @@
+*** Settings ***
+Resource    varMain.robot
+
 *** Variables ***
 
 ${SEARCH BOX BUKALAPAK}             xpath=//*[@id="v-omnisearch__input"]

@@ -1,3 +1,6 @@
+*** Settings ***
+Resource    varMain.robot
+
 *** Variables ***
 
 ${SEARCH BOX LAZADA}             xpath=//*[@id="q"]

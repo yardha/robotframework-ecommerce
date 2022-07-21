@@ -1,8 +1,8 @@
 *** Settings ***
 Documentation                             This test suite to test functionality survey, each type survey have 1 survey
 Library                                   SeleniumLibrary
-Resource                                  ../TestSteps/stepMain.robot
-Resource                                  ../Variables/varMain.robot
+Resource                                  ../../TestSteps/stepMain.robot
+Resource                                  ../../Variables/varMain.robot
 
 *** Comments ***
 
@@ -17,8 +17,8 @@ TOKOPEDIA Search For Item
     Hit Submit Button Tokopedia
 
 TOKOPEDIA Activate Filter by Location
-    Hit First Location Tokopedia
-    Hit Second Location Tokopedia
+    Click Option For Choosing First Location Tokopedia
+    Click Option For Choosing Second Location Tokopedia
     Click Option For Choosing Third Location Tokopedia
 
 TOKOPEDIA Get Displayed Items Name 1

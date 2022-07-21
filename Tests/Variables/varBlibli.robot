@@ -1,3 +1,6 @@
+*** Settings ***
+Resource    varMain.robot
+
 *** Variables ***
 
 ${SEARCH BOX BLIBLI}                xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/input
