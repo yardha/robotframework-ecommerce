@@ -1,0 +1,518 @@
+==============================================================================
+TokopediaSortRelevanceFurniture :: This test suite to test functionality su...
+==============================================================================
+TOKOPEDIA Open Website Under Test                                     | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Search For Item                                             | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Get Displayed Items Name 1                                  Ad
+COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS - beige, 1 Seater
+Rp135.000
+Tangerang
+sarungsofa
+4.8
+Terjual 500+
+Ad
+Sofa L /Sofa Sudut/Sofa L Minimalis/Kursi L /Sofa Tamu HIDAN IVARO
+Rp9.400.000
+37%
+Rp15.000.000
+Tangerang
+Ivaro Furniture
+Preorder
+Ad
+Home Sweet Home
+Sofa Ruang Tamu Modesty L Minang Eco (Kaki Kotak)
+Rp2.599.000
+Cashback
+Depok
+MODESTY SOFA WORKSHOP
+5.0
+Terjual 30+
+Ad
+Ivaro Vabina Sofa Bed Lavender
+Rp3.300.000
+37%
+Rp5.200.000
+Tangerang
+Ivaro Furniture
+5.0
+Terjual 16
+Preorder
+Ad
+Sofa tamu kaki besi finishing gold sofa 2 seater terbaru
+Rp3.600.000
+Cashback
+Kab. Jepara
+Isal Jati Furniture
+COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS
+Rp135.000
+Tangerang
+sarungsofa
+4.8
+Terjual 500+
+Kaki Sofa Stainless Siku 5 cm
+Rp11.000
+Jakarta Barat
+MJO Fabric
+5.0
+Terjual 100+
+COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT
+Rp100.000
+Cashback
+Tangerang
+coversofa
+4.8
+Terjual 250+
+COVER SOFA POLOS SARUNG SOFA MOTIF 1 2 3 4 SEATER L SHAPED SUDUT SIKU
+Rp150.000
+Tangerang
+queen_homedecor
+4.9
+Terjual 28
+COVER SOFA 1 2 3 4 SEATER SARUNG SOFA KURSI TAMU SEATER L SHAPED SIKU
+Rp160.000
+Tangerang
+sarungsofa
+4.8
+Terjual 100+
+SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA BED L SHAPED SUDUT SIKU
+Rp110.000
+Cashback
+Tangerang
+coversofa
+4.9
+Terjual 100+
+4Pcs Kaki Sofa Siku 6 cm Untuk Spring Bed Sofa Kursi Meja Furniture
+Rp37.250
+Jakarta Barat
+Surya Utama Sejahtera
+5.0
+Terjual 5
+COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU
+Rp435.000
+Cashback
+Tangerang
+Eljida Store
+4.6
+Terjual 70+
+KAKI MEJA SOFA KURSI BESI SIKU 3x3 | HAIRPIN LEGS LEG INDUSTRIAL RETRO
+Rp28.000
+Kab. Bogor
+Tukang Jadi Jadian
+4.9
+Terjual 50+
+COVER SOFA L PUTUS SARUNG SOFA L SIKU COVER SOFA ELASTIS
+Rp390.000
+Tangerang
+jafa aby store
+5.0
+Terjual 4
+Ad
+Ivaro Sofa Bed Airin
+Rp2.850.000
+53%
+Rp6.000.000
+Tangerang
+Ivaro Furniture
+4.9
+Terjual 21
+Ad
+ASTRAL - XIONCO - Sofa Minimalis Three Seat - Tiga Dudukan - Hitam
+Rp2.610.000
+Cashback
+Jakarta Selatan
+xionco
+5.0
+Terjual 100+
+Ad
+Ivaro Vabina Sofa 3 Seater Lilac
+Rp4.000.000
+Cashback
+Tangerang
+Ivaro Furniture
+3.9
+Terjual 11
+Ad
+Eros Sofabed 3s - Sofabed Minimalis - Sofa Grey
+Rp1.999.000
+41%
+Rp3.399.000
+Tangerang
+icreateidofficial
+5.0
+Terjual 3
+Ad
+TokopediaParents
+Ivaro Sofa Trendy
+Rp4.000.000
+33%
+Rp6.000.000
+Tangerang
+Ivaro Furniture
+5.0
+Terjual 7
+COVER SOFA ELASTIS cycas L SHAPED SUDUT SIKU COVER SOFA SEATER
+Rp450.000
+Kab. Bogor
+cover sofa
+5.0
+Terjual 2
+COVER SOFA TANPA LENGAN SARUNG SOFA L SIKU COVER SOFA ELASTIS
+Rp135.000
+Tangerang
+sarungsofa
+4.8
+Terjual 40+
+SARUNG COVER SOFA SEATER SIKU L SHAPED sarung sofa elastis
+Rp140.000
+Tangerang
+jafa aby store
+4.8
+Terjual 40+
+Kaki Sofa/Kursi Model Siku (free sekrup)
+Rp8.000
+Surabaya
+Sumberterangonline
+5.0
+Terjual 100+
+Kaki Sofa Siku Stainless 8cm
+Rp16.000
+Cashback
+Jakarta Timur
+bahanmebelku
+Terjual 2
+Preorder
+SOFA CAPELA| SIKU KIRI ATAU KANAN | L SHAPE | SOFA 3 SETTER | TAMARA
+Rp2.599.000
+Tangerang
+Dev_store.id_
+Preorder
+Kursi Sofa Tamu Kayu Jati Unicare L Siku
+Rp3.650.000
+Kab. Tangerang
+Isahfurniture
+COD COVER SOFA STREACH ELASTIS 1234 SEATER SIKU SUDUT L SHAFED ELASTIS
+Rp130.000
+Tangerang
+jafa aby store
+4.9
+Terjual 40+
+Kaki Sofa Meja 10 cm Chrome Siku Antik Meja Lemari Kitchen Nakas Besi
+Rp20.500
+Cashback
+Tangerang Selatan
+Sinar Rezeki 8
+5.0
+Terjual 250+
+kaki kursi / kaki sofa siku plastik 7cm
+Rp7.500
+Kab. Probolinggo
+JATI MERAH
+4.4
+Terjual 50+
+Ad
+COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
+Rp100.000
+Cashback
+Tangerang
+coversofa
+4.8
+Terjual 250+
+Ad
+Ivaro Sofa Seater Louise
+Rp4.500.000
+36%
+Rp7.000.000
+Tangerang
+Ivaro Furniture
+4.8
+Terjual 12
+Ad
+COVER SOFA L PUTUS SARUNG SOFA L SIKU COVER SOFA ELASTIS
+Rp390.000
+Tangerang
+jafa aby store
+5.0
+Terjual 4
+Ad
+Sofa Maite 3 Seater Ivaro Arova
+Rp11.000.000
+39%
+Rp18.000.000
+Tangerang
+Ivaro Furniture
+5.0
+Terjual 2
+Preorder
+Ad
+Custom - Sofa L Blue
+Rp4.500.000
+Cashback
+Surabaya
+Sofa Surabaya
+5.0
+Terjual 1
+Kaki Sofa Meja 120 - 11 cm BRONZE Siku Antik Meja Lemari Kitchen Nakas
+Rp29.000
+Cashback
+Tangerang Selatan
+Sinar Rezeki 8
+5.0
+Terjual 16
+Siku besi ornament kotak mahar 40 mm Siku sofa Dekorativ corner A.08B
+Rp6.500
+Cashback
+Jakarta Timur
+Omah Engsel
+5.0
+Terjual 40+
+kaki kursi / kaki sofa siku krom stainless 5.5cm
+Rp9.000
+Kab. Probolinggo
+JATI MERAH
+5.0
+Terjual 100+
+COVER SOFA ELASTIS Bulu-Bulu L SHAPED SUDUT SIKU COVER SOFA SEATER
+Rp395.900
+Kab. Bogor
+cover sofa
+TokopediaParents
+Cover Sarung Sofa Elastis Penutup Pelindung Sofa Bed Siku 2 Seater
+Rp105.000
+Cashback
+Jakarta Selatan
+LASOM store
+5.0
+Terjual 3
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp10.000
+Cashback
+Kab. Tangerang
+Berkat Sejati Toko
+5.0
+Terjual 500+
+120Pcs Kaki Sofa Siku 6 cm Untuk Spring Bed Sofa Kursi Meja Furniture
+Rp1.026.000
+Jakarta Barat
+Surya Utama Sejahtera
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp8.500
+Cashback
+Kab. Tangerang
+Berkat Sejati Toko
+4.9
+Terjual 750+
+Siku besi ornament kotak mahar 35 mm Siku sofa Dekorativ corner A.08A
+Rp5.500
+Cashback
+Jakarta Timur
+Omah Engsel
+4.3
+Terjual 50+
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp9.900
+Cashback
+Bogor
+Natz
+Terjual 8
+BANGKU SHAPED SEATER SIKU KURSI 1 SOFA 3 1 DUDUKAN 2 SARUNG 3 SUDUT 2
+Rp459.000
+Jakarta Barat
+okay okay214
+COVER SOFA SEATER 1 2 3 STRECH ELASTIS SARUNG SOFA BED KURSI SIKU L
+Rp355.300
+Jakarta Barat
+AUR AURISTELA
+Cover Sofa L Shaped Sarung Sofa Leter L Siku Elastis Anti Slip Import
+Rp400.000
+20%
+Rp500.000
+Jakarta Barat
+Barqahshop
+5.0
+Terjual 3
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp3.200
+Tangerang
+tekido grosir elektronik
+Kaki Sofa Besi Model T Siku 10 cm Bukan Kaki Sofa Stainless Plastik 90
+Rp11.000
+Cashback
+Bogor
+Mustika Jaya Perkasa
+5.0
+Terjual 70+
+ELASTIS 3 MOTIF KURSI SHAPED SOFA BED COVER SOFA SARUNG FURNITURE SIKU
+Rp401.850
+Cashback
+Jakarta Barat
+Softyan
+Produk Terbaru
+Kaki Sofa 10 cm Bronze Siku Antik Kitcen Nakas Besi - 106-10
+Rp76.000
+Jakarta Pusat
+Jaffan Mukhtar
+Produk Terbaru
+Kaki Sofa Kitcen Nakas Model SIKU Stainless Crome 5.5 CM
+Rp38.000
+Jakarta Pusat
+Jaffan Mukhtar
+Produk Terbaru
+Kaki Sofa 120 - 11 cm BRONZE Siku Antik Kitcen Nakas 120-11 CROME
+Rp74.000
+Jakarta Pusat
+Jaffan Mukhtar
+Produk Terbaru
+Kaki Sofa 10 cm Crome Siku Antik Kitcen Nakas Besi - 106-10 CM
+Rp74.000
+Jakarta Pusat
+Jaffan Mukhtar
+Produk Terbaru
+Kaki Sofa 120 - 11 cm Crome Siku Antik Kitcen Nakas 120-11cm CROME
+Rp93.900
+Jakarta Barat
+Khairil Dzaki
+Produk Terbaru
+Kaki Sofa 120 - 11 cm Brass Siku Antik Kuningan Nakas 120-11
+Rp78.000
+Jakarta Pusat
+Jaffan Mukhtar
+Sarung Sofa Elastis 1 2 3 4 Seater Cover Sofa L Shaped Siku Sudut
+Rp230.000
+Jakarta Barat
+Totoktor
+Sarung Sofa Stretch Elastis 1 2 3 4 Seater L Shaped Siku Cover Sofa 1
+Rp161.000
+Jakarta Barat
+Totoktor
+Sarung Sofa Stretch Elastis 1 2 3 4 Seater L Shaped Siku Cover Sofa 1
+Rp180.000
+Jakarta Selatan
+Aimin
+Produk Terbaru
+Kaki Sofa 10 cm Bronze Siku Antik Kitcen Nakas Besi - 106-10
+Rp86.900
+Jakarta Barat
+Khairil Dzaki
+Produk Terbaru
+Kaki Sofa 10 cm Crome Siku Antik Kitcen Nakas Besi - 106-10 CM
+Rp80.900
+Jakarta Barat
+Khairil Dzaki
+Produk Terbaru
+AJ348 Cover Sofa Seater 1 2 3 4 Sarung Sofa Elastis L Shaped Siku Sudu
+Rp265.000
+Jakarta Timur
+jumain ol
+Kaki Sofa 10 cm Brass Siku Antik Kitcen Nakas Besi - 106-10
+Rp70.700
+Jakarta Barat
+Bejo Big Store
+Produk Terbaru
+Kaki Sofa Meja Lemari Kchen kas Model SIKU Stain Chrome 7.5 CM
+Rp40.000
+Jakarta Pusat
+Kuncoro tronika
+Kaki Sofa 10 cm Bronze Siku Antik Kitcen Nakas Besi - 106-10
+Rp79.700
+Jakarta Barat
+Bejo Big Store
+Kaki Sofa Kitcen Nakas Model SIKU Stainless Crome 7.5 CM
+Rp32.700
+Jakarta Barat
+Bejo Big Store
+Cover Sofa Seater 1 2 3 4 Strech Elastis Sarung Sofa Bed Kursi Siku L
+Rp182.000
+Jakarta Barat
+Totoktor
+Kaki Sofa 120 - 11 cm Crome Siku Antik Kitcen Nakas 120-11cm CROME
+Rp84.700
+Jakarta Barat
+Bejo Big Store
+Produk Terbaru
+KL541 KAKI SOFA SIKU T15 ayo der
+Rp112.000
+Jakarta Selatan
+RepublikFiksi ol
+Kaki Sofa 120 - 11 cm Brass Siku Antik Kuningan Nakas 120-11
+Rp79.700
+Jakarta Barat
+Bejo Big Store
+Produk Terbaru
+Kaki Sofa 120 - 11 cm Brass Siku Antik Kuningan Nakas 120-11
+Rp95.900
+Jakarta Barat
+Khairil Dzaki
+Kaki Sofa 120 - 11 cm BRONZE Siku Antik Kitcen Nakas 120-11 CROME
+Rp81.700
+Jakarta Barat
+Bejo Big Store
+Kaki Sofa Springbed Stabil Stainless Siku 6 cm
+Rp7.000
+Kab. Bogor
+Ekatunggal_id
+5.0
+Terjual 8
+Produk Terbaru
+COVER SOFA POLOS Sarung Sofa Seater Motif 1 2 3 L Saped Sudut Siku - F
+Rp289.000
+Cashback
+Jakarta Utara
+Toko tia_as
+Ad
+HSH 2022
+IVARO Sofa Bed Pumpkin Hitam
+Rp1.899.000
+Cashback
+Tangerang
+Ivaro Furniture
+4.7
+Terjual 250+
+Preorder
+Ad
+Sofa Ruang Tamu Modesty 3 Seater Puff List Flat (Cust 250x85x80 cm)
+Rp4.099.000
+Cashback
+Depok
+MODESTY SOFA WORKSHOP
+5.0
+Terjual 5
+Ad
+Sofa BED / Sofa Tidur / Sofa Kasur /Sofa Bed / Reklening BARROW IVARO
+Rp5.600.000
+20%
+Rp7.000.000
+Tangerang
+Ivaro Furniture
+5.0
+Terjual 1
+Ad
+Home Sweet Home
+CUBIX SERIES - Kursi Tamu Sofa Modern Minimalis (AC,AC) - XIONCO
+Rp2.090.000
+Cashback
+Jakarta Selatan
+xionco
+4.9
+Terjual 750+
+Ad
+Ivaro Roana Sofa L Venus
+Rp2.999.000
+33%
+Rp4.500.000
+Tangerang
+Ivaro Furniture
+4.9
+Terjual 70+
+| FAIL |
+Element with locator '$class:css-1eamy6l-unf-pagination-item' not found.
+------------------------------------------------------------------------------
+TOKOPEDIA Close Browser                                               | PASS |
+------------------------------------------------------------------------------
+TokopediaSortRelevanceFurniture :: This test suite to test functio... | FAIL |
+4 tests, 3 passed, 1 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\report.html

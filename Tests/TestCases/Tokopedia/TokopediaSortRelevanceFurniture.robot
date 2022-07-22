@@ -1,8 +1,8 @@
 *** Settings ***
 Documentation                             This test suite to test functionality survey, each type survey have 1 survey
 Library                                   SeleniumLibrary
-Resource                                  ../TestSteps/stepMain.robot
-Resource                                  ../Variables/varMain.robot
+Resource                                  ../../TestSteps/stepMain.robot
+Resource                                  ../../Variables/varMain.robot
 
 *** Comments ***
 
@@ -13,7 +13,7 @@ TOKOPEDIA Open Website Under Test
 
 TOKOPEDIA Search For Item
     Click Search Box Tokopedia
-    Type Item 1 Name Tokopedia
+    Type Item 3 Name Tokopedia
     Hit Submit Button Tokopedia
 
 TOKOPEDIA Get Displayed Items Name 1

@@ -57,6 +57,12 @@ Click Option For Choosing Third Location Tokopedia
     Sleep                                    1
     Click Element                            ${APPLY LOCATION TOKOPEDIA}
 
+Click Sort Option Tokopedia
+    Click Element                            ${SORT OPTIONS TOKOPEDIA}
+
+Choose Sort by Lowest Price Tokopedia
+    Click Element                            ${SORT OPTIONS LOWEST PRICE TOKOPEDIA}
+
 Get All Product Name Tokopedia
     FOR                                     ${i}                                            IN RANGE                        0                   2
         Sleep                                    1
@@ -64,7 +70,7 @@ Get All Product Name Tokopedia
             Sleep                                    1
             Execute Javascript                       window.scrollTo(0,${counter}*600)
             Sleep                                    1
-            ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${NEXT PAGE BUTTON TOKOPEDIA}         loglevel=NONE
+            ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${GLOBAL NEXT BUTTON}          loglevel=NONE
             # Log to Console                           ${status}
             Sleep                                    1
             Run Keyword If                           ${status}                                    Exit For Loop
@@ -74,6 +80,8 @@ Get All Product Name Tokopedia
         ${PRODUCTS 1 NAME TOKOPEDIA}=            Get Text                                       ${PRODUCTS 1 GROUP 1 TOKOPEDIA}
         Log to Console                           ${PRODUCTS 1 NAME TOKOPEDIA}
         Sleep                                    1
-        Click Element                            ${NEXT PAGE BUTTON TOKOPEDIA}
+        Click Element                            ${NEXT PAGE BUTTON 1 TOKOPEDIA}
+        Click Element                            ${NEXT PAGE BUTTON 2 TOKOPEDIA}
+        Click Element                            ${NEXT PAGE BUTTON 3 TOKOPEDIA}
     ${i}                                    Set Variable                                    ${i}+1
     END

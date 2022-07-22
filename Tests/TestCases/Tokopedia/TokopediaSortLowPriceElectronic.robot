@@ -16,6 +16,10 @@ TOKOPEDIA Search For Item
     Type Item 1 Name Tokopedia
     Hit Submit Button Tokopedia
 
+TOKOPEDIA Sort by Lowest Price
+    Click Sort Option Tokopedia
+    Choose Sort by Lowest Price Tokopedia
+    
 TOKOPEDIA Get Displayed Items Name 1
     Get All Product Name Tokopedia
 
