@@ -5,20 +5,31 @@ TOKOPEDIA Open Website Under Test                                     | PASS |
 ------------------------------------------------------------------------------
 TOKOPEDIA Search For Item                                             | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Get Displayed Items Name 1                                  Ad
-COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS - beige, 1 Seater
+TOKOPEDIA Get Displayed Items Name 1                                  VALID_DATA_BELOW
+Ad
+COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS
 Rp135.000
 Tangerang
 sarungsofa
 4.8
 Terjual 500+
 Ad
-Sofa L /Sofa Sudut/Sofa L Minimalis/Kursi L /Sofa Tamu HIDAN IVARO
-Rp9.400.000
-37%
-Rp15.000.000
+HSH 2022
+Ivaro Roana Sofa Bed Tomato
+Rp1.799.000
+Cashback
 Tangerang
 Ivaro Furniture
+4.7
+Terjual 100+
+Ad
+ASTRAL - XIONCO - Sofa Minimalis Three Seat - Tiga Dudukan - Hitam
+Rp2.610.000
+Cashback
+Jakarta Selatan
+xionco
+5.0
+Terjual 100+
 Preorder
 Ad
 Home Sweet Home
@@ -30,21 +41,14 @@ MODESTY SOFA WORKSHOP
 5.0
 Terjual 30+
 Ad
-Ivaro Vabina Sofa Bed Lavender
-Rp3.300.000
-37%
-Rp5.200.000
+Ivaro Onuka Sofa 3 Seater
+Rp7.250.000
+28%
+Rp10.000.000
 Tangerang
 Ivaro Furniture
 5.0
-Terjual 16
-Preorder
-Ad
-Sofa tamu kaki besi finishing gold sofa 2 seater terbaru
-Rp3.600.000
-Cashback
-Kab. Jepara
-Isal Jati Furniture
+Terjual 11
 COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS
 Rp135.000
 Tangerang
@@ -109,49 +113,45 @@ jafa aby store
 5.0
 Terjual 4
 Ad
-Ivaro Sofa Bed Airin
-Rp2.850.000
-53%
-Rp6.000.000
+COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
+Rp100.000
+Cashback
+Tangerang
+coversofa
+4.8
+Terjual 250+
+Ad
+Ivaro Sofa Bench Santa
+Rp1.600.000
+20%
+Rp2.000.000
 Tangerang
 Ivaro Furniture
-4.9
-Terjual 21
+5.0
+Terjual 6
 Ad
-ASTRAL - XIONCO - Sofa Minimalis Three Seat - Tiga Dudukan - Hitam
-Rp2.610.000
+Home Sweet Home
+CUBIX SERIES - Kursi Tamu Sofa Modern Minimalis (AC,AC) - XIONCO - Hitam, Rangka Terang
+Rp2.090.000
 Cashback
 Jakarta Selatan
 xionco
-5.0
-Terjual 100+
+4.9
+Terjual 750+
 Ad
-Ivaro Vabina Sofa 3 Seater Lilac
-Rp4.000.000
-Cashback
+Sofa L /Sofa Sudut/Sofa L Minimalis/Kursi L /Sofa Tamu CABRIOLE IVARO
+Rp15.500.000
+14%
+Rp18.000.000
 Tangerang
 Ivaro Furniture
-3.9
-Terjual 11
 Ad
-Eros Sofabed 3s - Sofabed Minimalis - Sofa Grey
-Rp1.999.000
-41%
-Rp3.399.000
+COVER SOFA L PUTUS SARUNG SOFA L SIKU COVER SOFA ELASTIS
+Rp390.000
 Tangerang
-icreateidofficial
+jafa aby store
 5.0
-Terjual 3
-Ad
-TokopediaParents
-Ivaro Sofa Trendy
-Rp4.000.000
-33%
-Rp6.000.000
-Tangerang
-Ivaro Furniture
-5.0
-Terjual 7
+Terjual 4
 COVER SOFA ELASTIS cycas L SHAPED SUDUT SIKU COVER SOFA SEATER
 Rp450.000
 Kab. Bogor
@@ -212,47 +212,51 @@ JATI MERAH
 4.4
 Terjual 50+
 Ad
-COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
-Rp100.000
-Cashback
-Tangerang
-coversofa
-4.8
-Terjual 250+
-Ad
-Ivaro Sofa Seater Louise
-Rp4.500.000
-36%
+TokopediaParents
+Ivaro Sofa 3 Seater Manggo
+Rp3.500.000
+50%
 Rp7.000.000
 Tangerang
 Ivaro Furniture
-4.8
-Terjual 12
+4.7
+Terjual 30+
+Preorder
 Ad
-COVER SOFA L PUTUS SARUNG SOFA L SIKU COVER SOFA ELASTIS
-Rp390.000
-Tangerang
-jafa aby store
+Sofa Minimalis Bench 3 Seater Diamond Guling
+Rp2.999.000
+Cashback
+Depok
+MODESTY SOFA WORKSHOP
 5.0
-Terjual 4
+Terjual 2
 Ad
-Sofa Maite 3 Seater Ivaro Arova
-Rp11.000.000
-39%
-Rp18.000.000
+Ivaro Roana Sofa Bed Chili
+Rp1.899.000
+10%
+Rp2.100.000
 Tangerang
 Ivaro Furniture
 5.0
-Terjual 2
+Terjual 40+
+Ad
+XIONCO - ASTRAL SERIES - Sofa Minimalis 2 Seat - Hitam
+Rp1.850.000
+Cashback
+Jakarta Selatan
+xionco
+4.9
+Terjual 80+
 Preorder
 Ad
-Custom - Sofa L Blue
-Rp4.500.000
+Sisa 3
+SOFA KOBE 2 1 OSCAR KULIT SET - 1S
+Rp1.900.000
 Cashback
-Surabaya
-Sofa Surabaya
+Kab. Tangerang
+CuQu Furniture
 5.0
-Terjual 1
+Terjual 15
 Kaki Sofa Meja 120 - 11 cm BRONZE Siku Antik Meja Lemari Kitchen Nakas
 Rp29.000
 Cashback
@@ -461,58 +465,61 @@ Cashback
 Jakarta Utara
 Toko tia_as
 Ad
-HSH 2022
-IVARO Sofa Bed Pumpkin Hitam
-Rp1.899.000
-Cashback
-Tangerang
-Ivaro Furniture
-4.7
-Terjual 250+
-Preorder
-Ad
-Sofa Ruang Tamu Modesty 3 Seater Puff List Flat (Cust 250x85x80 cm)
-Rp4.099.000
-Cashback
-Depok
-MODESTY SOFA WORKSHOP
-5.0
-Terjual 5
-Ad
-Sofa BED / Sofa Tidur / Sofa Kasur /Sofa Bed / Reklening BARROW IVARO
-Rp5.600.000
-20%
-Rp7.000.000
+Ivaro Roana Sofa Set Selena
+Rp3.700.000
+38%
+Rp6.000.000
 Tangerang
 Ivaro Furniture
 5.0
-Terjual 1
+Terjual 16
 Ad
 Home Sweet Home
-CUBIX SERIES - Kursi Tamu Sofa Modern Minimalis (AC,AC) - XIONCO
-Rp2.090.000
-Cashback
+Guise - 3 Seater Sofa Minimalis - Abu-abu
+Rp3.390.000
+8%
+Rp3.690.000
 Jakarta Selatan
 xionco
 4.9
-Terjual 750+
+Terjual 1 rb+
 Ad
-Ivaro Roana Sofa L Venus
-Rp2.999.000
-33%
-Rp4.500.000
+Ivaro Sofa Bed Airin
+Rp2.850.000
+53%
+Rp6.000.000
 Tangerang
 Ivaro Furniture
 4.9
-Terjual 70+
+Terjual 21
+Ad
+Varyag Sofa Bed I Kursi Tamu I Sofa Lipat I Sofa Recliner 3 Seater
+Rp1.290.000
+39%
+Rp2.100.000
+Kab. Sidoarjo
+iFURNHOLIC
+4.9
+Terjual 18
+Ad
+HSH 2022
+Ivaro Sofa Bed Hana
+Rp2.499.000
+50%
+Rp5.000.000
+Tangerang
+Ivaro Furniture
+4.8
+Terjual 500+
+VALID_DATA_ABOVE
 | FAIL |
-Element with locator '$class:css-1eamy6l-unf-pagination-item' not found.
+Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button' not found.
 ------------------------------------------------------------------------------
 TOKOPEDIA Close Browser                                               | PASS |
 ------------------------------------------------------------------------------
 TokopediaSortRelevanceFurniture :: This test suite to test functio... | FAIL |
 4 tests, 3 passed, 1 failed
 ==============================================================================
-Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\output.xml
-Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\log.html
-Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\report.html
+Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\output.xml
+Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\log.html
+Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\report.html

@@ -80,7 +80,9 @@ Get All Product Name Tokopedia
         END
         Sleep                                    1
         ${PRODUCTS 1 NAME TOKOPEDIA}=            Get Text                                       ${PRODUCTS 1 GROUP 1 TOKOPEDIA}
+        Log to Console                           VALID_DATA_BELOW
         Log to Console                           ${PRODUCTS 1 NAME TOKOPEDIA}
+        Log to Console                           VALID_DATA_ABOVE
         Sleep                                    1
         Click Element                            ${NEXT PAGE BUTTON 1 TOKOPEDIA}
         Click Element                            ${NEXT PAGE BUTTON 2 TOKOPEDIA}

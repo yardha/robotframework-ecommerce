@@ -5,27 +5,7 @@ TOKOPEDIA Open Website Under Test                                     | PASS |
 ------------------------------------------------------------------------------
 TOKOPEDIA Search For Item                                             | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Get Displayed Items Name 1                                  Ad
-sweater rajut
-Rp35.000
-Cashback
-Kab. Bogor
-Ruko13
-Ad
-Cardigan Knit rajut wanita & pria | Sweater knit korean style
-Rp149.500
-Cashback
-Jakarta Barat
-Little Charme
-5.0
-Terjual 8
-Ad
-Produk Terbaru
-SWEATER CREWNECK POLOS KASUAL MODEL POCKET
-Rp75.500
-Cashback
-Kab. Bandung
-RABBITHOOD APPAREL
+TOKOPEDIA Get Displayed Items Name 1                                  VALID_DATA_BELOW
 Ad
 Fashion Glam
 Marble Cream Snugg Knit Sweater / Sweater Rajut Coklat Motif
@@ -43,6 +23,27 @@ Cimahi
 Fath Basic
 4.8
 Terjual 750+
+Ad
+SWEATER RAJUT PREMIUM TERLARIS
+Rp87.600
+Cashback
+Kab. Bantul
+COCO CHICI
+5.0
+Terjual 2
+Ad
+SWEATER RAJUT IMPORT DI0R PREMIUM
+Rp225.000
+Cashback
+Jakarta Utara
+BRM District
+Ad
+Sweater Turtle Zipper Neck Hitam Basic Long Sleeve Pria Mockneck Black
+Rp105.000
+Kab. Bandung
+POLAS POLOS
+4.3
+Terjual 3
 Terlaris
 ARIEL GREEN ARMY / SWEATER RAJUT PRIA JAKET ARIEL ZIPPER THUMBHOLE
 Rp59.999
@@ -65,14 +66,6 @@ Jakarta Utara
 MARIO ZEGNOTI OFFICIAL STORE
 4.8
 Terjual 60+
-Sweater Rajut Knit Pria Leher V Marun Katun Polos Vleur Okechuku
-Rp79.900
-45%
-Rp145.000
-Jakarta Barat
-Okechuku
-4.7
-Terjual 500+
 Sweater Rajut Pria Distro Keren
 Rp38.699
 34%
@@ -81,6 +74,14 @@ Jakarta Barat
 Gudang Fashion
 4.8
 Terjual 100+
+Sweater Rajut Knit Pria Leher V Marun Katun Polos Vleur Okechuku
+Rp79.900
+45%
+Rp145.000
+Jakarta Barat
+Okechuku
+4.7
+Terjual 500+
 Mario Zegnoti - Sweater Rajut Bapak Krah V Pria Import (#V13)
 Rp145.000
 Jakarta Utara
@@ -120,27 +121,29 @@ Kale Clothing
 4.9
 Terjual 90+
 Ad
-Okechuku KINAN Knit Sweater Rajut Unisex V Neck Switer Pria Wanita
-Rp94.900
-27%
-Rp129.900
-Jakarta Barat
-Okechuku
-4.9
-Terjual 30+
+Twisted Sunset Snugg Knit Sweater / Sweater Rajut Merah Bata Biru
+Rp463.200
+20%
+Rp579.000
+Jakarta Pusat
+snugg
+5.0
+Terjual 5
 Ad
-Sweater Rajut Unisex NAUTICA
-Rp75.000
+SWEATER RAJUT PRIA GAZEBO - Navy, L
+Rp79.900
 Cashback
-Bogor
-Murahnya Branded
-Ad
-CROP JARING SWEATER-SWEATER RAJUT - Maroon
-Rp45.000
-Cimahi
-Kerudungkekinian80
-4.0
+Kab. Bekasi
+Toko_abang77
 Terjual 1
+Ad
+Sisa 3
+SWEATER RAJUT WANITA TURTLE NECK STRETCH IMPORT
+Rp85.000
+Tangerang
+Casslyn House
+4.6
+Terjual 100+
 Ad
 sweater rajut turtleneck pria import leher tinggi premium quality
 Rp143.910
@@ -151,13 +154,13 @@ arkan ku
 5.0
 Terjual 2
 Ad
-Sweater Rajut Pria Zico Tribal
-Rp75.000
+Sweater Rajut Wanita Anna Big Size Tebal Premium
+Rp129.900
 Cashback
-Kab. Bantul
-COCO CHICI
-4.2
-Terjual 30+
+Bandung
+FAFOUR OFFICIAL
+5.0
+Terjual 2
 Atasan/Sweater Rajut Pria LABIRIN DOTY/GRADASI Tribal good quality
 Rp49.999
 Cashback
@@ -229,42 +232,44 @@ Gomuda
 4.8
 Terjual 100+
 Ad
-Sweater Turtle Zipper Neck Hitam Basic Long Sleeve Pria Mockneck Black
-Rp105.000
-Kab. Bandung
-POLAS POLOS
-4.3
-Terjual 3
-Ad
-Twisted Sunset Snugg Knit Sweater / Sweater Rajut Merah Bata Biru - Twisted Sunset
-Rp463.200
-20%
-Rp579.000
-Jakarta Pusat
-snugg
-5.0
-Terjual 5
-Ad
-Sweater Rajut Unisex HUSH PUPPIES
-Rp100.000
-Cashback
-Bogor
-Murahnya Branded
-Ad
-sweater polos - Abu -abu Tua, M
-Rp40.000
-Jakarta Utara
-Centralindo88
+Galeri Fashion
+Sweater Rajut Pria Gomuda Hoodie Full Zip Abu Tua
+Rp239.000
+32%
+Rp350.000
+Cimahi
+Gomuda
 4.9
-Terjual 2 rb+
+Terjual 750+
 Ad
-Sisa 3
-SWEATER RAJUT WANITA TURTLE NECK STRETCH IMPORT
-Rp85.000
-Tangerang
-Casslyn House
-4.6
-Terjual 100+
+sweater rajut crop kerah v fuji murah
+Rp40.000
+Bandung
+fabrique Radjoett fashion
+Ad
+Sweater Rajut Pria Gomuda - V-Neck Polos Collection
+Rp87.000
+65%
+Rp250.000
+Cimahi
+Gomuda
+4.8
+Terjual 3 rb+
+Ad
+SWEATER RAJUT ARIEL TERMURAH / JAKET ARIEL TERMURAH
+Rp50.000
+Grosir
+Kab. Bandung
+SYAL FASHION GROSIR BANDUNG
+4.3
+Terjual 250+
+Ad
+Sweater Rajut Premium Kenzo Tiger / Crewneck rajut / Sweater impor - All Size, Merah
+Rp220.000
+Jakarta Pusat
+PremiumCloth
+5.0
+Terjual 1
 Terlaris
 Sweater Turtleneck Pria Rajut Wool Tebal.
 Rp175.000
@@ -333,6 +338,12 @@ Jakarta Barat
 Gudang Fashion
 5.0
 Terjual 8
+Sweater Pria Turtleneck Bahan Rajut Premium – Vindyzie / Knitting
+Rp89.600
+Bekasi
+UtamiStore29
+4.7
+Terjual 12
 Terlaris
 ARIEL POLOS sweater RAJUT PRIA / JAKET ARIEL ZIPPER THUMBHOLE
 Rp59.000
@@ -354,12 +365,6 @@ Jakarta Utara
 VM VanMarvell
 4.6
 Terjual 60+
-Sweater Pria Turtleneck Bahan Rajut Premium – Vindyzie / Knitting
-Rp89.600
-Bekasi
-UtamiStore29
-4.7
-Terjual 12
 Sweater cowok sweater rajut cowok sweater kerja cowok Jumbo XL XXL
 Rp99.500
 Jakarta Timur
@@ -393,13 +398,6 @@ Jakarta Barat
 18COLLECTION
 4.7
 Terjual 100+
-Preorder
-sweater blazer pria rajut cotton halus
-Rp165.000
-Cimahi
-Rockindlant sweater
-4.5
-Terjual 13
 sweater rajut army unisex
 Rp90.000
 Cashback
@@ -454,6 +452,13 @@ Jakarta Timur
 212 Footgear
 4.1
 Terjual 40+
+Preorder
+sweater rajut jaket pria cotton original
+Rp160.000
+Cimahi
+Rockindlant sweater
+4.5
+Terjual 60+
 Baju rajut turtleneck zipper/sweater turtleneck resleting/rajut murah
 Rp65.900
 Bandung
@@ -467,13 +472,6 @@ Kab. Purwakarta
 IRN Nineteen
 4.6
 Terjual 2 rb+
-Preorder
-sweater rajut jaket pria cotton original
-Rp160.000
-Cimahi
-Rockindlant sweater
-4.5
-Terjual 60+
 Cardigan rajut cowok sweater rajut pria korean style M-L XL-XXL
 Rp85.000
 Jakarta Timur
@@ -542,16 +540,14 @@ Kab. Bandung
 Pusat Grosir Distro Bdg
 4.3
 Terjual 2 rb+
+Sweater Pria Rajut Resleting Lengan Panjang Import (#450
+Rp135.000
+Jakarta Utara
+MARIO ZEGNOTI OFFICIAL STORE
+5.0
+Terjual 8
 Ad
-Produk Terbaru
-Sweater Rajut Wanita Anna Big Size Tebal Premium
-Rp129.900
-Cashback
-Bandung
-FAFOUR OFFICIAL
-Terjual 1
-Ad
-Twisted Choco Snugg Knit V-Neck Sweater / Sweater Rajut Coklat Putih - twisted blue
+Twisted Choco Snugg Knit V-Neck Sweater / Sweater Rajut Coklat Putih
 Rp471.200
 20%
 Rp589.000
@@ -560,36 +556,44 @@ snugg
 5.0
 Terjual 4
 Ad
-Sweater Rajut Premium Kenzo Tiger / Crewneck rajut / Sweater impor - All Size, Merah
-Rp220.000
-Jakarta Pusat
-PremiumCloth
-5.0
-Terjual 1
+Sweater CHAMPION Reverse Weave Gfs Silver Grey - M
+Rp995.000
+Medan
+six6street
 Ad
-Twisted Choco Snugg Knit Sweater / Sweater Rajut Coklat Putih
-Rp463.200
-20%
-Rp579.000
-Jakarta Pusat
-snugg
-4.0
-Terjual 3
+Coco Chici Sweater Rajut LABIRIN RED NAVY - Biru
+Rp75.000
+Cashback
+Kab. Bantul
+COCO CHICI
+4.8
+Terjual 14
 Ad
-SWEATER (WOLF) SWEATER PREMIUM COD / Sweater Pria / Sweater Distro
-Rp33.000
-Jakarta Barat
-LiauShop
+SWEATER POLOS PRIA BAHAN RAJUT LONG NECK KERAH TINGGI TURTLE NECK
+Rp80.654
+2%
+Rp82.300
+Cimahi
+Fath Knite
 4.6
-Terjual 60+
+Terjual 40+
+Ad
+Sweater Rajut Pria ,Sweater Rajut turtleneck,Fashion Pria,Sweater Pria - Navy, S
+Rp87.500
+Cashback
+Kab. Bantul
+COCO CHICI
+5.0
+Terjual 2
+VALID_DATA_ABOVE
 | FAIL |
-Element with locator '$class:css-1eamy6l-unf-pagination-item' not found.
+Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button' not found.
 ------------------------------------------------------------------------------
 TOKOPEDIA Close Browser                                               | PASS |
 ------------------------------------------------------------------------------
 TokopediaSortRelevanceFashion :: This test suite to test functiona... | FAIL |
 4 tests, 3 passed, 1 failed
 ==============================================================================
-Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\output.xml
-Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\log.html
-Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\report.html
+Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\output.xml
+Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\log.html
+Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Relevance\report.html
