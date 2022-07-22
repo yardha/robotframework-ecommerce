@@ -1,0 +1,361 @@
+==============================================================================
+TokopediaSortLowPriceFurniture :: This test suite to test functionality sur...
+==============================================================================
+TOKOPEDIA Open Website Under Test                                     | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Search For Item                                             | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Sort by Lowest Price                                        | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Get Displayed Items Name 1                                  TAPAK BAWAH PUTIH KAKI SOFA/ALAS BAWAH KAKI SOFA SIKU
+Rp1.000
+Cashback
+Medan
+WieCollection
+5.0
+Terjual 100+
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp3.200
+Tangerang
+tekido grosir elektronik
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp5.216
+Kab. Bogor
+Default store 75
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp5.344
+Jakarta Barat
+riici store
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp5.376
+Jakarta Barat
+Citra Pesona Motor
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp5.500
+Kab. Cianjur
+SUMBERMEUBELACCESSORIES
+Siku besi ornament kotak mahar 35 mm Siku sofa Dekorativ corner A.08A
+Rp5.500
+Cashback
+Jakarta Timur
+Omah Engsel
+4.3
+Terjual 50+
+Sofa Leg Kaki Sofa Kraftig Siku 5.5 cm
+Rp6.000
+Kab. Tangerang
+Kraftig Official Store
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome
+Rp6.180
+Cashback
+Bogor
+Mustika Jaya Perkasa
+5.0
+Terjual 750+
+Siku besi ornament kotak mahar 40 mm Siku sofa Dekorativ corner A.08B
+Rp6.500
+Cashback
+Jakarta Timur
+Omah Engsel
+5.0
+Terjual 40+
+Kaki Sofa Siku 5cm
+Rp7.000
+Surabaya
+Juragan Meuble Surabaya
+kaki sofa siku 6 cm
+Rp7.000
+Tangerang
+Miracle_furniture
+Kaki Sofa Springbed Stabil Stainless Siku 6 cm
+Rp7.000
+Kab. Bogor
+Ekatunggal_id
+5.0
+Terjual 8
+Kaki Sofa Siku L (5cm)
+Rp7.000
+Bandar Lampung
+Toko NIKO RK
+5.0
+Terjual 50+
+kaki kursi / kaki sofa siku plastik 7cm
+Rp7.500
+Kab. Probolinggo
+JATI MERAH
+4.4
+Terjual 50+
+Kaki Sofa Siku Sudut L Crom
+Rp8.000
+Cashback
+Surabaya
+33Jaya10
+Kaki Sofa/Kursi Model Siku (free sekrup)
+Rp8.000
+Surabaya
+Sumberterangonline
+5.0
+Terjual 100+
+Preorder
+kaki sofa siku 10cm
+Rp8.000
+Kab. Bandung
+berliana kaki sofa
+5.0
+Terjual 16
+Kaki Sofa Siku Sudut L Crom
+Rp8.000
+Cashback
+Surabaya
+33 Jaya
+5.0
+Terjual 50+
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp8.500
+Cashback
+Kab. Tangerang
+Berkat Sejati Toko
+4.9
+Terjual 750+
+Corner alas kaki sofa meja kursi 40x20 mm nikel A.702 siku kaki sofa
+Rp9.000
+Jakarta Timur
+OMAH ENGSEL FURNITURE
+5.0
+Terjual 1
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp9.000
+Cashback
+Jakarta Timur
+Omah Engsel
+Terjual 8
+kaki kursi / kaki sofa siku krom stainless 5.5cm
+Rp9.000
+Kab. Probolinggo
+JATI MERAH
+5.0
+Terjual 100+
+Corner alas kaki sofa meja kursi 40x20 mm nikel A.702 siku kaki sofa
+Rp9.000
+Cashback
+Jakarta Timur
+Omah Engsel
+5.0
+Terjual 2
+Kaki Siku Sudut Sofa L BerkualitasIMurahIAdem
+Rp9.600
+Jakarta Barat
+cv.maju_makmur
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp9.900
+Cashback
+Bogor
+Natz
+Terjual 8
+KAKI SOFA BENTUK SIKU, BEST CHROME, BEST QUALITY. TINGGI 8CM
+Rp10.000
+Kab. Bandung
+AKSESORIS SOFA DAN KURSI
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp10.000
+Cashback
+Kab. Tangerang
+Berkat Sejati Toko
+5.0
+Terjual 500+
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome
+Rp11.000
+Surabaya
+inka_str
+Kaki Sofa Besi Model T Siku 10 cm Bukan Kaki Sofa Stainless Plastik 90
+Rp11.000
+Cashback
+Bogor
+Mustika Jaya Perkasa
+5.0
+Terjual 70+
+Kaki Sofa Stainless Siku 5 cm
+Rp11.000
+Jakarta Barat
+MJO Fabric
+5.0
+Terjual 100+
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome
+Rp11.392
+Kab. Bogor
+Default store 75
+Kaki Sofa/Kursi Model Siku (free sekrup)
+Rp12.000
+Jakarta Barat
+berkah sheshop
+Kaki Siku Sudut Sofa L
+Rp12.000
+Surabaya
+Yudhika Pramana
+Kaki Divan siku / kaki sofa siku / kaki kursi model siku Tinggi 5cm
+Rp12.000
+Cashback
+Denpasar
+7-Legacy
+Terjual 16
+Kaki Siku Sudut Sofa L
+Rp13.200
+Surabaya
+KT Story
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp13.345
+Kab. Bogor
+Default store 75
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp14.500
+Kab. Bogor
+Griya_Citra
+Terpopuler Kaki Siku Sudut Sofa L
+Rp14.800
+Surabaya
+serina
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp15.000
+Jakarta Selatan
+OGSIGEN
+KAKI SOFA PLASTIK SIKU
+Rp15.000
+Grosir
+Kab. Tangerang
+Fuyi City furniture
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp15.000
+Kab. Purbalingga
+Luckyday73
+New Kaki Siku Sudut Sofa L
+Rp15.000
+Surabaya
+RAKKI Store's
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp15.000
+Bogor
+Denbagus17
+Produk Terbaru
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp15.999
+Kab. Bogor
+Ajimumpung17
+Kaki Sofa Siku Stainless 8cm
+Rp16.000
+Cashback
+Jakarta Timur
+bahanmebelku
+Terjual 2
+Kaki Sofa Siku Stainless 8cm
+Rp16.000
+Jakarta Timur
+PC Accesories ID
+KAKI SOFA LEMARI SIKU METAL CHROME
+Rp16.500
+Grosir
+Semarang
+elizz shop
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp17.000
+Jakarta Selatan
+OGSIGEN
+Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa
+Rp17.000
+Depok
+Tanggo Official
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp17.000
+Bogor
+Denbagus17
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa h7fd
+Rp18.100
+Kab. Tangerang
+tigoe
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa ifw
+Rp18.100
+Tangerang
+DoraMarket
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa g9fd
+Rp18.100
+Kab. Cianjur
+telulas34
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa jfw
+Rp18.100
+Tangerang
+DoraMarket
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa i7fd
+Rp18.100
+Kab. Tangerang
+tigoe
+Produk Terbaru
+Corner Alas Kaki Sofa Meja Kursi 40X40 Mm L A.303B Siku Kaki Sofa h9fd
+Rp18.100
+Kab. Cianjur
+telulas34
+Produk Terbaru
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp18.999
+Kab. Bogor
+Ajimumpung17
+Produk Terbaru
+Siku besi ornament kotak mahar 40 mm Siku sofa Dekorativ corner A.08B
+Rp20.000
+Jakarta Barat
+Jayaa Berkah Shop
+Kaki Sofa Meja Lemari Kitchen Nakas Model Siku Stainless Chrome 7.5 Cm
+Rp20.000
+Jakarta Barat
+Rudi_mart
+Ad
+COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
+Rp100.000
+Cashback
+Tangerang
+coversofa
+4.8
+Terjual 250+
+Ad
+SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA BED L SHAPED SUDUT SIKU - RANDOM, 1 SEATER
+Rp110.000
+Cashback
+Tangerang
+coversofa
+4.9
+Terjual 100+
+Ad
+COD COVER SOFA STREACH ELASTIS 1234 SEATER SIKU SUDUT L SHAFED ELASTIS - Ungu, 1 Seater
+Rp130.000
+Tangerang
+jafa aby store
+4.9
+Terjual 40+
+Ad
+COVER SOFA L ELASTIS SIKU COVER SOFA L SHAPED SARUNG SOFA L ELASTIS
+Rp135.000
+Tangerang
+sarungsofa
+4.8
+Terjual 500+
+Ad
+COVER SOFA TANPA LENGAN SARUNG SOFA L SIKU COVER SOFA ELASTIS - beige, 99-120 cm
+Rp135.000
+Tangerang
+sarungsofa
+4.8
+Terjual 40+
+| FAIL |
+Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button' not found.
+------------------------------------------------------------------------------
+TOKOPEDIA Close Browser                                               | PASS |
+------------------------------------------------------------------------------
+TokopediaSortLowPriceFurniture :: This test suite to test function... | FAIL |
+5 tests, 4 passed, 1 failed
+==============================================================================
+Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\output.xml
+Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\log.html
+Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\report.html

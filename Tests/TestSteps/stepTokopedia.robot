@@ -59,9 +59,11 @@ Click Option For Choosing Third Location Tokopedia
 
 Click Sort Option Tokopedia
     Click Element                            ${SORT OPTIONS TOKOPEDIA}
+    Sleep                                    1
 
 Choose Sort by Lowest Price Tokopedia
     Click Element                            ${SORT OPTIONS LOWEST PRICE TOKOPEDIA}
+    Sleep                                    1
 
 Get All Product Name Tokopedia
     FOR                                     ${i}                                            IN RANGE                        0                   2

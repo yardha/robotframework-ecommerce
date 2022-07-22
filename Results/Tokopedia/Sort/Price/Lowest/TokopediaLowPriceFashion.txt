@@ -1,0 +1,22 @@
+==============================================================================
+TokopediaSortLowPriceFashion :: This test suite to test functionality surve...
+==============================================================================
+TOKOPEDIA Open Website Under Test                                     | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Search For Item                                             | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Sort by Lowest Price                                        | PASS |
+------------------------------------------------------------------------------
+TOKOPEDIA Get Displayed Items Name 1                                  Harga Minimum
+Hapus Semua
+| FAIL |
+Element with locator 'xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]/nav/ul/li[11]/button' not found.
+------------------------------------------------------------------------------
+TOKOPEDIA Close Browser                                               | PASS |
+------------------------------------------------------------------------------
+TokopediaSortLowPriceFashion :: This test suite to test functional... | FAIL |
+5 tests, 4 passed, 1 failed
+==============================================================================
+Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\output.xml
+Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\log.html
+Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Tokopedia\Sort\Price\Lowest\report.html
