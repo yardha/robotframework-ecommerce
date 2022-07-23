@@ -65,27 +65,48 @@ Choose Sort by Lowest Price Tokopedia
     Click Element                            ${SORT OPTIONS LOWEST PRICE TOKOPEDIA}
     Sleep                                    1
 
+Choose Sort by Highest Price Tokopedia
+    Click Element                            ${SORT OPTIONS HIGHEST PRICE TOKOPEDIA}
+    Sleep                                    1
+
+Sort by Relevance Tag Electronic Tokopedia
+    Log to Console                           Sort by Relevance Tag Electronic Tokopedia
+
+Get Product Name with Sort by Relevance Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Sort by Relevance Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Sort by Lowest Price Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Sort by Lowest Price Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Filter by Location Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Filter by Location Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
+
 Get All Product Name Tokopedia
-    FOR                                     ${i}                                            IN RANGE                        0                   2
+    [Arguments]                             ${next button locator}          ${product group}
+    Sleep                                    1
+    FOR                                      ${counter}                                     IN RANGE                         0                  20
         Sleep                                    1
-        FOR                                      ${counter}                                     IN RANGE                         0                  20
-            Sleep                                    1
-            Execute Javascript                       window.scrollTo(0,${counter}*600)
-            Sleep                                    1
-            ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${GLOBAL NEXT BUTTON}          loglevel=NONE
-            # Log to Console                           ${status}
-            Sleep                                    1
-            Run Keyword If                           ${status}                                    Exit For Loop
-            ${counter}                               Set Variable                                 ${counter}+1
-        END
+        Execute Javascript                       window.scrollTo(0,${counter}*600)
         Sleep                                    1
-        ${PRODUCTS 1 NAME TOKOPEDIA}=            Get Text                                       ${PRODUCTS 1 GROUP 1 TOKOPEDIA}
-        Log to Console                           VALID_DATA_BELOW
-        Log to Console                           ${PRODUCTS 1 NAME TOKOPEDIA}
-        Log to Console                           VALID_DATA_ABOVE
+        ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
+        # Log to Console                           ${status}
         Sleep                                    1
-        Click Element                            ${NEXT PAGE BUTTON 1 TOKOPEDIA}
-        Click Element                            ${NEXT PAGE BUTTON 2 TOKOPEDIA}
-        Click Element                            ${NEXT PAGE BUTTON 3 TOKOPEDIA}
-    ${i}                                    Set Variable                                    ${i}+1
+        Run Keyword If                           ${status}                                    Exit For Loop
+        ${counter}                               Set Variable                                 ${counter}+1
     END
+    Sleep                                    1
+    ${product group}=            Get Text                                       ${product group}
+    Log to Console                           VALID_DATA_BELOW
+    Log to Console                           ${product group}
+    Log to Console                           VALID_DATA_ABOVE
+    Sleep                                    1
+    Click Element                            ${next button locator}
