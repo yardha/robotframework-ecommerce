@@ -73,22 +73,28 @@ Sort by Relevance Tag Electronic Tokopedia
     Log to Console                           Sort by Relevance Tag Electronic Tokopedia
 
 Get Product Name with Sort by Relevance Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}             ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
 
 Get Product Name with Sort by Relevance Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}             ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
 
 Get Product Name with Sort by Lowest Price Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}             ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
 
 Get Product Name with Sort by Lowest Price Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}             ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Sort by Highest Price Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 SORT PRICE TOKOPEDIA}  ${SORT HIGHEST PRICE PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Sort by Highest Price Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 SORT PRICE TOKOPEDIA}  ${SORT HIGHEST PRICE PRODUCT 2 TOKOPEDIA}
 
 Get Product Name with Filter by Location Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 TOKOPEDIA}         ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER TOKOPEDIA}      ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
 
 Get Product Name with Filter by Location Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 TOKOPEDIA}         ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER TOKOPEDIA}      ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
 
 Get All Product Name Tokopedia
     [Arguments]                             ${next button locator}          ${product group}

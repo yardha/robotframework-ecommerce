@@ -7,3 +7,5 @@ Resource    caseLazada.robot
 Resource    caseBlibli.robot
 
 Resource    TokopediaElectronic.robot
+Resource    TokopediaFashion.robot
+Resource    TokopediaFurniture.robot
