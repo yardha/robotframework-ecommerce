@@ -9,23 +9,32 @@ ${SEARCH BUTTON TOKOPEDIA}                  xpath=//*[@id="header-main-wrapper"]
 ${NEXT PAGE BUTTON 1 TOKOPEDIA}             xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]/nav/ul/li[11]/button
 ${NEXT PAGE BUTTON 2 TOKOPEDIA}             xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]/nav/ul/li[11]/button
 ${NEXT PAGE BUTTON 3 TOKOPEDIA}             xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
-                                                  
-${NEXT PAGE BUTTON 1 SORT PRICE TOKOPEDIA}  xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
-${NEXT PAGE BUTTON 2 SORT PRICE TOKOPEDIA}  xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]/nav/ul/li[11]/button
-                                                  
-${NEXT PAGE BUTTON 1 FILTER TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button
-${NEXT PAGE BUTTON 2 FILTER TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
-${NEXT PAGE BUTTON 3 FILTER TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button
+
+${NEXT PAGE BUTTON SORT REL 1 TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
+${NEXT PAGE BUTTON SORT REL 2 TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
+
+${NEXT PAGE BUTTON 1 SORT LOW TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[7]/nav/ul/li[11]/button
+${NEXT PAGE BUTTON 2 SORT LOW TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button
+
+${NEXT PAGE BUTTON 1 SORT HIG TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
+${NEXT PAGE BUTTON 2 SORT HIG TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]/nav/ul/li[11]/button
+
+${NEXT PAGE BUTTON 1 FILTER LOC TOKOPEDIA}  xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button
+${NEXT PAGE BUTTON 2 FILTER LOC TOKOPEDIA}  xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[6]/nav/ul/li[11]/button
 
 ${PRODUCTS 1 GROUP 1 TOKOPEDIA}             xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]
 
 ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}       xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[3]
+${SORT RELEVANCE PRODUCT 2 TOKOPEDIA}       xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]
+
 ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[3]
+${SORT LOWEST PRICE PRODUCT 2 TOKOPEDIA}    xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]
 
 ${SORT HIGHEST PRICE PRODUCT 1 TOKOPEDIA}   xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]
 ${SORT HIGHEST PRICE PRODUCT 2 TOKOPEDIA}   xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[3]
 
 ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[4]
+${FILTER LOCATION PRODUCT 2 TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[5]
 
 ${LOCATION JAKPUS TOKOPEDIA}                xpath=//*[@id="zeus-root"]/div/div[2]/div/div[1]/div[1]/div/div[1]/div[1]/div[2]/div[2]/div/div/span
 ${LOCATION YOGYA TOKOPEDIA}                 xpath=//*[@id="zeus-root"]/div/div[2]/div/div[1]/div[1]/div/div[1]/div[1]/div[2]/div[3]/div/div/span
