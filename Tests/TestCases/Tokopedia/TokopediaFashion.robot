@@ -52,20 +52,25 @@ TOKOPEDIA Filter by Location
     Get Product Name with Filter by Location Page 2 Tokopedia
     Close Browser
 
-# TOKOPEDIA Filter by Lowest Price
-#     Open Website Tokopedia
-#     Click Search Box Tokopedia
-#     Type Item 2 Name Tokopedia
-#     Hit Submit Button Tokopedia
-#     Click XXXXXXXXXX
-#     Get All Product Name Tokopedia
-#     Close Browser
 
-# TOKOPEDIA Filter by Highest Price
-#     Open Website Tokopedia
-#     Click Search Box Tokopedia
-#     Type Item 2 Name Tokopedia
-#     Hit Submit Button Tokopedia
-#     Click XXXXXXXXXX
-#     Get All Product Name Tokopedia
-#     Close Browser
+TOKOPEDIA Filter by Lowest Price
+    Open Website Tokopedia
+    Click Search Box Tokopedia
+    Type Item 2 Name Tokopedia
+    Hit Submit Button Tokopedia
+    Find and Click Box Minimum Price Filter Tokopedia
+    Set Minimum Price Tokopedia
+    Get Product Name with Filter by Minimum Price Page 1 Tokopedia
+    Get Product Name with Filter by Minimum Price Page 2 Tokopedia
+    Close Browser
+
+TOKOPEDIA Filter by Highest Price
+    Open Website Tokopedia
+    Click Search Box Tokopedia
+    Type Item 2 Name Tokopedia
+    Hit Submit Button Tokopedia
+    Find and Click Box Maximum Price Filter Tokopedia
+    Set Maximum Price Tokopedia
+    Get Product Name with Filter by Maximum Price Page 1 Tokopedia
+    Get Product Name with Filter by Maximum Price Page 2 Tokopedia
+    Close Browser

@@ -69,6 +69,16 @@ Choose Sort by Highest Price Tokopedia
     Click Element                            ${SORT OPTIONS HIGHEST PRICE TOKOPEDIA}
     Sleep                                    1
 
+Set Minimum Price Tokopedia
+    Click Element                            ${INPUT BOX MINIMUM PRICE TOKOPEDIA} 
+    Input Text                               @{FILTER MINIMUM PRICE TOKOPEDIA}
+    Press Keys                               @{SUBMIT MINIMUM PRICE TOKOPEDIA}
+
+Set Maximum Price Tokopedia
+    Click Element                            ${INPUT BOX MAXIMUM PRICE TOKOPEDIA} 
+    Input Text                               @{FILTER MAXIMUM PRICE TOKOPEDIA}
+    Press Keys                               @{SUBMIT MAXIMUM PRICE TOKOPEDIA}
+
 Sort by Relevance Tag Electronic Tokopedia
     Log to Console                           Sort by Relevance Tag Electronic Tokopedia
 
@@ -95,6 +105,39 @@ Get Product Name with Filter by Location Page 1 Tokopedia
 
 Get Product Name with Filter by Location Page 2 Tokopedia
     Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER LOC TOKOPEDIA}  ${FILTER LOCATION PRODUCT 2 TOKOPEDIA}
+
+Get Product Name with Filter by Minimum Price Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER MIN TOKOPEDIA}  ${FILTER MIN PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Filter by Minimum Price Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER MIN TOKOPEDIA}  ${FILTER MIN PRODUCT 2 TOKOPEDIA}
+
+Get Product Name with Filter by Maximum Price Page 1 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER MAX TOKOPEDIA}  ${FILTER MAX PRODUCT 1 TOKOPEDIA}
+
+Get Product Name with Filter by Maximum Price Page 2 Tokopedia
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER MAX TOKOPEDIA}  ${FILTER MAX PRODUCT 2 TOKOPEDIA}
+    
+Find and Click Box Minimum Price Filter Tokopedia
+    Find and Click Box Tokopedia            ${INPUT BOX MINIMUM PRICE TOKOPEDIA}
+
+Find and Click Box Maximum Price Filter Tokopedia
+    Find and Click Box Tokopedia            ${INPUT BOX MAXIMUM PRICE TOKOPEDIA}
+
+Find and Click Box Tokopedia
+    [Arguments]                             ${box locator}
+    Sleep                                    1
+    FOR                                      ${counter}                                     IN RANGE                         0                  5
+        Sleep                                    1
+        Execute Javascript                       window.scrollTo(0,${counter}*150)
+        Sleep                                    1
+        ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${box locator}          loglevel=NONE
+        Sleep                                    1
+        Run Keyword If                           ${status}                                    Exit For Loop
+        ${counter}                               Set Variable                                 ${counter}+1
+    END
+    Sleep                                    1
+    Click Element                            ${box locator}
 
 Get All Product Name Tokopedia
     [Arguments]                             ${next button locator}          ${product group}
