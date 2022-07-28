@@ -1,0 +1,13 @@
+==============================================================================
+ShopeeFashion :: This test suite to test functionality survey, each type su...
+==============================================================================
+SHOPEE Sort by Relevance                                              Sort by Relevance Tag Electronic Shopee
+| FAIL |
+Element with locator 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[3]/div[2]' not found.
+------------------------------------------------------------------------------
+ShopeeFashion :: This test suite to test functionality survey, eac... | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Fashion\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Fashion\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Fashion\report.html

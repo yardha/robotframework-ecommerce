@@ -1,0 +1,13 @@
+==============================================================================
+ShopeeFurniture :: This test suite to test functionality survey, each type ...
+==============================================================================
+SHOPEE Sort by Relevance                                              Sort by Relevance Tag Electronic Shopee
+| FAIL |
+Element with locator 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[3]/div[2]' not found.
+------------------------------------------------------------------------------
+ShopeeFurniture :: This test suite to test functionality survey, e... | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Furniture\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Furniture\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Furniture\report.html

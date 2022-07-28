@@ -4,7 +4,7 @@ Resource    ../Settings/Web/URL/urlMain.robot
 
 ***Keywords***
 Open Website Tokopedia
-    Open Browser                             @{URL TOKOPEDIA}
+    Open Browser                             @{URL TOKOPEDIA}                       options=add_argument("--disable-software-rasterizer")
     Sleep                                    3
     Maximize Browser Window
 

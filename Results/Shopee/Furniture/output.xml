@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220729 02:58:30.068" rpa="false" schemaversion="3">
+<suite id="s1" name="ShopeeFurniture" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\Shopee\ShopeeFurniture.robot">
+<test id="s1-t1" name="SHOPEE Sort by Relevance" line="11">
+<kw name="Open Website Shopee" library="stepShopee">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>@{URL SHOPEE}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20220729 02:58:30.275" level="INFO">Opening browser 'chrome' to base url 'https://shopee.co.id/'.</msg>
+<status status="PASS" starttime="20220729 02:58:30.274" endtime="20220729 02:58:34.701"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:37.709" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220729 02:58:34.701" endtime="20220729 02:58:37.709"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20220729 02:58:37.709" endtime="20220729 02:58:37.838"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:30.274" endtime="20220729 02:58:37.838"/>
+</kw>
+<kw name="Close Pop Up Shopee" library="stepShopee">
+<kw name="Click Element At Coordinates" library="SeleniumLibrary">
+<arg>${CLOSE POP UP BUTTON SHOPEE}</arg>
+<arg>${X COORDINATES CLOSE SHOPEE}</arg>
+<arg>${Y COORDINATES CLOSE SHOPEE}</arg>
+<doc>Click the element ``locator`` at ``xoffset/yoffset``.</doc>
+<msg timestamp="20220729 02:58:37.839" level="INFO">Clicking element 'xpath=//*[@id="main"]' at coordinates x=500, y=200.</msg>
+<status status="PASS" starttime="20220729 02:58:37.838" endtime="20220729 02:58:38.445"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:40.447" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220729 02:58:38.445" endtime="20220729 02:58:40.447"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:37.838" endtime="20220729 02:58:40.447"/>
+</kw>
+<kw name="Click Search Box Shopee" library="stepShopee">
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${SEARCH BOX SHOPEE}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220729 02:58:40.448" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
+<status status="PASS" starttime="20220729 02:58:40.448" endtime="20220729 02:58:40.498"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:43.500" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220729 02:58:40.498" endtime="20220729 02:58:43.500"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:40.447" endtime="20220729 02:58:43.500"/>
+</kw>
+<kw name="Type Item 3 Name Shopee" library="stepShopee">
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>@{ITEM 3 NAME SHOPEE}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220729 02:58:43.501" level="INFO">Typing text 'sofa siku' into text field 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/div/form/input'.</msg>
+<status status="PASS" starttime="20220729 02:58:43.500" endtime="20220729 02:58:43.575"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:46.589" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220729 02:58:43.575" endtime="20220729 02:58:46.589"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:43.500" endtime="20220729 02:58:46.589"/>
+</kw>
+<kw name="Hit Submit Button Shopee" library="stepShopee">
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${SEARCH BUTTON SHOPEE}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220729 02:58:46.590" level="INFO">Clicking element 'xpath=//*[@id="main"]/div/header/div[2]/div/div[1]/div[1]/button'.</msg>
+<status status="PASS" starttime="20220729 02:58:46.589" endtime="20220729 02:58:46.654"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:49.665" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220729 02:58:46.655" endtime="20220729 02:58:49.665"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:46.589" endtime="20220729 02:58:49.665"/>
+</kw>
+<kw name="Sort by Relevance Tag Electronic Shopee" library="stepShopee">
+<kw name="Log To Console" library="BuiltIn">
+<arg>Sort by Relevance Tag Electronic Shopee</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220729 02:58:49.666" endtime="20220729 02:58:49.666"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:49.665" endtime="20220729 02:58:49.666"/>
+</kw>
+<kw name="Get Product Name with Sort by Relevance Page 1 Shopee" library="stepShopee">
+<kw name="Get All Product Name Shopee" library="stepShopee">
+<arg>${NEXT PAGE BUTTON SORT REL 1 SHOPEE}</arg>
+<arg>${SORT RELEVANCE PRODUCT 1 SHOPEE}</arg>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:50.670" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220729 02:58:49.667" endtime="20220729 02:58:50.670"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>20</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:51.684" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220729 02:58:50.670" endtime="20220729 02:58:51.684"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,${counter}*600)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220729 02:58:51.684" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*600)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220729 02:58:51.684" endtime="20220729 02:58:51.694"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:52.704" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220729 02:58:51.694" endtime="20220729 02:58:52.704"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220729 02:58:52.768" level="INFO">Current page contains button 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[2]/div[3]/div/button[8]'.</msg>
+<status status="PASS" starttime="20220729 02:58:52.704" endtime="20220729 02:58:52.768"/>
+</kw>
+<msg timestamp="20220729 02:58:52.768" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220729 02:58:52.704" endtime="20220729 02:58:52.768"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:53.776" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220729 02:58:52.768" endtime="20220729 02:58:53.776"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220729 02:58:53.777" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220729 02:58:53.776" endtime="20220729 02:58:53.777"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:53.776" endtime="20220729 02:58:53.777"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:53.777" endtime="20220729 02:58:53.777"/>
+</kw>
+<status status="PASS" starttime="20220729 02:58:50.670" endtime="20220729 02:58:53.777"/>
+</iter>
+<status status="PASS" starttime="20220729 02:58:50.670" endtime="20220729 02:58:53.778"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220729 02:58:54.785" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220729 02:58:53.778" endtime="20220729 02:58:54.785"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${product group}</var>
+<arg>${product group}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220729 02:58:55.040" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-43.png"&gt;&lt;img src="selenium-screenshot-43.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220729 02:58:55.041" level="FAIL">Element with locator 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[3]/div[2]' not found.</msg>
+<status status="FAIL" starttime="20220729 02:58:54.785" endtime="20220729 02:58:55.042"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>VALID_DATA_BELOW</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.042" endtime="20220729 02:58:55.042"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>${product group}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.042" endtime="20220729 02:58:55.042"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>VALID_DATA_ABOVE</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.042" endtime="20220729 02:58:55.042"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.043" endtime="20220729 02:58:55.043"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.043" endtime="20220729 02:58:55.043"/>
+</kw>
+<status status="FAIL" starttime="20220729 02:58:49.666" endtime="20220729 02:58:55.043"/>
+</kw>
+<status status="FAIL" starttime="20220729 02:58:49.666" endtime="20220729 02:58:55.043"/>
+</kw>
+<kw name="Get Product Name with Sort by Relevance Page 2 Shopee" library="stepShopee">
+<status status="NOT RUN" starttime="20220729 02:58:55.044" endtime="20220729 02:58:55.044"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="NOT RUN" starttime="20220729 02:58:55.044" endtime="20220729 02:58:55.044"/>
+</kw>
+<status status="FAIL" starttime="20220729 02:58:30.274" endtime="20220729 02:58:55.044">Element with locator 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[3]/div[2]' not found.</status>
+</test>
+<doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
+<status status="FAIL" starttime="20220729 02:58:30.070" endtime="20220729 02:58:55.045"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="ShopeeFurniture">ShopeeFurniture</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
