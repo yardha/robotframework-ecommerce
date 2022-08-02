@@ -1,0 +1,54 @@
+==============================================================================
+BukalapakFurniture :: This test suite to test functionality survey, each ty...
+==============================================================================
+BUKALAPAK Filter by Highest Price                                     VALID_DATA_BELOW
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
+Rp
+8.500
+5
+Terjual 38
+Kab. Tangerang
+43rb Feedback positif
+Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 7.5 CM
+Rp
+10.000
+5
+Terjual 541
+Kab. Tangerang
+43rb Feedback positif
+KAKI SOFA GOLD / KAKI SOFA / SOFA LEG GOLD / KAKI EMAS / KAKI SIKU T
+Rp
+35.000
+Kab. Bandung
+19 Feedback positif
+No Ongkir
+produkterlaris Kaki Sofa Meja 120 - 11 cm BRONZE Siku Antik Meja Lemari Kitchen Nakas - 120-11 CHROME reallapakelektronikperkakas
+Rp
+40.600
+Jakarta Barat
+3rb Feedback positif
+produkterlaris Kaki Sofa Meja 10 cm Chrome Siku Antik Meja Lemari Kitchen Nakas Besi - 106-10CM CHROME reallapakelektronikperkakas
+Rp
+28.700
+Jakarta Barat
+3rb Feedback positif
+termurah Kaki Sofa Meja 10 cm Brass Siku Antik Meja Lemari Kitchen Nakas Besi 106 10cm AB bestprodukterbaru
+Rp
+36.500
+Jakarta Barat
+3rb Feedback positif
+produkterlaris Kaki Sofa Meja 120 - 11 cm Brass Siku Antik Meja Lemari Kuningan Nakas - 120-11cm AB reallapakelektronikperkakas
+Rp
+40.600
+Jakarta Barat
+3rb Feedback positif
+VALID_DATA_ABOVE
+| FAIL |
+Element with locator 'xpath=//*[@id="product-explorer-container"]/div/div[1]/div[2]/div/div[2]/nav/ul/li[10]/a' not found.
+------------------------------------------------------------------------------
+BukalapakFurniture :: This test suite to test functionality survey... | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Furniture\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Furniture\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Furniture\report.html

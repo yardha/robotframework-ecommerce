@@ -7,6 +7,9 @@ Open Website Shopee
     Open Browser                             @{URL SHOPEE}
     Sleep                                    3
     Maximize Browser Window
+    ${status}                                Run Keyword And Return Status                Page Should Contain                   ${SEARCH BOX SHOPEE}          loglevel=NONE
+    Run Keyword If                           ${status}                                    Element Should Be Visible             ${SEARCH BOX SHOPEE}
+    ...                                      Else                                         Close Pop Up Shopee
 
 Close Pop Up Shopee
     Click Element At Coordinates             ${CLOSE POP UP BUTTON SHOPEE}      ${X COORDINATES CLOSE SHOPEE}                   ${Y COORDINATES CLOSE SHOPEE}
@@ -35,6 +38,7 @@ Hit Submit Button Shopee
 Click Option For Choosing First Location Shopee
     Click Element                            ${VIEW MORE LOCATION SHOPEE}
     Sleep                                    1
+    Find and Click Box Shopee                ${VIEW DETAIL LOCATION SHOPEE}
     Input Text                               @{INPUT LOCATION JAKPUS SHOPEE}
     Sleep                                    1
     Click Element                            ${LOCATION JAKPUS SHOPEE}
@@ -62,7 +66,7 @@ Click Option For Choosing Third Location Shopee
     Click Element                            ${APPLY LOCATION SHOPEE}
 
 Click Sort Option Shopee
-    Click Element                            ${SORT OPTIONS SHOPEE}
+    Mouse Over                               ${SORT OPTIONS SHOPEE}
     Sleep                                    1
 
 Choose Sort by Lowest Price Shopee
@@ -76,12 +80,14 @@ Choose Sort by Highest Price Shopee
 Set Minimum Price Shopee
     Click Element                            ${INPUT BOX MINIMUM PRICE SHOPEE} 
     Input Text                               @{FILTER MINIMUM PRICE SHOPEE}
-    Press Keys                               @{SUBMIT MINIMUM PRICE SHOPEE}
+    Execute Javascript                       window.scrollTo(0,150)
+    Click Element                            ${SUBMIT KEYS PRICE SHOPEE}
 
 Set Maximum Price Shopee
     Click Element                            ${INPUT BOX MAXIMUM PRICE SHOPEE} 
     Input Text                               @{FILTER MAXIMUM PRICE SHOPEE}
-    Press Keys                               @{SUBMIT MAXIMUM PRICE SHOPEE}
+    Execute Javascript                       window.scrollTo(0,150)
+    Click Element                            ${SUBMIT KEYS PRICE SHOPEE}
 
 Sort by Relevance Tag Electronic Shopee
     Log to Console                           Sort by Relevance Tag Electronic Shopee
@@ -146,17 +152,17 @@ Find and Click Box Shopee
 Get All Product Name Shopee
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  20
+    FOR                                      ${counter}                                     IN RANGE                         0                  15
         Sleep                                    1
-        Execute Javascript                       window.scrollTo(0,${counter}*600)
+        Execute Javascript                       window.scroll(0,${counter}*600)
         Sleep                                    1
-        ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
+        ${status}                                Run Keyword And Return Status                Page Should Not Contain Button       ${next button locator}          loglevel=NONE
         # Log to Console                           ${status}
         Sleep                                    1
         Run Keyword If                           ${status}                                    Exit For Loop
         ${counter}                               Set Variable                                 ${counter}+1
     END
-    Sleep                                    1
+    Sleep                                    2
     ${product group}=            Get Text                                       ${product group}
     Log to Console                           VALID_DATA_BELOW
     Log to Console                           ${product group}

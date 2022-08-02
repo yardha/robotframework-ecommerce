@@ -1,12 +1,862 @@
 ==============================================================================
 ShopeeElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-SHOPEE Sort by Relevance                                              Sort by Relevance Tag Electronic Shopee
-| FAIL |
-Element with locator 'xpath=//*[@id="main"]/div/div[2]/div/div/div[2]/div[3]/div[2]' not found.
+SHOPEE Filter by Highest Price                                        VALID_DATA_BELOW
+Star
+3%
+OFF
+Iklan
+Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Soft Case Motif Bear Lucu Beruang Silikon Casing Square Edge
+Rp15.035 - Rp15.500
+4,1RB Terjual
+KOTA JAKARTA BARAT
+Star
+Iklan
+Case Xiaomi Redmi 10A - Softcase Procamera Full Cover Matte - UA
+Rp7.250
+29 Terjual
+KOTA JAKARTA UTARA
+Star
+Iklan
+SOFT CASE XIAOMI REDMI 10A 10C CASE MY CHOICE AERO CANDY DOVE MATTE CASING COVER
+Grosir
+Rp12.500
+256 Terjual
+KOTA JAKARTA SELATAN
+Star
+5%
+OFF
+Iklan
+Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Soft Case Motif Kulit Sapi Silikon Casing
+Rp16.500
+Rp15.675
+8,5RB Terjual
+KOTA JAKARTA BARAT
+Star
+Iklan
+SOFTCASE REDMI 9C / 10A CASE SLIDING CAMERA CASE MACARON
+Rp9.500
+3,3RB Terjual
+KOTA JAKARTA UTARA
+Star
+Redmi 10C Redmi 10A / Redmi 9C Case Pro Kamera Case Slim BlackMatte Silikon Warna Case Redmi 10C Redmi 10A Redmi 9C Redmi 10
+Rp4.500 - Rp13.000
+2,8RB Terjual
+KOTA JAKARTA PUSAT
+Star
+CASE REDMI 10C REDMI 10A - SOFTCASE CASE MATTE COVE DOVE FULL COLOUR REDMI 10C REDMI 10A ~ GT
+Rp6.000
+963 Terjual
+KOTA JAKARTA UTARA
+Case Kaws Redmi 10s 10C 10A 10 9T 9C 9A 9 8 8A PRO 8A Poco M4 Pro M3 Pro M3 Protection Softcase MyChoice
+Diskon Rp2RB
+Rp14.900
+1,6RB Terjual
+KOTA JAKARTA SELATAN
+Star
+Case Xiaomi Redmi 10A Premium Casing Transparan Beatle Series Clear
+Rp20.000
+25 Terjual
+KOTA JAKARTA BARAT
+Star
+45%
+OFF
+Case REDMI 5A 6A 7A 8 10A 10C Softcase XIAOMI Candy Pro Soft Premium
+Kombo Hemat
+Rp10.000
+Rp5.500
+59 Terjual
+KOTA BOGOR
+Star
+67%
+OFF
+Soft Case Silikon TPU Hitam Motif Astronot Susu Sapi Cover Xiaomi Redmi 10C 10A 10
+Diskon Rp1RB
+Rp54.086
+Rp17.849
+1,1RB Terjual
+Luar Negeri
+Star
+49%
+OFF
+Redmi 10C 10A 10 10A 9T 9C 9A 9 Redmi Note 11 Pro + 10s 10 9 8 7Pro Xiaomi 12pro Mi 11 Lite 10T Mi Poco M3 M4 F3 X3 Pro Soft Round Frame Phone Case Cute Cartoon Duck Pattern Protective Cover
+Pilih 3, diskon Rp800
+Rp36.001
+Rp18.300
+977 Terjual
+Luar Negeri
+Star
+3%
+OFF
+Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Soft Case Motif Bear Lucu Beruang Silikon Casing Square Edge
+Rp15.035 - Rp15.500
+4,1RB Terjual
+KOTA JAKARTA BARAT
+Star
+SOFTCASE REDMI 10A - SLIM FIT CARBON XIAOMI REDMI 10A
+Rp8.500
+320 Terjual
+KOTA JAKARTA UTARA
+Star
+53%
+OFF
+Redmi Note 11 11s Note 10s 9 8 7Pro Redmi 10C 10A 10 9 9T 9C 9A 8 Xiaomi 12Pro Mi 11Lite 11T 10TPro Poco F3 M3 X3Pro NFC Xiaomi 12 Pro Fashion Love Heart Soft Lens Protective Soft Case Cover
+Pilih 3, diskon Rp800
+Rp38.279
+Rp18.000
+2,3RB Terjual
+Luar Negeri
+Star
+50%
+OFF
+Case redmi 10c case redmi 10a case redmi 9c Case redmi 9a Case redmi 9t Case redmi 9 Case redmi 10 Case redmi 8 Case redmi 8a straight edge fashion phone case ZB
+Rp56.000
+Rp28.001
+2RB Terjual
+Luar Negeri
+REDMI 10 A REDMI 10A Case Pro Camera Matte Silikon Warna Candy Protect
+Rp30.000
+KOTA MAKASSAR
+Star
+57%
+OFF
+Case Redmi 10C 10A 9C 9A 9 8 Note 11 Note 11s Note 11 pro 9T Note 8 Pro Note 8 Note 7 Note 7Pro Note 9s Note 9 Pro anti Jatuh 10C 1FY Casing Softcase Redmi 10C 10A 9C 9A
+Rp72.412
+Rp30.928
+2,5RB Terjual
+Luar Negeri
+Star
+SOFTCASE XIAOMI REDMI 10A - CASE MATTE FULL COLOUR XIAOMI REDMI 10A
+Rp5.500
+300 Terjual
+KOTA JAKARTA UTARA
+Star
+Redmi 10C Redmi 10A Redmi 9C Card Case Bening Slot Kartu Case Redmi 10C Redmi 10A Redmi 9C
+Rp4.500 - Rp13.000
+274 Terjual
+KOTA JAKARTA PUSAT
+5%
+OFF
+Xiaomi Redmi 9 9A 9C 9 A C Redmi 10A 10 A Hard Case Belt Clip Robot Transformer Soft Case Phantom Hybrid Armor Leather Flip Cover Standing Hardcase CoverHp Carbon Fiber Rugged Kick Stand Silikon Softcase CaseHp Magnetik Ring Iring Casing Hp
+Pilih 4, diskon 2%
+Rp19.100
+Rp18.145
+6,3RB Terjual
+KOTA JAKARTA BARAT
+Star
+CASE XIAOMI REDMI 10A - CASE ARMOR SHOCKPROOF XIAOMI REDMI 10A
+Rp9.000
+92 Terjual
+KOTA JAKARTA UTARA
+Star
+Soft Case Redmi 10C Case Redmi 10A Case Redmi 9C Case Redmi 10 Case Redmi 9A Case Redmi 9T Case Redmi 8 Case Redmi 8A TKR1
+Rp28.769
+699 Terjual
+Luar Negeri
+CASE XIAOMI REDMI 10A
+Rp11.900
+12 Terjual
+KOTA MAKASSAR
+Star
+CASE SLIDE CAMERA MY CHOICE XIAOMI REDMI 10A
+Rp9.000
+79 Terjual
+KOTA JAKARTA UTARA
+Case Starwars Redmi 10s 10C 10A 10 9T 9C 9A 9 8 8A Pro 7 7A Protection Softcase MyChoice Shockproof
+Diskon Rp2RB
+Rp14.900
+437 Terjual
+KOTA JAKARTA SELATAN
+Star
+55%
+OFF
+Softcase Redmi 10A Case My choice Original Pelindung Kamera (PsS)
+Kombo Hemat
+Rp16.000
+Rp7.200
+1,3RB Terjual
+KOTA JAKARTA PUSAT
+Star
+Soft Case Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Vector Square Edge Phone Case Cover Casing
+Rp16.500
+401 Terjual
+KOTA JAKARTA BARAT
+Star
+83%
+OFF
+Slim Matte Case Xiaomi Redmi 10A - 10C 2022 - 10 - Note 11 - Note 11 Pro New 2021 Casing Softcase Protection Camera Premium Hign Quality
+Diskon Rp500
+Rp12.000 - Rp22.000
+1,1RB Terjual
+KOTA JAKARTA UTARA
+Star
+60%
+OFF
+Casing Silikon Xiaomi Redmi 10C 9 Power 10 Prime 9T 9C 9A 10A 9i Shockproof
+Rp42.383
+Rp16.953
+795 Terjual
+Luar Negeri
+Star
+SOFTCASE PROCAMERA XIAOMI REDMI 9A 9C 10 10C 10A BD3082
+Rp5.999 - Rp9.999
+818 Terjual
+KOTA BOGOR
+Star
+5%
+OFF
+SS015 SOFTCASE BEAR xiaomi redmi 4a 3 5a 6a 8a 8 9a 9c 10a 9 9T pocophone M3 BD2435
+Rp9.500
+939 Terjual
+KOTA BOGOR
+Star
+47%
+OFF
+Redmi 10C 10A Redmi Note 11s 11 10 9 8 7Pro Redmi 10 9 9T 9C 9A 9 8 Xiaomi 11Lite Mi 12Pro 11T 10TPro Poco X3Pro F3 M3 M4 Pro Cartoon Cute Small Bear Phone Case Soft Silicon Protective Cover
+Pilih 3, diskon Rp800
+Rp34.001
+Rp18.000
+1,1RB Terjual
+Luar Negeri
+Redmi 10C Redmi 10a redmi 9c Softcase Procamera silicon Matte Case full cover Redmi 10c Redmi 10A Redmi 9C
+Rp4.500 - Rp12.000
+259 Terjual
+KOTA JAKARTA PUSAT
+Star
+72%
+OFF
+Casing Silikon Redmi 10C 10A 9C Note 11 Pro 10 5G Note11S Redmi 10 9T Note10 Pro Note9S Note9 Motif Camo Martian
+Diskon Rp2RB
+Rp69.046
+Rp19.333
+493 Terjual
+Luar Negeri
+Star
+5%
+OFF
+SS069 CASE SLIDE KARAKTER XIAOMI REDMI 4A 5A 6A 8 9 9A 9C 10A 10 10C NOTE 4 4X 11 PRO POCO X3 PRO M3 9T BD1954
+Rp17.100 - Rp17.999
+9,7RB Terjual
+KOTA BOGOR
+Star
+SS069 CASE SLIDE KARAKTER XIAOMI REDMI 4A 5A 6A 8 9 9A 9C 10 10A 10c BB5524
+Rp19.999
+470 Terjual
+KOTA BOGOR
+Star
+40%
+OFF
+Casing TPU Xiaomi Redmi 10C 10 10A 9 9A 9C 8A 8 7A 7 4G 5G Shockproof Aksen Glitter
+Pilih 2, diskon 2%
+Rp51.785
+Rp31.071
+158 Terjual
+Luar Negeri
+Soft Case Xiaomi Redmi 10A Redmi 9C Aero Color Button Matte Frame Camera
+Rp15.000
+38 Terjual
+KOTA SURABAYA
+Star
+Case Cute Bear Xiaomi Redmi 6A 6 7A 7 8A 8 Pro 9A 9 9C 9T 10 10A 10C Note 5a Note 8 Note 9 Note 10 Poco M3 Pro CC1
+Diskon 5%
+Rp13.500
+8 Terjual
+KOTA JAKARTA TIMUR
+Star
+78%
+OFF
+Case Xiaomi Redmi 10A - Redmi 10C New Terbaru 2022 Softcase Liquid Scuare Protector Camera 3D Premium Quuality
+Diskon Rp500
+Murah Lebay
+Rp15.000 - Rp22.000
+795 Terjual
+KOTA JAKARTA UTARA
+Star
+SOFT CASE XIAOMI REDMI 10A 10C CASE MY CHOICE AERO CANDY DOVE MATTE CASING COVER
+Grosir
+Rp12.500
+256 Terjual
+KOTA JAKARTA SELATAN
+Star
+5%
+OFF
+Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Soft Case Motif Kulit Sapi Silikon Casing
+Rp16.500
+Rp15.675
+8,5RB Terjual
+KOTA JAKARTA BARAT
+Star
+XIAOMI REDMI 10A 10C 10 9T 9 9A 9C SOFT CASE MATTE COLORED FROSTED
+Rp15.000
+775 Terjual
+KOTA JAKARTA PUSAT
+Star
+20%
+OFF
+Xiaomi Redmi 10A Casing Silicone TPU Soft Cartoon Back Cover Redmi 10A Redmi10A Case Protective Cover
+Rp28.769
+Rp23.015
+26 Terjual
+Luar Negeri
+Star
+50%
+OFF
+Permataacc Case NASA XIAOMI REDMI 10C 10 10 5G 10S 10 PRO NOTE 11 POCO M3 X3PRO REDMI 10 10A 9 9C 9T 8 8A PRO NOTE 9 9 PRO 8 8 PRO 7 6 6 Pro 5A 5A PRIME REDMI 8 7 7A 6 6A 5 5A 5 PLUS 4A 4X S2 Mi A1 Mi A2 Mi A2 LITE POCO F1 F3 View Product Analysis Casing
+Rp30.000
+Rp15.000
+74 Terjual
+KAB. BOGOR
+Star
+CASE MACARON + PROTECT CAMERA XIAOMI REDMI 10A
+Rp5.750
+189 Terjual
+KOTA JAKARTA UTARA
+Star
+70%
+OFF
+Casing TPU Redmi Note 11 Pro 10s 10 5G 10A 10C 9C 9A 9T Poco X3 GT M3 F3 Pro Note8 Mi 11T Motif Kartun Lucu
+Rp57.539
+Rp17.262
+96 Terjual
+Luar Negeri
+Star
+Soft Case Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 10A 10C Spongebob&Patrick Square Edge Phone Case Cover Casing
+Rp16.500
+32 Terjual
+KOTA JAKARTA BARAT
+16%
+OFF
+CASE XIAOMI REDMI 10A CASE LEATHER FLIP COVER WALLET STANDING DOMPET CASING
+Diskon Rp2RB
+Hadiah Gratis
+Rp38.500
+Rp32.500
+43 Terjual
+KOTA JAKARTA PUSAT
+Star
+SOFTCASE REDMI 10A - CASE SLIDE CAMERA XIAOMI REDMI 10A
+Rp8.500
+235 Terjual
+KOTA JAKARTA UTARA
+Star
+SOFTCASE REDMI 10A CASE MATTE CASE DOVE-BENUA CAHAYA
+Rp5.000
+138 Terjual
+KOTA JAKARTA UTARA
+Star
+65%
+OFF
+AERO CASE XIAOMI REDMI 9 9A 9C 9T REDMI 10 REDMI 10C REDMI 10A REDMI S2 ADA PELINDUNG KAMERA MY CHOICE
+Rp25.000
+Rp8.750
+27 Terjual
+KAB. BANTUL
+Star
+10%
+OFF
+softcase macaron redmi 10c / redmi 10 / redmi9 / redmi9c / redmi 10a / redmi9t / xiaomi 12
+Rp10.750
+Rp9.675
+659 Terjual
+KOTA SURABAYA
+Star
+CASE REDMI 10A - PREMIUM SHINING CHROME XIAOMI REDMI 10A
+Diskon 20%
+Rp15.000
+4 Terjual
+KOTA JAKARTA UTARA
+Star
+50%
+OFF
+Iklan
+Case redmi 10c case redmi 10a case redmi 9c Case redmi 9a Case redmi 9t Case redmi 9 Case redmi 10 Case redmi 8 Case redmi 8a straight edge fashion phone case ZB
+Rp56.000
+Rp28.001
+2RB Terjual
+Luar Negeri
+Star
+57%
+OFF
+Iklan
+Case Redmi 10C 10A 9C 9A 9 8 Note 11 Note 11s Note 11 pro 9T Note 8 Pro Note 8 Note 7 Note 7Pro Note 9s Note 9 Pro anti Jatuh 10C 1FY Casing Softcase Redmi 10C 10A 9C 9A
+Rp72.412
+Rp30.928
+2,5RB Terjual
+Luar Negeri
+Star
+50%
+OFF
+Iklan
+Case Redmi 10C Case Redmi 10A Case Redmi 9c Case Redmi 10A Case Redmi 9T Case Redmi 10 Case Redmi Note 8 pro Case Redmi 8A Case Redmi 8 Disney StellaLou Casing Ponsel Kelinci Lucu TZ
+Rp69.999
+Rp35.000
+363 Terjual
+Luar Negeri
+Star
+55%
+OFF
+Iklan
+2in1 Case Transparan Bumper Metal Anti Jatuh Untuk Xiaomi Redmi 10C 10A 9C 9A 9i 9 Prime
+Rp61.777
+Rp27.799
+159 Terjual
+Luar Negeri
+Star
+62%
+OFF
+Iklan
+Case Redmi 10 10A 9A 9C 9T Note 10 Pro Note 10S Note 9 Pro Note 9S Note 8 Pro Cute Cartoon Figure Dog Pattern Card Holder Transparent Soft Phone Case
+Diskon Rp5RB
+Rp57.539
+Rp21.865
+Luar Negeri
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+65%
+OFF
+Iklan
+REDMI 4 PRIME 4A 4X 5 5A 5+ A1/5X 6 6A 6X 6PRO 7 7A 8 8A PRO 9 9A 9C 9T REDMI 10 10A 10C NOTE 2 3 4 4X 5A 5PRO 6PRO 7 8 8 PRO NOTE 9 9 PRO NOTE 10 10S 10PRO NOTE 11 11S 11 PRO AERO KAMERA
+Cashback 50%
+Murah Lebay
+Rp4.500 - Rp7.000
+10RB+ Terjual
+KOTA BEKASI
+Star
+10%
+OFF
+Iklan
+softcase macaron redmi 10c / redmi 10 / redmi9 / redmi9c / redmi 10a / redmi9t / xiaomi 12
+Rp10.750
+Rp9.675
+659 Terjual
+KOTA SURABAYA
+Star
+Iklan
+Soft Case Redmi 10C Case Redmi 10A Case Redmi 9C Case Redmi 10 Case Redmi 9A Case Redmi 9T Case Redmi 8 Case Redmi 8A TKR1
+Rp28.769
+699 Terjual
+Luar Negeri
+Star
+Iklan
+Case Xiaomi Redmi 10A 9C Terbaru Softcase Bening Ring Mewah Glass Kaca Premium Plating Silikon Cover Casing Soft Case Handphone
+Rp11.500 - Rp35.000
+283 Terjual
+KOTA JAKARTA PUSAT
+Star
+57%
+OFF
+Iklan
+Casing Redmi 10C 10A 10 9T 9C 9A Redmi Note 11 11s 10 9 8 7Pro Xiaomi 11 Lite Mi 12Pro 10TPro Poco F3 M3Pro X3 GT Redmi K20 K30 Cartoon Cute Nokia Round Hole Phone Case Soft Protection Cover
+Pilih 3, diskon Rp800
+Rp36.825
+Rp15.999
+231 Terjual
+Luar Negeri
+Star
+67%
+OFF
+Soft Case Bahan Silikon TPU Matte Untuk Xiaomi Redmi 10C Redmi 10A Redmi 10C 10 C
+Diskon Rp1RB
+Rp54.086
+Rp17.849
+43 Terjual
+Luar Negeri
+Star
+CASE REDMI 10A - SOFTCASE CLEAR HD PREMIUM XIAOMI REDMI 10A
+Rp7.500
+86 Terjual
+KOTA JAKARTA UTARA
+50%
+OFF
+Casing TPU untuk Redmi 9T 10 10A 10C Note 11 11S 10S 10 9 8 7 POCO X3 NFC F3 M3 M4 Pro 5G Motif Astronot Silicon Cover KLQ B01
+Rp34.119
+Rp17.060
+157 Terjual
+Luar Negeri
+Star
+5%
+OFF
+PROMO Case XIAOMI REDMI 10C 10A 9C Soft Case Aero Protect Camera Premium Casing
+Rp9.500 - Rp15.675
+855 Terjual
+KOTA JAKARTA PUSAT
+Star
+43%
+OFF
+[M04]Softcase Macaron XIAOMI REDMI NOTE 10 PRO 4G NOTE 10 5G 10C 10A POCO M4 PRO 4G 5G NOTE 11 4G M3 9T POCO X3 R.4A R.5A R.6A REDMI 10 7 REDMI 8 8A REDMI 9 9A REDMI 9C REDMI NOTE 10 4G REDMI NOTE 10 5G REDMI NOTE 5 5A REDMI NOTE 7 REDMI 8 9 NOTE 9 PRO
+Murah Lebay
+Pilih 2, diskon 10%
+Rp25.000
+Rp14.250
+2,7RB Terjual
+KOTA BOGOR
+Star
+29%
+OFF
+[KG03] Case Slide Kamera Geser Karakter For Xiaomi Redmi 10A 10C Note 11 4G Note 11 Pro Redmi 10 9 9T 9C 9A 8A Note 5 Pro Note 7 Note 8 Pro Note 9 Pro Note 10 4G Note 10 5G Note 10 Pro Note 11 5G Pocophone M3 - Case Pelindung Kamera Geser Redmi 10
+Pilih 2, diskon 10%
+Rp35.000
+Rp24.900
+117 Terjual
+KAB. BOGOR
+Star
+58%
+OFF
+Redmi 10C 10A 10 9A 9 9T Note 11 Pro+ 10s 10 9 8 7 Pro Xiaomi Poco X3 NFC X3Pro M3 Pro X3 GT Mi 11 Lite 12Pro Purple Oil Painting Flowers Phone Case Clear Soft Protective Cover
+Pilih 3, diskon Rp1.000
+Rp37.801
+Rp15.900
+363 Terjual
+Luar Negeri
+Star
+SOFTCASE PRO CAMERA XIAOMI/ REDMI 8 / 8A / 8A PRO / POCO M3 / POCO X3 / POCO X3 PRO / 7 / NOTE 10 PRO /10A/10C/ SOFTCASE / CASING PROCAMERA/ PROTECTOR
+Grosir
+Rp15.000
+55 Terjual
+KOTA JAKARTA BARAT
+CASE ANTI CRACK SILIKON XIAOMI REDMI 10A
+Diskon 4%
+Rp8.850
+5 Terjual
+KAB. BANJAR
+Star
+PROMO PAKET LENGKAP REDMI 10a / 10c 2022 CASING PELIINDUNG PONSEL
+Rp18.000 - Rp37.000
+424 Terjual
+KAB. KEDIRI
+Star
+42%
+OFF
+Case Liquid Little Monster Xiaomi Redmi 10 Redmi 10A Casing Softcase TPU Dove With pelindung kamera
+Diskon Rp1RB
+Hadiah Gratis
+Rp27.000
+Rp15.687
+6 Terjual
+KOTA SURABAYA
+Star
+68%
+OFF
+PRINTING LENS PROTECTOR case redmi 4a 9 9a 9c 5 plus 4x 5a 6a 7 8 8a pro note 5 10a
+Rp33.900
+Rp10.848
+3,9RB Terjual
+KOTA MALANG
+Star
+20%
+OFF
+Soft Case Silikon TPU Transparan Untuk Xiaomi Redmi 10C 10A 9C 10 C 9 Prime 9A 9C Redmi10C
+Pilih 2, diskon 3%
+Rp40.277
+Rp32.222
+68 Terjual
+Luar Negeri
+Star
+58%
+OFF
+Leozora CASE Xiaomi Redmi 10A Terbaru Fashion Casing Anime Hardcase Softcase bumper silikon kesing cover pelindung Handphone bisa COD
+Rp40.000
+Rp16.800
+5 Terjual
+KOTA DEPOK
+Star
+SOFTCASE REDMI 9C / 10A CASE SLIDING CAMERA CASE MACARON
+Rp9.500
+3,3RB Terjual
+KOTA JAKARTA UTARA
+Case Redmi 10S 10A 10C 10 9T 9C 9A 9 8 8A Pro 8A Poco M4 Pro M3 Pro 5G M3 Pro M3 Softcase Transparant Clear Karakter David Vogue Quotes
+Diskon Rp2RB
+Rp15.900
+18 Terjual
+KOTA JAKARTA SELATAN
+Star
+47%
+OFF
+GT PRO Casing Silikon Redmi 10A 10C 10 9T 9C 9A 9 Note 11T 11 11s 10 10s 9 9s 8 7 Pro 8 Xioami Poco X3NFC X4 X3 Pro M4 Mina M3 X3 Lite
+Pilih 3, diskon Rp1.000
+Rp37.801
+Rp19.900
+128 Terjual
+Luar Negeri
+Star
+57%
+OFF
+Case Redmi 10C 10A 9T 9A 9 9C 8A 8 7 6A 6 5 Plus 5A 4A 4X Note 10 Pro Note 10s Note 9 Pro Note 9s Note 8 Pro Note 7 Pro Note 5A Prime Note 5 Pro Simple TPU Soft Phone Case
+Rp34.523
+Rp14.845
+16 Terjual
+Luar Negeri
+Star
+53%
+OFF
+Xiaomi Redmi 10C / 10A / 10 2021 Shockproof Case Transformer iRing Stand Magnetic Holder Hard Casing Plastik Cover
+Diskon Rp5RB
+Rp82.856
+Rp38.942
+146 Terjual
+Luar Negeri
+Star
+57%
+OFF
+Redmi 10C 10A 10 9T 9AC 9A 9 Redmi Note 11 11s 10s 9s 10 9 8 Pro Xiaomi Mi 11 Lite Mi 11T Pro Mi Poco F3 M3 M4Pro 4G Soft Case Tpu Transparan Dengan Ring Untuk Fashion Phone Case Cover
+Pilih 3, diskon Rp800
+Rp52.936
+Rp22.500
+2,9RB Terjual
+Luar Negeri
+Star
+5%
+OFF
+SS085 SOFTCASE XIAOMI REDMI 6A 8 9 9C 9T 10 10A NOTE 7 8 9 10 PRO POCOPHONE M3 POWER 9 BD2376
+Rp19.999
+Rp19.000
+260 Terjual
+KOTA BOGOR
+Star
+Softcase Macaron PC XIAOMI REDMI 10A/TECNO SPARK 8C Soft Case TPU Warna/Silikon-Silikone/Silicone-Silicon/Kondom/Sofcase Maccaron Black Gelap-Lilac/Ungu-Merah/Red.Tosca/Pink Sand Colour Full karet Pelindung Kamera/Potecth Camera 10 A 1 0 2022 4G 5G 8 C
+Rp14.000
+16 Terjual
+KOTA JAKARTA PUSAT
+Star
+CASE SLIDE CAMERA MY CHOICE XIAOMI REDMI 10A
+Rp9.000
+79 Terjual
+KOTA JAKARTA UTARA
+Star
+[SOFTCASE] nokia phone case jadul xiaomi redmi 2s 3s 4a 5 5+ 5a 6a 7a 8/8a pro 9 9a 9c 10 10a 10c 10t mi 11 lite note 11 note 5a note 2 3 4/4x 5 pro 6 7 8 pro 9 pro 10 10s 10 pro
+Rp15.999
+10 Terjual
+KOTA BOGOR
+Star
+49%
+OFF
+Hard Case Bahan Carbon Fiber Untuk Xiaomi Redmi 10C 10A 9A 9C 8A Redmi Note 11 4G Note 10s POCO M4 Pro 4G Mi11T
+Diskon Rp5RB
+Rp74.217
+Rp37.850
+216 Terjual
+Luar Negeri
+Star
+49%
+OFF
+Xiaomi Redmi 10C 10A Redmi Note 11s 11 10 9 8 7Pro 10 9 9T 9A 9 8 11Lite Mi 12Pro 11T Poco X3Pro F3 M3 M4Pro Soft Case Pelindung Lensa Model Simpel Untuk
+Pilih 3, diskon Rp800
+Rp34.523
+Rp17.500
+1,6RB Terjual
+Luar Negeri
+Star
+Case Xiaomi Redmi 10C 10A 10 Note 11 Note 10 9 Note 9 Pro Note 8 Note 7 Poco M3 Redmi 9 9T 9A 9C 8 8A 6 6A
+Rp15.965
+6,7RB Terjual
+KOTA JAKARTA SELATAN
+Star
+Soft Case Pelindung Penuh Berkilau Untuk Xiaomi Redmi 10C 10A 9C 9A 9
+Rp31.666
+256 Terjual
+Luar Negeri
+55%
+OFF
+Case Redmi 10 / 10A / 10C / 10 2022 Softcase Dove My Choice PsS-
+Murah Lebay
+Rp16.000
+Rp7.200
+532 Terjual
+86%
+OFF
+CASE AERO RING XIAOMI REDMI 2 2A 2S 3 3S 4 4A 4X 5 5A 6 6A 7 7A 8 8A PRO 9 9T 9A 9i 9C 10A 10 10C S2 PLUS PRIME POWER
+Rp6.950 - Rp12.000
+430 Terjual
+KAB. TULUNGAGUNG
+YKCS 0396 NASA CASE XIAOMI REDMI 6 6A 8 8A 8APRO 9A 9C 9T 10 10A CASE NASA ASTRONAUT SILICONE PROTECT CAMERA
+Rp16.000 - Rp21.500
+33 Terjual
+KOTA JAKARTA BARAT
+Star
+49%
+OFF
+Redmi 10C 10A Redmi Note 11 11s 10 9 8 7Pro Redmi 10 9 9T 9C 9A 9 8 Xiaomi 11Lite Mi 12Pro 11T 10T Poco F3 M3 X3Pro Fashion Blue And White Lattice Phone Case Soft Silicone Cover
+Pilih 3, diskon Rp800
+Rp35.131
+Rp18.000
+58 Terjual
+Luar Negeri
+Star
+72%
+OFF
+Casing Redmi Note 10 10A 10S 9 9A 9C 8 Xiaomi MI POCO M3 Pro 5G X3 NFC Note10 4G Note9 Note8 Redmi10 Redmi9 Redmi9A Protect Camera Unzip Peach Photo Frame Soft Case
+Pilih 3, diskon 3%
+Rp80.554
+Rp22.555
+971 Terjual
+Luar Negeri
+Star
+Case Bird Flowers Redmi 10A 10C 10 Note 11 Note 10 9 Note 9 Pro Note 8 Note 7 Poco M3 Redmi 9 9T 9A 9C 8 8A 7A 6 6A
+Rp15.965
+28 Terjual
+KOTA JAKARTA SELATAN
+REDMI 10 10A 10C 9T 9 9A 9C POCO X3 X3 PRO POCO M3 M3 PRO POCO F3 F2 PRO K20 K20PRO K30 PRO MI 9 Anti Crack Soft
+Cashback 50%
+Murah Lebay
+Rp2.880 - Rp4.000
+10RB+ Terjual
+KOTA BEKASI
+Star
+55%
+OFF
+Case Redmi Note 8 9 10 11 Pro 9S 10S 11S Redmi 9T 9C 9 8 8A 10 10C 10A Xiaomi Poco X3 Pro Poco X3 NFC MI 11t pro MI 11 lite Cute Melody and Kuromi Transparent Soft protective case
+Pilih 3, diskon 2%
+Rp44.807
+Rp20.163
+11 Terjual
+Luar Negeri
+Star
+68%
+OFF
+PRINTING LENS PROTECTOR boys case redmi 4a 9 9a 9c 5 plus 4x 5a 6a 7 8 8a pro note 5 10A
+Rp33.900
+Rp10.848
+229 Terjual
+KOTA MALANG
+Star
+Case Xiaomi Redmi 10A Softcase Casing Camera Protect Dove
+Rp6.500 - Rp10.000
+114 Terjual
+KOTA SURABAYA
+Star
+55%
+OFF
+Casing Xiaomi Redmi 10C 10A 9C 9 Acitv 9i 9A Sport 9 10 Prime 9A 9i 9T NFC Power Straight Edge Motif Astronot
+Rp42.383
+Rp19.073
+163 Terjual
+Luar Negeri
+Star
+59%
+OFF
+Redmi 10A 9 9A 9C 9T Note 11 Pro+ 10s 10 9 8 7 Pro Xiaomi Poco M3 X3Pro X3NFC F3 X3GT Mi 11Lite 10T 12Pro Redmi K20Pro Checkerboard Violent Bear Phone Case Soft Protective Cover
+Pilih 3, diskon Rp1.000
+Rp43.000
+Rp17.500
+232 Terjual
+Luar Negeri
+Star
+17%
+OFF
+LEATHER FLIP CASE XIAOMI REDMI 10C/ 10A/ REDMI 10/ REDMI 9/ 9A/ 9C/ 9T/ 9PRIME/ REDMI 8/ 8A/ 8A PRO/ REDMI 7/ 7A / LEATHER FLIPCOVER CASE DOMPET HP BAHAN KULIT/ BISA COD/ BAYAR DI TEMPAT
+Diskon 5%
+Murah Lebay
+Rp21.999
+Rp18.260
+4,6RB Terjual
+KOTA JAKARTA UTARA
+Star
+Xiaomi Redmi 10A/10C/Note 11 4G/Note 11 Pro 4G/Note 11 Pro 5G/Note 11S/Poco M4 Pro 4G/Note 10/Note 10S/8/8A/8A Pro/Note 8/Note 8 Pro/Note 11 5G/11T/Mi 11TPro Poco X3 GT/Redmi 10/Mi 10T/10T Pro/PocoF3/X3/X3Pro/M3Pro/Redmi 9C/Note10 5G Soft Case 2.0M Bening
+Rp7.500 - Rp10.000
+1,9RB Terjual
+KOTA BANDUNG
+Star
+SS057 SS058 SOFTCASE XIAOMI REDMI 6 6A 8 9A 9C 9T 10 10A POCOPHONE M3 POWER 9 NOTE 5A 6 7 8 9 10 PRO AS2594
+Rp13.500
+50 Terjual
+KAB. BOGOR
+Star
+47%
+OFF
+Case Xiaomi 11T 12 12X Redmi 9 Redmi 10 10A 10 Prime Note 11 Casing Nasa Hybrid dove candy pelindung kamera
+Diskon Rp1RB
+Hadiah Gratis
+Rp20.000
+Rp10.587
+132 Terjual
+KOTA SURABAYA
+Star
+51%
+OFF
+Redmi 10C 10A 10 Redmi Note 10s 10 9 8 Redmi 9T 9C 9A 9 Mi Poco M3 X3Pro Ins Simple Flowers Lens Protective Round Frame Phone Case Soft TPU Anti-drop Protective Cover
+Pilih 3, diskon Rp800
+Rp36.825
+Rp18.000
+49 Terjual
+Luar Negeri
+Star
+CASE REDMI 9C / 10A CASE MATTE COVE FULL COLOUR
+Murah Lebay
+Rp5.000
+6RB Terjual
+KOTA JAKARTA UTARA
+Star
+62%
+OFF
+[021] Case REDMI 4A 5A 6A 4X 9A 9C 5 5+ 9 10 10A 10C Softcase XIAOMI Fuze Hybrid My Choice Motif
+Rp30.000
+Rp11.400
+40 Terjual
+KOTA BOGOR
+Star
+5%
+OFF
+SS070 CASE SLIDE KARAKTER XIAOMI REDMI 4A 5A 6A 8 9 9A 9C 10A 10 10C NOTE 4 4X 11 PRO POCO X3 PRO M3 9T BD2477
+Rp17.100 - Rp17.999
+670 Terjual
+KOTA BOGOR
+Star
+SOFTCASE REDMI 9 / 9A / 9C / 10A / 10C / 9T CASE PRO CAMERA MACARON 3D-BENUA CAHAYA
+Rp7.000
+1,8RB Terjual
+KOTA JAKARTA UTARA
+Star
+XIAOMI REDMI 10A / REDMI 10C / REDMI 10 SOFT CASE CLEAR ARMOR SHOCKPROOF
+Rp15.000
+72 Terjual
+KOTA JAKARTA PUSAT
+51%
+OFF
+Iklan
+LUFFY & ZORO SOFT CASE untuk REDMI NOTE 11 11 PRO 10 10s 10c 10 4G 10 5G 10 PRO 9 8 POCO M3 PRO 9A 9C 9T
+Rp30.000
+Rp14.700
+1,4RB Terjual
+KOTA JAKARTA BARAT
+82%
+OFF
+Iklan
+Casing Soft TPU Case Realme C11 2021 C21Y C15 C21 C25 C20 C3 C12 C25S 5 5S 5i C17 7i C1 C31 C35 C25Y C2 C3i 6i C20A realme Narzo 20 10 10A 20A 30A A54 A15 A16 A9 A5 A7 A5S A95 A53 A33 Y12 Y20 A12 Ins Art Line Face Shockproof Cover
+Pilih 2, diskon Rp500
+Rp78.185
+Rp13.800
+113 Terjual
+Luar Negeri
+50%
+OFF
+Iklan
+Casing TPU untuk Redmi 9T 10 10A 10C Note 11 11S 10S 10 9 8 7 POCO X3 NFC F3 M3 M4 Pro 5G Motif Astronot Silicon Cover KLQ B01
+Rp34.119
+Rp17.060
+157 Terjual
+Luar Negeri
+Star
+50%
+OFF
+Iklan
+Case Redmi 10C Case Redmi 10A 8 8A 10 9A 9 9T Redmi 9C Case Pelindung Handphone Motif stronaut Untuk Redmi 10C yhy
+Rp75.999
+Rp38.000
+Luar Negeri
+Star
+5%
+OFF
+Iklan
+Paket 3in1 Soft Case Redmi 10C 10A 10 4G 9C SoftCase + Tempered Galss + Tempered Camera Xiaomi Redmi 10 4G DI ROMAN ACC
+Kombo Hemat
+Rp20.000 - Rp28.500
+292 Terjual
+KOTA JAKARTA SELATAN
+VALID_DATA_ABOVE
+| PASS |
 ------------------------------------------------------------------------------
-ShopeeElectronic :: This test suite to test functionality survey, ... | FAIL |
-1 test, 0 passed, 1 failed
+ShopeeElectronic :: This test suite to test functionality survey, ... | PASS |
+1 test, 1 passed, 0 failed
 ==============================================================================
 Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Electronic\output.xml
 Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Shopee\Electronic\log.html
