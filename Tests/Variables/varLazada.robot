@@ -10,8 +10,8 @@ ${NEXT PAGE BUTTON 1 LAZADA}             xpath=
 ${NEXT PAGE BUTTON 2 LAZADA}             xpath=
 ${NEXT PAGE BUTTON 3 LAZADA}             xpath=
 
-${NEXT PAGE BUTTON SORT REL 1 LAZADA}    xpath=
-${NEXT PAGE BUTTON SORT REL 2 LAZADA}    xpath=
+${NEXT PAGE BUTTON SORT REL 1 LAZADA}    xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]/div/ul/li[9]/button
+${NEXT PAGE BUTTON SORT REL 2 LAZADA}    xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]/div/ul/li[9]/button
 
 ${NEXT PAGE BUTTON 1 SORT LOW LAZADA}    xpath=
 ${NEXT PAGE BUTTON 2 SORT LOW LAZADA}    xpath=
@@ -22,16 +22,16 @@ ${NEXT PAGE BUTTON 2 SORT HIG LAZADA}    xpath=
 ${NEXT PAGE BUTTON 1 FILTER LOC LAZADA}  xpath=
 ${NEXT PAGE BUTTON 2 FILTER LOC LAZADA}  xpath=
 
-${NEXT PAGE BUTTON 1 FILTER MIN LAZADA}  xpath=
-${NEXT PAGE BUTTON 2 FILTER MIN LAZADA}  xpath=
+${NEXT PAGE BUTTON 1 FILTER MIN LAZADA}  xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button
+${NEXT PAGE BUTTON 2 FILTER MIN LAZADA}  xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button
 
-${NEXT PAGE BUTTON 1 FILTER MAX LAZADA}  xpath=
-${NEXT PAGE BUTTON 2 FILTER MAX LAZADA}  xpath=
+${NEXT PAGE BUTTON 1 FILTER MAX LAZADA}  xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button
+${NEXT PAGE BUTTON 2 FILTER MAX LAZADA}  xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button
 
 ${PRODUCTS 1 GROUP 1 LAZADA}             xpath=
 
-${SORT RELEVANCE PRODUCT 1 LAZADA}       xpath=
-${SORT RELEVANCE PRODUCT 2 LAZADA}       xpath=
+${SORT RELEVANCE PRODUCT 1 LAZADA}       xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[2]
+${SORT RELEVANCE PRODUCT 2 LAZADA}       xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[2]
 
 ${SORT LOWEST PRICE PRODUCT 1 LAZADA}    xpath=
 ${SORT LOWEST PRICE PRODUCT 2 LAZADA}    xpath=
@@ -42,14 +42,14 @@ ${SORT HIGHEST PRICE PRODUCT 2 LAZADA}   xpath=
 ${FILTER LOCATION PRODUCT 1 LAZADA}      xpath=
 ${FILTER LOCATION PRODUCT 2 LAZADA}      xpath=
 
-${FILTER MIN PRODUCT 1 LAZADA}           xpath=
-${FILTER MIN PRODUCT 2 LAZADA}           xpath=
+${FILTER MIN PRODUCT 1 LAZADA}           xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]
+${FILTER MIN PRODUCT 2 LAZADA}           xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]
 
-${FILTER MAX PRODUCT 1 LAZADA}           xpath=
-${FILTER MAX PRODUCT 2 LAZADA}           xpath=
+${FILTER MAX PRODUCT 1 LAZADA}           xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]
+${FILTER MAX PRODUCT 2 LAZADA}           xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[3]
 
-${INPUT BOX MINIMUM PRICE LAZADA}        xpath=
-${INPUT BOX MAXIMUM PRICE LAZADA}        xpath=
+${INPUT BOX MINIMUM PRICE LAZADA}        xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[2]/div/div[5]/div[2]/div/input[1]
+${INPUT BOX MAXIMUM PRICE LAZADA}        xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[2]/div/div[5]/div[2]/div/input[2]
 
 @{FILTER MINIMUM PRICE LAZADA}           ${INPUT BOX MINIMUM PRICE LAZADA}              ${MINIMUM PRICE LAZADA}
 @{SUBMIT MINIMUM PRICE LAZADA}           ${INPUT BOX MINIMUM PRICE LAZADA}              ${SUBMIT KEYS PRICE LAZADA}
@@ -59,7 +59,7 @@ ${INPUT BOX MAXIMUM PRICE LAZADA}        xpath=
 
 ${MINIMUM PRICE LAZADA}                  10000
 ${MAXIMUM PRICE LAZADA}                  100000
-${SUBMIT KEYS PRICE LAZADA}              RETURN
+${SUBMIT KEYS PRICE LAZADA}              xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[2]/div/div[5]/div[2]/div/button
 
 ${LOCATION JAKPUS LAZADA}                xpath=
 ${LOCATION YOGYA LAZADA}                 xpath=
@@ -74,7 +74,7 @@ ${SEARCHBOX LOCATION LAZADA}             xpath=
 
 ${APPLY LOCATION LAZADA}                 xpath=
 
-${SORT OPTIONS LAZADA}                   xpath=
-${SORT OPTIONS LOWEST PRICE LAZADA}      xpath=
-${SORT OPTIONS HIGHEST PRICE LAZADA}     xpath=
+${SORT OPTIONS LAZADA}                   xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[1]/div/div[2]/div/div[2]/div
+${SORT OPTIONS LOWEST PRICE LAZADA}      xpath=//*[@id="rc_select_1"]
+${SORT OPTIONS HIGHEST PRICE LAZADA}     xpath=//*[@id="rc_select_2"]
 ${GLOBAL NEXT BUTTON}                       class:css-1eamy6l-unf-pagination-item

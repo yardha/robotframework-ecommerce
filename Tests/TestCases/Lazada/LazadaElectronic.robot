@@ -8,37 +8,37 @@ Resource                                  ../../Variables/varMain.robot
 
 
 *** Test Cases ***
-LAZADA Sort by Relevance
-    Open Website Lazada
-    Click Search Box Lazada
-    Type Item 1 Name Lazada
-    Hit Submit Button Lazada
-    Sort by Relevance Tag Electronic Lazada
-    Get Product Name with Sort by Relevance Page 1 Lazada
-    Get Product Name with Sort by Relevance Page 2 Lazada
-    Close Browser
+# LAZADA Sort by Relevance
+#     Open Website Lazada
+#     Click Search Box Lazada
+#     Type Item 1 Name Lazada
+#     Hit Submit Button Lazada
+#     Sort by Relevance Tag Electronic Lazada
+#     Get Product Name with Sort by Relevance Page 1 Lazada
+#     Get Product Name with Sort by Relevance Page 2 Lazada
+#     Close Browser
 
-LAZADA Sort by Lowest Price
-    Open Website Lazada
-    Click Search Box Lazada
-    Type Item 1 Name Lazada
-    Hit Submit Button Lazada
-    Click Sort Option Lazada
-    Choose Sort by Lowest Price Lazada
-    Get Product Name with Sort by Lowest Price Page 1 Lazada
-    Get Product Name with Sort by Lowest Price Page 2 Lazada
-    Close Browser
+# LAZADA Sort by Lowest Price
+#     Open Website Lazada
+#     Click Search Box Lazada
+#     Type Item 1 Name Lazada
+#     Hit Submit Button Lazada
+#     Click Sort Option Lazada
+#     Choose Sort by Lowest Price Lazada
+#     Get Product Name with Sort by Lowest Price Page 1 Lazada
+#     Get Product Name with Sort by Lowest Price Page 2 Lazada
+#     Close Browser
 
-LAZADA Sort by Highest Price
-    Open Website Lazada
-    Click Search Box Lazada
-    Type Item 1 Name Lazada
-    Hit Submit Button Lazada
-    Click Sort Option Lazada
-    Choose Sort by Highest Price Lazada
-    Get Product Name with Sort by Highest Price Page 1 Lazada
-    Get Product Name with Sort by Highest Price Page 2 Lazada
-    Close Browser
+# LAZADA Sort by Highest Price
+#     Open Website Lazada
+#     Click Search Box Lazada
+#     Type Item 1 Name Lazada
+#     Hit Submit Button Lazada
+#     Click Sort Option Lazada
+#     Choose Sort by Highest Price Lazada
+#     Get Product Name with Sort by Highest Price Page 1 Lazada
+#     Get Product Name with Sort by Highest Price Page 2 Lazada
+#     Close Browser
 
 # LAZADA Filter by Location
 #     Open Website Lazada
