@@ -4,18 +4,21 @@ Resource    ../Settings/Web/URL/urlMain.robot
 
 ***Keywords***
 Open Website Blibli
-    Open Browser                             @{URL BLIBLI}
-    Sleep                                    3
+    Open Browser                             @{URL BLIBLI}                     options=add_argument("--disable-blink-features=AutomationControlled")
+    Sleep                                    2
     Maximize Browser Window
-    ${status}                                Run Keyword And Return Status                Page Should Contain                   ${SEARCH BOX BLIBLI}          loglevel=NONE
-    Run Keyword If                           ${status}                                    Element Should Be Visible             ${SEARCH BOX BLIBLI}
-    ...                                      Else                                         Close Pop Up Blibli
+    Sleep                                    2
+    # ${status}                                Run Keyword And Return Status                Page Should Contain                   ${SEARCH BOX BLIBLI}          loglevel=NONE
+    # Run Keyword If                           ${status}                                    Element Should Not Be Visible             ${SEARCH BOX BLIBLI}
+    # ...                                      Else                                         Close Pop Up Blibli
 
 Close Pop Up Blibli
+    Sleep                                    3
     Click Element At Coordinates             ${CLOSE POP UP BUTTON BLIBLI}      ${X COORDINATES CLOSE BLIBLI}                   ${Y COORDINATES CLOSE BLIBLI}
     Sleep                                    2
 
 Click Search Box Blibli
+    Sleep                                    1
     Click Element                            ${SEARCH BOX BLIBLI}
     Sleep                                    3
 
@@ -72,22 +75,22 @@ Click Sort Option Blibli
 Choose Sort by Lowest Price Blibli
     Click Element                            ${SORT OPTIONS LOWEST PRICE BLIBLI}
     Sleep                                    1
+    Click Element                            ${VIEW ALL PRODUCTS BLIBLI}
 
 Choose Sort by Highest Price Blibli
     Click Element                            ${SORT OPTIONS HIGHEST PRICE BLIBLI}
     Sleep                                    1
+    Click Element                            ${VIEW ALL PRODUCTS BLIBLI}
 
 Set Minimum Price Blibli
     Click Element                            ${INPUT BOX MINIMUM PRICE BLIBLI} 
     Input Text                               @{FILTER MINIMUM PRICE BLIBLI}
-    Execute Javascript                       window.scrollTo(0,150)
-    Click Element                            ${SUBMIT KEYS PRICE BLIBLI}
+    Press Keys                               @{SUBMIT MAXIMUM PRICE BLIBLI}
 
 Set Maximum Price Blibli
     Click Element                            ${INPUT BOX MAXIMUM PRICE BLIBLI} 
     Input Text                               @{FILTER MAXIMUM PRICE BLIBLI}
-    Execute Javascript                       window.scrollTo(0,150)
-    Click Element                            ${SUBMIT KEYS PRICE BLIBLI}
+    Press Keys                               @{SUBMIT MAXIMUM PRICE BLIBLI}
 
 Sort by Relevance Tag Electronic Blibli
     Log to Console                           Sort by Relevance Tag Electronic Blibli
@@ -152,11 +155,11 @@ Find and Click Box Blibli
 Get All Product Name Blibli
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  15
+    FOR                                      ${counter}                                     IN RANGE                         0                  3
         Sleep                                    1
-        Execute Javascript                       window.scroll(0,${counter}*600)
+        Execute Javascript                       window.scroll(0,${counter}300)
         Sleep                                    1
-        ${status}                                Run Keyword And Return Status                Page Should Not Contain Button       ${next button locator}          loglevel=NONE
+        ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
         # Log to Console                           ${status}
         Sleep                                    1
         Run Keyword If                           ${status}                                    Exit For Loop
@@ -167,5 +170,5 @@ Get All Product Name Blibli
     Log to Console                           VALID_DATA_BELOW
     Log to Console                           ${product group}
     Log to Console                           VALID_DATA_ABOVE
-    Sleep                                    1
+    Sleep                                    2
     Click Element                            ${next button locator}

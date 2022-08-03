@@ -1,0 +1,223 @@
+==============================================================================
+BlibliElectronic :: This test suite to test functionality survey, each type...
+==============================================================================
+BLIBLI Sort by Relevance                                              Sort by Relevance Tag Electronic Blibli
+VALID_DATA_BELOW
+5
+Voucher seller
+CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
+Rp20.000
+Rp25.000
+20%
+Kota Jakarta Selatan
+5,0
+(1)
+Terjual 4
+5
+Soft Case Xiaomi Redmi 10A Aero Color Button Matte Frame Camera
+Rp15.000
+Rp20.000
+25%
+Kota Surabaya
+5,0
+(1)
+Terjual 1
+4
+Case / Silikon Bumper Dove Fuze My Choice MyChoice Aero Case Pelindung Kamera Xiaomi Redmi 10A
+Rp6.128
+Rp10.000
+38%
+Kota Bekasi
+Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
+Rp85.100
+Rp105.000
+18%
+Kota Jakarta Timur
+Case Xiaomi Redmi 10A IMAK UX-5 TPU Casing
+Rp85.100
+Rp99.000
+14%
+Kota Jakarta Timur
+Case Xiaomi Redmi 10A Spigen Rugged Armor Slim Softcase Carbon Casing
+Rp225.000
+Kota Surabaya
+8
+Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
+Rp39.999
+Kota Surabaya
+5
+Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
+Rp39.999
+Kota Surabaya
+Case Xiaomi Redmi 10A Spigen Rugged Cover Soft Carbon Casing Bumper
+Rp375.000
+Kota Jakarta Barat
+Case Xiaomi Redmi 10A Spigen Thin Silicone Carbon Casing Anti Shock
+Rp375.000
+Kota Jakarta Barat
+Soft Case Silikon Xiaomi Redmi 10A Bening Transparant Anti Crack
+Rp25.000
+Kota Surabaya
+Case Xiaomi Redmi 10A Spigen Rugged Cover Soft Carbon Casing Bumper
+Rp375.000
+Kota Jakarta Barat
+Case Xiaomi Redmi 10A Spigen Thin Silicone Carbon Casing Anti Shock
+Rp375.000
+Kota Jakarta Barat
+Shock Gradient Case Xiaomi RedMi 10a - Casing Rainbow Soft Cover
+Rp70.000
+Rp75.000
+6%
+Kota Bandung
+Shock Absorption TPU Case Xiaomi RedMi 10a - Casing Anti Crack
+Rp70.000
+Rp75.000
+6%
+Kota Bandung
+XIAOMI REDMI 10A HARDCASE ICRYSTAL ROBOT STANDING TRANSFORMER
+Rp22.900
+Kota Bekasi
+Grosir
+CASE CASING SOFTCASE TRANSPARAN CLEAR BENING TPU XIAOMI REDMI 10A
+Rp30.000
+Rp51.500
+41%
+Kota Jakarta Barat
+Voucher seller
+CASE XIAOMI REDMI 10 2022 CASE SOFT SILICONE CASING REDMI 10 2022
+Rp60.000
+Rp65.000
+7%
+Kota Jakarta Barat
+Voucher seller
+CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
+Rp20.000
+Rp25.000
+20%
+Kota Jakarta Selatan
+5,0
+(1)
+Terjual 2
+Case Glitter Redmi 10C/11S/10A/9C/9A/10/9/9T-Softcase Macaron Jelly Glitter Pelindung Kamera
+Rp35.000
+Rp45.000
+22%
+Kota Jakarta Selatan
+Solid TPU Case Xiaomi RedMi 10a - Casing Black matte original
+Rp60.000
+Rp75.000
+20%
+Kota Bandung
+2
+CASE CASING XIAOMI REDMI 10A WOOD TEXTURED AIORIA ORIGINAL - Hitam
+Rp255.000
+Kota Jakarta Barat
+6
+Xiaomi Redmi 10A Redmi10A Digital Case Flip Clear View Standing Cover
+Rp70.000
+Kota Jakarta Utara
+Carbon II TPU Case Xiaomi RedMi 10a - Casing Karbon Armor Cover
+Rp65.000
+Rp75.000
+13%
+Kota Bandung
+Armor Carbon TPU Case Xiaomi RedMi 10a - Casing Karbon Armor Cover
+Rp65.000
+Rp75.000
+13%
+Kota Bandung
+Case Casing Xiaomi RedMi 10a 9c Rainbow Clear Soft Cover
+Rp269.000
+Kota Jakarta Barat
+HEAVENCASE Motif Kucing Lucu 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+5,0
+(1)
+Terjual 1
+Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
+Rp259.000
+Kota Jakarta Barat
+Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
+Rp265.000
+Kota Jakarta Barat
+Case Casing Xiaomi RedMi 10a 9c Rainbow Clear Soft Cover
+Rp269.000
+Kota Jakarta Barat
+Shock TPU Case Casing Xiaomi RedMi 10a 9c Clear AntiCrack Soft
+Rp269.000
+Kota Jakarta Barat
+XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
+Rp250.000
+Kota Jakarta Barat
+3
+XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
+Rp250.000
+Kota Jakarta Barat
+Armor Carbon TPU Case Casing Xiaomi RedMi 10a 9C Black Soft Cover
+Rp265.000
+Kota Jakarta Barat
+Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
+Rp259.000
+Kota Jakarta Barat
+Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
+Rp265.000
+Kota Jakarta Barat
+3
+XIAOMI REDMI 10A SOFT CASE CASING CANVAS CROSS PATTERN - Hitam
+Rp255.000
+Kota Jakarta Barat
+XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
+Rp250.000
+Kota Jakarta Barat
+3
+XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
+Rp250.000
+Kota Jakarta Barat
+Shock TPU Case Casing Xiaomi RedMi 10a 9c Clear AntiCrack Soft
+Rp269.000
+Kota Jakarta Barat
+Armor Carbon TPU Case Casing Xiaomi RedMi 10a 9C Black Soft Cover
+Rp265.000
+Kota Jakarta Barat
+VALID_DATA_ABOVE
+| FAIL |
+ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (889, 1608)
+  (Session info: chrome=103.0.5060.134)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007D56B3+2184883]
+	Ordinal0 [0x0076E5F1+1762801]
+	Ordinal0 [0x00683DA8+802216]
+	Ordinal0 [0x006B8287+1016455]
+	Ordinal0 [0x006B6258+1008216]
+	Ordinal0 [0x006B3F3B+999227]
+	Ordinal0 [0x006B2C99+994457]
+	Ordinal0 [0x006A88D3+952531]
+	Ordinal0 [0x006CCB0C+1100556]
+	Ordinal0 [0x006A82B4+950964]
+	Ordinal0 [0x006CCD24+1101092]
+	Ordinal0 [0x006DCF52+1167186]
+	Ordinal0 [0x006CC926+1100070]
+	Ordinal0 [0x006A6EA0+945824]
+	Ordinal0 [0x006A7D96+949654]
+	GetHandleVerifier [0x00A74192+2704034]
+	GetHandleVerifier [0x00A6687D+2648461]
+	GetHandleVerifier [0x0086119A+529066]
+	GetHandleVerifier [0x00860006+524566]
+	Ordinal0 [0x00774F2B+1789739]
+	Ordinal0 [0x00779978+1808760]
+	Ordinal0 [0x00779A65+1808997]
+	Ordinal0 [0x00782A01+1845761]
+	BaseThreadInitThunk [0x76AB6739+25]
+	RtlGetFullPathName_UEx [0x77828FEF+1215]
+	RtlGetFullPathName_UEx [0x77828FBD+1165]
+------------------------------------------------------------------------------
+BlibliElectronic :: This test suite to test functionality survey, ... | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\output.xml
+Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\log.html
+Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\report.html
