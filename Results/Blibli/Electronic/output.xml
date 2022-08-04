@@ -1,150 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20220803 19:54:27.872" rpa="false" schemaversion="3">
-<suite id="s1" name="BlibliElectronic" source="C:\Users\yardhad\Github\robotframework-ecommerce\Tests\TestCases\Blibli\BlibliElectronic.robot">
-<test id="s1-t1" name="BLIBLI Sort by Relevance" line="11">
+<robot generator="Robot 5.0.1 (Python 3.7.0 on win32)" generated="20220804 17:21:08.894" rpa="false" schemaversion="3">
+<suite id="s1" name="BlibliElectronic" source="E:\Programs\Informatics\Github\robotframework-ecommerce\Tests\TestCases\Blibli\BlibliElectronic.robot">
+<test id="s1-t1" name="BLIBLI Filter by Highest Price" line="71">
 <kw name="Open Website Blibli" library="stepBlibli">
 <kw name="Open Browser" library="SeleniumLibrary">
 <arg>@{URL BLIBLI}</arg>
 <arg>options=add_argument("--disable-blink-features=AutomationControlled")</arg>
 <doc>Opens a new browser instance to the optional ``url``.</doc>
-<msg timestamp="20220803 19:54:28.151" level="INFO">Opening browser 'chrome' to base url 'https://www.blibli.com/'.</msg>
-<status status="PASS" starttime="20220803 19:54:28.151" endtime="20220803 19:54:36.850"/>
+<msg timestamp="20220804 17:21:09.114" level="INFO">Opening browser 'chrome' to base url 'https://www.blibli.com/'.</msg>
+<status status="PASS" starttime="20220804 17:21:09.113" endtime="20220804 17:21:11.764"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:38.860" level="INFO">Slept 2 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:36.850" endtime="20220803 19:54:38.860"/>
+<msg timestamp="20220804 17:21:13.769" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:11.765" endtime="20220804 17:21:13.769"/>
 </kw>
 <kw name="Maximize Browser Window" library="SeleniumLibrary">
 <doc>Maximizes current browser window.</doc>
-<status status="PASS" starttime="20220803 19:54:38.860" endtime="20220803 19:54:38.998"/>
+<status status="PASS" starttime="20220804 17:21:13.769" endtime="20220804 17:21:13.975"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:41.006" level="INFO">Slept 2 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:38.998" endtime="20220803 19:54:41.007"/>
+<msg timestamp="20220804 17:21:15.991" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:13.975" endtime="20220804 17:21:15.991"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:28.151" endtime="20220803 19:54:41.007"/>
+<status status="PASS" starttime="20220804 17:21:09.113" endtime="20220804 17:21:15.991"/>
 </kw>
 <kw name="Close Pop Up Blibli" library="stepBlibli">
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:44.017" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:41.007" endtime="20220803 19:54:44.017"/>
+<msg timestamp="20220804 17:21:18.995" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:15.992" endtime="20220804 17:21:18.995"/>
 </kw>
 <kw name="Click Element At Coordinates" library="SeleniumLibrary">
 <arg>${CLOSE POP UP BUTTON BLIBLI}</arg>
 <arg>${X COORDINATES CLOSE BLIBLI}</arg>
 <arg>${Y COORDINATES CLOSE BLIBLI}</arg>
 <doc>Click the element ``locator`` at ``xoffset/yoffset``.</doc>
-<msg timestamp="20220803 19:54:44.018" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]' at coordinates x=500, y=100.</msg>
-<status status="PASS" starttime="20220803 19:54:44.017" endtime="20220803 19:54:44.622"/>
+<msg timestamp="20220804 17:21:18.995" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]' at coordinates x=500, y=100.</msg>
+<status status="PASS" starttime="20220804 17:21:18.995" endtime="20220804 17:21:19.583"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:46.634" level="INFO">Slept 2 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:44.622" endtime="20220803 19:54:46.634"/>
+<msg timestamp="20220804 17:21:21.594" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:19.584" endtime="20220804 17:21:21.594"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:41.007" endtime="20220803 19:54:46.634"/>
+<status status="PASS" starttime="20220804 17:21:15.991" endtime="20220804 17:21:21.594"/>
 </kw>
 <kw name="Click Search Box Blibli" library="stepBlibli">
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:47.639" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:54:46.634" endtime="20220803 19:54:47.639"/>
+<msg timestamp="20220804 17:21:22.610" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:21.594" endtime="20220804 17:21:22.610"/>
 </kw>
 <kw name="Click Element" library="SeleniumLibrary">
 <arg>${SEARCH BOX BLIBLI}</arg>
 <doc>Click the element identified by ``locator``.</doc>
-<msg timestamp="20220803 19:54:47.639" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/input'.</msg>
-<status status="PASS" starttime="20220803 19:54:47.639" endtime="20220803 19:54:47.752"/>
+<msg timestamp="20220804 17:21:22.610" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/input'.</msg>
+<status status="PASS" starttime="20220804 17:21:22.610" endtime="20220804 17:21:22.654"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:50.768" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:47.752" endtime="20220803 19:54:50.768"/>
+<msg timestamp="20220804 17:21:25.665" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:22.654" endtime="20220804 17:21:25.665"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:46.634" endtime="20220803 19:54:50.768"/>
+<status status="PASS" starttime="20220804 17:21:21.594" endtime="20220804 17:21:25.665"/>
 </kw>
 <kw name="Type Item 1 Name Blibli" library="stepBlibli">
 <kw name="Input Text" library="SeleniumLibrary">
 <arg>@{ITEM 1 NAME BLIBLI}</arg>
 <doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<msg timestamp="20220803 19:54:50.768" level="INFO">Typing text 'case redmi 10a' into text field 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/input'.</msg>
-<status status="PASS" starttime="20220803 19:54:50.768" endtime="20220803 19:54:50.917"/>
+<msg timestamp="20220804 17:21:25.666" level="INFO">Typing text 'case redmi 10a' into text field 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/input'.</msg>
+<status status="PASS" starttime="20220804 17:21:25.665" endtime="20220804 17:21:25.714"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:53.931" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:50.917" endtime="20220803 19:54:53.932"/>
+<msg timestamp="20220804 17:21:28.727" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:25.714" endtime="20220804 17:21:28.727"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:50.768" endtime="20220803 19:54:53.932"/>
+<status status="PASS" starttime="20220804 17:21:25.665" endtime="20220804 17:21:28.727"/>
 </kw>
 <kw name="Hit Submit Button Blibli" library="stepBlibli">
 <kw name="Click Element" library="SeleniumLibrary">
 <arg>${SEARCH BUTTON BLIBLI}</arg>
 <doc>Click the element identified by ``locator``.</doc>
-<msg timestamp="20220803 19:54:53.933" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/div[2]/button'.</msg>
-<status status="PASS" starttime="20220803 19:54:53.933" endtime="20220803 19:54:54.200"/>
+<msg timestamp="20220804 17:21:28.728" level="INFO">Clicking element 'xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/div[2]/button'.</msg>
+<status status="PASS" starttime="20220804 17:21:28.727" endtime="20220804 17:21:28.853"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>3</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:57.206" level="INFO">Slept 3 seconds</msg>
-<status status="PASS" starttime="20220803 19:54:54.200" endtime="20220803 19:54:57.206"/>
+<msg timestamp="20220804 17:21:31.864" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:28.853" endtime="20220804 17:21:31.864"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:53.932" endtime="20220803 19:54:57.206"/>
+<status status="PASS" starttime="20220804 17:21:28.727" endtime="20220804 17:21:31.864"/>
 </kw>
-<kw name="Sort by Relevance Tag Electronic Blibli" library="stepBlibli">
-<kw name="Log To Console" library="BuiltIn">
-<arg>Sort by Relevance Tag Electronic Blibli</arg>
-<doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20220803 19:54:57.206" endtime="20220803 19:54:57.206"/>
-</kw>
-<status status="PASS" starttime="20220803 19:54:57.206" endtime="20220803 19:54:57.206"/>
-</kw>
-<kw name="Get Product Name with Sort by Relevance Page 1 Blibli" library="stepBlibli">
-<kw name="Get All Product Name Blibli" library="stepBlibli">
-<arg>${NEXT PAGE BUTTON SORT REL 1 BLIBLI}</arg>
-<arg>${SORT RELEVANCE PRODUCT 1 BLIBLI}</arg>
+<kw name="Find and Click Box Maximum Price Filter Blibli" library="stepBlibli">
+<kw name="Find and Click Box Blibli" library="stepBlibli">
+<arg>${INPUT BOX MAXIMUM PRICE BLIBLI}</arg>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:58.216" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:54:57.206" endtime="20220803 19:54:58.216"/>
+<msg timestamp="20220804 17:21:32.869" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:31.865" endtime="20220804 17:21:32.869"/>
 </kw>
 <for flavor="IN RANGE">
 <var>${counter}</var>
 <value>0</value>
-<value>3</value>
+<value>5</value>
 <iter>
 <var name="${counter}">0</var>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:54:59.219" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:54:58.217" endtime="20220803 19:54:59.219"/>
+<msg timestamp="20220804 17:21:33.869" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:32.869" endtime="20220804 17:21:33.869"/>
 </kw>
 <kw name="Execute Javascript" library="SeleniumLibrary">
-<arg>window.scroll(0,${counter}300)</arg>
+<arg>window.scrollTo(0,${counter}*150)</arg>
 <doc>Executes the given JavaScript code with possible arguments.</doc>
-<msg timestamp="20220803 19:54:59.219" level="INFO">Executing JavaScript:
-window.scroll(0,0300)
+<msg timestamp="20220804 17:21:33.869" level="INFO">Executing JavaScript:
+window.scrollTo(0,0*150)
 Without any arguments.</msg>
-<status status="PASS" starttime="20220803 19:54:59.219" endtime="20220803 19:54:59.235"/>
+<status status="PASS" starttime="20220804 17:21:33.869" endtime="20220804 17:21:33.880"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:00.242" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:54:59.235" endtime="20220803 19:55:00.242"/>
+<msg timestamp="20220804 17:21:34.894" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:33.880" endtime="20220804 17:21:34.894"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${box locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${box locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:21:34.907" level="INFO">Current page contains input 'xpath=//*[@id="quick-filter-price-input-maximum"]'.</msg>
+<status status="PASS" starttime="20220804 17:21:34.894" endtime="20220804 17:21:34.907"/>
+</kw>
+<msg timestamp="20220804 17:21:34.907" level="INFO">${status} = True</msg>
+<status status="PASS" starttime="20220804 17:21:34.894" endtime="20220804 17:21:34.907"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:35.915" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:34.908" endtime="20220804 17:21:35.915"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Exit For Loop" library="BuiltIn">
+<doc>Stops executing the enclosing FOR loop.</doc>
+<msg timestamp="20220804 17:21:35.915" level="INFO">Exiting for loop altogether.</msg>
+<status status="PASS" starttime="20220804 17:21:35.915" endtime="20220804 17:21:35.916"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:35.915" endtime="20220804 17:21:35.916"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="NOT RUN" starttime="20220804 17:21:35.916" endtime="20220804 17:21:35.917"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:32.869" endtime="20220804 17:21:35.917"/>
+</iter>
+<status status="PASS" starttime="20220804 17:21:32.869" endtime="20220804 17:21:35.917"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:36.926" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:35.917" endtime="20220804 17:21:36.926"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${box locator}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220804 17:21:36.926" level="INFO">Clicking element 'xpath=//*[@id="quick-filter-price-input-maximum"]'.</msg>
+<status status="PASS" starttime="20220804 17:21:36.926" endtime="20220804 17:21:36.970"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:31.864" endtime="20220804 17:21:36.970"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:31.864" endtime="20220804 17:21:36.970"/>
+</kw>
+<kw name="Set Maximum Price Blibli" library="stepBlibli">
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${INPUT BOX MAXIMUM PRICE BLIBLI}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220804 17:21:36.971" level="INFO">Clicking element 'xpath=//*[@id="quick-filter-price-input-maximum"]'.</msg>
+<status status="PASS" starttime="20220804 17:21:36.970" endtime="20220804 17:21:36.999"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>@{FILTER MAXIMUM PRICE BLIBLI}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20220804 17:21:37.000" level="INFO">Typing text '100000' into text field 'xpath=//*[@id="quick-filter-price-input-maximum"]'.</msg>
+<status status="PASS" starttime="20220804 17:21:36.999" endtime="20220804 17:21:37.044"/>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<arg>@{SUBMIT MAXIMUM PRICE BLIBLI}</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<msg timestamp="20220804 17:21:37.044" level="INFO">Sending key(s) ('ENTER',) to xpath=//*[@id="quick-filter-price-input-minimum"] element.</msg>
+<msg timestamp="20220804 17:21:37.419" level="INFO">Pressing special key ENTER to element.</msg>
+<msg timestamp="20220804 17:21:37.419" level="INFO">Releasing special key ENTER.</msg>
+<status status="PASS" starttime="20220804 17:21:37.044" endtime="20220804 17:21:37.427"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:36.970" endtime="20220804 17:21:37.427"/>
+</kw>
+<kw name="Get Product Name with Filter by Maximum Price Page 1 Blibli" library="stepBlibli">
+<kw name="Get All Product Name Blibli" library="stepBlibli">
+<arg>${NEXT PAGE BUTTON 1 FILTER MAX BLIBLI}</arg>
+<arg>${FILTER MAX PRODUCT 1 BLIBLI}</arg>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:38.443" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:37.428" endtime="20220804 17:21:38.443"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>4</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:39.443" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:38.443" endtime="20220804 17:21:39.443"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:21:39.443" level="INFO">Executing JavaScript:
+window.scroll(0,0300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:21:39.443" endtime="20220804 17:21:39.453"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:40.463" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:39.453" endtime="20220804 17:21:40.463"/>
 </kw>
 <kw name="Run Keyword And Return Status" library="BuiltIn">
 <var>${status}</var>
@@ -156,55 +265,55 @@ Without any arguments.</msg>
 <arg>${next button locator}</arg>
 <arg>loglevel=NONE</arg>
 <doc>Verifies button ``locator`` is found from current page.</doc>
-<msg timestamp="20220803 19:55:01.005" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-133.png"&gt;&lt;img src="selenium-screenshot-133.png" width="800px"&gt;&lt;/a&gt;</msg>
-<msg timestamp="20220803 19:55:01.005" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
-<status status="FAIL" starttime="20220803 19:55:00.242" endtime="20220803 19:55:01.005"/>
+<msg timestamp="20220804 17:21:40.952" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-72.png"&gt;&lt;img src="selenium-screenshot-72.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:21:40.952" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:21:40.463" endtime="20220804 17:21:40.953"/>
 </kw>
-<msg timestamp="20220803 19:55:01.005" level="INFO">${status} = False</msg>
-<status status="PASS" starttime="20220803 19:55:00.242" endtime="20220803 19:55:01.005"/>
+<msg timestamp="20220804 17:21:40.953" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:21:40.463" endtime="20220804 17:21:40.953"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:02.019" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:01.013" endtime="20220803 19:55:02.019"/>
+<msg timestamp="20220804 17:21:41.957" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:40.953" endtime="20220804 17:21:41.957"/>
 </kw>
 <kw name="Run Keyword If" library="BuiltIn">
 <arg>${status}</arg>
 <arg>Exit For Loop</arg>
 <doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
-<status status="PASS" starttime="20220803 19:55:02.019" endtime="20220803 19:55:02.020"/>
+<status status="PASS" starttime="20220804 17:21:41.957" endtime="20220804 17:21:41.957"/>
 </kw>
 <kw name="Set Variable" library="BuiltIn">
 <var>${counter}</var>
 <arg>${counter}+1</arg>
 <doc>Returns the given values which can then be assigned to a variables.</doc>
-<msg timestamp="20220803 19:55:02.020" level="INFO">${counter} = 0+1</msg>
-<status status="PASS" starttime="20220803 19:55:02.020" endtime="20220803 19:55:02.020"/>
+<msg timestamp="20220804 17:21:41.957" level="INFO">${counter} = 0+1</msg>
+<status status="PASS" starttime="20220804 17:21:41.957" endtime="20220804 17:21:41.958"/>
 </kw>
-<status status="PASS" starttime="20220803 19:54:58.217" endtime="20220803 19:55:02.020"/>
+<status status="PASS" starttime="20220804 17:21:38.443" endtime="20220804 17:21:41.958"/>
 </iter>
 <iter>
 <var name="${counter}">1</var>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:03.036" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:02.020" endtime="20220803 19:55:03.036"/>
+<msg timestamp="20220804 17:21:42.972" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:41.958" endtime="20220804 17:21:42.972"/>
 </kw>
 <kw name="Execute Javascript" library="SeleniumLibrary">
 <arg>window.scroll(0,${counter}300)</arg>
 <doc>Executes the given JavaScript code with possible arguments.</doc>
-<msg timestamp="20220803 19:55:03.036" level="INFO">Executing JavaScript:
+<msg timestamp="20220804 17:21:42.973" level="INFO">Executing JavaScript:
 window.scroll(0,1300)
 Without any arguments.</msg>
-<status status="PASS" starttime="20220803 19:55:03.036" endtime="20220803 19:55:03.052"/>
+<status status="PASS" starttime="20220804 17:21:42.972" endtime="20220804 17:21:42.976"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:04.058" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:03.052" endtime="20220803 19:55:04.058"/>
+<msg timestamp="20220804 17:21:43.983" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:42.976" endtime="20220804 17:21:43.983"/>
 </kw>
 <kw name="Run Keyword And Return Status" library="BuiltIn">
 <var>${status}</var>
@@ -216,55 +325,55 @@ Without any arguments.</msg>
 <arg>${next button locator}</arg>
 <arg>loglevel=NONE</arg>
 <doc>Verifies button ``locator`` is found from current page.</doc>
-<msg timestamp="20220803 19:55:04.916" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-134.png"&gt;&lt;img src="selenium-screenshot-134.png" width="800px"&gt;&lt;/a&gt;</msg>
-<msg timestamp="20220803 19:55:04.925" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
-<status status="FAIL" starttime="20220803 19:55:04.058" endtime="20220803 19:55:04.925"/>
+<msg timestamp="20220804 17:21:44.503" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-73.png"&gt;&lt;img src="selenium-screenshot-73.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:21:44.503" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:21:43.983" endtime="20220804 17:21:44.504"/>
 </kw>
-<msg timestamp="20220803 19:55:04.927" level="INFO">${status} = False</msg>
-<status status="PASS" starttime="20220803 19:55:04.058" endtime="20220803 19:55:04.927"/>
+<msg timestamp="20220804 17:21:44.504" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:21:43.983" endtime="20220804 17:21:44.504"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:05.933" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:04.927" endtime="20220803 19:55:05.933"/>
+<msg timestamp="20220804 17:21:45.514" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:44.504" endtime="20220804 17:21:45.514"/>
 </kw>
 <kw name="Run Keyword If" library="BuiltIn">
 <arg>${status}</arg>
 <arg>Exit For Loop</arg>
 <doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
-<status status="PASS" starttime="20220803 19:55:05.933" endtime="20220803 19:55:05.934"/>
+<status status="PASS" starttime="20220804 17:21:45.514" endtime="20220804 17:21:45.514"/>
 </kw>
 <kw name="Set Variable" library="BuiltIn">
 <var>${counter}</var>
 <arg>${counter}+1</arg>
 <doc>Returns the given values which can then be assigned to a variables.</doc>
-<msg timestamp="20220803 19:55:05.934" level="INFO">${counter} = 1+1</msg>
-<status status="PASS" starttime="20220803 19:55:05.934" endtime="20220803 19:55:05.934"/>
+<msg timestamp="20220804 17:21:45.515" level="INFO">${counter} = 1+1</msg>
+<status status="PASS" starttime="20220804 17:21:45.514" endtime="20220804 17:21:45.515"/>
 </kw>
-<status status="PASS" starttime="20220803 19:55:02.020" endtime="20220803 19:55:05.934"/>
+<status status="PASS" starttime="20220804 17:21:41.958" endtime="20220804 17:21:45.515"/>
 </iter>
 <iter>
 <var name="${counter}">2</var>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:06.948" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:05.934" endtime="20220803 19:55:06.949"/>
+<msg timestamp="20220804 17:21:46.528" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:45.515" endtime="20220804 17:21:46.528"/>
 </kw>
 <kw name="Execute Javascript" library="SeleniumLibrary">
 <arg>window.scroll(0,${counter}300)</arg>
 <doc>Executes the given JavaScript code with possible arguments.</doc>
-<msg timestamp="20220803 19:55:06.949" level="INFO">Executing JavaScript:
+<msg timestamp="20220804 17:21:46.528" level="INFO">Executing JavaScript:
 window.scroll(0,2300)
 Without any arguments.</msg>
-<status status="PASS" starttime="20220803 19:55:06.949" endtime="20220803 19:55:06.957"/>
+<status status="PASS" starttime="20220804 17:21:46.528" endtime="20220804 17:21:46.532"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:07.966" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:06.957" endtime="20220803 19:55:07.967"/>
+<msg timestamp="20220804 17:21:47.542" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:46.532" endtime="20220804 17:21:47.542"/>
 </kw>
 <kw name="Run Keyword And Return Status" library="BuiltIn">
 <var>${status}</var>
@@ -276,47 +385,107 @@ Without any arguments.</msg>
 <arg>${next button locator}</arg>
 <arg>loglevel=NONE</arg>
 <doc>Verifies button ``locator`` is found from current page.</doc>
-<msg timestamp="20220803 19:55:08.830" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-135.png"&gt;&lt;img src="selenium-screenshot-135.png" width="800px"&gt;&lt;/a&gt;</msg>
-<msg timestamp="20220803 19:55:08.830" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
-<status status="FAIL" starttime="20220803 19:55:07.967" endtime="20220803 19:55:08.838"/>
+<msg timestamp="20220804 17:21:48.085" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-74.png"&gt;&lt;img src="selenium-screenshot-74.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:21:48.086" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:21:47.542" endtime="20220804 17:21:48.086"/>
 </kw>
-<msg timestamp="20220803 19:55:08.839" level="INFO">${status} = False</msg>
-<status status="PASS" starttime="20220803 19:55:07.967" endtime="20220803 19:55:08.839"/>
+<msg timestamp="20220804 17:21:48.086" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:21:47.542" endtime="20220804 17:21:48.086"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
 <arg>1</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:09.841" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:08.839" endtime="20220803 19:55:09.841"/>
+<msg timestamp="20220804 17:21:49.093" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:48.086" endtime="20220804 17:21:49.093"/>
 </kw>
 <kw name="Run Keyword If" library="BuiltIn">
 <arg>${status}</arg>
 <arg>Exit For Loop</arg>
 <doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
-<status status="PASS" starttime="20220803 19:55:09.841" endtime="20220803 19:55:09.841"/>
+<status status="PASS" starttime="20220804 17:21:49.093" endtime="20220804 17:21:49.093"/>
 </kw>
 <kw name="Set Variable" library="BuiltIn">
 <var>${counter}</var>
 <arg>${counter}+1</arg>
 <doc>Returns the given values which can then be assigned to a variables.</doc>
-<msg timestamp="20220803 19:55:09.841" level="INFO">${counter} = 2+1</msg>
-<status status="PASS" starttime="20220803 19:55:09.841" endtime="20220803 19:55:09.841"/>
+<msg timestamp="20220804 17:21:49.094" level="INFO">${counter} = 2+1</msg>
+<status status="PASS" starttime="20220804 17:21:49.093" endtime="20220804 17:21:49.094"/>
 </kw>
-<status status="PASS" starttime="20220803 19:55:05.934" endtime="20220803 19:55:09.841"/>
+<status status="PASS" starttime="20220804 17:21:45.515" endtime="20220804 17:21:49.094"/>
 </iter>
-<status status="PASS" starttime="20220803 19:54:58.217" endtime="20220803 19:55:09.841"/>
+<iter>
+<var name="${counter}">3</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:50.109" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:49.094" endtime="20220804 17:21:50.109"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:21:50.110" level="INFO">Executing JavaScript:
+window.scroll(0,3300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:21:50.109" endtime="20220804 17:21:50.114"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:51.121" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:50.114" endtime="20220804 17:21:51.121"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:21:51.548" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-75.png"&gt;&lt;img src="selenium-screenshot-75.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:21:51.548" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:21:51.121" endtime="20220804 17:21:51.548"/>
+</kw>
+<msg timestamp="20220804 17:21:51.548" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:21:51.121" endtime="20220804 17:21:51.548"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:52.562" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:51.548" endtime="20220804 17:21:52.562"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" starttime="20220804 17:21:52.562" endtime="20220804 17:21:52.562"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220804 17:21:52.563" level="INFO">${counter} = 3+1</msg>
+<status status="PASS" starttime="20220804 17:21:52.562" endtime="20220804 17:21:52.563"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:49.094" endtime="20220804 17:21:52.563"/>
+</iter>
+<status status="PASS" starttime="20220804 17:21:38.443" endtime="20220804 17:21:52.563"/>
 </for>
 <kw name="Sleep" library="BuiltIn">
 <arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:11.849" level="INFO">Slept 2 seconds</msg>
-<status status="PASS" starttime="20220803 19:55:09.841" endtime="20220803 19:55:11.850"/>
+<msg timestamp="20220804 17:21:54.564" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:52.563" endtime="20220804 17:21:54.564"/>
 </kw>
 <kw name="Get Text" library="SeleniumLibrary">
 <var>${product group}</var>
 <arg>${product group}</arg>
 <doc>Returns the text value of the element identified by ``locator``.</doc>
-<msg timestamp="20220803 19:55:12.222" level="INFO">${product group} = 5
+<msg timestamp="20220804 17:21:54.913" level="INFO">${product group} = 5
 Voucher seller
 CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
 Rp20.000
@@ -328,121 +497,371 @@ Kota Jakarta Selatan
 Terjual 4
 5
 Soft Case Xiaomi Redmi 10A Aero Color Button Matte Fram...</msg>
-<status status="PASS" starttime="20220803 19:55:11.850" endtime="20220803 19:55:12.222"/>
+<status status="PASS" starttime="20220804 17:21:54.564" endtime="20220804 17:21:54.913"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>VALID_DATA_BELOW</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20220803 19:55:12.222" endtime="20220803 19:55:12.222"/>
+<status status="PASS" starttime="20220804 17:21:54.913" endtime="20220804 17:21:54.914"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>${product group}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20220803 19:55:12.222" endtime="20220803 19:55:12.222"/>
+<status status="PASS" starttime="20220804 17:21:54.914" endtime="20220804 17:21:54.915"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>VALID_DATA_ABOVE</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20220803 19:55:12.222" endtime="20220803 19:55:12.222"/>
+<status status="PASS" starttime="20220804 17:21:54.915" endtime="20220804 17:21:54.915"/>
 </kw>
 <kw name="Sleep" library="BuiltIn">
-<arg>1</arg>
+<arg>2</arg>
 <doc>Pauses the test executed for the given time.</doc>
-<msg timestamp="20220803 19:55:13.222" level="INFO">Slept 1 second</msg>
-<status status="PASS" starttime="20220803 19:55:12.222" endtime="20220803 19:55:13.222"/>
+<msg timestamp="20220804 17:21:56.923" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:21:54.915" endtime="20220804 17:21:56.923"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20220804 17:21:56.923" endtime="20220804 17:21:56.940"/>
 </kw>
 <kw name="Click Element" library="SeleniumLibrary">
 <arg>${next button locator}</arg>
 <doc>Click the element identified by ``locator``.</doc>
-<msg timestamp="20220803 19:55:13.222" level="INFO">Clicking element 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]'.</msg>
-<msg timestamp="20220803 19:55:14.562" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-136.png"&gt;&lt;img src="selenium-screenshot-136.png" width="800px"&gt;&lt;/a&gt;</msg>
-<msg timestamp="20220803 19:55:14.563" level="FAIL">ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (889, 1608)
-  (Session info: chrome=103.0.5060.134)
-Stacktrace:
-Backtrace:
-	Ordinal0 [0x007D56B3+2184883]
-	Ordinal0 [0x0076E5F1+1762801]
-	Ordinal0 [0x00683DA8+802216]
-	Ordinal0 [0x006B8287+1016455]
-	Ordinal0 [0x006B6258+1008216]
-	Ordinal0 [0x006B3F3B+999227]
-	Ordinal0 [0x006B2C99+994457]
-	Ordinal0 [0x006A88D3+952531]
-	Ordinal0 [0x006CCB0C+1100556]
-	Ordinal0 [0x006A82B4+950964]
-	Ordinal0 [0x006CCD24+1101092]
-	Ordinal0 [0x006DCF52+1167186]
-	Ordinal0 [0x006CC926+1100070]
-	Ordinal0 [0x006A6EA0+945824]
-	Ordinal0 [0x006A7D96+949654]
-	GetHandleVerifier [0x00A74192+2704034]
-	GetHandleVerifier [0x00A6687D+2648461]
-	GetHandleVerifier [0x0086119A+529066]
-	GetHandleVerifier [0x00860006+524566]
-	Ordinal0 [0x00774F2B+1789739]
-	Ordinal0 [0x00779978+1808760]
-	Ordinal0 [0x00779A65+1808997]
-	Ordinal0 [0x00782A01+1845761]
-	BaseThreadInitThunk [0x76AB6739+25]
-	RtlGetFullPathName_UEx [0x77828FEF+1215]
-	RtlGetFullPathName_UEx [0x77828FBD+1165]
-</msg>
-<status status="FAIL" starttime="20220803 19:55:13.222" endtime="20220803 19:55:14.563"/>
+<msg timestamp="20220804 17:21:56.940" level="INFO">Clicking element 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]'.</msg>
+<status status="PASS" starttime="20220804 17:21:56.940" endtime="20220804 17:21:57.186"/>
 </kw>
-<status status="FAIL" starttime="20220803 19:54:57.206" endtime="20220803 19:55:14.563"/>
+<status status="PASS" starttime="20220804 17:21:37.428" endtime="20220804 17:21:57.187"/>
 </kw>
-<status status="FAIL" starttime="20220803 19:54:57.206" endtime="20220803 19:55:14.571"/>
+<status status="PASS" starttime="20220804 17:21:37.427" endtime="20220804 17:21:57.187"/>
 </kw>
-<kw name="Get Product Name with Sort by Relevance Page 2 Blibli" library="stepBlibli">
-<status status="NOT RUN" starttime="20220803 19:55:14.572" endtime="20220803 19:55:14.572"/>
+<kw name="Get Product Name with Filter by Maximum Price Page 2 Blibli" library="stepBlibli">
+<kw name="Get All Product Name Blibli" library="stepBlibli">
+<arg>${NEXT PAGE BUTTON 2 FILTER MAX BLIBLI}</arg>
+<arg>${FILTER MAX PRODUCT 2 BLIBLI}</arg>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:58.195" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:57.188" endtime="20220804 17:21:58.195"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${counter}</var>
+<value>0</value>
+<value>4</value>
+<iter>
+<var name="${counter}">0</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:21:59.201" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:58.195" endtime="20220804 17:21:59.201"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:21:59.201" level="INFO">Executing JavaScript:
+window.scroll(0,0300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:21:59.201" endtime="20220804 17:21:59.212"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:00.221" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:21:59.212" endtime="20220804 17:22:00.221"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:22:00.724" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-76.png"&gt;&lt;img src="selenium-screenshot-76.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:22:00.724" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:22:00.221" endtime="20220804 17:22:00.725"/>
+</kw>
+<msg timestamp="20220804 17:22:00.725" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:22:00.221" endtime="20220804 17:22:00.725"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:01.733" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:00.725" endtime="20220804 17:22:01.733"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" starttime="20220804 17:22:01.733" endtime="20220804 17:22:01.733"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220804 17:22:01.734" level="INFO">${counter} = 0+1</msg>
+<status status="PASS" starttime="20220804 17:22:01.733" endtime="20220804 17:22:01.734"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:58.195" endtime="20220804 17:22:01.734"/>
+</iter>
+<iter>
+<var name="${counter}">1</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:02.745" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:01.734" endtime="20220804 17:22:02.745"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:22:02.746" level="INFO">Executing JavaScript:
+window.scroll(0,1300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:22:02.745" endtime="20220804 17:22:02.749"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:03.759" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:02.749" endtime="20220804 17:22:03.759"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:22:04.323" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-77.png"&gt;&lt;img src="selenium-screenshot-77.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:22:04.323" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:22:03.759" endtime="20220804 17:22:04.324"/>
+</kw>
+<msg timestamp="20220804 17:22:04.324" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:22:03.759" endtime="20220804 17:22:04.324"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:05.335" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:04.324" endtime="20220804 17:22:05.335"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" starttime="20220804 17:22:05.335" endtime="20220804 17:22:05.335"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220804 17:22:05.336" level="INFO">${counter} = 1+1</msg>
+<status status="PASS" starttime="20220804 17:22:05.335" endtime="20220804 17:22:05.336"/>
+</kw>
+<status status="PASS" starttime="20220804 17:22:01.734" endtime="20220804 17:22:05.336"/>
+</iter>
+<iter>
+<var name="${counter}">2</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:06.344" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:05.336" endtime="20220804 17:22:06.344"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:22:06.345" level="INFO">Executing JavaScript:
+window.scroll(0,2300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:22:06.344" endtime="20220804 17:22:06.350"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:07.354" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:06.350" endtime="20220804 17:22:07.354"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:22:07.860" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-78.png"&gt;&lt;img src="selenium-screenshot-78.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:22:07.860" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:22:07.354" endtime="20220804 17:22:07.861"/>
+</kw>
+<msg timestamp="20220804 17:22:07.861" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:22:07.354" endtime="20220804 17:22:07.861"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:08.862" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:07.861" endtime="20220804 17:22:08.862"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" starttime="20220804 17:22:08.862" endtime="20220804 17:22:08.862"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220804 17:22:08.863" level="INFO">${counter} = 2+1</msg>
+<status status="PASS" starttime="20220804 17:22:08.862" endtime="20220804 17:22:08.863"/>
+</kw>
+<status status="PASS" starttime="20220804 17:22:05.336" endtime="20220804 17:22:08.863"/>
+</iter>
+<iter>
+<var name="${counter}">3</var>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:09.878" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:08.863" endtime="20220804 17:22:09.878"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scroll(0,${counter}300)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20220804 17:22:09.878" level="INFO">Executing JavaScript:
+window.scroll(0,3300)
+Without any arguments.</msg>
+<status status="PASS" starttime="20220804 17:22:09.878" endtime="20220804 17:22:09.881"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:10.885" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:09.882" endtime="20220804 17:22:10.885"/>
+</kw>
+<kw name="Run Keyword And Return Status" library="BuiltIn">
+<var>${status}</var>
+<arg>Page Should Contain Button</arg>
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Runs the given keyword with given arguments and returns the status as a Boolean value.</doc>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<arg>loglevel=NONE</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20220804 17:22:11.337" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-79.png"&gt;&lt;img src="selenium-screenshot-79.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20220804 17:22:11.338" level="FAIL">Page should have contained button 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]' but did not.</msg>
+<status status="FAIL" starttime="20220804 17:22:10.885" endtime="20220804 17:22:11.338"/>
+</kw>
+<msg timestamp="20220804 17:22:11.338" level="INFO">${status} = False</msg>
+<status status="PASS" starttime="20220804 17:22:10.885" endtime="20220804 17:22:11.338"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>1</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:12.342" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20220804 17:22:11.338" endtime="20220804 17:22:12.342"/>
+</kw>
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${status}</arg>
+<arg>Exit For Loop</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" starttime="20220804 17:22:12.342" endtime="20220804 17:22:12.342"/>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<var>${counter}</var>
+<arg>${counter}+1</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<msg timestamp="20220804 17:22:12.343" level="INFO">${counter} = 3+1</msg>
+<status status="PASS" starttime="20220804 17:22:12.343" endtime="20220804 17:22:12.343"/>
+</kw>
+<status status="PASS" starttime="20220804 17:22:08.863" endtime="20220804 17:22:12.343"/>
+</iter>
+<status status="PASS" starttime="20220804 17:21:58.195" endtime="20220804 17:22:12.343"/>
+</for>
+<kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:14.346" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:22:12.343" endtime="20220804 17:22:14.346"/>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<var>${product group}</var>
+<arg>${product group}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<msg timestamp="20220804 17:22:14.697" level="INFO">${product group} = HEAVENCASE Motif Superhero Superman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+HEAVENCASE Motif Bendera Indonesia 10 Hardcase Casing for Xiaomi Redmi 5A -...</msg>
+<status status="PASS" starttime="20220804 17:22:14.346" endtime="20220804 17:22:14.698"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>VALID_DATA_BELOW</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220804 17:22:14.698" endtime="20220804 17:22:14.698"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>${product group}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220804 17:22:14.698" endtime="20220804 17:22:14.698"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>VALID_DATA_ABOVE</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220804 17:22:14.698" endtime="20220804 17:22:14.698"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20220804 17:22:16.713" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20220804 17:22:14.698" endtime="20220804 17:22:16.713"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20220804 17:22:16.713" endtime="20220804 17:22:16.729"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${next button locator}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20220804 17:22:16.729" level="INFO">Clicking element 'xpath=//*[@id="catalogProductListContentDiv"]/div[5]/nav/a[2]'.</msg>
+<status status="PASS" starttime="20220804 17:22:16.729" endtime="20220804 17:22:16.896"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:57.187" endtime="20220804 17:22:16.896"/>
+</kw>
+<status status="PASS" starttime="20220804 17:21:57.187" endtime="20220804 17:22:16.896"/>
 </kw>
 <kw name="Close Browser" library="SeleniumLibrary">
 <doc>Closes the current browser.</doc>
-<status status="NOT RUN" starttime="20220803 19:55:14.572" endtime="20220803 19:55:14.572"/>
+<status status="PASS" starttime="20220804 17:22:16.896" endtime="20220804 17:22:19.131"/>
 </kw>
-<status status="FAIL" starttime="20220803 19:54:28.151" endtime="20220803 19:55:14.572">ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (889, 1608)
-  (Session info: chrome=103.0.5060.134)
-Stacktrace:
-Backtrace:
-	Ordinal0 [0x007D56B3+2184883]
-	Ordinal0 [0x0076E5F1+1762801]
-	Ordinal0 [0x00683DA8+802216]
-	Ordinal0 [0x006B8287+1016455]
-	Ordinal0 [0x006B6258+1008216]
-	Ordinal0 [0x006B3F3B+999227]
-	Ordinal0 [0x006B2C99+994457]
-	Ordinal0 [0x006A88D3+952531]
-	Ordinal0 [0x006CCB0C+1100556]
-	Ordinal0 [0x006A82B4+950964]
-	Ordinal0 [0x006CCD24+1101092]
-	Ordinal0 [0x006DCF52+1167186]
-	Ordinal0 [0x006CC926+1100070]
-	Ordinal0 [0x006A6EA0+945824]
-	Ordinal0 [0x006A7D96+949654]
-	GetHandleVerifier [0x00A74192+2704034]
-	GetHandleVerifier [0x00A6687D+2648461]
-	GetHandleVerifier [0x0086119A+529066]
-	GetHandleVerifier [0x00860006+524566]
-	Ordinal0 [0x00774F2B+1789739]
-	Ordinal0 [0x00779978+1808760]
-	Ordinal0 [0x00779A65+1808997]
-	Ordinal0 [0x00782A01+1845761]
-	BaseThreadInitThunk [0x76AB6739+25]
-	RtlGetFullPathName_UEx [0x77828FEF+1215]
-	RtlGetFullPathName_UEx [0x77828FBD+1165]
-</status>
+<status status="PASS" starttime="20220804 17:21:09.112" endtime="20220804 17:22:19.131"/>
 </test>
 <doc>This test suite to test functionality survey, each type survey have 1 survey</doc>
-<status status="FAIL" starttime="20220803 19:54:27.872" endtime="20220803 19:55:14.572"/>
+<status status="PASS" starttime="20220804 17:21:08.896" endtime="20220804 17:22:19.132"/>
 </suite>
 <statistics>
 <total>
-<stat pass="0" fail="1" skip="0">All Tests</stat>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="0" fail="1" skip="0" id="s1" name="BlibliElectronic">BlibliElectronic</stat>
+<stat pass="1" fail="0" skip="0" id="s1" name="BlibliElectronic">BlibliElectronic</stat>
 </suite>
 </statistics>
 <errors>

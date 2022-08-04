@@ -79,7 +79,7 @@ ${SEARCHBOX LOCATION BLIBLI}             xpath=
 @{INPUT LOCATION SBY BLIBLI}             ${SEARCHBOX LOCATION BLIBLI}                   ${THIRD LOCATION FILTER}
 
 ${APPLY LOCATION BLIBLI}                 xpath=
-${VIEW ALL PRODUCTS BLIBLI}              xpah=//*[@id="catalogProductListContentDiv"]/div[1]/div[1]/article/div/div/a
+${VIEW ALL PRODUCTS BLIBLI}              xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div[1]/article/div/div/a
 ${SORT OPTIONS BLIBLI}                   xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[2]
 ${SORT OPTIONS LOWEST PRICE BLIBLI}      xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[3]/button
 ${SORT OPTIONS HIGHEST PRICE BLIBLI}     xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[4]/button

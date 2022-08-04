@@ -69,7 +69,7 @@ Click Option For Choosing Third Location Blibli
     Click Element                            ${APPLY LOCATION BLIBLI}
 
 Click Sort Option Blibli
-    Mouse Over                               ${SORT OPTIONS BLIBLI}
+    Click Element                            ${SORT OPTIONS BLIBLI}
     Sleep                                    1
 
 Choose Sort by Lowest Price Blibli
@@ -155,7 +155,7 @@ Find and Click Box Blibli
 Get All Product Name Blibli
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  3
+    FOR                                      ${counter}                                     IN RANGE                         0                  4
         Sleep                                    1
         Execute Javascript                       window.scroll(0,${counter}300)
         Sleep                                    1
@@ -171,4 +171,5 @@ Get All Product Name Blibli
     Log to Console                           ${product group}
     Log to Console                           VALID_DATA_ABOVE
     Sleep                                    2
+    Wait Until Element Is Visible            ${next button locator}
     Click Element                            ${next button locator}

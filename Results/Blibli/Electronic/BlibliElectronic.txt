@@ -1,8 +1,7 @@
 ==============================================================================
 BlibliElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-BLIBLI Sort by Relevance                                              Sort by Relevance Tag Electronic Blibli
-VALID_DATA_BELOW
+BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
 5
 Voucher seller
 CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
@@ -28,90 +27,51 @@ Rp6.128
 Rp10.000
 38%
 Kota Bekasi
-Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
-Rp85.100
-Rp105.000
-18%
-Kota Jakarta Timur
 Case Xiaomi Redmi 10A IMAK UX-5 TPU Casing
 Rp85.100
 Rp99.000
 14%
 Kota Jakarta Timur
-Case Xiaomi Redmi 10A Spigen Rugged Armor Slim Softcase Carbon Casing
-Rp225.000
+Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
+Rp85.100
+Rp105.000
+18%
+Kota Jakarta Timur
+5
+Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
+Rp39.999
 Kota Surabaya
 8
 Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
 Rp39.999
 Kota Surabaya
-5
-Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
-Rp39.999
-Kota Surabaya
-Case Xiaomi Redmi 10A Spigen Rugged Cover Soft Carbon Casing Bumper
-Rp375.000
-Kota Jakarta Barat
-Case Xiaomi Redmi 10A Spigen Thin Silicone Carbon Casing Anti Shock
-Rp375.000
-Kota Jakarta Barat
+Aesthetic Case Xiaomi Redmi 10A Softcase Polos Casing
+Rp75.000
+Kota Bogor
+Aesthetic Kaws Case Xiaomi Redmi 10A Softcase Casing Silikon
+Rp80.000
+Kota Bogor
+Aesthetic One Piece Case Xiaomi Redmi 10A Softcase Casing Silikon
+Rp90.000
+Kota Bogor
 Soft Case Silikon Xiaomi Redmi 10A Bening Transparant Anti Crack
 Rp25.000
 Kota Surabaya
-Case Xiaomi Redmi 10A Spigen Rugged Cover Soft Carbon Casing Bumper
-Rp375.000
-Kota Jakarta Barat
-Case Xiaomi Redmi 10A Spigen Thin Silicone Carbon Casing Anti Shock
-Rp375.000
-Kota Jakarta Barat
 Shock Gradient Case Xiaomi RedMi 10a - Casing Rainbow Soft Cover
 Rp70.000
 Rp75.000
 6%
+Kota Bandung
+Solid TPU Case Xiaomi RedMi 10a - Casing Black matte original
+Rp60.000
+Rp75.000
+20%
 Kota Bandung
 Shock Absorption TPU Case Xiaomi RedMi 10a - Casing Anti Crack
 Rp70.000
 Rp75.000
 6%
 Kota Bandung
-XIAOMI REDMI 10A HARDCASE ICRYSTAL ROBOT STANDING TRANSFORMER
-Rp22.900
-Kota Bekasi
-Grosir
-CASE CASING SOFTCASE TRANSPARAN CLEAR BENING TPU XIAOMI REDMI 10A
-Rp30.000
-Rp51.500
-41%
-Kota Jakarta Barat
-Voucher seller
-CASE XIAOMI REDMI 10 2022 CASE SOFT SILICONE CASING REDMI 10 2022
-Rp60.000
-Rp65.000
-7%
-Kota Jakarta Barat
-Voucher seller
-CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
-Rp20.000
-Rp25.000
-20%
-Kota Jakarta Selatan
-5,0
-(1)
-Terjual 2
-Case Glitter Redmi 10C/11S/10A/9C/9A/10/9/9T-Softcase Macaron Jelly Glitter Pelindung Kamera
-Rp35.000
-Rp45.000
-22%
-Kota Jakarta Selatan
-Solid TPU Case Xiaomi RedMi 10a - Casing Black matte original
-Rp60.000
-Rp75.000
-20%
-Kota Bandung
-2
-CASE CASING XIAOMI REDMI 10A WOOD TEXTURED AIORIA ORIGINAL - Hitam
-Rp255.000
-Kota Jakarta Barat
 6
 Xiaomi Redmi 10A Redmi10A Digital Case Flip Clear View Standing Cover
 Rp70.000
@@ -126,9 +86,6 @@ Rp65.000
 Rp75.000
 13%
 Kota Bandung
-Case Casing Xiaomi RedMi 10a 9c Rainbow Clear Soft Cover
-Rp269.000
-Kota Jakarta Barat
 HEAVENCASE Motif Kucing Lucu 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
 Rp75.000
 Rp135.000
@@ -137,87 +94,327 @@ Kota Jakarta Timur
 5,0
 (1)
 Terjual 1
-Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
-Rp259.000
+5
+Xiaomi Redmi 10A Soft Case Sandstone Superthin Silicon Casing
+Rp25.000
+Kota Tangerang
+4
+Xiaomi Redmi 10A Flip Wallet Dompet Kulit Leather Cover Case Casing
+Rp55.000
+Kota Jakarta Utara
+6
+Casing Case Hp Sarung Flip Cover For Xiaomi Redmi Note 3, 4, 4X, 5, 5A, 7, 7Pro, 8, 8Pro, 9, 9Pro, 10 Sarung Dompet Clear View Mirror Cover Kick Stand
+Rp22.500 - Rp30.000
+Kota Jakarta Pusat
+4,4
+(10)
+Terjual 23
+9
+Xiaomi Redmi 10A Silicone Full Cover Soft Case Silikon Casing Original
+Rp52.000
+Kota Jakarta Utara
+Grosir
+CASE CASING SOFTCASE TRANSPARAN CLEAR BENING TPU XIAOMI REDMI 10A
+Rp30.000
+Rp51.500
+41%
 Kota Jakarta Barat
-Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
-Rp265.000
-Kota Jakarta Barat
-Case Casing Xiaomi RedMi 10a 9c Rainbow Clear Soft Cover
-Rp269.000
-Kota Jakarta Barat
-Shock TPU Case Casing Xiaomi RedMi 10a 9c Clear AntiCrack Soft
-Rp269.000
-Kota Jakarta Barat
-XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
-Rp250.000
-Kota Jakarta Barat
+CASE XIAOMI NOTE 8 8 PRO 9 9 PRO 10 NOTE 10 5G NOTE 10 PRO POCO F3 M3 X3 REDMI 8 8A 9 9A 9C 9T 10 SOFTCASE CANDY CRACK
+Rp16.000 - Rp18.000
+Kota Surabaya
+5,0
+(1)
+Terjual 1
+Casing Silikon Redmi 10 Note 9 Note8 Note7 Pro Redmi 9a 9t Xiaomi Poco X3 Gt Pocom3 M3Pro Motif Langit Berbintang
+Rp69.747
+Rp104.100
+33%
+Kota Jakarta Selatan
+5,0
+(1)
+Terjual 2
+6
+Xiaomi Redmi 10A Redmi10A Double Side Glass Magnetic Case Metal Cover
+Rp90.000
+Kota Jakarta Utara
+4
+Samsung A10 / M10 Flip Caseme POLA Dompet Kulit Leather Cover Case
+Rp78.000
+Kota Jakarta Utara
+5,0
+(1)
+Terjual 2
+6
+Xiaomi Redmi 10A Redmi10A Shiny Shell Diamond Glass Case Hard Cover
+Rp35.000
+Kota Jakarta Utara
+SILIKON ( XIAOMI REDMI 10A ) CASE ANTI CRACK BENING / SOFTCASE / SOFT CASE / CASING HP HANDPHONE
+Rp3.000
+Rp10.000
+70%
+Kota Jakarta Utara
+7
+Xiaomi Redmi 10A Redmi10A GKK Armor 360 Full Slim Matte Cover Case
+Rp50.000
+Kota Jakarta Utara
+Voucher seller
+Soft Case Dove Doff pelindung Hp Xiaomi Redmi 9A 9C 10A 10C Redmi10 Redmi note 10 Redmi Note 11
+Rp35.715
+Kota Batam
+7
+Xiaomi Redmi 10A Flip Clear View Standing Cover Mirror Case Casing
+Rp52.000
+Kota Jakarta Utara
+XIAOMI REDMI 10A HARDCASE ICRYSTAL ROBOT STANDING TRANSFORMER
+Rp22.900
+Kota Bekasi
+5
+Softcase Casing Hp RealMe 9 Pro Plus RealMe C31 RealMe C35 Reno 7 4G Reno 7Z Redmi 10A Redmi 10C Pocophone C31 Vivo Y75 Kesing Mika Case Silikon Hp
+Rp15.000
+Kota Jakarta Pusat
+5
+DOVE Realme C35 - Realme C31 - Redmi 10C - Redmi 10A - Infinix 12I Case My Choice Micois Michois
+Rp25.000
+Rp50.000
+50%
+Kota Jakarta Pusat
 3
-XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
-Rp250.000
+Xiaomi Redmi 10A Invisible I Ring iRing Soft Case Free Tempered Glass
+Rp52.000
+Kota Jakarta Utara
+SOFTSHELL PRO CAMERA EDGE CASE XIAOMI REDMI 9C- 2020 M2006C3MG = 10A 2022 220233L2C
+Rp7.500
+Kab. Bekasi
+HEAVENCASE Motif Batik Bunga 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+Tambah ke Bag
+HEAVENCASE Motif Superhero Ironman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+HEAVENCASE Motif Superhero Spiderman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+HEAVENCASE Motif Superhero Superman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+HEAVENCASE Motif Bendera Indonesia 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+HEAVENCASE Motif Superhero Batman 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+HEAVENCASE Motif Superhero Captain America 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+Softcase UME Black Matte Protecth Camera Lens Xiaomi Redmi 10A
+Rp14.700
+Kota Jakarta Utara
+Voucher seller
+HMC Tempered Glass Xiaomi Redmi 10A Redmi 10C - TG Screen Guard Anti Gores Protector Temper Antigores
+Rp50.000
+Kota Jakarta Utara
+CARSTENEZIO Motif Batik 10 Casing for Xiaomi Redmi Note 5A Prime - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+CARSTENEZIO Motif Tribal 10 Casing for Xiaomi Redmi Note 5A Prime - Hitam
+Rp75.000
+Rp135.000
+44%
+Kota Jakarta Timur
+7
+VARIAN Casing Softcase Pro Camera Macaron Redmi Note 8 Pro Note 9 Note 9 Pro Redmi 10 10C 8A 9A 9C 9T Kesing Mika Pelindung Hp
+Rp15.000
+Rp18.000
+16%
+Kota Jakarta Pusat
+6
+Case Redmi 10/9/9C/9A/Note 7/Note 8/Note 9/Note 10 4G-Softcase Glitter - Redmi 10, White
+Rp40.000
+Rp60.000
+33%
+Kota Jakarta Selatan
+5
+Case Glitter Redmi 10C/11S/10A/9C/9A/10/9/9T-Softcase Macaron Jelly Glitter Pelindung Kamera
+Rp35.000
+Rp45.000
+22%
+Kota Jakarta Selatan
+HARD CASE MY CHOICE + RING KAMERA XIAOMI REDMI 9C- 2020 M2006C3MG = 10A 2022 220233L2C
+Rp6.000
+Kab. Bekasi
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 FREE ONGKIR
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Timur
+Robot Card Case Xiaomi Redmi 9 9A 9C 9T 10 Hardcase Cover Slot Kartu
+Rp80.000
+Kota Bogor
+CASE XIAOMI REDMI 10 9 9A 9C NOTE 10 NOTE 10 PRO NOTE 8 NOTE 8 PRO NOTE 9 NOTE 9 PRO SOFTCASE GLITTER BLINK SOFTCASE GLITTER
+Rp21.000
+Rp28.000
+25%
+Kota Surabaya
+2
+Case Samsung A32 4G Redmi note 10 pro Window Camera Slide Dove Casing
+Rp29.000
 Kota Jakarta Barat
-Armor Carbon TPU Case Casing Xiaomi RedMi 10a 9C Black Soft Cover
-Rp265.000
-Kota Jakarta Barat
-Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
-Rp259.000
-Kota Jakarta Barat
-Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
-Rp265.000
-Kota Jakarta Barat
+Pre-order
+Cute Cartoon Make A Ffortune Pattern Case For Redmi Note 10 Pro
+Rp60.000
+Rp90.000
+33%
+Kota Bandung
+Pre-order
+Cute Cartoon Make A Ffortune Pattern Case For Redmi Note 10 Pro
+Rp60.000
+Rp90.000
+33%
+Kota Bandung
+CLEAR CASE REDMI 8A PRO 10 9A 9C S2 6A 6 5A 5 PLUS 4X 4A TPU JELLY TRANSPARAN 2.0 mm
+Rp9.000
+Rp39.000
+76%
+Kota Jakarta Utara
+Terjual 1
+Case HP Bumper Akliric Softcase Casing Mika HP Samsung A21S, A31, M31, M21, Oppo A12, Realme 6, 6 Pro, Vivo Y30, Y50,Y11, Y19, V19, Redmi Note 10
+Rp30.000
+Kota Jakarta Pusat
+Terjual 1
+CASE XIAOMI REDMI 9A 9C NOTE 10 POCO M3 PRO X3 SOFTCASE K CANDY LENS COLOUR
+Rp22.000
+Rp28.000
+21%
+Kota Surabaya
+Casing Xiaomi POCO F3 POCO M3 Pro 5G Mi 11 Lite 10 10T Redmi 10 9A Love Heart Phone Case Xiaomi Redmi
+Rp76.500
+Rp114.750
+33%
+Kota Jakarta Selatan
+Pre-order
+Cute Cartoon Make A Ffortune Pattern Case For Redmi Note 10 Pro
+Rp60.000
+Rp90.000
+33%
+Kota Bandung
+Pre-order
+Cute Cartoon Make A Ffortune Pattern Case For Redmi Note 10 Pro
+Rp60.000
+Rp90.000
+33%
+Kota Bandung
+Pre-order
+Cute Cartoon Make A Ffortune Pattern Case For Redmi Note 10 Pro
+Rp60.000
+Rp90.000
+33%
+Kota Bandung
+Soft Case Motif Hati Untuk Xiaomi Redmi 10 9A 9 9T 9C NFC POCO X3 M3 Redmi Note 9 8 10 10S 10Pro Max
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Voucher seller
+Hardcase Casing Xiaomi Redmi Note 10 Im A Batcorn FS2024
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+CASE XIAOMI REDMI 8 9 9A 9C 10 NOTE 7 8 9 10 PRO
+Rp39.900
+Kota Bogor
+FREE ONGKIR NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Selatan
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C FREE ONGKIR
+Rp94.500
+Rp141.750
+33%
+Kota Jakarta Selatan
+Voucher seller
+Hardcase Casing Xiaomi Redmi Note 10 Pro Im A Batcorn FS2024
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C FREE ONGKIR
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Selatan
 3
-XIAOMI REDMI 10A SOFT CASE CASING CANVAS CROSS PATTERN - Hitam
-Rp255.000
+DREAM case Xiaomi Redmi 9A 9C Note 9 10 Pro softcase casing cover tpu - Redmi 9C, Geometry
+Rp50.368
+Rp57.344
+12%
 Kota Jakarta Barat
-XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
-Rp250.000
+Voucher seller
+Casing Hardcase Xiaomi Redmi Note 10 Rabbit like a Banana FS7504
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Voucher seller
+Casing Hardcase Xiaomi Redmi Note 10 Lazy like a Monday FS7503
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+4
+WINDOW SLIDE case Xiaomi Redmi 9 9A 9C 9T 10 softcase casing cover tpu - Redmi 9, Black
+Rp53.152
+Rp60.265
+11%
 Kota Jakarta Barat
-3
-XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
-Rp250.000
-Kota Jakarta Barat
-Shock TPU Case Casing Xiaomi RedMi 10a 9c Clear AntiCrack Soft
-Rp269.000
-Kota Jakarta Barat
-Armor Carbon TPU Case Casing Xiaomi RedMi 10a 9C Black Soft Cover
-Rp265.000
+Voucher seller
+Flazzstore Hardcase Casing Xiaomi Redmi Note 10 be a Unicorn Magic FLL0037
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Side Pattern Phone Case Xiaomi Redmi 10 9A 9T 9 9C NFC POCO X3 Pro NFC POCO M3 Redmi Note 10 10s 10pro Max Plus Note9 Note8 FREE ONGKIR
+Rp94.500
+Rp141.750
+33%
+Kota Jakarta Selatan
+4
+Case ,casing,silikon macaron Redmi 9 9A 9C 10 note 7 7pro
+Rp14.950
+Kota Surabaya
+Promo s.d.
+7 Ags 2022
+Case NASA Redmi NOTE 10 PRO 9C 9A 6A7A 4X NOTE 4X 9T POCO X3 RM 6 - Merah, NOTE 10 PRO
+Rp68.000
+Rp71.000
+4%
 Kota Jakarta Barat
 VALID_DATA_ABOVE
-| FAIL |
-ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (889, 1608)
-  (Session info: chrome=103.0.5060.134)
-Stacktrace:
-Backtrace:
-	Ordinal0 [0x007D56B3+2184883]
-	Ordinal0 [0x0076E5F1+1762801]
-	Ordinal0 [0x00683DA8+802216]
-	Ordinal0 [0x006B8287+1016455]
-	Ordinal0 [0x006B6258+1008216]
-	Ordinal0 [0x006B3F3B+999227]
-	Ordinal0 [0x006B2C99+994457]
-	Ordinal0 [0x006A88D3+952531]
-	Ordinal0 [0x006CCB0C+1100556]
-	Ordinal0 [0x006A82B4+950964]
-	Ordinal0 [0x006CCD24+1101092]
-	Ordinal0 [0x006DCF52+1167186]
-	Ordinal0 [0x006CC926+1100070]
-	Ordinal0 [0x006A6EA0+945824]
-	Ordinal0 [0x006A7D96+949654]
-	GetHandleVerifier [0x00A74192+2704034]
-	GetHandleVerifier [0x00A6687D+2648461]
-	GetHandleVerifier [0x0086119A+529066]
-	GetHandleVerifier [0x00860006+524566]
-	Ordinal0 [0x00774F2B+1789739]
-	Ordinal0 [0x00779978+1808760]
-	Ordinal0 [0x00779A65+1808997]
-	Ordinal0 [0x00782A01+1845761]
-	BaseThreadInitThunk [0x76AB6739+25]
-	RtlGetFullPathName_UEx [0x77828FEF+1215]
-	RtlGetFullPathName_UEx [0x77828FBD+1165]
+| PASS |
 ------------------------------------------------------------------------------
-BlibliElectronic :: This test suite to test functionality survey, ... | FAIL |
-1 test, 0 passed, 1 failed
+BlibliElectronic :: This test suite to test functionality survey, ... | PASS |
+1 test, 1 passed, 0 failed
 ==============================================================================
-Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\output.xml
-Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\log.html
-Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Blibli\Electronic\report.html
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Electronic\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Electronic\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Electronic\report.html
