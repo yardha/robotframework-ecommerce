@@ -26,6 +26,6 @@ ${INPUT BOX MAXIMUM PRICE BLIBLI}        xpath=//*[@id="quick-filter-price-input
 ${SUBMIT KEYS PRICE BLIBLI}             ENTER
 
 ${VIEW ALL PRODUCTS BLIBLI}              xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div[1]/article/div/div/a
-${SORT OPTIONS BLIBLI}                   xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[2]
+${SORT OPTIONS BLIBLI}                   xpath=//div[@class='blu-dropdown__trigger']
 ${SORT OPTIONS LOWEST PRICE BLIBLI}      xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[3]/button
 ${SORT OPTIONS HIGHEST PRICE BLIBLI}     xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[4]/button

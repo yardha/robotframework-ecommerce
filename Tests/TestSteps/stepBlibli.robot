@@ -44,6 +44,7 @@ Click Sort Option Blibli
     Sleep                                    1
 
 Choose Sort by Lowest Price Blibli
+    Mouse Over                               ${SORT OPTIONS BLIBLI}
     Sleep                                    1
     Click Element                            ${SORT OPTIONS LOWEST PRICE BLIBLI}
     Sleep                                    1
@@ -126,7 +127,7 @@ Get All Product Name Blibli
     Sleep                                    1
     FOR                                      ${counter}                                     IN RANGE                         0                  4
         Sleep                                    1
-        Execute Javascript                       window.scroll(0,${counter}300)
+        Execute Javascript                       window.scroll(0,${counter}150)
         Sleep                                    1
         ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
         # Log to Console                           ${status}
