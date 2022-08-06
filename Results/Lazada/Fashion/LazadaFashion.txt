@@ -1,806 +1,287 @@
 ==============================================================================
 LazadaFashion :: This test suite to test functionality survey, each type su...
 ==============================================================================
-LAZADA Filter by Lowest Price                                         VALID_DATA_BELOW
-Sweater Rajut Lengan Panjang Bahan Wol Hangat Untuk Wanita
-Rp103.306
-(25)
-Kota Jakarta Barat
-rajut salur/sweater rajut / atasan rajut lengan panjang
-Rp29.000
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+PAKET USAHA ATASAN & SWEATER RAJUT TEBAL (16 PCS)
+Rp500.000
 (1)
+Kab. Bogor
+Sweater rajut import/dgtal produk
+Rp437.500
+Kab. Kuningan
+Model baru NTC93 Gonegani Sweater Rajut Turtleneck Wanita Zara Sweater NTC
+Rp429.000
+Kota Tasikmalaya
+COD MHBL - Diana Mutiara Knitwear Rajut import by alln.knitwear Gilaa!!!
+Rp411.200
 Kota Jakarta Barat
-baju Atasan Sweater Rajut Import Jumbo Big Size Terbaru Kekinian realpic
-Rp134.056
-(105)
+Promo sweater rajut cristian dior Keren
+Rp373.000
+Kota Jakarta Pusat
+Kenzo Sweater Rajut Wanita All Size LD : 100 cm, PB: 62 cm
+Rp350.000
+Kota Jakarta Pusat
+promosi produk baru??? fF4Wy1Nu Setelan Tunik Celana Bahan Kaos Rajut Import Savila Set by Alfashion Solo
+Rp341.335
 Kota Jakarta Barat
-Kardigan loccy knited/kardigan basic rajut/sweater murah
-Rp33.786
-(1039)
-Kota Bandung
-Longgar Korea Baru Sweater Pullover Leher Bulat Wanita Bergaris Warna Kontras Sweater Rajut Lengan Panjang
-Rp122.531
-(2)
+Diana Mutiara Knitwear Rajut import by alln.knitwear
+Rp303.139
+Kab. Gorontalo
+Lagi Promo SWEATER RAJUT DIOR TIGER VARIAN ABU DAN HITAM IMPORT PREMIUM Diskon
+Rp290.000
 Kota Jakarta Barat
-BUBBLE LONG PREMIUM CARDY/SWEATER BASIC RAJUT
-Rp40.660
-(1730)
-Kota Bandung
-V-NEK VIONA sweater basic rajut
-Rp27.740
-(3904)
-Kota Bandung
-SWEATER RAJUT JOVANKA /OTHERS BAJU RAJUT WANITA KOREAN STYLE MODEL TERBARU 2022 OVERSIZE / TURTLENECK KNITWEAR/
-Rp38.200
-(70)
+PAKET USAHA SWEATER RAJUT BULU PREMIUM ISI 5 baju DI KIRIM RANDOM
+Rp250.000
+Kota Jakarta Timur
+Sweater Rajut Elizabeth – Elleora
+Rp240.000
+Kota Cimahi
+Sweater Turtleneck Pria Rajut Wool Tebal.(A4Z6) Murah Jumbo Cotton Big Size, Jumbo Simple Dewasa Y2S4 Import Bahan Adem Lembut Model Sekarang Sweater Pria Termurah Original Parasut Motif Tebal Hitam Premium Hitam Tebal Viral Cowok Bordir Berkualitas Terba
+Rp235.800
+Kota Jakarta Timur
+Sweater Rajut Musim Dingin Unisex - Putih(D7E5) Crewneck wanita oversize Sweater hoodie pria distro original Sweater cewek bahan tebal Sweatshirt wanita Sweater wanita keren Sweater wanita dewasa U4E4 Jaket sweater tebal Sweater wanita polos Crewneck unis
+Rp235.400
+Kota Jakarta Timur
+jaket rajut mantel orang tua bahan rajut keren gaya kado orang tua mewah motif cable knit high quality
+Rp235.000
 Kab. Bandung Barat
-TURLENEK KNIT/SWEATER COREAN BASIC RAJUT
-Rp41.464
-(70)
-Kota Bandung
-KARDY BELE OVERSIZE/SWEATER BASIC RAJUT/MURAH BERKUALITAS
-Rp35.235
-(28)
-Kota Bandung
-KARDY LAVELA BIG SIZE/sweater basicc rajut/tebal dan berkualitas
-Rp37.888
-(68)
-Kota Bandung
-CABLE SWEATER KNIT/SWEATER 7GET BASIC RAJUT/MURAH BERKUAL;ITAS
-Rp37.400
-(1)
-Kota Bandung
-Cardy crop/cardy basic rajut/sweater rajut
-Rp29.000
-(391)
-Kota Bandung
-sweater premium motip smile bok/sweater corean/basic rajut
-Rp55.748
-(63)
-Kota Bandung
-SWEATER RAJUT WANITA JOVANKA / SWEATER KNITTED JOVANKA OVERSIZE / TURTLENECK KNITWEAR
-Rp36.500
-(38)
-Kota Bandung
-Cady cameroon/basic rajut/rajut halus lembut tebal/sweater mura berkualitas
-Rp34.745
-(74)
-Kota Bandung
-rablouse rajut wanita fuji premium/sweater corean basic rajut
-Rp42.121
-(1)
-Kota Bandung
-Cardigan rajut anak / sweater rajut anak PROMO TERLARIS !!!
-Rp31.650
-(91)
+Free Ongkir M 2111 | Sweater import | Mantel Rajut ibu | Jaket rajut Paruh baya dan tua Promo
+Rp230.000
+Kota Jakarta Barat
+Baju Atasan Wanita Bahan Rajut Import Motif Channel
+Rp230.000
+Kota Jakarta Barat
+Hush Puppies Original Jaket Hoodie Sweater Rajut Kardigan Cardigan Rajut terlaris Bisa COD
+Rp229.500
+(6)
+Kota Jakarta Selatan
+Outer // Hijacket Ara - Jaket Rajut Outer kekinian 2022 ootd hijab Outer Balon Outer Korean Style Hijab Murah Tebal Cewek Kekinian Outer Scraft Terbaru Outerwear outer terbaru kekinian Viral - Hijacket Store
+Rp229.000
 Kab. Bandung
-SweaterTurtleneck Pria / Turtle long neck / Sweater Rajut Pria
-Rp34.618
+SETELAN CELANA RAJUT IMPORT PREMIUM
+Rp225.000
+Kota Cimahi
+Hozura - Cardigan Sweater Rajut Wanita Lanna (Batta) - Cardigan Rajut Jumbo Oversize Tebal - Outer Wanita - Sweater Korean Style Kekinian Terbaru - CABLE CARDY kardigan rajut kepang jumbo wanita panjang cardigan kancing oversize tebal terbaru impor - COD
+Rp215.066
+Kota Jakarta Barat
+Long Outer Cable kancing 6 Premium/Tangan Panjang Bahan Wol 3 Guede / Rajut Outer Terbaru 2020 / Rajut Cable /rajut import / cardigan Wanita / Rajut Premium / Outher cable hoodie- NEW
+Rp200.300
+(271)
+Kota Bandung
+Sweater Wanita Oversize Distro Original Jaket Gaya Rajut Hoodie Dewasa Terbaru 2021 Keren Anak Perempuan Korean Style Kekinian Viral Aesthetic Tiktok Hijab Cewek New Arrival Ponco Polos Bahan Rajut Import - Hitam, All Size YD249
+Rp197.800
+Kota Bekasi
+SQUARE.ID // Long Outer Cable kancing 6 Premium/Tangan Panjang Bahan Wol 5 Guede / Rajut Outer Terbaru 2020 / Rajut Cable /rajut import / cardigan Wanita / Rajut Premium / Outher cable hoodie- NEW
+Rp196.200
+(213)
+Kota Bandung
+sweater rajut gucci import premium cardigan gcc rajut import
+Rp195.000
 (1)
 Kab. Bandung
-Rompi Rajut Pria / Sweater Rajut Pria
-Rp53.900
-Kab. Bandung
-Cardigan model terbaru?Cardigan rajut wanita/Sweater rajut wanita/Cardigan rajut crop
-Rp71.000
-(495)
-Kota Jakarta Barat
-Atasan rajut wanita/Sweater rajut wanita korean style/Sweater bergaris
-Rp68.000
-(10)
-Kota Jakarta Barat
-Atasan wanita/sweater rajut cewek/baju rajut wanita/baju rajut korea wanita style
-Rp68.000
-(120)
-Kota Jakarta Barat
-Rajut wanita lengan panjang?sweater rajut wanita/cardigan rajut wanita/switer cewek/Sweater hitam
-Rp63.111
-(21)
-Kota Jakarta Barat
-390[COD] + [GRATIS ONGKIR] Cardigan Rosie / Cardigan / Cardigan Wanita / Sweater Wanita / Baju Wanita / Atasan Wanita / Blouse Wanita / Cardigan Wanita Lengan Panjang / baju rajut wanita / Switer Cewek / Baju Rajut / Baju Rajut Wanita NA
-Rp50.447
-(346)
-Kota Jakarta Utara
-SWEATER YE SL WANITA / SWEATER PREMIUM KNIT IMPORT / SWEATER SIZE S UP TO XXL / SWEATER RAJUT MURAH
-Rp140.000
-(28)
+Gomuda Sweater Rajut Pria Cord Turtleneck
+Rp193.000
+(138)
+Kota Cimahi
+(BISA COD) JULIO CARDI BY BELVA / CARDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp185.000
+(1)
 Kota Surakarta (Solo)
-Cardigan rajut wanita lengan panjang sweater cewek korea
-Rp65.500
-(5)
+(BISA COD) SONYA CARDI BY BELVA / CARDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp185.000
+Kota Surakarta (Solo)
+VicyaShop Cardigan Diorr Sweater Rajut Cardi Import Fit XXL
+Rp185.000
+Kota Jakarta Pusat
+SALE JAKET SWITER RAJUT TNI POLRI MERK AR EXCLUSIVE HITAM HIJAU Gilaa!!!
+Rp185.000
 Kota Jakarta Barat
-Sweater wanita?Baju rajut wanita lengan panjang korea Cardigan rajut wanita Outer wanita
-Rp67.000
-(347)
-Kota Jakarta Barat
-SWEATER RAJUT WANITA BATWING /BAJU RAJUT BATWING WANITA KALONG / NEW BEST SELLER LASPERAL BLUSE BATWING RAJUT / BAJU RAJUT KALONG BATWING BLUS / KALONG BLUS BATWING /
-Rp27.300
-(4942)
-Kab. Bandung Barat
-jaket sweater rajut twis
-Rp33.150
-Kota Bandung
-Sweater wanita Baju atasan wanita terbaru 2021 kekinian Cardigan Baju rajut wanita lengan panjang
-Rp64.689
-(977)
-Kota Jakarta Barat
-jaket sweater rajut twis
-Rp33.150
+ATASAN WANITA RAJUT IMPORT JUMBO, KAOS RAJUT TERBARU, KAOS RAJUT MURAH
+Rp185.000
+Kab. Cirebon
+Rajut Wanita Terbaru 2022 Remaja Kekinian Viral Bahan Premiun Bagus Berkualitas Mewah Korean Style Bisa COD
+Rp185.000
+Kota Surakarta (Solo)
+FADLY RAJUT IMPORT/JAKET RAJUT WANITA/BLOUSE MATT RAJUT IMPORT PB70/ALL SIZE FIT TO XXL
+Rp180.000
+(1)
+Kab. Sukoharjo
+Sweater RaJut krah Ibu ibu Big Size Mantel Wanita Import Motip krah Kancing (0972)
+Rp179.900
+(13)
+Kota Jakarta Utara
+Cardigan C,Dior Knit Rajut Sweater Import Premium L-XXL
+Rp179.000
+Kota Jakarta Pusat
+Cardigan Taehyung BTS RUN / Sweater Vest Rhombus Premium / Cardigan Rajut Super Kekinian / Jaket Unisex Cewek Cowok Korea Viral
+Rp178.400
 (1)
 Kota Bandung
-Maju Terus 99 - Cardigan Cable Ninoy Rajut Saku Tebal Premium Oversize Jumbo Fit to XXXL LD 120-140cm - Sweater Jaket Hoodie Rajut Kekinian Terbaru 2021 Cardy BUBLLE Syasweater Cardigan Ellena Basic Outer Eireen Cardi Midi Elena Merissa Outer Belle Cardys
-Rp87.400
-(422)
-Kota Jakarta Barat
-Cardy rajut Outer/Rajut wanita lengan panjang/Sweater rajut wanita Cardigan panjang/Cardigan rajut wanita korean style import
-Rp74.000
-(105)
-Kota Jakarta Barat
-mozy oxy sweater/sweater rajut wanita/bayar di tempat/atasan rajut/kaos rajut/Sweater Wanita Terbaru / Jaket Wanita / Sweater Rajut / Jaket Muslimah /
-Rp44.555
+(BISA COD) SEASON SWEATER BY BELVA / ATASAN SWEATER PREMIUM TEBAL MAT RAJUT IMPORT HALUS
+Rp175.000
 (1)
-Kab. Bandung
-TELLY ?? 214 Atasan Wanita Cardigan Crop Rajut Tipis Polos Premium Korean Style Model Sweater Oversize, Warna putih
-Rp72.000
-Kab. Tangerang
-RO [COD] + [GRATIS ONGKIR] Sweater Rajut Emily / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita RG2
-Rp42.100
-(420)
-Kota Jakarta Utara
-ZRS [COD] + [GRATIS ONGKIR] Sweater Rajut Zero / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita RG2
-Rp44.900
-(15)
-Kota Jakarta Utara
-PAKAIAN WANITA/SWEATER RAJUT/BLUES RAJUT OVERSIZE MOTIP GARIS MURAH/SWEATER RAJUT BLASTER
-Rp46.071
-(41)
-Kab. Bandung
-RO [COD] + [GRATIS ONGKIR] Sweater Rajut Mochia / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita BC
-Rp33.309
-(36)
-Kota Jakarta Utara
+Kota Surakarta (Solo)
+GEMALA CARDI / CQRDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp175.000
+(1)
+Kota Surakarta (Solo)
+HANDA CARDI BY BELVA / CARDIGAN SWEATER BAJU HANGAT MAT RAJUT IMPORT
+Rp175.000
+Kota Surakarta (Solo)
+Sweater Get Used/ Sweater Cowok Get USED / SWEATER PRIA / SWEATER RAJUT / JAKET SWEATER/ SWEATER JUMBO / ORIGINAL PREMIUM EMBA
+Rp175.000
+(2)
+Kab. Malang
+Diskon alter.cloth - SULLIVAN CARDI ?Cardigan Rajut Argyle Lilac Ungu Korea Sweater Rajut Korea Import Terbatas
+Rp172.000
+Kota Jakarta Barat
 VALID_DATA_ABOVE
 VALID_DATA_BELOW
-Sweater Rajut Wanita Oversize Sw Zero / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Sweater Rajut Wanita Over size / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita BC
-Rp38.352
-(973)
+Fresna Cardy Knit Rajut Import Ori
+Rp170.000
+Kota Surakarta (Solo)
+(BISA COD) BONY CARDI BY BELVA / CARDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp170.000
+(1)
+Kota Surakarta (Solo)
+Sweater Wanita, Sweater Rajut Lengan Panjang Leher Bulat, Warna Kontras Pullover Longgar Musim Dingin
+Rp170.000
+Luar Negeri
+ELSHA CARDI / CARDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp170.000
+(1)
+Kota Surakarta (Solo)
+(BISA COD) YORU CARDI / CARDIGAN SWEATER OUTER IMPORT MAT RAJUT PREMIUM
+Rp170.000
+Kota Surakarta (Solo)
+LOLO CARDI / CARDIGAN SWEATER JUMBO PREMIUM MAT RAJUT IMPORT
+Rp170.000
+Kota Surakarta (Solo)
+ICHIRO CARFI BY BELVA / CARDIGAN SWEATER PREMIUM MAT RAJUT IMPORT
+Rp170.000
+Kota Surakarta (Solo)
+(BISA COD) BIMBO CARDI BY BELVA / RESTOCK !!! CARDIGAN SWEATER BAJU HANGAT MAT RAJUT IMPORT
+Rp170.000
+(5)
+Kota Surakarta (Solo)
+Wilona rajut/sweater/atasan wanita rajut/jaket rajut jumbo/rajut import hq/Ld146/Pj71/fit to XXXL/best seller
+Rp170.000
+(9)
+Kab. Sukoharjo
+Sweater Rajut Ibu Mantel Rajut Kerah Import Motip
+Rp169.900
 Kota Jakarta Utara
-ZRS [COD] + [GRATIS ONGKIR] Cardigan Scarlet / Cardigan / Cardigan Wanita / Sweater Wanita / Baju Wanita / Atasan Wanita / Blouse Wanita / Cardigan Wanita Lengan Panjang / baju rajut wanita / Switer Cewek / Baju Rajut / Baju Rajut Wanita RG2
-Rp52.000
-(124)
+Sweater Ibu Import Mantel Rajut Kerah Wanita Motip
+Rp169.900
 Kota Jakarta Utara
-390 [COD] + [GRATIS ONGKIR] Sweater Rajut V Dalle Atasan Wanita Rajut Sweater Rajut Model Sabrina Leher V Rajut Lembut Tidak Berbulu Sangat Bisa Melar PREMIUM QUALITY
-Rp46.550
-Kota Jakarta Utara
-390 [COD] + [GRATIS ONGKIR] Sweater Emily Rajut / Blouse Wanita / Atasan Wanita / Atasan Wanita Blouse / Atasan Wanita Casual / PREMIUM QUALITY
-Rp50.350
-Kota Jakarta Utara
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp27.300
-(2968)
+Jaket rajut import tebal wanita terbaru. Jaket import wanita korea. Jacket tebal adem halus. Jacket rajut import weyla shining
+Rp169.000
+(3)
+Kota Surakarta (Solo)
+Vest Rajut Premium Outer Knitt Tanpa Lengan
+Rp165.900
+(17)
 Kota Jakarta Barat
-BELIEVE-NEW ATASAN MAD3L1N3 RAJUT IMPOR LD 94-160CM E-0459 ??/ BLOUSE RAJUT WANITA / ATASAN WANITA IMPOR / SWEATER RAJUT WANITA
-Rp120.000
+SWETER IBU IBU SWETER RAJUT IMPORT SWETER KOREA SWETER BAGUS
+Rp165.000
+(1)
+Kab. Cirebon
+baju hangat rajut
+Rp165.000
+Kota Tasikmalaya
+Baju rajut wanita import atasan fendi premium
+Rp165.000
 Baru
+Kab. Bogor
+Cardigan Madeline Outer Rajut Import Knit Premium
+Rp165.000
+Kota Jakarta Pusat
+SWEATER RAJUT WANITA CASUAL/ATASAN BLOUSE JUMBO OVERSIZE/PREMIUM KNIT RAJUT LD 140 CM FIT XXXL/RISKA BLOUSE
+Rp165.000
+Kota Surakarta (Solo)
+DIOR BLOUSE TOP ATASAN SWEATER RAJUT WANITA CASUAL JUMBO RAJUT PREMIUM LD 140 CM FIT XXXL
+Rp165.000
+Kab. Sukoharjo
+RAYANA/BLOUSE SWEATER JUMBO WANITA CASUAL/SWEATER JUMBO RAJUT HQ LD 140 CM FIT XXXXL
+Rp165.000
+Kab. Sukoharjo
+Switer Import / Switer Rajut Import / Switer Rajut Import / Switer Prada Import / Switer Jumbo Import / Switer Rajut Kenzo Import Premium / Kenzo Switer Rajut Import
+Rp165.000
 Kota Jakarta Barat
-Rajut wanita - rajut wanita lengan panjang - kaos rajut polos - kun-jaya - kaos cabut jarum - kaos rib - sweater wanita - kaos cabut jarum h&m - Sweater wanita korean style - sweater wanita - sweater rajut wanita - kaos wanita - COD bayar ditempat
-Rp30.400
-(210)
-Kota Jakarta Barat
-BELIEVE-NEW ATASAN SW D10R RAJUT PREMIUM IMPOR LD 100-150 VS-2590 ?? /ATASAN WANITA IMPOR/ ATASAN RAJUT WANITA / SWEATER WANITA RAJUT
-Rp158.000
+CARDIGAN RAJUT IMPORT TERBARU JAKET RAJUT BLAZER RAJUT OUTER RAJUT SWEATER RAJUT
+Rp165.000
+(1)
+Kab. Bandung
+BUSAN CARDI RAJUT IMPORT ORI BKK BY BELVA
+Rp165.000
+(2)
+Kota Surakarta (Solo)
+RAPGALLERY/Atasan rajut harajuku anime gojo satoru jujutsu kaisen
+Rp165.000
 Baru
+Kota Bandung
+MANTEL RAJUT IBU IBU, JAKET RAJUT IMPORT, JAKET RAJUT JUMBO, SWEATER RAJUT TERBARU DAN TERLARIS
+Rp165.000
+Kab. Cirebon
+Sweater rajut import ponco uno realpict
+Rp164.900
+(1)
 Kota Jakarta Barat
-Sweater Rajut Lita by Magra All size fit to L
-Rp36.293
+[Facialbeauty] Sweter Musim Semi Wanita, Pakaian Rajut Crop Leher-o Lengan Panjang Halus Polos, Pullover Bodycon Rajut Wanita
+Rp164.000
+Luar Negeri
+Sweater Wanita Korean Style Sweter Import Dewasa Termurah Bagus Murah Meriah Switer Cewek Distro Kekinian Terbaru 2020 2021 Outer Casual Remaja Korea Outerwear Keren Perempuan Miska Pattern Sweater Vest / Argyle Vest / Rompi Rajut Knit Thrift Ke RB789
+Rp160.000
+Kota Bekasi
+Baju Rajut Import wanita YSL Poncho Sweater Cewek All Size Original Hana
+Rp160.000
+Kab. Sragen
+ALYA CARDY JUMBO/CARDIGAN RAJUT WANITA JUMBO/SWEATER RAJUT/JAKET MATT RAJUT IMPORT TEBAL/ALL SIZE FIT TO XXXL
+Rp160.000
+Kab. Sukoharjo
+HERMES KNIT/SWEATER RAJUT IMPORT WANITA/BLOUSE HERMES/LD110/PB65/BEST SELLER
+Rp160.000
+(1)
+Kab. Sukoharjo
+Baju Sweater Rajut LV Wanita
+Rp160.000
 (3)
 Kab. Bandung
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp25.005
-(409)
-Kota Jakarta Barat
-Sweater Rajut /Haidee & orlin - Polo Knit & Sweater/Sweater Rajut Crop Strip Blaster I Baju Rajut Strip Blaster
-Rp16.000
-Kota Bandung
-ASERA COLLECTION - ATASAN REMAJA KEKINIAN 2022 OOTD HIJAB RAJUT SYDNEY FUJI KNIT SWEATER / SWEATER RAJUT DEWASA WANITA / SWEATER KEKINIAN TERMURAH
-Rp34.500
+Cardigan Rajut Oversize Motif Kotak XXXXL Kekinian Realpic Sesuai Gambar
+Rp159.900
 (2)
 Kota Jakarta Barat
-Sweater Wanita - Sweater Rajut Wanita - Kaos rajut polos - Sweater Basic Polos- BrnJayaStore - Sweater Hoodie Wanita - Sweater Polos - Sweater Oversize Wanita - Kaos Cabut Jarum - Kaos Rib Premium - Kaos RIB Lengan Panjang - kaos rib COD Bayar ditempat
-Rp31.833
-(57)
-Kota Jakarta Barat
-Arumi Turtle Sweater / sweater Wanita Lengan Balon / Baju Rajut Wanita Lengan Panjang / cardigan Rajut Wanita / Switer Cewek Terbaru 2021 / Switer Rajut Wanita / Oversize Sweater Lilac / Outfit Wanita Korean Style
-Rp42.154
-(159)
-Kota Cimahi
-Sweater Rajut Tebal - Flower Crop Button Sweater
-Rp79.900
+[COD] - Gratis Ongkir Cardygan Kancing Warna Warni / Kardigan Rajut Premium Import / Switer Wanita Korea / Atasan Wanita
+Rp159.900
+(12)
+Kota Bandung
+Cardigan Wanita Model Terbaru 2022 Korea Outerwear Bahan Adem Tebal Viral Korean Style Remaja Ootd Kekinian Premium Outfit Keren Outer Murah Jaket Cewek Dewasa Import Hozura - Cardigan Sweater Rajut Wanita Lanna (Batta) - Cardigan Rajut Jumbo Ov TX760
+Rp159.000
 Baru
-Kota Bandung
-ZRS [COD] + [GRATIS ONGKIR] Cardigan Hazel / Cardigan / Cardigan Wanita / Sweater Wanita / Baju Wanita / Atasan Wanita / Blouse Wanita / Cardigan Wanita Lengan Panjang / baju rajut wanita / Switer Cewek / Baju Rajut / Baju Rajut Wanita RG2
-Rp40.990
-(5)
-Kota Jakarta Utara
-TERBARU!! SWEATER NAMIRA - GAZALA FASHION / SWEATER RAJUT WANITA / SWEATER BAHAN RAJUT PREMIUM / SWEATER RAJUT WANITA BAHAN TEBAL / SWEATER RAJUT WANITA KEKINIAN 2022 / SWEATER RAJUT KOREAN STYLE / BLOUSE RAJUT WANITA BAHAN TEBAL / BEST SELLER / BISA COD
-Rp117.000
-Kota Cimahi
-BAYAR DI TEMPAT / Sweater Rajut Wanita / Baju Rajut wanita / Baju Rajut / Kaos Rajut / Baju Rajut Panjang / Baju Rajut Halus / Atasan Rajut / kaos cabut jarum / kun-jaya / sweater cabut jarum / Rajut cewe / kaos rajut polos / kaos rib lengan panjang
-Rp28.888
-(30)
+Kota Bekasi
+Outer Sweater Cardigan Jaket Rajut Sophia Kids by Vamily, Outer Rajut Premium Bahan Benang Rajut Katun Anak Perempuan Original Ada Saku Tanpa Kancing Bertali Outfit Kece Polos, Lembut, Anti Brudul Kekinian Terlaris Terbaru 2022
+Rp159.000
+Kota Tangerang
+Jaket Cardigan Sweater Rajut OVERSIZE realpict
+Rp159.000
+(2)
 Kota Jakarta Barat
-PROMO HANYA HARI INI SWEATER CARDIGAN RAJUT WANITA PREMIUM / CARDIGAN RAJUT CROP PREMIUM
-Rp27.900
-(4)
-Kab. Cirebon
-BAYAR DI TEMPAT / Sweater Rajut Wanita / Baju Rajut wanita / Baju Rajut / Kaos Rajut / Baju Rajut Panjang / Baju Rajut Halus / Atasan Rajut / kaos cabut jarum / kun-jaya / sweater cabut jarum / Rajut cewe / kaos rajut polos / kaos rib lengan panjang
-Rp28.333
-(1107)
-Kota Jakarta Barat
-BAYAR DI TEMPAT / Sweater Rajut Wanita / Baju Rajut wanita / Baju Rajut / Kaos Rajut / Baju Rajut Panjang / Baju Rajut Halus / Atasan Rajut / kaos cabut jarum / kun-jaya / sweater cabut jarum / Rajut cewe / kaos rajut polos / kaos rib lengan panjang
-Rp29.222
-(41)
-Kota Jakarta Barat
-FF [COD] + [GRATIS ONGKIR] Sweater Rajut Emily / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita RG2
-Rp42.596
-(179)
-Kota Jakarta Utara
-BAYAR DI TEMPAT / Sweater Rajut Wanita / Baju Rajut wanita / Baju Rajut / Kaos Rajut / Baju Rajut Panjang / Baju Rajut Halus / Atasan Rajut / kaos cabut jarum / kun-jaya / sweater cabut jarum / Rajut cewe / kaos rajut polos / kaos rib lengan panjang
-Rp25.933
-(39)
-Kota Jakarta Barat
-ZRS [COD] + [GRATIS ONGKIR] Cardigan Rosie / Cardigan / Cardigan Wanita / Sweater Wanita / Baju Wanita / Atasan Wanita / Blouse Wanita / Cardigan Wanita Lengan Panjang / baju rajut wanita / Switer Cewek / Baju Rajut / Baju Rajut Wanita NA
-Rp37.672
-(14)
-Kota Jakarta Utara
-SWEATER RAJUT WANITA BLUS RAJUT BATWAING OVERSIZE ATASAN RAJUT KELELAWAR BAJU RAJUT WANITA LESPERAL
-Rp33.000
-(861)
+[BISA COD] PINK LOVE KOREAN CARDIGAN RAJUT SWEATHER KOREA SWEATER WANITA BAHAN RAJUT PREMIUM - 18
+Rp158.900
 Kota Cirebon
-ZRS[COD] + [GRATIS ONGKIR] Cardi Rajut Rona / Cardingan Rajut Import / Cardi Polos Rajut / Cardi Wanita NA
-Rp55.000
-Kota Jakarta Utara
-SWEATER DAISY TURTLENECK // SWEATER RAJUT WANITA //SWEATER KNIT RAJUT TURTLENECK
-Rp32.700
-(6)
+CARDY RAJUT // CARDY GUCCI // CARDY WANITA // CARDY KANCING// CARDY RAJUT PREMIUM // CARDY BESTSELLER
+Rp157.500
+Kota Bandung
+atasan wanita kekinian model terbaru//rajut kova by bellina original//rajut kova bordir//rajut kova bellina//rajut bellina//rajut kova by bellina original best seller//rajut wanita abg dan dewasa model terbaru 2022 terlaris Realpickk//cash on delivery!!!!
+Rp156.000
+(1)
 Kab. Cirebon
-kardigan size S M L / atasan rajut wanita / sweater wanita / rajut terbaru terlaris / wanita hijab / rajut terlaris
-Rp36.500
-(2437)
-Kota Cimahi
-Long Twist Cardy / Cardigan Rajut Wanita / Kardigan Wanita Rajut / Cardigan Outer OOTD / Kardigan Wanita Panjang / Sweater Rajut Wanita / Baju Rajut Wanita Lengan Panjang / Sweater Wanita Korean Style / OOTD Hijab Style Remaja / Baju Wanita Terbaru 2020
-Rp30.024
-(18)
-Kota Cimahi
-Kardigan / Kardigan Rajut Oversize / Kardigan Rajut Wanita Remaja Terbaru / Baju Rajut Kualitas Premium/Kardigan Musim dingin / Kardingan Rajut Modern / Baju Rajut / Kaos Rajut / Sweater Rajut
-Rp45.500
-(26)
-Kota Cimahi
-Kardingan/Kardigan Rajut Oversize/Kardigan Rajut Wanita Remaja Terbaru/Baju Rajut Kualitas Premium/Kardigan Musim dingin /Kardigan Rajut Modern/Baju Rajut/Kaos Rajut /Sweater Rajut
-Rp79.900
-(29)
-Kota Cimahi
-TERBARU!! POPCORN CARDIE [BISA COD] - GAZALA FASHION / BEST SELLER CARDIGAN RAJUT WANITA / SWEATER RAJUT CEWEK / SWEATER RAJUT / SWEATER RAJUT KOREAN STYLE / SWEATER RAJUT CEWEK MODEL TERBARU / SWEATER RAJUT CEWEK DEWASA / OUTER RAJUT CEWEK
-Rp48.875
-Kota Cimahi
-(READY STOK)SWEATER | LASPERAL RAJUT BATWING /BLUSE WANITA RAJUT //ATASAN WANITA /BAJU KELELAWAR PREMIUM
-Rp34.900
-Kota Bandung
-Cardigan Rajut wanita Slayer / Cardy Terbaru 2021 / Cardigan Wanita Lengan Panjang rajut tebal / Baju atasan wanita rajut import halus / Baju wanita outer kardi / cardigan cardie / cardy Kardigan jaket sweater / switer korea style fashionable / Bisa Cod
-Rp89.900
-Kota Cimahi
-Queena Kardigan/Cardi Queena/Kardigan rajut wanita/Kardigan rajut terbaru/Baju rajut Wanita/Sweater Rajut/Kardigan Murah/Kardigan Premium
-Rp78.500
-(16)
-Kota Cimahi
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp28.033
-(145)
-Kota Jakarta Barat
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp26.900
-(51)
-Kota Jakarta Barat
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp28.644
-(20)
-Kota Jakarta Barat
-SWEATER RAJUT WANITA BLUS RAJUT BATWAING OVERSIZE ATASAN RAJUT KELELAWAR BAJU RAJUT WANITA LASPERAL BATWAING RAJUT
-Rp34.100
-(1691)
-Kab. Cirebon
-SWEATER RAJUT WANITA BATWING // LASPERAL BATWING RAJUT PREMIUM // SWEATER RAJUT BATWING OVERSIZE // BLUS WANITA RAJUT BATWING
-Rp32.800
-(8)
-Kab. Cirebon
-VALID_DATA_ABOVE
-| PASS |
-------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        VALID_DATA_BELOW
-Idekurajut - Cardigan Rajut Crop Oversized - Ribbed Tube - Merissa Outer
-Rp46.902
-Rp74.990
--37%
-(15)
-Kab. Garut
-Capilari - Sweater Rajut Casual Wanita NONCR 045
-Rp79.000
-Rp158.000
--50%
-Kota Bandung
-Sweater Rajut Wanita Fuji Crop Top
-Rp35.720
-Rp76.000
--53%
-(766)
-Kab. Bandung
-LOCCY ( COD + FREE ONGKIR ) sweater wanita terbaru 2021 / baju atasan wanita terbaru 2021 kekinian / auter wanita terbaru / cardigan wanita ootd hijab / outer wanita kekinian / kardigan wanita panjang / cardigan wanita korean style / baju rajut wanita
-Rp31.100
-Rp100.000
--69%
-(5020)
-Kota Jakarta Utara
-SWEATER RAJUT WANITA BATWING /BAJU RAJUT BATWING WANITA KALONG / NEW BEST SELLER LASPERAL BLUSE BATWING RAJUT / BAJU RAJUT KALONG BATWING BLUS / KALONG BLUS BATWING /
-Rp27.300
-Rp50.000
--45%
-(4942)
-Kab. Bandung Barat
-SWEATER RAJUT WANITA BATWING // BLUS RAJUT BATWING //LASPERAL BATWING RAJUT // ATASAN WANITA MODEL RAJUT
-Rp32.600
-Rp64.000
--49%
-(641)
-Kab. Cirebon
-sweater premium motip smile bok/sweater corean/basic rajut
-Rp55.748
-Rp77.900
--28%
-(63)
-Kota Bandung
-SWEATER RAJUT BATWING OVERSIZE / LASPERAL BATWING / BLOUSE BATWING RAJUT LENGAN PANJANG
-Rp35.000
-Rp85.000
--59%
-(625)
-Kab. Cirebon
-THANIA KNITE BLASTER SWEATER RAJUT WANITA | SWEATER KOREA | SWEATER FUJI RAJUT PREMIUM
-Rp36.100
-Rp155.000
--77%
-(370)
-Kab. Indramayu
-Syanin Cardigan Rajut Oversize Wanita Kekinian / Cardigan Rajut Tebal Wanita Lengan Panjang / Atasan Rajut Wanita Import / Sweater Rajut Cewek / Outer Kardigan Wanita Korean Style / Baju Rajut Wanita Murah Terbaru Kekinian Viral
-Rp41.400
-Rp95.000
--56%
-(588)
-Kota Cimahi
-COD + FREE ONGKIR Merissa Outer cardigan rajut wanita korean style import cardigan rajut wanita model terbaru 2021 / baju atasan wanita terbaru 2021 kekinian / atasan wanita terbaru 2021 kekinian / baju wanita / sweater wanita terbaru 2021 / switer cewek
-Rp32.900
-Rp100.000
--67%
-(3537)
-Kota Jakarta Utara
-BUBBLE LONG PREMIUM CARDY/SWEATER BASIC RAJUT
-Rp40.660
-Rp50.900
--20%
-(1730)
-Kota Bandung
-MT99 - Cardi Hazel Rajut Oversize Jumbo Premium
-Rp6.100
-Rp35.000
--83%
-(9547)
-Kota Jakarta Barat
-V-NEK VIONA sweater basic rajut
-Rp27.740
-Rp35.900
--23%
-(3904)
-Kota Bandung
-CABLE SWEATER STRADI/ SWEATER RAJUT WANITA BEST SELLER/ CARDIGAN KNIT TEBAL/ OUTER MURAH/cardigan cable premium / cardigan winter / winter coat/ BAYAR DITEMPAT/gimmiefive.store/Warna Greentea FASHION WANITA/
-Rp86.700
-Rp177.000
--51%
-(530)
-Kota Cimahi
-SWEATER | LASPERAL RAJUT BATWING /BLUSE WANITA RAJUT //ATASAN WANITA /BAJU KELELAWAR PREMIUM
-Rp32.833
-Rp85.000
--61%
-(166)
-Kab. Cirebon
-sweater rajut oversize crop lady fuji // switer blaster kerah 12 gaute // sweter Fuji drop belang belang
-Rp27.800
-Rp55.000
--49%
-(91)
-Kab. Cirebon
-CREWNECK SWEATER ZEBRA SWEATER RAJUT CROP PREMIUM ATASAN WANITA / SWEATER MOTIF ZEBRA
-Rp30.000
-Rp120.000
--75%
-(22)
-Kab. Cirebon
-angel crop/bailey rajut original korea murah/
-Rp34.500
-Rp90.000
--62%
-(3289)
-Kab. Bandung
-ZIGGY SWEATER NANAS STRIPE RAJUT
-Rp37.000
-Rp59.000
--37%
-(848)
-Kota Jakarta Barat
-FF [COD] + [GRATIS ONGKIR] Cardigan Rajut Hazel / Cardigan / Cardigan Wanita / Sweater Wanita / Baju Wanita / Atasan Wanita / Blouse Wanita / Cardigan Wanita Lengan Panjang / baju rajut wanita / Switer Cewek / Baju Rajut / Baju Rajut Wanita RG2
-Rp22.374
-Rp89.000
--75%
-(170)
-Kota Jakarta Utara
-Cardigan Rajut Wanita Belle Cardy Oversize / Rajut Wanita Terbaru 2022 Kekinian Viral / Baju Rajut Korea Wanita Style / Sweater Rajut Korean Style / Atasan Rajut Wanita Import / Sweater Rajut Cewek / Kardigan Wanita Kekinian 2022 / Knitwear Rajut Wanita
-Rp24.700
-Rp50.000
--51%
-(729)
-Kota Cimahi
-sweater rajut kerah tinggi wanita panjang/sweater female korea/jaket wanita adem/atasan wanita
-Rp30.957
-Rp41.500
--25%
-(597)
-Kab. Cianjur
-Bayoneta sweater - sweter rajut wanita - cardigan premium - bayonet knit premium - sweter polos
-Rp36.382
-Rp90.000
--60%
-(3298)
-Kota Bandung
-Lisdia Rajut / Sweater & Cardigan / Pakaian Wanita / Sweater Wanita / Sweater Rajut / Sweater Rajut Wanita / Sweater Wanita Korean Style / Baju Rajut Wanita Lengan Panjang / Baju Rajut Wanita Korea / Rajut Wanita Korea / Atasan Rajut / Atasan Rajut Korea
-Rp35.197
-Rp80.000
--56%
-(8366)
-Kota Bandung
-Cardigan Rajut Long Cardy Belle / Cardigan Rajut Panjang Wanita Tebal / Kardigan Lengan Panjang Wanita / Auter Rajut Wanita Terbaru / Cardy Gardigan Jaket Sweater Switer Fashion Korea Style / Kardigan Rajut Tebal Premium Wanita
-Rp41.200
-Rp120.000
--66%
-(4605)
-Kota Cimahi
-PAKAIAN WANITA / JOVANKA SWEATER / Pakaian Rajut Wanita
-Rp43.600
-Rp65.000
--33%
-(335)
-Kota Bandung
-Inner Rajut Aisha Hijab Baju Dalaman Turtleneck Knit Manset
-Rp33.307
-Rp79.000
--58%
-(1233)
-Kota Bandung
-Sweater Rajut Lita By Magra All Size fit to XL
-Rp42.600
-Rp80.000
--47%
-(561)
-Kota Bandung
-HOZURA - Cardigan Sweater Rajut Cable Tebal PREMIUM Lanna (Batta) - Cardigan Oversize - Cardigan Rajut Jumbo Mariza Outer Korean Style Kekinian Terbaru 2021 Baju Rajut Tebal Premium Outer Bisa Bayar Di Tempat - Selly crop Cardi premium 3get fashion wanita
-Rp95.000
-Rp320.000
--70%
-(2287)
-Kota Jakarta Barat
-FF [COD] + [GRATIS ONGKIR] Cardigan Rajut Bitha / Kardigan Rajut Wanita / Atasan Wanita Terbaru / Baju Wanita / Rajut Wanita / Baju Atasan Wanita / Blouse Wanita / Atasan Wanita / Atasan Wanita Lengan Panjang / Sweater Wanita / Atasan Blouse Wanita RG2
-Rp35.701
-Rp98.000
--64%
-(110)
-Kota Jakarta Utara
-GFS [COD] + [GRATIS ONGKIR] Sweater Rajut Zero / Sweater Wanita / Sweater / Sweater Wanita Korean Style / Cardigan Wanita / Cardigan / Switer Cewek / Switer / Baju Wanita / Atasan Wanita / Blouse / Blouse Wanita / Celana Wanita RG1
-Rp38.304
-Rp76.000
--50%
-(150)
-Kota Jakarta Utara
-Sale.! Cardigan rajut wanita belle cardy oversize tebel murah aneka warna / Pakaian wanita / Others / Sweater rajut wanita
-Rp34.686
-Rp103.900
--67%
-(415)
-Kab. Bandung Barat
-Cardigan Kancing / COD Kardigan Wanita / Kardigan Wanita / Cardigan Oversized Baverly / Sweater Rajut / lavela rajut tebal wanita / Outer Wanita Korean Style TERBARU / Cardigan XL XXL XXXL / Desais
-Rp37.000
-Rp85.700
--57%
-(647)
-Kota Cimahi
-Sweater Turtleneck Rajut Premium / Sweater / Sweater Rajut / Sweater Rajut Wanita / Sweater Turtleneck / Sweater Leher Tinggi / Sweater Rajut 12 Get / Sweater Korean Style / Rajut Turtleneck / Atasan Rajut / Fashion Korean / Pakaian Wanita
-Rp35.279
-Rp65.000
--46%
-(43)
-Kota Bandung
-Cardigan Rajut Oversize Wanita Terbaru / Cardigan Rajut Nakara Premium / sweater rajut Tebal / gardigan Crop wanita / Cardigan Rajut tebal / Rajut Wanita Terbaru / Baju Wanita Dewasa / Outer Rajut / Rajut Wanita Korea / cardigan Rajut Balon
-Rp39.900
-Rp55.000
--27%
-(365)
-Kota Bandung
-Merisa Cardy Cardigan Rajut Oversize Wanita Kekinian / Cardigan Rajut Tebal Wanita Lengan Panjang / Atasan Rajut Wanita Import / Sweater Rajut Cewek / Rajut Wanita Terbaru 2022 Kekinian Viral / Merissa Outer Cardigan Rajut Wanita
-Rp43.900
-Rp150.000
--71%
-(86)
-Kota Cimahi
-Willy Kardigan rajut crop/sweater kardigan rajut kancing batok/kardigan Olivia
-Rp24.492
-Rp32.000
--23%
-(238)
-Kab. Bandung
-SWEATER RAJUT WANITA BATWING // LASPERAL BATWING RAJUT PREMIUM // SWEATER RAJUT BATWING OVERSIZE // BLUS WANITA RAJUT BATWING
-Rp32.800
-Rp72.000
--54%
-(8)
-Kab. Cirebon
-PREMIUM Outwear Cardigan Tebal Oversize Jacket Sweater Baju Kardigan Rajut Wanita Asli Jumbo Korea Style
-Rp49.000
-Rp145.000
--66%
-(1312)
-Kota Bandung
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
-Lasperal blous batwing/sweater rajut batwing/baju rajut batwing/blous rajut
-Rp30.000
-Rp50.000
--40%
-(390)
-Kota Bandung
-kardigan rajut crop/cardigan rajut/sweater rajut kardigan wanita kancing batok /one size L
-Rp26.445
-Rp32.000
--17%
-(1684)
-Kab. Bandung
-TURLENEK KNIT/SWEATER COREAN BASIC RAJUT
-Rp41.464
-Rp49.500
--16%
-(70)
-Kota Bandung
-MURAH NAMPOL! LASPERAL BLOUSE BATWING RAJUT/ SWEATER RAJUT WANITA BATWING / RAJUT BATWING KALONG / NEW BEST SELLER LASPERAL BLUSE BATWING RAJUT / BAJU RAJUT KALONG BATWING BLUS / KALONG BLUS BATWING
-Rp31.976
-Rp90.000
--64%
-(95)
-Kab. Cirebon
-BEST SELLER RAJUT ANAK KANCING 3/RAJUT ANAK KANCING/SWEATER ANAK RAJUT/CARDI LOVA EIREEN CARDIGAN OUTER RIB / CROP JUAN CARDY LOVA - CARDIGAN CROP KANCING 3/Cardigan Rajut Anak Perempuan Kancing 4-5 Tahun 6-8thn 3-8 thn/ Kardi Rajut kancing Tebal 12 GET
-Rp21.939
-Rp98.000
--78%
-(600)
-Kab. Bandung
-HOZURA - Cardigan Sweater Rajut Gelombang Kepang PREMIUM Lanna (Hijau Mint) - Sweater Wanita Tebal - Outer Wanita Premium - Cardigan Bahan Rajut Tebal - Tangan Panjang Bahan Wol 5 Grade - Rajut Outer Terbaru - Rajut Cable - Rajut Import - Cardigan Wanita
-Rp95.000
-Rp320.000
--70%
-(138)
-Kota Jakarta Barat
-CARDIGAN RAJUT PREMIUM / SWITER RAJUT / SWITER BIKIN CANTIK / SWITER CARDIGAN KACING BATOK BISA COD
-Rp23.807
-Rp24.999
--5%
-(2744)
-Kab. Cianjur
-SWEATER RAJUT WANITA BATWING / RAJUT BATWING KALONG / NEW BEST SELLER LASPERAL BLUSE BATWING RAJUT / BAJU RAJUT KALONG BATWING BLUS / KALONG BLUS BATWING /BAJU RAJUT KNIT VIRAL
-Rp28.150
-Rp95.000
--70%
-(392)
-Kab. Cirebon
-airy outer cardigan rajut wanita / baju rajut wanita lengan panjang / kardigan wanita korean style import / auter wanita lengan panjang korea / cardigan outer ootd hijab style hijab / sweater gardigan rajut wanita tebal murah
-Rp49.800
-Rp125.000
--60%
-(155)
-Kota Cimahi
-CARDIGAN RAJUT PREMIUM / CARDIGAN KNITTED CROP / SWEATER AESTHETIC / CARDIGAN RAJUT MODEL TERBARU
-Rp23.599
-Rp70.000
--66%
-(641)
-Kab. Bandung Barat
-Cardigan rajut wanita oversize tebal Sweater rajut lengan panjang eireen Pakaian rajut wanita dewasa Atasan cewe model sekarang Baju aesthetic wanita Outer korea style
-Rp39.900
-Rp75.000
--47%
-(2152)
-Kab. Bandung
-BAYONETA SWEATER Balon Knit | Atasan Wanita Oversize Rajut Halus | Sweeter Rajut Tangan Balon | Sweeter Terbaru | Rajutan Tangan Balon | Rajut Tangan Balon | Baju Wanita Kekinian | Baju Viral | Baju Masakini
-Rp36.263
-Rp80.000
--55%
-(658)
-Kota Bandung
-Cardigan Lova Eireen AG / Cardigan Rajut anak / SWEATER ANAK RAJUT/CARDI LOVA EIREEN CARDIGAN OUTER RIB / CROP JUAN CARDY LOVA - CARDIGAN CROP KANCING 3/Cardigan Anak Perempuan Kancing 1-2 tahun 4-5 Tahun 6-8thn 2-10 thn/ KARDI Rajut kancing Tebal 7
-Rp15.390
-Rp40.000
--62%
-(521)
-Kab. Bandung
-Sweater Rajut Wanita Kekinian Lasperal Batwing / Baju Rajut Wanita Lengan Panjang / Sweater Rajut Oversize Cewek / Blouse Rajut Wanita Lengan Panjang / Atasan Rajut Wanita Lengan Kelelawar
-Rp28.681
-Rp40.000
--28%
-Baru
-(74)
-Kota Cirebon
-V-NEK VIONA/SWEATER COREAN BASIC RAJUT
-Rp28.371
-Rp49.900
--43%
-(291)
-Kota Bandung
-kardigan rajut crop/sweater cardigan rajut crop wanita kancing batok/kardigan crop kancing batok
-Rp28.399
-Rp31.500
--10%
-(237)
-Kab. Bandung
-sweater rajut popcorn strip by RHcollections/ sweater nanas strip / sweater wanita popcorn nanas
-Rp43.000
-Rp65.000
--34%
-(461)
-Kota Bandung
-ELLENA BASIC OUTWEAR (7 GET) / CARDIGAN RAJUT KOREAN STYLE REMAJA / CARDIGAN RAJUT PREMIUM / ELLENA BASIC CARDY / SWEATER RAJUT WANITA
-Rp43.104
-Rp65.000
--34%
-(359)
-Kota Bandung
-sweater turtleneck wanita-sweater rajut wanita-bayar di tempat-atasan rajut wanita-kaos rajut wanita
-Rp27.500
-(1498)
-Kota Bandung
-NAJAHSTORE / ziggy sweater / ATASAN RAJUT / ATASAN RAJUT KEKINIAN / SWEATER RAJUT WANITA /BAJU RAJUT /COD BAYAR DITEMPAT
-Rp37.664
-Rp85.000
--56%
-(231)
-Kota Bandung
-SOVIA | SWEATER RAJUT CARDIGAN TEBAL 7 GET ORIGINAL RAJUT KARDIGAN
-Rp90.250
-Rp150.000
--40%
-(83)
-Kota Bandung
-jfs ols-baju rajut cardingan basic/sweater kardigan
-Rp33.000
-Rp59.000
--44%
-(1159)
-Kota Jakarta Barat
-BLOUSE BAJU RAJUT BATWING | ATASAN WANITA MODEL KELELAWAR | OUTER RAJUT KALONG KNIT / LASPERAL KNIT / SWEATER RAJUT BATWING
-Rp17.226
-Rp75.000
--77%
-(125)
-Kab. Cirebon
-Kardigan rajut crop/cardigan rajut wanita/sweater kardigan crop kancing batok wanita
-Rp23.671
-Rp80.000
--70%
-(350)
-Kab. Bandung
-Cardygan Rajut Wanita / Cardigan Rajut Oversized / Sweater Wanita / Outer Rajut Polos Wanita / Rajut Korean Style / Rajut Terbaru 2022 BAYAR DI TEMPAT COD
-Rp32.989
-Rp80.000
--59%
-(1998)
-Kab. Bandung
-baju rajut wanita lengan panjang model korea sweater cardi tebal murah jumbo JOEY
-Rp32.800
-Rp80.000
--59%
-(458)
-Kota Jakarta Utara
-OOTD WANITA TERBARU VIRAL DI TIKTOK | KARDIGAN SWEATER BATWING | BAJU KARDIGAN KELALAWAR | ATASAN BETWING LASPERAL | Pakaian Wanita Kardigan Betwing Rajut Terbaru
-Rp42.700
-Rp46.500
--8%
-(29)
-Kota Bandung
-SWEATER RAJUT FUJI/SWEATER RAJUT BLASTER/SWEATER CROPTOP
-Rp39.900
-(5)
-Kab. Cirebon
-CREWNEC SWEATER ZEBRA SWEATER RAJUT CROP PREMIUM ATASAN WANITA
-Rp71.702
-Rp97.000
--26%
-(60)
-Kota Bandung
-Kaos Cabut Jarum - Sweater Rajut Wanita - Kaos rajut polos - Sweater Wanita - Sweater Basic Polos- kun-jaya - Sweater Polos - Sweater Oversize Wanita - Cabut Jarum Wanita - Baju rib - Kaos Rib Premium - Kaos RIB Lengan Panjang - COD Bayar ditempat
-Rp27.300
-Rp125.000
--78%
-(2968)
-Kota Jakarta Barat
-Atasan Wanita baju wanita sweater rajut blus / Pakaian Wanita / pakaian rajut halus wanita / sweater rajut tangan balon kerah tinggi/ turtleneck ARUMI BLUS SWEATER TURTLENECK
-Rp40.409
-Rp75.000
--46%
-(1090)
-Kota Bandung
-Alin Cardigan Knit / Cardigan Wanita Korea / Alin Sweater Korea / Cardigan Rajut Premium / Sweater Rajut Premium
-Rp57.000
-Rp95.000
--40%
-(27)
-Kab. Bandung
-SWEATER RAJUT ARIEL WANITA / SWEATER RAJUT WANITA / SWEATER COD / SWEATER RAJUT POLOS / SWEATER MURAH / SWEATER RAJUT DISTRO / SWEATER RAJUT WANITA HOODIE / SWEATER RAJUT WANITA MURAH / SWEATER RAJUT CEWEK / SWEATER RAJUT ARIEL CEWEK / SWEATER CEWEK POLOS
-Rp47.158
-Rp100.000
--53%
-(656)
-Kota Bandung
-CROP OLIVIA CADIGAN RAJUT GET 7 TEBAL | OUTER CARDY | KROV 7gt OLIVIA CARDY
-Rp37.800
-Rp86.000
--56%
-(419)
-Kab. Bandung
-Fuji crop top / enjelika blouse / Fuji Blouse Rajut / Knitwear / Sweater Wanita Korean Style / Fuji Terbaru COD 2022
-Rp39.000
-Rp98.000
--60%
-(40)
-Kab. Cirebon
-Cardigan Rajut Wanita Tebal Premium Crop Sweater wanita pakaian wanita Eireen Cardigan
-Rp42.000
-Rp97.000
--57%
-(140)
-Kota Bandung
-Kotak Cardy Cardigan Rajut Oversize Wanita Kekinian / Cardigan Rajut Tebal Wanita Lengan Panjang / Atasan Rajut Wanita Import / Sweater Rajut Cewek / Outer Kardigan Wanita Korean Style / Baju Rajut Wanita Murah Terbaru Kekinian Viral
-Rp47.400
-Rp103.000
--54%
-(45)
-Kota Cimahi
-PROMO BESAR!!! Rajut Cardigan/ atasan cardigan/ Cardigan atasan/ Cardigan Wanita /Sweater hangat wanita/ cardigan lengan panjang/ cardigan 25 warna/ CARDIGAN RAJUT TERBARU 2021
-Rp37.850
-Rp120.000
--68%
-(173)
-Kota Cimahi
-Cardigan Kancing / COD Kardigan Wanita / Kardigan Wanita / Cardigan Oversized Baverly / Sweater Rajut / lavela rajut tebal wanita / Outer Wanita Korean Style TERBARU / Cardigan XL XXL XXXL
-Rp38.048
-Rp75.000
--49%
-(2318)
-Kab. Bandung
-BOXY SWEATER / BOXY PREMIUM ABG / baju rajut wanita / sweater rajut wanita terbaru 2022 / Baju Wanita Terbaru 2022 kekinian Viral / Sweater aesthetic korean style/ Atasan Cantik
-Rp30.900
-Rp50.000
--38%
-(3690)
-Kab. Sukabumi
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
 LazadaFashion :: This test suite to test functionality survey, eac... | PASS |
-2 tests, 2 passed, 0 failed
+1 test, 1 passed, 0 failed
 ==============================================================================
-Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Fashion\output.xml
-Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Fashion\log.html
-Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Fashion\report.html
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Fashion\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Fashion\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Fashion\report.html

@@ -1,417 +1,280 @@
 ==============================================================================
 LazadaFurniture :: This test suite to test functionality survey, each type ...
 ==============================================================================
-LAZADA Filter by Lowest Price                                         VALID_DATA_BELOW
-sofa ruangan siku
-Rp3.850.000
-Kota Bandung
-Sofa Tamu Kursi Tamu L Siku Oskar Nadera
-Rp4.029.000
-Kab. Tangerang
-YELLOW Sofa Ruang Tamu Sudut Siku L Minimalis Bahan Kayu Jati YKS2-3C
-Rp1.200.000
-Kota Depok
-COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU
-Rp435.000
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+TROLI TROLLEY BESI BELANJA DORONG LIPAT GEROBAK KERANJANG KERETA SERBAGUNA ANGKUT BARANG GAS GALON
+Rp2.999.000
 Kota Jakarta Barat
-JOK RX KING SIKU TEBAL LIS BIRU-jok rx king lis biru-jok rx king tebal lis biru-JOK KING
-Rp155.800
-Kab. Boyolali
-Kursi Sofa Tamu Kayu Minimalis Titonik L Siku
-Rp1.950.000
-Kab. Tangerang
-[COD] COVER SOFA ELASTIS 1 2 3 4 SEATER SARUNG SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp314.400
-Kab. Malang
-JOK RX KING-JOK RX KING SIKU-JOK RX KING KARBON
-Rp156.275
-Kab. Boyolali
-[COD] [ORIGINAL] SARUNG SOFA GRID POLOS ELASTIS 1 2 3 4 SEATER COVER SOFA SEATER SUDUT SIKU L SHAPED
-Rp178.500
-(1)
-Kab. Tangerang
-Kursi Sofa Tamu Kayu Jati Unicare L Siku
-Rp3.999.000
-Kab. Tangerang
-Jok rx king siku lis merah ktm
-Rp160.000
-Kab. Boyolali
-JOK RX KING SIKU TEBAL LIS BIRU-jok rx king lis biru-jok rx king tebal lis bir-JOK RX KING
-Rp164.900
-Kab. Boyolali
-JOK RX KING SIKU TEBAL LIS BIRU-jok rx king lis biru-jok rx king tebal lis biru
-Rp150.000
-Kab. Boyolali
-SIKU LIPAT MEJA & AMBALAN DINDING 30 CM
-Rp111.000
+Kitarack Rak Gudang Besi 4 Susun 2,1 M Rak Toko Minimarket Supermarket Jeprisapriadistore
+Rp1.914.000
 Kota Jakarta Barat
-[Original] COVER SOFA SIKU SUDUT L SHAPED POLOS Sarung SOFA Elastis Ukuran L SUDUT Siku - FURNITURE
-Rp417.100
-(1)
+Kitarack Rak Barang Gudang 2,1 M 4 Susun Bkn 5 Besi Serbaguna Murah Jeprisapriadistore
+Rp1.914.000
 Kota Jakarta Barat
-COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SARUNG SOFA L SAPED SUDUT SIKU SARUNG PELINDUNG SOFA KURSI RUANG TAMU
-Rp100.000
-Murah
-(58)
-Kota Jakarta Barat
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA STRECHT ELASTIS SEATER PELINDUNG SOFA KURSI TAMU LETER L SUDUT SIKU
-Rp105.000
-Murah
-(49)
-Kota Jakarta Barat
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp295.000
-Kota Jakarta Barat
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp100.000
-Murah
-(22)
-Kota Jakarta Barat
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp125.000
-(12)
-Kota Jakarta Barat
-[Original] SARUNG SOFA SKIRT ELASTIS COVER SOFA RUMBAI PREMIUM SIKU SUDUT ELASTIS 1 2 3 4 SEATER COVER SOFA STRECHT ELASTIS 1 2 3 4 DUDUKAN PELINDUNG SOFA
-Rp225.000
-(7)
-Kota Jakarta Barat
-[Original] COVER SOFA ELASTIS Sarung Sofa 1 2 3 4 Seater Sarung Pelindung Sofa Siku Sudut L Shaped
-Rp110.000
-(35)
-Kota Jakarta Barat
-COVER SOFA L PUTUS SARUNG SOFA BED ELASTIS 1 & 3 SEATER L PUTUS COVER SOFA SIKU SARUNG SOFA SUDUT
-Rp395.000
-Murah
-(5)
-Kota Jakarta Barat
-Kaki Sofa Besi Model T Siku 10 cm Bukan Kaki Sofa Stainless Plastik 90 Derajat
-Rp11.000
-Kota Bogor
-DISKON MURAH || Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Snless Chrome 5.5 CM
-Rp20.950
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Minimarket. Rak Etalase. Rak Susun 40/35 180cm
+Rp1.900.000
 Kota Bekasi
-120Pcs Kaki Sofa Siku 6 cm Untuk Spring Bed Sofa Kursi Meja Furniture
-Rp1.026.000
+Kitarack Rak Gudang Besi 4 Susun 1,8 M Rak Toko Minimarket Supermarket Jeprisapriadistore
+Rp1.798.000
 Kota Jakarta Barat
-PROMO MURAH COD !!! COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU - Putih White
-Rp710.000
-Kota Tangerang
-4Pcs Kaki Sofa Siku 6 cm Untuk Spring Bed Sofa Kursi Meja Furniture
-Rp29.800
-(61)
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Minimarket. Rak Etalase. Rak Susun 30/25 200cm
+Rp1.680.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double 35/30 200cm
+Rp1.650.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Susun. Rak Etalase. Rak Minimarket 40/35 120cm
+Rp1.580.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Susun. Rak Minimarket. Rak Etalase 35/30 120cm
+Rp1.510.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Etalase. Rak Susun. Rak Minimarket 35/30 180cm
+Rp1.460.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Minimarket. Rak Susun. Rak Etalase 35/30 150cm
+Rp1.460.000
+Kota Bekasi
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Susun. Rak Etalase 30/25 180cm
+Rp1.460.000
+Kota Bekasi
+Rak Besi Multifungsi Kuat
+Rp1.300.000
+Kota Surabaya
+Rak Supermarket/ Rak Swalayan/ Rak Toko / Rak Besi Double. Rak Susun. Rak Etalase 30/25 120cm
+Rp1.300.000
+Kota Bekasi
+Rak Supermarket. Rak Minimarket. Rak Toko Cibinong. Rak Besi. Rak Single 40/35 200cm
+Rp1.300.000
+Kota Bekasi
+Rak Besi/Rak supermarket single/Rak toko doubel 120. 30/25
+Rp1.290.000
+Kota Depok
+rak besi 30x150x200 7 susun
+Rp1.175.000
+(1)
+Kab. Kepulauan Seribu
+Rak Besi 5 Susun P 120 L 40 T 200 Jeprisapriadistore
+Rp1.131.000
 Kota Jakarta Barat
-PROMO MURAH COD !!! COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU - Putih White
-Rp710.000
-Kota Tangerang
-Promo COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU - Putih White Elegan
-Rp581.000
-Kota Jakarta Pusat
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp231.510
+Rak Snack/ Rak Etalase/ Rak Besi/ Rak Susun/ Rak Supermarket/ Rak Jajanan
+Rp1.100.000
+Kota Bekasi
+RAK SUSUN BESI LIPAT RAK DAPUR KAMAR MANDI RAK PENYIMPANAN SERBAGUNA
+Rp1.055.700
 Kota Jakarta Barat
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp197.500
+Rak Supermarket. Rak Minimarket. Rak Toko. Rak Besi. Rak Single 30/25 180cm
+Rp1.000.000
+Kota Bekasi
+Rak Besi Anti Karat 100X40X200 5 Susun
+Rp767.000
+Kab. Bekasi
+Rak besi serbaguna 7 susun
+Rp750.000
+Kab. Bogor
+rak besi lubang/rak gudang
+Rp650.000
+Kab. Tangerang
+Rak Besi Srbaguna
+Rp650.000
+Kota Surabaya
+Rak besi siku 5 susun 30x120x200 serbaguna
+Rp635.000
+(2)
+Kota Bekasi
+Rak besi 5 susun uk L50xP100xT200
+Rp635.000
+Kota Bekasi
+Rak Besi Siku 4 susun 50x100x200 Serbaguna
+Rp625.000
+Kota Bekasi
+Rak Besi Rotary 4 Susun Portable Kokoh Rack Putar Lipat Minimalist Tempat Penyimpanan Dapur, makanan, Aksesoris Serbaguna
+Rp618.000
+Kota Jakarta Timur
+Rak Besi 5 Susun, Rak Penyimpanan Barang Multifungsi 30x100x200 cm
+Rp615.000
 Kota Jakarta Barat
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp190.000
+Rak besi sikulubang L40 5 susun viral tebal Rak usaha
+Rp599.500
+Kab. Kepulauan Seribu
+rak besi 5 susun serbaguna
+Rp590.000
+Kab. Bogor
+Rak Snack (Ciki) / Rak Makanan Susun Minimalis serbaguna bahan Besi plus Roda
+Rp581.400
+Kab. Mojokerto
+Rak Besi 4 Susun Sellaqueennita
+Rp580.000
+Kota Jakarta Timur
+Rak besi serbaguna
+Rp575.000
+Kota Jakarta Timur
+Rak Besi MDF Board 5 Susun Tanpa Baut Boltless Steel Rack
+Rp575.000
+(8)
 Kota Jakarta Barat
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp198.524
-Kota Jakarta Barat
-PROMO MURAH COD !!! COVER SOFA SUDUT SIKU L SHAPED SARUNG SOFA 1 2 3 4 SEATER ELASTIS SIKU - Putih White TERSEDIA JUGA Cover sofa stool bulat/Cover sofa bed 2 seater/Cover sofabed /Cover sofabed/Cover sofa 3 seater informa
-Rp708.000
-Kota Tangerang
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp210.000
-Kota Jakarta Barat
-Promo COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED Elegan
-Rp312.000
-Kota Jakarta Pusat
-KAKI SOFA MEJA 10 CM CHROME SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp48.300
-Kota Jakarta Pusat
-Terlaris COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED Keren
-Rp339.000
-Kota Jakarta Pusat
-[HOT SALE] SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp260.000
-Kota Jakarta Barat
+SHENAR Rak Susun Troli Besi Serbaguna Berputar 360 Derajat Tingkat Model Kotak Rak Susun Putar Multifungsi Rotary Organizer Rack Multilayer
+Rp510.000
+Baru
+Kota Jakarta Utara
+Rak besi 100x30x200cm
+Rp500.000
+Kab. Bogor
+Rak Besi 5 Susun serba guna L30xP100xT200
+Rp500.000
+Kota Jakarta Timur
+RAK BESI SIKU 4 SUSUN RAK BARANG DAN RAK SUSUN SERBAGUNA
+Rp499.900
+Kab. Pangandaran
 VALID_DATA_ABOVE
 VALID_DATA_BELOW
-[Original] SARUNG SOFA L SHAPED SIKU SUDUT ELASTIS 1 2 3 4 SEATER COVER SOFA STRECHT ELASTIS SEATER
-Rp206.392
-Kota Jakarta Barat
-[Original] SARUNG SOFA L SHAPED SIKU SUDUT ELASTIS 1 2 3 4 SEATER COVER SOFA STRECHT ELASTIS SEATER
-Rp148.500
-Kota Jakarta Utara
-[Original] SARUNG SOFA L SHAPED SIKU SUDUT ELASTIS 1 2 3 4 SEATER COVER SOFA STRECHT ELASTIS SEATER
-Rp206.392
-Kota Jakarta Barat
-daftar produk baru ? gZkBRCdr SARUNG SOFA KURSI BANGKU 1 2 3 DUDUKAN COVER SOFA 1 2 3 SEATER KURSI TAMU SUDUT SIKU L SHAPED
-Rp218.100
-Kota Jakarta Barat
-KAKI SOFA MEJA 10 CM BRONZE SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp59.850
-Kota Jakarta Pusat
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp284.008
-Kota Jakarta Barat
-KAKI SOFA MEJA 10 CM BRASS SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp48.300
-Kota Jakarta Pusat
-??? COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp303.492
-Kota Jakarta Barat
-Terlaris SARUNG SOFA KURSI BANGKU 1 2 3 DUDUKAN COVER SOFA 1 2 3 SEATER KURSI TAMU SUDUT SIKU L SHAPED Elegan
-Rp350.000
-Kota Jakarta Pusat
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp208.250
-Kota Jakarta Barat
-COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SARUNG SOFA L SAPED SUDUT SIKU SARUNG PELINDUNG SOFA KURSI RUANG TAMU
-Rp109.000
-Kab. Garut
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp261.538
-Kota Jakarta Barat
-COD COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SIKU SUDUT L SHAPED SARUNG SOFA KURSI TAMU POLOS
-Rp222.164
-Kota Jakarta Barat
-SARUNG SOFA SIKU SUDUT L SHAPED COVER SOFA 1 2 3 4 SEATER ELASTIS KURSI BANGKU RUANG TAMU
-Rp291.000
-Kota Jakarta Barat
-COD COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SIKU SUDUT L SHAPED SARUNG SOFA KURSI TAMU POLOS
-Rp202.500
-Kota Jakarta Utara
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp308.003
-Kota Jakarta Utara
-PROMO MURAH COD !!! Kaki Sofa Meja 10 cm Brass Siku Antik Meja Lemari Kitchen Nakas Besi - 106-10cm AB TERSEDIA JUGA bedside table /bedside table cheap/small bedside table/argos bedside table/grey bedside table
-Rp64.000
-Kota Tangerang
-Promo COD COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SIKU SUDUT L SHAPED SARUNG SOFA KURSI TAMU POLOS Elegan
-Rp423.000
-Kota Jakarta Pusat
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp208.250
-Kota Jakarta Barat
-COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT
-Rp143.000
+Rak Bunga Susun Besi Holo Kayu Minimalis Bertingkat 3 Dudukan Standing Pot Tinggi 1 M Model Tangga
+Rp499.000
+Kab. Bekasi
+RAK BESI SERBAGUNA
+Rp450.000
+Kab. Bandung Barat
+Rak besi berkualitas harga murah super kokoh panjang 100cm.panjang100cm. Lebar 40 cm.3 susun shelving
+Rp449.500
 Kab. Bogor
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp121.500
+rak besi serbaguna
+Rp445.000
+Kab. Bandung Barat
+APHOME Rak Susun Troli Besi Serbaguna Tingkat Model Bulat & Kotak Rak Susun Putar Multifungsi Rotary Organizer Rack Multilayer HARUMI
+Rp439.000
+(1)
+Kota Tangerang Selatan
+Rak/Susun /Ikea /Besi /Minimalis /Baja /Ruang Tamu Serbaguna Tingkat 4 Susun
+Rp436.476
+Kota Jakarta Barat
+Kitarack Rak Barang Gudang 2 Meter Besi Serbaguna 4 Susun Bkn 5 Ks2020 Jeprisapriadistore
+Rp435.000
+Kota Jakarta Barat
+Rak Barang Dapur 3 4 5 Tempat Penyimpanan Susun Full Besi Jaring Tingkat Serbaguna Bagus
+Rp420.000
+Kab. Sidoarjo
+?? Aouik6OA keranjang besi tabung gas elpiji 3 kg dan galon 100 anti karat
+Rp391.003
+Kota Jakarta Barat
+COD Rak Penyimpanan Susun Besi portable rak Dapur Microwave Kamar Mandi Rak Buku Serbaguna rak bongkar pasang Rak 5 tingkat ZWJ-18
+Rp331.000
 Kota Jakarta Utara
-daftar produk baru?? xdyanVkj SARUNG SOFA POLOS SEATER /COVER SOFA STRETCH ELASTIS 1-2-3 -4 SEATER BANGKU SOFA SUDUT SIKU L SHAPED
-Rp286.295
-Kota Jakarta Barat
-PROMO MURAH COD !!! COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM 1 SEATER
-Rp190.000
-Kota Tangerang
-COVER SOFA SEATER 1 2 3 STRECH ELASTIS SARUNG SOFA BED KURSI SIKU L SHAPED MOTIF FURNITURE
-Rp121.500
+Rak Besi Serbaguna 4 Tingkat warna Putih Hitam Abu
+Rp321.000
+Kota Jakarta Timur
+RAK BESI WARUNG TOKO JAJAN CIKI CHIKI SNACK MINIMARKET MINIMALIS 4 SUSUN SERBAGUNA MURAH
+Rp300.000
+Kab. Bogor
+SHENAR RAK DAPUR BESI SUSUN TROLI SUSUN PUTAR RAK DAPUR BULAT KOTAK SERBAGUNA / KERANJANG BUAH BUMBU / RAK SERBAGUNA TROLI BESI - ASTRO GALAXY TINTAN, SHENARCORNER168
+Rp299.000
+Baru
 Kota Jakarta Utara
-COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT
-Rp310.000
-Kota Depok
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp221.500
+SHENAR RAK DAPUR BESI SUSUN TROLI SUSUN PUTAR RAK DAPUR BULAT KOTAK SERBAGUNA / KERANJANG BUAH BUMBU / RAK SERBAGUNA TROLI BESI - ASTRO GALAXY TINTAN, SHOPTILLDROPSS88
+Rp299.000
+Baru
+Kota Jakarta Utara
+Rak Besi Serbaguna 4 Susun 4 Tingkat Rak Lemari Pajangan Dekorasi Rumah Serbaguna
+Rp295.000
+(182)
 Kota Jakarta Barat
-COVER SOFA 1 2 3 SEATER SARUNG SOFA STRETCH ELASTIS KURSI SOFA SUDUT SIKU L SHAPED PENUTUP SOFA
-Rp218.625
-Kota Jakarta Barat
-[COD] SARUNG SOFA ELASTIS POLOS L SHAPED SUDUT SIKU COVER SOFA 1 2 3 4 SEATER KURSI TAMU DEKORASI
-Rp237.195
-Kota Jakarta Barat
-COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
-Rp181.500
-Kota Jakarta Barat
-[BISA COD] Cover Sofa Seater 1 2 3 4 Sarung Sofa Elastis L Shaped Siku Sudut - Box Color, 1 Seater
-Rp192.000
-Kota Jakarta Timur
-Murah [Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture Elegan
-Rp374.000
-Kota Jakarta Pusat
-PROMO MURAH COD !!! COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM 1 SEATER
-Rp190.000
+Rak Besi KECIL Rak Buku 4 Susun Rak Tanaman Hias Barang Serbaguna Dekorasi Hiasan Rumah Rak Sudut Ruangan
+Rp290.000
+Kab. Bogor
+Rak susun tiga tingkat dalam luar ruang baja galvanis 74x27x60cm WMO IK8327 HYL
+Rp279.900
+(13)
+Kab. Tangerang
+Goto Lerbergo Rak Besi Susun Buku Dekorasi Pajangan Tanaman Serbaguna
+Rp279.900
+(86)
 Kota Tangerang
-COVER SOFA SEATER 1 2 3 4 STRECH ELASTIS SARUNG SOFA BED KURSI SIKU L SHAPED MOTIF FURNITURE
-Rp195.375
+Rak tingkat besi susun dekorasi 4 tingkat 35x35x148 WMO IK35148 LERM
+Rp270.000
+(727)
+Kab. Tangerang
+LERBERG Rak Susun Portable Besi, Rak Buku Serbaguna, 35x35x148cm, Putih, Dekorasi Rumah, Rak Hias
+Rp263.000
 Kota Jakarta Barat
-COD COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SIKU SUDUT L SHAPED SARUNG SOFA KURSI TAMU POLOS
-Rp246.000
-Kota Jakarta Barat
-COVER SOFA 1 2 3 4 SEATER SARUNG SOFA L SHAPED SUDUT SIKU KURSI SOFA TAMU PELINDUNG PEMBUNGKUS BUNGKUS KAIN SOFA
-Rp211.125
-Kota Jakarta Barat
-[BISA COD] Cover Sofa Seater 1 2 3 4 Sarung Sofa Elastis L Shaped Siku Sudut - Box Color, 1 Seater
-Rp188.000
+COD Rak Penyimpanan Susun Besi portable rak Dapur Microwave Kamar Mandi Rak Buku Serbaguna rak bongkar pasang Rak 4 tingkat ZWJ-20
+Rp262.000
+(1)
+Kota Jakarta Utara
+Rak Chiki Snack / Rak Besi 4 Susun Jumbo Serbaguna / Storage Rack Multifungsi / Rak Jajanan Warung Besar Murah Bayar Ditempat ( CHICAGO )
+Rp261.500
+(1)
+Kota Tangerang Selatan
+Rak 4 susun / Rak Display Mini Snack / Rak Ciki Makanan Buat Jualan Toko Dagangan Minimarket Serbaguna Besi Bayar di Tempat Murah ( CHIBA )
+Rp261.500
+Kota Tangerang Selatan
+Rak Ciki Serbaguna Snack Warung Chiki 4 Susun Penyimpanan Bumbu Dapur Multifungsi Besi Bayar di Tempat ( CHICAGO )
+Rp261.500
+(1)
+Kota Tangerang Selatan
+RAK BESI MODEL DISPLAY PAJANGAN JUALAN WARUNG JAJANAN CHIKI 4 SUSUN RAK DISPLAY TOKO BISA BAYAR DI TEMPAT PROMO HARI INI - [CHICAGO]
+Rp261.500
+(1)
+Kota Tangerang Selatan
+TERLARIS ! PROMO HARI INI !! Rak Serbaguna Ciki Snack Warung Chiki 4 Susun Penyimpanan Bumbu Dapur Multifungsi Besi Bayar di Tempat ( CHICAGO )
+Rp261.500
+(207)
+Kota Tangerang Selatan
+COD Rak Penyimpanan Susun Besi portable rak Dapur Microwave Kamar Mandi Rak Buku Serbaguna rak bongkar pasang
+Rp259.000
+(17)
+Kota Jakarta Utara
+Rak Penyimpanan Susun Besi portable rak Dapur Microwave Kamar Mandi Rak Buku Serbaguna rak bongkar pasang Rak 4 tingkat ZWJ-20
+Rp258.800
+(14)
+Kota Jakarta Utara
+Mainland Rak Gantungan Baju Multifungsi Standing Rak Besi Rak Keranjang Baju Susun Rak Pakaian Troli Dengan Roda HRK510
+Rp255.500
+(2)
+Kota Tangerang
+rak chiki besi 4 susun palang kotak / rak serbaguna 4 susun palang kotak
+Rp255.000
+(32)
+Kota Tangerang Selatan
+[ GARANSI 100% ] Rak portable serbaguna / keranjang laundry / laundry basket rovega @ rak gantung serbaguna / rak besi serbaguna / rak buku serbaguna / rak susun serbaguna / rak serbaguna 3 4 susun /rak dapur serbaguna portable sudut plastik
+Rp252.000
+(2)
 Kota Jakarta Timur
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp190.656
-Kota Jakarta Barat
-COVER SOFA SEATER 1 2 3 4 SARUNG SOFA ELASTIS L SHAPED SIKU SUDUT - RANDOM, 1 SEATER
-Rp151.699
-Kota Jakarta Barat
-SARUNG SOFA KURSI BANGKU 1 2 3 DUDUKAN COVER SOFA 1 2 3 SEATER KURSI TAMU SUDUT SIKU L SHAPED
-Rp192.750
-Kota Jakarta Barat
-[COD] SARUNG SOFA ELASTIS POLOS L SHAPED SUDUT SIKU COVER SOFA 1 2 3 4 SEATER KURSI TAMU DEKORASI
-Rp192.750
-Kota Jakarta Barat
+RAK KERANJANG DEPAN YAMAHA NOUVO HIGH QUALITY BESI TEBAL
+Rp250.000
+Kab. Klaten
+Informa Rak Penyimpanan Besi Serbaguna Dengan Roda / Rak Ciki / Rak Besi
+Rp249.000
+(1)
+Kab. Bogor
+[ GARANSI 100% ] keranjang pakaian laundry / rak serbaguna portable rovega @ rak gantung serbaguna / rak besi serbaguna / rak buku serbaguna / rak susun serbaguna / rak serbaguna 3 4 susun /rak dapur serbaguna portable sudut plastik
+Rp238.000
+Kota Jakarta Timur
+Rak Keranjang Roda 3 DAN 4 Susun Serbaguna/Rak dorong portable/OLIVE & GINGER
+Rp215.000
+Kota Medan
+Rak Barang Dapur 3 4 5 Tempat Penyimpanan Susun Full Besi Jaring Tingkat Serbaguna Bagus
+Rp209.998
+(6)
+Kab. Sidoarjo
+STANDING RAK BERTINGKAT 3 SUSUN/STANDING POT BUNGA BESI/STANDING RAK POT BESI MURAH
+Rp200.000
+Kab. Bogor
+Informa Rak Penyimpanan Besi Serbaguna 3 Tingkat
+Rp199.900
+(238)
+Kab. Bogor
+Rak troli serbaguna roda Rak susun dapur kamar tidur kamar mandi Keranjang multifunsi Rak buah dan sayur Storage box
+Rp199.000
+Kab. Tangerang
+STANDING RAK BERTINGKAT 3 SUSUN/STANDING POT BUNGA BESI/STANDING RAK POT BESI MURAH
+Rp190.000
+(5)
+Kab. Bogor
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        VALID_DATA_BELOW
-Kaki Sofa Siku Sudut L Crom
-Rp8.500
-Kota Surabaya
-COVER SOFA STREACH ELASTIS 1 2 3 4 SEATER SARUNG SOFA L SAPED SUDUT SIKU SARUNG PELINDUNG SOFA KURSI RUANG TAMU
-Rp100.000
-(58)
-Kota Jakarta Barat
-4Pcs Kaki Sofa Siku 6 cm Untuk Spring Bed Sofa Kursi Meja Furniture
-Rp29.800
-(61)
-Kota Jakarta Barat
-Siku Rak Lipat Per 20 cm, 25 cm, 30 cm & 35 cm / Bracket Siku Rak Lipat / Engsel Ambalan Lipat..Kwalitas Terbaik
-Rp24.010
-(105)
-Kota Jakarta Barat
-[Original] SARUNG SOFA ELASTIS 1 2 3 4 SEATER COVER SOFA L Shaped Siku Sudut Motif Polos - Furniture
-Rp100.000
-(22)
-Kota Jakarta Barat
-Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome 5.5 CM
-Rp5.600
-(3)
-Kab. Cianjur
-8 Pcs TAPAK BAWAH PUTIH KAKI SOFA / ALAS BAWAH KAKI SOFA SIKU
-Rp8.000
-(1)
-Kota Medan
-Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Stainless Chrome
-Rp6.180
-(11)
-Kota Bogor
-Meja Lipat Dinding Rak Ambalan Tempel Dinding Lipat Harga 1 Set Braket Siku Plus Papan Ambalan Kayu
-Rp89.000
-(2)
-Kab. Batang
-KAKI SOFA MEJA 10 CM CHROME SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp48.300
-Kota Jakarta Pusat
-Kaki Siku Sudut Sofa L
-Rp8.000
-Kota Surabaya
-KAKI SOFA MEJA 10 CM BRASS SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp48.300
-Kota Jakarta Pusat
-Kaki Sofa Besi Model T Siku 10 cm Bukan Kaki Sofa Stainless Plastik 90 Derajat
-Rp11.000
-Kota Bogor
-KAKI SOFA MEJA 120 - 11 CM BRONZE SIKU ANTIK MEJA LEMARI KITCHEN NAKAS
-Rp61.950
-Kota Jakarta Pusat
-Corner alas kaki sofa meja kursi 40x40 mm nikel A.303B siku kaki sofa - Omah Engsel
-Rp9.000
-Kota Jakarta Timur
-KAKI SOFA MEJA 120 - 11 CM BRASS SIKU ANTIK MEJA LEMARI KUNINGAN NAKAS
-Rp61.950
-Kota Jakarta Pusat
-PROMO MURAH COD !!! Kaki Sofa Meja 10 cm Brass Siku Antik Meja Lemari Kitchen Nakas Besi - 106-10cm AB TERSEDIA JUGA bedside table /bedside table cheap/small bedside table/argos bedside table/grey bedside table
-Rp64.000
-Kota Tangerang
-KAKI SOFA MEJA 10 CM BRONZE SIKU ANTIK MEJA LEMARI KITCHEN NAKAS BESI
-Rp59.850
-Kota Jakarta Pusat
-KAKI SOFA MEJA 120 - 11 CM CHROME SIKU ANTIK MEJA LEMARI KITCHEN NAKAS
-Rp61.950
-Kota Jakarta Pusat
-Omah Engsel Siku besi ornament kotak mahar 35 mm Siku sofa Dekorativ corner A.08A - Hitam doff
-Rp5.500
-(2)
-Kota Jakarta Timur
-Corner alas kaki sofa meja kursi 40x20 mm nikel A.702 siku kaki sofa - Omah Engsel
-Rp9.000
-Kota Jakarta Timur
-Siku besi ornament kotak mahar 40 mm Siku sofa Dekorativ corner A.08B - Omah Engsel
-Rp6.500
-Kota Jakarta Timur
-Siku besi ornament kotak mahar 35 mm Siku sofa Dekorativ corner A.08A - Omah Engsel
-Rp5.500
-Kota Jakarta Timur
-TUS Tahan lama PU Latihan kebugaran Siku Dalam ruangan Pergelangan tangan Alas bantal sofa Bantalan pelindung Bantalan lutut Alas pelindung
-Rp63.780
-Luar Negeri
-Ukuran Besar/L Kulit PU Kulit Stiker Sablon Stiker Kain Pria Ditempelkan Siku Lengan Lutut Stiker Kulit Sofa Stiker untuk Perbaikan Sweater Jaket
-Rp74.400
-Luar Negeri
-DISKON MURAH || Kaki Sofa Meja Lemari Kitchen Nakas Model SIKU Snless Chrome 5.5 CM
-Rp20.950
-Kota Bekasi
-10pcs Plat Siku L Siku Penyangga Rak Dinding Plat Besi Siku Lubang Stainless Steel Ambalan Penguat Furnitur
-Rp22.000
-(210)
-Kota Tangerang
-Bracket Engsel Siku Stainless Load 65kg Ukuran 10 12 14 Inch 2 PCS / Folding Bracket / Engsel Lipat / Engsel Meja / Bracket Meja Dinding
-Rp28.400
-(62)
-Kota Depok
-Siku Rak Besi L Putih Uk. 3x4 Inch l Shelf Bracket Harga 1 Pcs
-Rp1.621
-(67)
-Kab. Bandung
-EKBY STODIS Braket Siku Dinding Untuk Papan Rak Kayu 800
-Rp3.298
-(584)
-Kota Jakarta Barat
-1 Set (2 Pcs) Siku Rak Besi L Putih Uk. 5x6 Inch l Shelf Bracket l Penyangga Ambalan
-Rp4.950
-(776)
-Kab. Bandung
-1 Set (2 Pcs) Siku Rak Besi L Putih Uk. 6x8 Inch l Shelf Bracket l Penyangga Ambalan
-Rp5.900
-(1028)
-Kab. Bandung
-SIKU POJOK CORNER HARDCASE CF-08
-Rp3.724
-(17)
-Kota Semarang
-Siku Rak Besi L Putih 12x14 PER 1 PCS / Sikurak Penyangga Ambalan 12 x 14 / Shelf Bracket
-Rp5.750
-(45)
-Kab. Bandung Barat
-siku rak ambalan dinding | besi siku plat ambalan | besi penyangga ambalan dinding
-Rp4.839
-(151)
-Kab. Klaten
-1 Set (2 Pcs) Siku Rak Besi L Uk. 3x4 Inch l Shelf Bracket l Penyangga Ambalan
-Rp3.350
-(230)
-Kab. Bandung
-1 Set (2 Pcs) Siku Rak Besi L Putih Uk. 4x5 Inch l Shelf Bracket l Penyangga Ambalan
-Rp4.150
-(3097)
-Kab. Bandung
-Siku Besi Rak papan ambalan Dengan Pengait Harga untuk 1 buah
-Rp15.500
-(9)
-Kab. Bekasi
-Siku Rak Besi L Putih 4x5 / Sikurak Penyangga Ambalan 4 x 5 / Shelf Bracket 4 x 5
-Rp2.250
-(21)
-Kab. Bandung Barat
-siku rak ambalan double atas-bawah (10x20x10) 1 set (2 pcs)
-Rp23.000
-(3)
-Kota Tangerang
-VALID_DATA_ABOVE
-| FAIL |
-Element with locator 'xpath=//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[4]/div/ul/li[9]/button' not found.
-------------------------------------------------------------------------------
-LazadaFurniture :: This test suite to test functionality survey, e... | FAIL |
-2 tests, 1 passed, 1 failed
+LazadaFurniture :: This test suite to test functionality survey, e... | PASS |
+1 test, 1 passed, 0 failed
 ==============================================================================
-Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Furniture\output.xml
-Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Furniture\log.html
-Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Furniture\report.html
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Furniture\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Furniture\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Furniture\report.html

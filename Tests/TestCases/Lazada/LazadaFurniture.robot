@@ -29,16 +29,16 @@ Resource                                  ../../Variables/varMain.robot
 #     Get Product Name with Sort by Lowest Price Page 2 Lazada
 #     Close Browser
 
-# LAZADA Sort by Highest Price
-#     Open Website Lazada
-#     Click Search Box Lazada
-#     Type Item 3 Name Lazada
-#     Hit Submit Button Lazada
-#     Click Sort Option Lazada
-#     Choose Sort by Highest Price Lazada
-#     Get Product Name with Sort by Highest Price Page 1 Lazada
-#     Get Product Name with Sort by Highest Price Page 2 Lazada
-#     Close Browser
+LAZADA Sort by Highest Price
+    Open Website Lazada
+    Click Search Box Lazada
+    Type Item 3 Name Lazada
+    Hit Submit Button Lazada
+    Click Sort Option Lazada
+    Choose Sort by Highest Price Lazada
+    Get Product Name with Sort by Highest Price Page 1 Lazada
+    Get Product Name with Sort by Highest Price Page 2 Lazada
+    Close Browser
 
 # LAZADA Filter by Location
 #     Open Website Lazada
@@ -52,24 +52,24 @@ Resource                                  ../../Variables/varMain.robot
 #     Get Product Name with Filter by Location Page 2 Lazada
 #     Close Browser
 
-LAZADA Filter by Lowest Price
-    Open Website Lazada
-    Click Search Box Lazada
-    Type Item 3 Name Lazada
-    Hit Submit Button Lazada
-    Find and Click Box Minimum Price Filter Lazada
-    Set Minimum Price Lazada
-    Get Product Name with Filter by Minimum Price Page 1 Lazada
-    Get Product Name with Filter by Minimum Price Page 2 Lazada
-    Close Browser
+# LAZADA Filter by Lowest Price
+#     Open Website Lazada
+#     Click Search Box Lazada
+#     Type Item 3 Name Lazada
+#     Hit Submit Button Lazada
+#     Find and Click Box Minimum Price Filter Lazada
+#     Set Minimum Price Lazada
+#     Get Product Name with Filter by Minimum Price Page 1 Lazada
+#     Get Product Name with Filter by Minimum Price Page 2 Lazada
+#     Close Browser
 
-LAZADA Filter by Highest Price
-    Open Website Lazada
-    Click Search Box Lazada
-    Type Item 3 Name Lazada
-    Hit Submit Button Lazada
-    Find and Click Box Maximum Price Filter Lazada
-    Set Maximum Price Lazada
-    Get Product Name with Filter by Maximum Price Page 1 Lazada
-    Get Product Name with Filter by Maximum Price Page 2 Lazada
-    Close Browser
+# LAZADA Filter by Highest Price
+#     Open Website Lazada
+#     Click Search Box Lazada
+#     Type Item 3 Name Lazada
+#     Hit Submit Button Lazada
+#     Find and Click Box Maximum Price Filter Lazada
+#     Set Maximum Price Lazada
+#     Get Product Name with Filter by Maximum Price Page 1 Lazada
+#     Get Product Name with Filter by Maximum Price Page 2 Lazada
+#     Close Browser

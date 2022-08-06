@@ -8,7 +8,7 @@ Resource    varBlibli.robot
 *** Variables ***
 ${ELECTRONIC KEYWORD}                   case redmi 10a
 ${FASHION KEYWORD}                      sweater rajut
-${FURNITURE KEYWORD}                    sofa siku
+${FURNITURE KEYWORD}                    keranjang besi
 ${FIRST LOCATION FILTER}                Jakarta Pusat
 ${SECOND LOCATION FILTER}               Yogyakarta
 ${THIRD LOCATION FILTER}                Surabaya

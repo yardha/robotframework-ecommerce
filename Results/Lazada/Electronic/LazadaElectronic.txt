@@ -1,15 +1,278 @@
 ==============================================================================
 LazadaElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-LAZADA Filter by Lowest Price                                         | FAIL |
-Execution terminated by signal
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+CASE XIAOMI REDMI 10A WOOD TEXTURED AIORIA ORIGINAL - Hitam
+Rp93.500
+Kab. Nganjuk
+XIAOMI REDMI 10A SOFT CASE CANVAS CROSS PATTERN - Hitam
+Rp93.500
+Kab. Nganjuk
+XIAOMI REDMI 10A SOFT CASE VEGAN LEATHER - Hitam
+Rp85.000
+Kab. Nganjuk
+XIAOMI REDMI 10A SOFT CASE HYBRID ARMOR DEFENCE SERIES
+Rp85.000
+Kab. Nganjuk
+Casing Baru untuk Redmi 10A Sampul Ponsel Kulit Pintar Mengkilap Cermin Pintar Casing Lipat Hp untuk Redmi10A Casing Tidur Otomatis
+Rp85.000
+Luar Negeri
+Casing Ponsel Flip Magnetik Logam, Sarung Pelindung Ponsel Flip 360 Sisi Kaca Ganda untuk Xiaomi Redmi 9T 9c 9a 9 Xiaomi Mi 10T Pro Poco X3 Nfc Note9s Note9 Pro Note8 Pro
+Rp83.580
+(19)
+Luar Negeri
+Casing Redmi 10A 10C, Sarung HP Glitter Lembut Transparan Kupu-kupu Bintang Bulan untuk Xiaomi Redmi Mi 10C 10A Penutup Belakang + Rantai Kristal Gratis
+Rp83.000
+Luar Negeri
+Softcase dompet lucu FH62 WM Xiaomi Redmi 4A 6A 8 9/Prime 9A 9C 9T 10 Note 5A/Prime 5 7 8 9 10 Pro Pocophone M3 X3 Pro
+Rp82.765
+Kab. Bekasi
+Casing Pola Bunga Cinta Parfum Berlian, Sarung HP untuk Xiaomi Redmi 9 / Redmi 9A / Redmi 9C / Redmi 9T / Redmi 10 dengan Dekorasi Botol Parfum Berlian
+Rp79.000
+Luar Negeri
+VWTEROKAI Casing Ponsel untuk Xiaomi POCO M3 POCO X3/X3 NFC/X3 Pro Redmi 10 Redmi 9T 9A 9C Note 8 Pro 9 Pro Note 10 Pro Max Note 9S 10S Glitter BUNGA Persegi Mewah casing Ponsel Modis, Pelindung Belakang HP Silikon Lembut Anti Jatuh, Cincin Pemegang Modis
+Rp69.732
+(3)
+Luar Negeri
+Untuk Xiaomi Mi 8 Mi 9 Mi 10 Mi 10 Lite Mi 10T Mi 11 POCO C3 M3 X3 Redmi 9 9A 9C Redmi Note 5 Redmi Note 7 Redmi Note 8 Redmi Note 10 Redmi Note 9 Pro max Casing Ponsel Dompet Kulit Merek Klasik Mewah
+Rp69.000
+Luar Negeri
+Casing Ponsel Kulit, Sarung HP Kulit untuk Xiaomi Redmi 10 9A 9T 9C 9 8A 8 7A K40 Pro K30S K20 dengan Penutup Lipat Slot Kartu Dompet
+Rp68.000
+(7)
+Luar Negeri
+Coin Purses Pop Case For Redmi 9A 9T 9C 9 8 8A 6 6A 7 7A 5Plus K20 K30 K40 Pro Redmi Note 10 10s 9s 9 7 8 Pro Casing Bubble Wallet Cover
+Rp67.000
+(3)
+Luar Negeri
+Casing Ponsel Pola Merek Mewah Modis, Casing Ponsel Pola Logam Mode untuk Xiaomi POCO M3 POCO X3 NFC POCO C3 Redmi 9 9A 9C Note 8 9 9S 9 Pro Max Note 8 Pro 10 4G 10S Pro Max casing Bingkai Ponsel Perempuan, Pelindung Belakang Silikon Tahan Guncangan
+Rp66.926
+(1)
+Luar Negeri
+Casing Toko Online Merah Muda untuk Xiaomi Redmi 9 Redmi 9A Redmi 9C Redmi 9T Redmi 10, Sarung Ponsel Dewi Berlian Botol Parfum Modis Berkilau Cinta Gadis
+Rp65.675
+(13)
+Luar Negeri
+JieFie Sarung Ponsel Lapis Krom Mewah, Sarung Ponsel TPU Kotak Jahitan Mengkilap dengan Dudukan Cincin untuk Xiaomi Redmi 9C / Redmi 9A / Redmi 9 / Redmi 10 / Redmi 10A Matte
+Rp64.255
+Luar Negeri
+Casing untuk Xiaomi Poco X3 NFC F3 M3 Pro, Casing untuk Xiaomi Poco X3 NFC F3 M3 Pro 5G/Mi 10T 11T Pro 11 10T Lite/Redmi 9A 9C 10 Redmi Note 7 8 9 9S 10 Pro Max 10 10S 10 Pro Max K40 Pro Casing Dompet Magnetik, Sarung Pelindung Kulit Lipat
+Rp64.070
+(10)
+Luar Negeri
+JieFie Sarung Ponsel Xiaomi Redmi 9A / Redmi 9C / Redmi 9 / Redmi 10, Pelindung Ponsel Kulit Kotak Lembut Mewah dengan Dudukan Cincin
+Rp63.983
+Luar Negeri
+Casing Ponsel Bunga Camellia, Sarung HP untuk Xiaomi Redmi Note 8 Pro Note 9 Pro Max Redmi 9A/9C Redmi Note 10 4G NOTE 10S Redmi 10 10A Redmi 9T POCO M3/POCO X3 NFC dengan braket Dudukan Cincin Berlian, Penutup Belakang Silikon Lembut Anti Jatuh Mewah
+Rp63.482
+(13)
+Luar Negeri
+Untuk Xiaomi POCO M3 POCO X3 Pro X3 NFC Redmi 9T Redmi 9A Redmi 10 Redmi 9C Note 8 Pro Note 9S Note 10S/Note 10 Pro MAX Fashion Persegi Berkilau 3D Kartun Beruang Keras Telepon casing Penutup Belakang TPU Lembut Tahan Guncangan Dudukan Berlian Mewah
+Rp62.959
+(6)
+Luar Negeri
+Softcase dompet lucu FH60 WM Xiaomi Redmi 4A 6A 8 9/Prime 9A 9C 9T 10 Note 5A/Prime 5 7 8 9 10 Pro 5G Pocophone M3 X3 Pro
+Rp60.875
+Kab. Bekasi
+Casing Redmi 10A 10C, Sarung HP Glitter Lembut Transparan Bintang Penuh Cermin Bulan untuk Xiaomi Redmi Mi 10C 10A
+Rp60.000
+Luar Negeri
+Casing Keras Redmi 10A 10C, Sarung HP Cetakan Bunga dan Daun, dengan Dudukan Berdiri Pasangan untuk Xiaomi Redmi Mi 10C 10A
+Rp60.000
+Luar Negeri
+Nillkin Casing untuk Redmi 10A 10C, Casing Silikon Dudukan Kamera Kartun Lucu Lembut Cermin Rias untuk Xiaomi 10C 10A
+Rp60.000
+Luar Negeri
+Sarung Ponsel untuk Redmi 10A 10C, Casing Pelindung Belakang Lunak Transparan Kartun Universitas Monster Modis untuk Redmi 10A 10C Tahan Guncangan
+Rp60.000
+Luar Negeri
+Eptwoo untuk XIAOMI REDMI NOTE 11 11S 10 9 8 10S 9S 10 PRO REDMI 10C 10A 10 9 9T 9A 9C Casing Ponsel Tahan Guncangan Mewah Lembut Square Plating Magnetic Ring Holder Pola Buaya Penutup Belakang DDEYZH-01
+Rp59.595
+Luar Negeri
+Casing Serat Kulit Asli Mewah untuk Xiaomi Poco M4 Poco X4 Nfc Poco X4pro Poco M4 Pro Redmi Note 11 Redmi 10C Redmi 10A Casing Pelindung Kamera Funda
+Rp59.502
+Luar Negeri
+XIAOMI REDMI 10A PREMIUM GLASS CASE
+Rp59.500
+Kab. Nganjuk
+Casing Ponsel Kulit, untuk Xiaomi Redmi 10C 10A 10 8 / 8A / 9A / 9C / 9 / 9T Timbul Tujuh Kelopak Bunga Penutup Flip Anti Jatuh
+Rp59.000
+(7)
+Luar Negeri
+Casing Xiaomi Redmi 10A 2022, Sarung HP Kartun Tiktok Ins Redmi10a 2022 Anjing Lucu Keluarga Transparan Putih Anti Syok Pasangan Redmi 10A
+Rp58.000
+Luar Negeri
+Casing Xiaomi Redmi 10A 2022, Sarung Hp Redmi 10A Silikon Transparan Anti Syok Modis
+Rp58.000
+Luar Negeri
+??? Xiaomi Redmi 4A 4X 5A 6 6A 7 8 8A 9 9A 9C 9T 10 Soft Case Motif Kulit Sapi Silikon Casing
+Rp56.458
+Kota Madiun
+Casing Ponsel Kanvas Mewah, Casing Ponsel Pemegang Kartu Kulit Kanvas Mewah untuk Xiaomi Redmi 10 / Redmi 9A / Redmi 9T / Redmi 8A / Redmi S2 redmi 9T / Redmi 9 / Redmi 8A / Redmi S2
+Rp56.108
+Luar Negeri
+Casing Redmi 10A 10C, Sarung HP Lembut Gelang Cinta, Stok Tersedia untuk Xiaomi Redmi Mi 10C 10A
+Rp56.000
+(2)
+Kab. Bekasi
+JieFie Casing Ponsel dengan Tali, Casing Bunga Mawar Mewah untuk Xiaomi Redmi 9C / Redmi 9A / Redmi 9 / Redmi 10
+Rp54.678
+Luar Negeri
+Kesing Ponsel Xiaomi Redmi 10A 10C dengan Dudukan Lucu Kartun Doraemon Silikon Soft Casing Xiaomi Redmi 10C 10A Case Terbaru 2022
+Rp54.000
+Luar Negeri
+REDMI 10A / REDMI 10C / REDMI NOTE 11 / NOTE 11 PRO 4G 5G SOFT CASE ARMOR DEFENCE SLIDE CAMERA
+Rp50.000
+Kota Jakarta Utara
+TUTUP BELAKANG BACKDOOR BACKCOVER BACK CASING XIAOMI REDMI 10A
+Rp49.000
+Kota Jakarta Barat
+Casing Ponsel Infinix Smart 6 HD, Sarung Hp Cerdas 6 HD Smart6 X657B/X6511B/X6511/Xiaomi Redmi 10A/Vivo T1X (2022)redmi10a Casing Ponsel Silikon Cair, Sarung Pelindung Kamera Penutup Penuh Sisi Persegi Kartun
+Rp48.000
+Luar Negeri
+BACKDOOR BACK CASING HOUSING TUTUP BELAKANG BATERAI XIAOMI REDMI 10A
+Rp47.475
+Kota Jakarta Barat
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+Casing Ponsel Kreatif, untuk Xiaomi Redmi 9 / Redmi 9A / Redmi 9C / Redmi 10 / Redmi 10C Pola Grafiti Hati Abstrak Cerah Warna-warni Berlian Bertatahkan Mewah Cermin Berkilau Cinta Dudukan Hati
+Rp79.281
+(1)
+Luar Negeri
+Casing Kulit Bertekstur, untuk Xiaomi Redmi 10c, Casing Kulit Bertekstur dengan Penutup Stabilitas Besi Magnetik untuk Redmy Redmi 10c 10A 10X 10 Prime 2022 Redmi9 9C NFC 9T 9A Tahan Guncangan Anti-tabrakan Lembut Tpu Angle Fundas
+Rp53.721
+Luar Negeri
+BACKDOOR BACK CASING HOUSING TUTUP BELAKANG BATERAI XIAOMI REDMI 10A
+Rp47.450
+Kota Jakarta Barat
+Xiaomi Redmi Note 10s 10 9 Pro 8 7 5 4 4X Pro Redmi 9 9A 8 8A Pro CLEAR VIEW FLIP COVER CASE MIRROR
+Rp47.400
+Kab. Bogor
+Sarung Ponsel Silikon Lunak, Penutup Telepon Genggam Lapis Magnetik untuk Xiaomi Redmi 10A REDMI 10a
+Rp47.000
+Luar Negeri
+Boss Gadget CINNAMON case Xiaomi Redmi 9 - Redmi 9A - Redmi 9C - Redmi 9T - Redmi 10 softcase casing hp cover silikon case kartun free mirror tali lanyard
+Rp46.750
+Kota Jakarta Barat
+FLIP COVER MIRROR XIAOMI/ REDMI 4A/ 6A/ 7/ 9A/ 9C/ 9/ 9 PRIME/ NOTE 8/ NOTE 8 PRO/ 9T/ 8/ 8A/ NOTE 9/ NOTE 9 PRO/ NOTE 10/ NOTE 10 PRO/ POCO M3/ 8A PRO/ 7A/ STANDING CASE SMART LOCK/ FLIPCASE MIRROR CLEAR VIEW AUTO LOCK STAND/FLIPMIRROR STANDING READY
+Rp46.500
+Kab. Bogor
+VWTEROKAI Sarung Pelindung Persegi Berlian, Sarung Pelindung Belakang Ponsel Silikon Lunak Cantik untuk Redmi Note 9 Note 10 5G 9T 9C 10 10A Redmi 9A Note 9 Pro Note 10S Note 8 Pro kesing HP Xiomi Redmi Note 9
+Rp46.488
+(56)
+Luar Negeri
+Hardcase dompet FH61 FC Xiaomi Redmi 2S 3S 4A 4X 5A 5 5+ 6 6A 7 7A 8 8A 9/Prime 9A 9C 9T 10 Note 2 3 4/4X 5A/Prime 5 7 8 9 10 11 Pro 10/s 10 5G S2 8 lite A1/5X Pocophone F3 X3 Pro M3 GT
+Rp45.954
+Kab. Bekasi
+Sarung Ponsel Kulit Akrilik untuk Xiaomi Redmi 10A 10C, Pelindung Belakang Kulit Akrilik Redmi10C Redme Redmy 10A 10 C C10 6.71 "Bingkai Silikon Tahan Guncangan
+Rp45.136
+Luar Negeri
+TOOSCI untuk Xiaomi Redmi Note 9 Max/Redmi Note 8 Pro/Redmi Note 7 Pro/Redmi Note 10S/Redmi Note 10 Pro Max/Redmi 10A/Redmi 9/9T/9C/9A/Redmi 8/8A Lembut Halus Case Mewah Dilapisi Gelang Lanyard Penyangga Braket Penutup Belakang
+Rp45.104
+(141)
+Luar Negeri
+Untuk Xiaomi Redmi 10 10X 9 Perdana 9A 9C 9T, 360 Perlindungan Penuh Kasus 2 In1 Jelas Ponsel Casing TPU Silikon Bumper + Plastik Keras Tahan Guncangan Tahan Jatuh Cakupan Penuh Pelindung Kembali
+Rp45.005
+Luar Negeri
+CASE XIAOMI REDMI 10A 9C MEWAH PREMIIUM ROBOT RING STAND STANDING COVER SILIKON SARUNG CASING HANDPHONE SOFT CASE
+Rp45.000
+(20)
+Kota Jakarta Barat
+Jingsanc Casing Ponsel Kulit Polos, Casing Penutup Belakang Silikon Tahan Guncangan Matte Kulit Polos untuk Xiaomi Redmi 10C/Redmi 10/10 2022/10A
+Rp45.000
+(1)
+Luar Negeri
+Phone Case untuk Vivo T1X(2022) Redmi 10A Infinix Smart 6 X657B/Smart 6 HD X6511B/X6511 (dengan Gelang) Fashion Hitam Merek Persegi Tepi Silikon Casing Cover Kamera Shockproof Perlindungan Kasus
+Rp44.000
+Kab. Bekasi
+Casing hp Xiaomi Redmi 10A 10C Mode Baru Warna Permen Silikon Lembut Kesing Redmi 10C 10A Case
+Rp44.000
+Luar Negeri
+Pelindung Case Pengaman Layar Xiaomi Redmi 10A Soft Case Macaron Camera Protection
+Rp43.000
+Kota Jakarta Pusat
+Casing Ponsel Lunak Baru Xiaomi Redmi 10A 2022 Modis Tahan Benturan Silikon Transparan Hp Redmi 10A
+Rp43.000
+Luar Negeri
+Skinlee Casing Pelindung Ponsel, Pelindung Kamera Tahan Guncangan Armor Ponsel Redmi 10C 10A Penutup Cincin Penyangga Navigasi Magnetik Mobil untuk Redmi 10C 10A
+Rp42.456
+(1)
+Luar Negeri
+Casing Ponsel Redmi 10A 10C, Pelindung Telepon Genggam Cincin Armor Bening Magnetik Lunak Tahan Guncangan untuk Xiaomi Redmi Mi 10C 10A Penutup Belakang
+Rp42.050
+(3)
+Luar Negeri
+Casing Ponsel untuk Samsung Galaxy, Casing Ponsel untuk Samsung Galaxy M23 5G/ M33 5G/ M53 5G/ Xiaomi Redmi 10A (Cincin Jari + Tali) casing Penutup Pelindung Ponsel TPU Karet Silikon Lembut Tahan Guncangan Susu SAPI Susu Sapi Perah Abstrak Kartun Lucu
+Rp40.323
+Luar Negeri
+Casing Silikon Lunak Mewah, Casing Mewah untuk Redmi 10A 10C Penutup TPU Lembut Pembuangan Panas Semua Termasuk Ultra-tipis Casing Lembut untuk Redmi 10C 10A Penutup Belakang Anti-keringat
+Rp40.252
+Luar Negeri
+Casing Ponsel Redmi 10A 10C, Pelindung Telepon Genggam Mobil Dudukan Magnetik, Casing Cincin Jari Braket untuk Xiaomi Redmi Mi 10C 10A, Cangkang Rumah Penutup Belakang
+Rp40.100
+Luar Negeri
+CASE REDMI 10A 9C MEWAH PREMIUM LIQUID DOFF TALI SARUNG SILIKON CASING COVER KESING HP SOFT CASE
+Rp40.000
+(50)
+Kota Jakarta Barat
+Case XIAOMI REDMI 10A 9C 9A NOTE 9 NOTE 9 PRO TERBARU 2021 Clear View Miror Flip Case Cover Casing Handphone
+Rp40.000
+(12)
+Kota Jakarta Barat
+Soft Case Xiaomi Redmi 10A Redmi 9C Slim Matte Silicon Sandstone
+Rp39.999
+Kota Surabaya
+Lenuo Casing Ponsel Serat Karbon, Casing Penutup Belakang Ponsel Matte Tahan Guncangan Bahan Serat Karbon TPU untuk Ponsel Xiaomi Redmi 10A
+Rp40.000
+Luar Negeri
+UCUC Casing Silikon Proteksi Kamera, Sarung HP Cair Tepi Persegi Silikon Halus K-POP Korea Selatan Populer untuk Xiaomi Redmi 10 2022 Redmi 10C Redmi 10a Redmi10 Redmi 8 Redmi10c
+Rp40.000
+Luar Negeri
+Selubung UCUC Casing Xiaomi Redmi 10A Vivo T1X (2022) Redmi10a VivoT1x Selubung Kartun Lucu Happy Crayon Sha-chan Desain Casing Telepon Pola Tepi Persegi Casing Silikon Cair Cover Penuh Casing Pelindung Kamera
+Rp40.000
+Luar Negeri
+Casing UCUC, Sarung HP Xiaomi Redmi 10A Vivo T1X (2022) Redmi10a VivoT1x (dengan Gelang) Tepi Persegi Silikon Cair, Pelindung Kamera Penutup Penuh Tahan Guncangan
+Rp40.000
+Luar Negeri
+SOFTCASE CASING GL015 XIAOMI REDMI 6A 8 8A 9 9A 9C 9T 10A HC1121
+Rp39.990
+Kab. Bogor
+Case Xiaomi REDMI 10A Glass Case HARD Tempered Backdoor Casing
+Rp39.900
+Kota Jakarta Barat
+casing Redmi 10C 10A Redmi10 2022 Doraemon Pola kartun lucu Cute Kasus telepon keras Redmi 10 2022 10A 10C casing ponsel Siap dikirimkan
+Rp39.890
+Luar Negeri
+Hontinga Casing Ponsel Xiaomi Redmi 10 2022 10A Redmi10 9A 9C 9T 8, Casing Persegi Silikon Lembut Lucu Kartun Anak Laki-laki, Pelindung Kamera Penutup Penuh Tahan Guncangan Karet Tutup Belakang
+Rp39.700
+Luar Negeri
+Hontinga Casing Ponsel Xiaomi Redmi 10A, Casing Karet Penutup Penuh TPU Lunak Lapis Krom Mewah Senyum untuk Xiaomi Redmi 10A (dengan Gelang)
+Rp39.700
+(1)
+Luar Negeri
+Hontinga Casing Ponsel Xiaomi Redmi 10A, Casing Kotak Desain Astronot Bulan, Casing Karet Penutup Penuh Pola Tepi Silikon Lembut, Casing Lunak untuk Anak Laki-laki
+Rp39.700
+Luar Negeri
+Hontinga Casing Xiaomi Redmi 10A, Sarung HP Tepi Silikon Lunak, Pelindung Kamera Tutup Penuh, Wadah Lembut Gunung Sederhana untuk Xiaomi Redmi 10A
+Rp39.700
+(1)
+Luar Negeri
+Hontinga Casing Ponsel Xiaomi Redmi 10A, Case Telepon Persegi TPU Lembut Berlapis Krom Mewah, Case Anime Minnie Mouse, Proteksi Kamera Penutup Penuh, Anti Gores, Karet untuk Anak Perempuan
+Rp39.700
+Luar Negeri
+Hontinga Casing Ponsel Xiaomi Redmi 10A, Case Telepon Persegi TPU Lembut Berlapis Krom Mewah Daun Maple Proteksi Kamera Penutup Penuh Anti Gores untuk Anak Perempuan
+Rp39.700
+(3)
+Luar Negeri
+Hontinga Sarung Ponsel Xiaomi Redmi 10A, Sarung HP Transparan Kartun Mouse Tahan Guncangan dengan Gelang, Pelindung Lensa Penuh Tepi Lunak, Penutup Belakang Pelindung Kamera untuk Wanita
+Rp39.700
+Luar Negeri
+VALID_DATA_ABOVE
+| PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        | FAIL |
-Test execution stopped due to a fatal error.
-------------------------------------------------------------------------------
-LazadaElectronic :: This test suite to test functionality survey, ... | FAIL |
-2 tests, 0 passed, 2 failed
+LazadaElectronic :: This test suite to test functionality survey, ... | PASS |
+1 test, 1 passed, 0 failed
 ==============================================================================
-Output:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Electronic\output.xml
-Log:     C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Electronic\log.html
-Report:  C:\Users\yardhad\Github\robotframework-ecommerce\Results\Lazada\Electronic\report.html
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Electronic\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Electronic\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Lazada\Electronic\report.html
