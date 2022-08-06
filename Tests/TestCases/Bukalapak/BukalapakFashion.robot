@@ -13,7 +13,6 @@ Resource                                  ../../Variables/varMain.robot
 #     Click Search Box Bukalapak
 #     Type Item 2 Name Bukalapak
 #     Hit Submit Button Bukalapak
-#     Sort by Relevance Tag Electronic Bukalapak
 #     Get Product Name with Sort by Relevance Page 1 Bukalapak
 #     Get Product Name with Sort by Relevance Page 2 Bukalapak
 #     Close Browser
@@ -39,18 +38,6 @@ BUKALAPAK Sort by Highest Price
     Get Product Name with Sort by Highest Price Page 1 Bukalapak
     Get Product Name with Sort by Highest Price Page 2 Bukalapak
     Close Browser
-
-# BUKALAPAK Filter by Location
-#     Open Website Bukalapak
-#     Click Search Box Bukalapak
-#     Type Item 2 Name Bukalapak
-#     Hit Submit Button Bukalapak
-#     Click Option For Choosing First Location Bukalapak
-#     Click Option For Choosing Second Location Bukalapak
-#     Click Option For Choosing Third Location Bukalapak
-#     Get Product Name with Filter by Location Page 1 Bukalapak
-#     Get Product Name with Filter by Location Page 2 Bukalapak
-#     Close Browser
 
 BUKALAPAK Filter by Lowest Price
     Open Website Bukalapak

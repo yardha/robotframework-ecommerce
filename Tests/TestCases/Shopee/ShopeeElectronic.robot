@@ -8,56 +8,39 @@ Resource                                  ../../Variables/varMain.robot
 
 
 *** Test Cases ***
-SHOPEE Sort by Relevance
-    Open Website Shopee
-    Click Search Box Shopee
-    Type Item 1 Name Shopee
-    Hit Submit Button Shopee
-    Sort by Relevance Tag Electronic Shopee
-    Get Product Name with Sort by Relevance Page 1 Shopee
-    Get Product Name with Sort by Relevance Page 2 Shopee
-    Close Browser
-
-SHOPEE Sort by Lowest Price
-    Open Website Shopee
-    Close Pop Up Shopee
-    Click Search Box Shopee
-    Type Item 1 Name Shopee
-    Hit Submit Button Shopee
-    Click Sort Option Shopee
-    Choose Sort by Lowest Price Shopee
-    Get Product Name with Sort by Lowest Price Page 1 Shopee
-    Get Product Name with Sort by Lowest Price Page 2 Shopee
-    Close Browser
-
-SHOPEE Sort by Highest Price
-    Open Website Shopee
-    Close Pop Up Shopee
-    Click Search Box Shopee
-    Type Item 1 Name Shopee
-    Hit Submit Button Shopee
-    Click Sort Option Shopee
-    Choose Sort by Highest Price Shopee
-    Get Product Name with Sort by Highest Price Page 1 Shopee
-    Get Product Name with Sort by Highest Price Page 2 Shopee
-    Close Browser
-
-# SHOPEE Filter by Location
+# SHOPEE Sort by Relevance
 #     Open Website Shopee
-#     Close Pop Up Shopee
 #     Click Search Box Shopee
 #     Type Item 1 Name Shopee
 #     Hit Submit Button Shopee
-#     Click Option For Choosing First Location Shopee
-#     Click Option For Choosing Second Location Shopee
-#     Click Option For Choosing Third Location Shopee
-#     Get Product Name with Filter by Location Page 1 Shopee
-#     Get Product Name with Filter by Location Page 2 Shopee
+#     Get Product Name with Sort by Relevance Page 1 Shopee
+#     Get Product Name with Sort by Relevance Page 2 Shopee
+#     Close Browser
+
+# SHOPEE Sort by Lowest Price
+#     Open Website Shopee
+#     Click Search Box Shopee
+#     Type Item 1 Name Shopee
+#     Hit Submit Button Shopee
+#     Click Sort Option Shopee
+#     Choose Sort by Lowest Price Shopee
+#     Get Product Name with Sort by Lowest Price Page 1 Shopee
+#     Get Product Name with Sort by Lowest Price Page 2 Shopee
+#     Close Browser
+
+# SHOPEE Sort by Highest Price
+#     Open Website Shopee
+#     Click Search Box Shopee
+#     Type Item 1 Name Shopee
+#     Hit Submit Button Shopee
+#     Click Sort Option Shopee
+#     Choose Sort by Highest Price Shopee
+#     Get Product Name with Sort by Highest Price Page 1 Shopee
+#     Get Product Name with Sort by Highest Price Page 2 Shopee
 #     Close Browser
 
 SHOPEE Filter by Lowest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 1 Name Shopee
     Hit Submit Button Shopee
@@ -71,7 +54,6 @@ SHOPEE Filter by Lowest Price
 
 SHOPEE Filter by Highest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 1 Name Shopee
     Hit Submit Button Shopee

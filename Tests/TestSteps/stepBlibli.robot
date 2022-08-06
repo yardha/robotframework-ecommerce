@@ -38,41 +38,13 @@ Hit Submit Button Blibli
     Click Element                            ${SEARCH BUTTON BLIBLI}
     Sleep                                    3
 
-Click Option For Choosing First Location Blibli
-    Click Element                            ${VIEW MORE LOCATION BLIBLI}
-    Sleep                                    1
-    Find and Click Box Blibli                ${VIEW DETAIL LOCATION BLIBLI}
-    Input Text                               @{INPUT LOCATION JAKPUS BLIBLI}
-    Sleep                                    1
-    Click Element                            ${LOCATION JAKPUS BLIBLI}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BLIBLI}
-    Sleep                                    1
-
-Click Option For Choosing Second Location Blibli
-    Click Element                            ${VIEW MORE LOCATION BLIBLI}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION YOGYA BLIBLI}
-    Sleep                                    1
-    Click Element                            ${LOCATION YOGYA BLIBLI}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BLIBLI}
-    Sleep                                    1
-
-Click Option For Choosing Third Location Blibli
-    Click Element                            ${VIEW MORE LOCATION BLIBLI}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION SBY BLIBLI}
-    Sleep                                    1
-    Click Element                            ${LOCATION SBY BLIBLI}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BLIBLI}
-
 Click Sort Option Blibli
+    Sleep                                    1
     Click Element                            ${SORT OPTIONS BLIBLI}
     Sleep                                    1
 
 Choose Sort by Lowest Price Blibli
+    Sleep                                    1
     Click Element                            ${SORT OPTIONS LOWEST PRICE BLIBLI}
     Sleep                                    1
     Click Element                            ${VIEW ALL PRODUCTS BLIBLI}
@@ -92,44 +64,41 @@ Set Maximum Price Blibli
     Input Text                               @{FILTER MAXIMUM PRICE BLIBLI}
     Press Keys                               @{SUBMIT MAXIMUM PRICE BLIBLI}
 
-Sort by Relevance Tag Electronic Blibli
-    Log to Console                           Sort by Relevance Tag Electronic Blibli
-
 Get Product Name with Sort by Relevance Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON SORT REL 1 BLIBLI}    ${SORT RELEVANCE PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Relevance Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON SORT REL 2 BLIBLI}    ${SORT RELEVANCE PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Lowest Price Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 1 SORT LOW BLIBLI}    ${SORT LOWEST PRICE PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Lowest Price Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 2 SORT LOW BLIBLI}    ${SORT LOWEST PRICE PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Highest Price Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 1 SORT HIG BLIBLI}    ${SORT HIGHEST PRICE PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Highest Price Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 2 SORT HIG BLIBLI}    ${SORT HIGHEST PRICE PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Location Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 1 FILTER LOC BLIBLI}  ${FILTER LOCATION PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Location Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 2 FILTER LOC BLIBLI}  ${FILTER LOCATION PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Minimum Price Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 1 FILTER MIN BLIBLI}  ${FILTER MIN PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Minimum Price Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 2 FILTER MIN BLIBLI}  ${FILTER MIN PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Maximum Price Page 1 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 1 FILTER MAX BLIBLI}  ${FILTER MAX PRODUCT 1 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Maximum Price Page 2 Blibli
-    Get All Product Name Blibli          ${NEXT PAGE BUTTON 2 FILTER MAX BLIBLI}  ${FILTER MAX PRODUCT 2 BLIBLI}
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
     
 Find and Click Box Minimum Price Filter Blibli
     Find and Click Box Blibli            ${INPUT BOX MINIMUM PRICE BLIBLI}

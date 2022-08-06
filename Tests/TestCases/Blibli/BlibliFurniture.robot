@@ -43,19 +43,6 @@ BLIBLI Sort by Highest Price
     Get Product Name with Sort by Highest Price Page 2 Blibli
     Close Browser
 
-# BLIBLI Filter by Location
-#     Open Website Blibli
-#     Close Pop Up Blibli
-#     Click Search Box Blibli
-#     Type Item 3 Name Blibli
-#     Hit Submit Button Blibli
-#     Click Option For Choosing First Location Blibli
-#     Click Option For Choosing Second Location Blibli
-#     Click Option For Choosing Third Location Blibli
-#     Get Product Name with Filter by Location Page 1 Blibli
-#     Get Product Name with Filter by Location Page 2 Blibli
-#     Close Browser
-
 BLIBLI Filter by Lowest Price
     Open Website Blibli
     Close Pop Up Blibli

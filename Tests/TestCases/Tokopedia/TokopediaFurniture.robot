@@ -13,7 +13,6 @@ TOKOPEDIA Sort by Relevance
     Click Search Box Tokopedia
     Type Item 3 Name Tokopedia
     Hit Submit Button Tokopedia
-    Sort by Relevance Tag Electronic Tokopedia
     Get Product Name with Sort by Relevance Page 1 Tokopedia
     Get Product Name with Sort by Relevance Page 2 Tokopedia
     Close Browser

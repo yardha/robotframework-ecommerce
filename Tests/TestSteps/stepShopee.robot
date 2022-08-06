@@ -35,41 +35,15 @@ Hit Submit Button Shopee
     Click Element                            ${SEARCH BUTTON SHOPEE}
     Sleep                                    3
 
-Click Option For Choosing First Location Shopee
-    Click Element                            ${VIEW MORE LOCATION SHOPEE}
-    Sleep                                    1
-    Find and Click Box Shopee                ${VIEW DETAIL LOCATION SHOPEE}
-    Input Text                               @{INPUT LOCATION JAKPUS SHOPEE}
-    Sleep                                    1
-    Click Element                            ${LOCATION JAKPUS SHOPEE}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION SHOPEE}
-    Sleep                                    1
-
-Click Option For Choosing Second Location Shopee
-    Click Element                            ${VIEW MORE LOCATION SHOPEE}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION YOGYA SHOPEE}
-    Sleep                                    1
-    Click Element                            ${LOCATION YOGYA SHOPEE}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION SHOPEE}
-    Sleep                                    1
-
-Click Option For Choosing Third Location Shopee
-    Click Element                            ${VIEW MORE LOCATION SHOPEE}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION SBY SHOPEE}
-    Sleep                                    1
-    Click Element                            ${LOCATION SBY SHOPEE}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION SHOPEE}
-
 Click Sort Option Shopee
+    Sleep                                    1
     Mouse Over                               ${SORT OPTIONS SHOPEE}
+    # Sleep                                    1
+    # Click Element                            ${SORT OPTIONS SHOPEE}
     Sleep                                    1
 
 Choose Sort by Lowest Price Shopee
+    Sleep                                    1
     Click Element                            ${SORT OPTIONS LOWEST PRICE SHOPEE}
     Sleep                                    1
 
@@ -89,44 +63,41 @@ Set Maximum Price Shopee
     Execute Javascript                       window.scrollTo(0,150)
     Click Element                            ${SUBMIT KEYS PRICE SHOPEE}
 
-Sort by Relevance Tag Electronic Shopee
-    Log to Console                           Sort by Relevance Tag Electronic Shopee
-
 Get Product Name with Sort by Relevance Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON SORT REL 1 SHOPEE}    ${SORT RELEVANCE PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Sort by Relevance Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON SORT REL 2 SHOPEE}    ${SORT RELEVANCE PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Sort by Lowest Price Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 1 SORT LOW SHOPEE}    ${SORT LOWEST PRICE PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Sort by Lowest Price Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 2 SORT LOW SHOPEE}    ${SORT LOWEST PRICE PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Sort by Highest Price Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 1 SORT HIG SHOPEE}    ${SORT HIGHEST PRICE PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Sort by Highest Price Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 2 SORT HIG SHOPEE}    ${SORT HIGHEST PRICE PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Location Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 1 FILTER LOC SHOPEE}  ${FILTER LOCATION PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Location Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 2 FILTER LOC SHOPEE}  ${FILTER LOCATION PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Minimum Price Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 1 FILTER MIN SHOPEE}  ${FILTER MIN PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Minimum Price Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 2 FILTER MIN SHOPEE}  ${FILTER MIN PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Maximum Price Page 1 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 1 FILTER MAX SHOPEE}  ${FILTER MAX PRODUCT 1 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
 
 Get Product Name with Filter by Maximum Price Page 2 Shopee
-    Get All Product Name Shopee          ${NEXT PAGE BUTTON 2 FILTER MAX SHOPEE}  ${FILTER MAX PRODUCT 2 SHOPEE}
+    Get All Product Name Shopee          ${NEXT PAGE BUTTON SHOPEE}         ${DISPLAYED PRODUCTS SHOPEE}
     
 Find and Click Box Minimum Price Filter Shopee
     Find and Click Box Shopee            ${INPUT BOX MINIMUM PRICE SHOPEE}
@@ -152,11 +123,11 @@ Find and Click Box Shopee
 Get All Product Name Shopee
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  15
+    FOR                                      ${counter}                                     IN RANGE                         0                  10
         Sleep                                    1
         Execute Javascript                       window.scroll(0,${counter}*600)
         Sleep                                    1
-        ${status}                                Run Keyword And Return Status                Page Should Not Contain Button       ${next button locator}          loglevel=NONE
+        ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
         # Log to Console                           ${status}
         Sleep                                    1
         Run Keyword If                           ${status}                                    Exit For Loop

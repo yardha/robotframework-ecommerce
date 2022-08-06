@@ -28,36 +28,8 @@ Hit Submit Button Tokopedia
     Click Element                            ${SEARCH BUTTON TOKOPEDIA}
     Sleep                                    3
 
-Click Option For Choosing First Location Tokopedia
-    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION JAKPUS TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${LOCATION JAKPUS TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION TOKOPEDIA}
-    Sleep                                    1
-
-Click Option For Choosing Second Location Tokopedia
-    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION YOGYA TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${LOCATION YOGYA TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION TOKOPEDIA}
-    Sleep                                    1
-
-Click Option For Choosing Third Location Tokopedia
-    Click Element                            ${VIEW MORE LOCATION TOKOPEDIA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION SBY TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${LOCATION SBY TOKOPEDIA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION TOKOPEDIA}
-
 Click Sort Option Tokopedia
+    Sleep                                    2
     Click Element                            ${SORT OPTIONS TOKOPEDIA}
     Sleep                                    1
 
@@ -70,53 +42,53 @@ Choose Sort by Highest Price Tokopedia
     Sleep                                    1
 
 Set Minimum Price Tokopedia
+    Execute Javascript                       window.scrollTo(0,150)
+    Sleep                                    1
     Click Element                            ${INPUT BOX MINIMUM PRICE TOKOPEDIA} 
     Input Text                               @{FILTER MINIMUM PRICE TOKOPEDIA}
     Press Keys                               @{SUBMIT MINIMUM PRICE TOKOPEDIA}
 
 Set Maximum Price Tokopedia
-    Click Element                            ${INPUT BOX MAXIMUM PRICE TOKOPEDIA} 
+    Execute Javascript                       window.scrollTo(0,150)
+    Sleep                                    1
     Input Text                               @{FILTER MAXIMUM PRICE TOKOPEDIA}
     Press Keys                               @{SUBMIT MAXIMUM PRICE TOKOPEDIA}
 
-Sort by Relevance Tag Electronic Tokopedia
-    Log to Console                           Sort by Relevance Tag Electronic Tokopedia
-
 Get Product Name with Sort by Relevance Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON SORT REL 1 TOKOPEDIA}    ${SORT RELEVANCE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Sort by Relevance Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON SORT REL 2 TOKOPEDIA}    ${SORT RELEVANCE PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Sort by Lowest Price Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 SORT LOW TOKOPEDIA}    ${SORT LOWEST PRICE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Sort by Lowest Price Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 SORT LOW TOKOPEDIA}    ${SORT LOWEST PRICE PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Sort by Highest Price Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 SORT HIG TOKOPEDIA}    ${SORT HIGHEST PRICE PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Sort by Highest Price Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 SORT HIG TOKOPEDIA}    ${SORT HIGHEST PRICE PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Location Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER LOC TOKOPEDIA}  ${FILTER LOCATION PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Location Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER LOC TOKOPEDIA}  ${FILTER LOCATION PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Minimum Price Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER MIN TOKOPEDIA}  ${FILTER MIN PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Minimum Price Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER MIN TOKOPEDIA}  ${FILTER MIN PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Maximum Price Page 1 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 1 FILTER MAX TOKOPEDIA}  ${FILTER MAX PRODUCT 1 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 
 Get Product Name with Filter by Maximum Price Page 2 Tokopedia
-    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON 2 FILTER MAX TOKOPEDIA}  ${FILTER MAX PRODUCT 2 TOKOPEDIA}
+    Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
     
 Find and Click Box Minimum Price Filter Tokopedia
     Find and Click Box Tokopedia            ${INPUT BOX MINIMUM PRICE TOKOPEDIA}
@@ -142,7 +114,7 @@ Find and Click Box Tokopedia
 Get All Product Name Tokopedia
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  20
+    FOR                                      ${counter}                                     IN RANGE                         0                  10
         Sleep                                    1
         Execute Javascript                       window.scrollTo(0,${counter}*600)
         Sleep                                    1

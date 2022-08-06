@@ -10,18 +10,15 @@ Resource                                  ../../Variables/varMain.robot
 *** Test Cases ***
 # SHOPEE Sort by Relevance
 #     Open Website Shopee
-#     Close Pop Up Shopee
 #     Click Search Box Shopee
 #     Type Item 2 Name Shopee
 #     Hit Submit Button Shopee
-#     Sort by Relevance Tag Electronic Shopee
 #     Get Product Name with Sort by Relevance Page 1 Shopee
 #     Get Product Name with Sort by Relevance Page 2 Shopee
 #     Close Browser
 
 SHOPEE Sort by Lowest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 2 Name Shopee
     Hit Submit Button Shopee
@@ -33,7 +30,6 @@ SHOPEE Sort by Lowest Price
 
 SHOPEE Sort by Highest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 2 Name Shopee
     Hit Submit Button Shopee
@@ -45,7 +41,6 @@ SHOPEE Sort by Highest Price
 
 # SHOPEE Filter by Location
 #     Open Website Shopee
-#     Close Pop Up Shopee
 #     Click Search Box Shopee
 #     Type Item 2 Name Shopee
 #     Hit Submit Button Shopee
@@ -58,7 +53,6 @@ SHOPEE Sort by Highest Price
 
 SHOPEE Filter by Lowest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 2 Name Shopee
     Hit Submit Button Shopee
@@ -72,7 +66,6 @@ SHOPEE Filter by Lowest Price
 
 SHOPEE Filter by Highest Price
     Open Website Shopee
-    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 2 Name Shopee
     Hit Submit Button Shopee

@@ -28,35 +28,6 @@ Hit Submit Button Bukalapak
     Click Element                            ${SEARCH BUTTON BUKALAPAK}
     Sleep                                    3
 
-Click Option For Choosing First Location Bukalapak
-    Click Element                            ${VIEW MORE LOCATION BUKALAPAK}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION JAKPUS BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${LOCATION JAKPUS BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BUKALAPAK}
-    Sleep                                    1
-
-Click Option For Choosing Second Location Bukalapak
-    Click Element                            ${VIEW MORE LOCATION BUKALAPAK}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION YOGYA BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${LOCATION YOGYA BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BUKALAPAK}
-    Sleep                                    1
-
-Click Option For Choosing Third Location Bukalapak
-    Click Element                            ${VIEW MORE LOCATION BUKALAPAK}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION SBY BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${LOCATION SBY BUKALAPAK}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION BUKALAPAK}
-
 Click Sort Option Bukalapak
     Click Element                            ${SORT OPTIONS BUKALAPAK}
     Sleep                                    1
@@ -79,44 +50,41 @@ Set Maximum Price Bukalapak
     Input Text                               @{FILTER MAXIMUM PRICE BUKALAPAK}
     Press Keys                               @{SUBMIT MAXIMUM PRICE BUKALAPAK}
 
-Sort by Relevance Tag Electronic Bukalapak
-    Log to Console                           Sort by Relevance Tag Electronic Bukalapak
-
 Get Product Name with Sort by Relevance Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON SORT REL 1 BUKALAPAK}    ${SORT RELEVANCE PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Relevance Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON SORT REL 2 BUKALAPAK}    ${SORT RELEVANCE PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Lowest Price Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 1 SORT LOW BUKALAPAK}    ${SORT LOWEST PRICE PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Lowest Price Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 2 SORT LOW BUKALAPAK}    ${SORT LOWEST PRICE PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Highest Price Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 1 SORT HIG BUKALAPAK}    ${SORT HIGHEST PRICE PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Highest Price Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 2 SORT HIG BUKALAPAK}    ${SORT HIGHEST PRICE PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Location Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 1 FILTER LOC BUKALAPAK}  ${FILTER LOCATION PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Location Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 2 FILTER LOC BUKALAPAK}  ${FILTER LOCATION PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Minimum Price Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 1 FILTER MIN BUKALAPAK}  ${FILTER MIN PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Minimum Price Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 2 FILTER MIN BUKALAPAK}  ${FILTER MIN PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Maximum Price Page 1 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 1 FILTER MAX BUKALAPAK}  ${FILTER MAX PRODUCT 1 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Maximum Price Page 2 Bukalapak
-    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON 2 FILTER MAX BUKALAPAK}  ${FILTER MAX PRODUCT 2 BUKALAPAK}
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
     
 Find and Click Box Minimum Price Filter Bukalapak
     Click Element                           ${WRAP CATEGORY FILTER BUKALAPAK}

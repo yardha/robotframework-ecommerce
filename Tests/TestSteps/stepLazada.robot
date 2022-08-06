@@ -28,35 +28,6 @@ Hit Submit Button Lazada
     Click Element                            ${SEARCH BUTTON LAZADA}
     Sleep                                    3
 
-Click Option For Choosing First Location Lazada
-    Click Element                            ${VIEW MORE LOCATION LAZADA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION JAKPUS LAZADA}
-    Sleep                                    1
-    Click Element                            ${LOCATION JAKPUS LAZADA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION LAZADA}
-    Sleep                                    1
-
-Click Option For Choosing Second Location Lazada
-    Click Element                            ${VIEW MORE LOCATION LAZADA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION YOGYA LAZADA}
-    Sleep                                    1
-    Click Element                            ${LOCATION YOGYA LAZADA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION LAZADA}
-    Sleep                                    1
-
-Click Option For Choosing Third Location Lazada
-    Click Element                            ${VIEW MORE LOCATION LAZADA}
-    Sleep                                    1
-    Input Text                               @{INPUT LOCATION SBY LAZADA}
-    Sleep                                    1
-    Click Element                            ${LOCATION SBY LAZADA}
-    Sleep                                    1
-    Click Element                            ${APPLY LOCATION LAZADA}
-
 Click Sort Option Lazada
     Sleep                                    6
     Wait Until Element is Visible            ${SORT OPTIONS LAZADA}
@@ -81,44 +52,41 @@ Set Maximum Price Lazada
     Input Text                               @{FILTER MAXIMUM PRICE LAZADA}
     Click Element                            ${SUBMIT KEYS PRICE LAZADA}
 
-Sort by Relevance Tag Electronic Lazada
-    Log to Console                           Sort by Relevance Tag Electronic Lazada
-
 Get Product Name with Sort by Relevance Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON SORT REL 1 LAZADA}    ${SORT RELEVANCE PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Sort by Relevance Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON SORT REL 2 LAZADA}    ${SORT RELEVANCE PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Sort by Lowest Price Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 1 SORT LOW LAZADA}    ${SORT LOWEST PRICE PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Sort by Lowest Price Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 2 SORT LOW LAZADA}    ${SORT LOWEST PRICE PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Sort by Highest Price Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 1 SORT HIG LAZADA}    ${SORT HIGHEST PRICE PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Sort by Highest Price Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 2 SORT HIG LAZADA}    ${SORT HIGHEST PRICE PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Location Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 1 FILTER LOC LAZADA}  ${FILTER LOCATION PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Location Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 2 FILTER LOC LAZADA}  ${FILTER LOCATION PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Minimum Price Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 1 FILTER MIN LAZADA}  ${FILTER MIN PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Minimum Price Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 2 FILTER MIN LAZADA}  ${FILTER MIN PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Maximum Price Page 1 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 1 FILTER MAX LAZADA}  ${FILTER MAX PRODUCT 1 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
 
 Get Product Name with Filter by Maximum Price Page 2 Lazada
-    Get All Product Name Lazada          ${NEXT PAGE BUTTON 2 FILTER MAX LAZADA}  ${FILTER MAX PRODUCT 2 LAZADA}
+    Get All Product Name Lazada          ${NEXT PAGE BUTTON LAZADA}         ${DISPLAYED PRODUCTS LAZADA}
     
 Find and Click Box Minimum Price Filter Lazada
     Find and Click Box Lazada            ${INPUT BOX MINIMUM PRICE LAZADA}

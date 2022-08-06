@@ -13,7 +13,6 @@ Resource                                  ../../Variables/varMain.robot
 #     Click Search Box Lazada
 #     Type Item 2 Name Lazada
 #     Hit Submit Button Lazada
-#     Sort by Relevance Tag Electronic Lazada
 #     Get Product Name with Sort by Relevance Page 1 Lazada
 #     Get Product Name with Sort by Relevance Page 2 Lazada
 #     Close Browser
@@ -39,18 +38,6 @@ LAZADA Sort by Highest Price
     Get Product Name with Sort by Highest Price Page 1 Lazada
     Get Product Name with Sort by Highest Price Page 2 Lazada
     Close Browser
-
-# LAZADA Filter by Location
-#     Open Website Lazada
-#     Click Search Box Lazada
-#     Type Item 2 Name Lazada
-#     Hit Submit Button Lazada
-#     Click Option For Choosing First Location Lazada
-#     Click Option For Choosing Second Location Lazada
-#     Click Option For Choosing Third Location Lazada
-#     Get Product Name with Filter by Location Page 1 Lazada
-#     Get Product Name with Filter by Location Page 2 Lazada
-#     Close Browser
 
 LAZADA Filter by Lowest Price
     Open Website Lazada

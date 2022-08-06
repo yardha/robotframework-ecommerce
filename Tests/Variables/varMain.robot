@@ -9,6 +9,5 @@ Resource    varBlibli.robot
 ${ELECTRONIC KEYWORD}                   case redmi 10a
 ${FASHION KEYWORD}                      sweater rajut
 ${FURNITURE KEYWORD}                    keranjang besi
-${FIRST LOCATION FILTER}                Jakarta Pusat
-${SECOND LOCATION FILTER}               Yogyakarta
-${THIRD LOCATION FILTER}                Surabaya
+${MINIMUM PRICE}                        21500
+${MAXIMUM PRICE}                        79000

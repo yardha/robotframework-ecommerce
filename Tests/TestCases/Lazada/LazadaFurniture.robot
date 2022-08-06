@@ -13,7 +13,6 @@ Resource                                  ../../Variables/varMain.robot
 #     Click Search Box Lazada
 #     Type Item 3 Name Lazada
 #     Hit Submit Button Lazada
-#     Sort by Relevance Tag Electronic Lazada
 #     Get Product Name with Sort by Relevance Page 1 Lazada
 #     Get Product Name with Sort by Relevance Page 2 Lazada
 #     Close Browser

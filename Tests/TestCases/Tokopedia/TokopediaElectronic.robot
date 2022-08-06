@@ -13,7 +13,6 @@ TOKOPEDIA Sort by Relevance
     Click Search Box Tokopedia
     Type Item 1 Name Tokopedia
     Hit Submit Button Tokopedia
-    Sort by Relevance Tag Electronic Tokopedia
     Get Product Name with Sort by Relevance Page 1 Tokopedia
     Get Product Name with Sort by Relevance Page 2 Tokopedia
     Close Browser
@@ -39,18 +38,6 @@ TOKOPEDIA Sort by Highest Price
     Get Product Name with Sort by Highest Price Page 1 Tokopedia
     Get Product Name with Sort by Highest Price Page 2 Tokopedia
     Close Browser
-
-# TOKOPEDIA Filter by Location
-#     Open Website Tokopedia
-#     Click Search Box Tokopedia
-#     Type Item 1 Name Tokopedia
-#     Hit Submit Button Tokopedia
-#     Click Option For Choosing First Location Tokopedia
-#     Click Option For Choosing Second Location Tokopedia
-#     Click Option For Choosing Third Location Tokopedia
-#     Get Product Name with Filter by Location Page 1 Tokopedia
-#     Get Product Name with Filter by Location Page 2 Tokopedia
-#     Close Browser
 
 TOKOPEDIA Filter by Lowest Price
     Open Website Tokopedia
