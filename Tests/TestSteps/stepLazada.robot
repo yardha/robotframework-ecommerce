@@ -58,6 +58,8 @@ Click Option For Choosing Third Location Lazada
     Click Element                            ${APPLY LOCATION LAZADA}
 
 Click Sort Option Lazada
+    Sleep                                    6
+    Wait Until Element is Visible            ${SORT OPTIONS LAZADA}
     Click Element                            ${SORT OPTIONS LAZADA}
     Sleep                                    1
 

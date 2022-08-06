@@ -64,6 +64,8 @@ BLIBLI Filter by Lowest Price
     Hit Submit Button Blibli
     Find and Click Box Minimum Price Filter Blibli
     Set Minimum Price Blibli
+    Click Sort Option Blibli
+    Choose Sort by Lowest Price Blibli
     Get Product Name with Filter by Minimum Price Page 1 Blibli
     Get Product Name with Filter by Minimum Price Page 2 Blibli
     Close Browser
@@ -76,6 +78,8 @@ BLIBLI Filter by Highest Price
     Hit Submit Button Blibli
     Find and Click Box Maximum Price Filter Blibli
     Set Maximum Price Blibli
+    Click Sort Option Blibli
+    Choose Sort by Highest Price Blibli
     Get Product Name with Filter by Maximum Price Page 1 Blibli
     Get Product Name with Filter by Maximum Price Page 2 Blibli
     Close Browser

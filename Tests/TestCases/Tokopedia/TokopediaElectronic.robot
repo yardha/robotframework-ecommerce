@@ -59,6 +59,8 @@ TOKOPEDIA Filter by Lowest Price
     Hit Submit Button Tokopedia
     Find and Click Box Minimum Price Filter Tokopedia
     Set Minimum Price Tokopedia
+    Click Sort Option Tokopedia
+    Choose Sort by Lowest Price Tokopedia
     Get Product Name with Filter by Minimum Price Page 1 Tokopedia
     Get Product Name with Filter by Minimum Price Page 2 Tokopedia
     Close Browser
@@ -70,6 +72,8 @@ TOKOPEDIA Filter by Highest Price
     Hit Submit Button Tokopedia
     Find and Click Box Maximum Price Filter Tokopedia
     Set Maximum Price Tokopedia
+    Click Sort Option Tokopedia
+    Choose Sort by Highest Price Tokopedia
     Get Product Name with Filter by Maximum Price Page 1 Tokopedia
     Get Product Name with Filter by Maximum Price Page 2 Tokopedia
     Close Browser
