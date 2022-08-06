@@ -14,7 +14,6 @@ BLIBLI Sort by Relevance
     Click Search Box Blibli
     Type Item 3 Name Blibli
     Hit Submit Button Blibli
-    Sort by Relevance Tag Electronic Blibli
     Get Product Name with Sort by Relevance Page 1 Blibli
     Get Product Name with Sort by Relevance Page 2 Blibli
     Close Browser
