@@ -22,6 +22,8 @@ ${MINIMUM PRICE TOKOPEDIA}                  10000
 ${MAXIMUM PRICE TOKOPEDIA}                  100000
 ${SUBMIT KEYS PRICE TOKOPEDIA}              RETURN
 
+${VIEW ALL PRICE PRODUCTS TOKOPEDIA}        xpath=//a[normalize-space()='Lihat Semua Harga']
+
 ${SORT OPTIONS TOKOPEDIA}                   xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[2]/div/div/button
 ${SORT OPTIONS LOWEST PRICE TOKOPEDIA}      xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[2]/div/div/div/ul/li[5]/button
 ${SORT OPTIONS HIGHEST PRICE TOKOPEDIA}     xpath=//*[@id="zeus-root"]/div/div[2]/div/div[2]/div[2]/div/div/div/ul/li[4]/button

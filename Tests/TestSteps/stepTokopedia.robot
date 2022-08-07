@@ -54,6 +54,10 @@ Set Maximum Price Tokopedia
     Input Text                               @{FILTER MAXIMUM PRICE TOKOPEDIA}
     Press Keys                               @{SUBMIT MAXIMUM PRICE TOKOPEDIA}
 
+View All Price Products Tokopedia
+    Sleep                                    1
+    Click Element                            ${VIEW ALL PRICE PRODUCTS TOKOPEDIA}
+    
 Get Product Name with Sort by Relevance Page 1 Tokopedia
     Get All Product Name Tokopedia          ${NEXT PAGE BUTTON TOKOPEDIA}       ${DISPLAYED PRODUCTS TOKOPEDIA}
 

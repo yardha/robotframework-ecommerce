@@ -62,10 +62,10 @@ BLIBLI Filter by Highest Price
     Click Search Box Blibli
     Type Item 3 Name Blibli
     Hit Submit Button Blibli
-    Find and Click Box Maximum Price Filter Blibli
-    Set Maximum Price Blibli
     Click Sort Option Blibli
     Choose Sort by Highest Price Blibli
+    Find and Click Box Maximum Price Filter Blibli
+    Set Maximum Price Blibli
     Get Product Name with Filter by Maximum Price Page 1 Blibli
     Get Product Name with Filter by Maximum Price Page 2 Blibli
     Close Browser

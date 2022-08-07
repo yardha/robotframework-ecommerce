@@ -2,13 +2,31 @@
 BukalapakElectronic :: This test suite to test functionality survey, each t...
 ==============================================================================
 BUKALAPAK Sort by Relevance                                           VALID_DATA_BELOW
-Case Xiaomi Redmi 10A Softcase Aero Dove Free Tempered Glass
+Case Xiaomi Redmi 10A Synthetic Fiber Protective Carbon
 Rp
-25.500
-5
-Terjual 2
-Jakarta Selatan
-4rb Feedback positif
+29.000
+47%
+Rp55.000
+Bekasi
+30rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Hard Case Xiaomi Redmi 10A Ring ARMOR Kickstand Hybrid
+Rp
+39.000
+40%
+Rp65.000
+Bekasi
+30rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Xiaomi Redmi 9 9A 9C 10 10A 10C PRO Camera Silicone
+Rp
+9.000
+40%
+Rp15.000
+Bekasi
+30rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
@@ -25,22 +43,6 @@ Rp
 59.000
 Jakarta Barat
 6rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case XIAOMI REDMI 10A Hardcase Frameless Transparan Matte REDMI 9C
-Rp
-17.500
-5
-Terjual 1
-Jakarta Selatan
-5rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Casing Xiaomi Redmi 10A Soft case
-Rp
-19.500
-Jakarta Selatan
-4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 case gambar Xiaomi Redmi 9C . Redmi 10A motif cowok branded soft softcase softshell silikon cover casing kesing housing
@@ -85,7 +87,7 @@ Rp
 5
 Terjual 1
 Jakarta Barat
-36rb Feedback positif
+37rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 Clear Case Xiaomi Redmi 10A Soft Case Casing Redmi 10A Cristal Clear
@@ -109,7 +111,7 @@ Case Xiaomi Redmi 10A Ring Stand BLADE Transparan CLEAR Casing
 Rp
 35.000
 Jakarta Barat
-36rb Feedback positif
+37rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 Case XIAOMI REDMI 10A Hardcase Frameless Transparan Matte REDMI 9C
@@ -128,6 +130,15 @@ Rp
 Terjual 1
 Jakarta Utara
 45rb Feedback positif
+Case XIAOMI REDMI 10A Hardcase Frameless Transparan Matte REDMI 9C
+Rp
+17.500
+5
+Terjual 1
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 CASE XIAOMI REDMI 10A PREMIUM CASING COVER XIAOMI REDMI 10A
 Rp
 15.500
@@ -157,13 +168,6 @@ No Ongkir
 Soft Case Casing Original Soft Case Shield Armor Case Hp Premium Xiaomi Redmi 10A
 Rp
 150.000
-Jakarta Barat
-3rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Soft Case Softcase Ring IRing Case Armor Slide Camera Protector Slim Original Casing Hp Premium Redmi 10A
-Rp
-95.000
 Jakarta Barat
 3rb Feedback positif
 Bayar di Tempat (COD)
@@ -246,6 +250,13 @@ Rp
 Terjual 1
 Jakarta Utara
 45rb Feedback positif
+Soft Case Softcase Ring IRing Case Armor Slide Camera Protector Slim Original Casing Hp Premium Redmi 10A
+Rp
+95.000
+Jakarta Barat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Soft Case Casing Cover Premium Vegan Leather Silicone Code Official Luxury Slim Original Xiaomi Redmi 10A
 Rp
 165.000
@@ -276,15 +287,6 @@ Rp
 Terjual 5
 Jakarta Timur
 10rb Feedback positif
-No Ongkir
-Casing Xiaomi Redmi 10a Soft Case Macaron Camera Protection Cover
-Rp
-39.800
-5
-Terjual 1
-Jakarta Pusat
-3rb Feedback positif
-Bayar di Tempat (COD)
 No Ongkir
 XIAOMI REDMI 10A / REDMI 10C SOFT CASE SILIKON HP KAMERA PRO +PELINDUNG CAMERA LEBIH TINGGI
 Rp
@@ -368,6 +370,15 @@ Jakarta Barat
 9rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
+Casing Xiaomi Redmi 10a Soft Case Macaron Camera Protection Cover
+Rp
+39.800
+5
+Terjual 1
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Case XIAOMI REDMI 10A Milter Air Bag Shall Case Akrilik RZANTS
 Rp
 45.000
@@ -400,6 +411,8 @@ Jakarta Selatan
 4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
 COMBO HEMAT 3in1 Xiaomi Redmi 10a Case Softcase Bening Tempered Glass Camera Lens Casing Hp Redmi 10a
 Rp
 30.000
@@ -407,8 +420,6 @@ Jakarta Barat
 10rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
 Case Redmi 10A Hard Case Fusion Free Screen Guard
 Rp
 25.000
@@ -437,15 +448,6 @@ Rp
 64.350
 1%
 Rp65.000
-Bandung
-10rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Shock Absorption TPU Case Xiaomi RedMi 10a - 9c - Clear Anti Crack Soft Cover Premium Casing
-Rp
-69.300
-1%
-Rp70.000
 Bandung
 10rb Feedback positif
 Bayar di Tempat (COD)
@@ -528,6 +530,15 @@ Rp
 Jakarta Barat
 40rb Feedback positif
 Bayar di Tempat (COD)
+Shock Absorption TPU Case Xiaomi RedMi 10a - 9c - Clear Anti Crack Soft Cover Premium Casing
+Rp
+69.300
+1%
+Rp70.000
+Bandung
+10rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Armor Carbon TPU Case Xiaomi RedMi 10a - 9c - Casing Black Soft Cover Hitam Original Shock
 Rp
 64.350
@@ -558,13 +569,6 @@ Rp
 25.000
 Jakarta Barat
 10rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Gradient Glass Case Xiaomi Redmi 9C 10A Redmi10A Redmi9C Softcase Hardcase Casing HP
-Rp
-69.000
-Kab. Bogor
-7rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 Hard Case Xiaomi Redmi 10A Ring ARMOR Kickstand Hybrid
@@ -636,6 +640,13 @@ Jakarta Selatan
 11rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
+Gradient Glass Case Xiaomi Redmi 9C 10A Redmi10A Redmi9C Softcase Hardcase Casing HP
+Rp
+69.000
+Kab. Bogor
+7rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Xiaomi Redmi 10A 6.5inc Case Softcase TRANSCULENT MATTE CAMERA PROTECTION Case Casing Hp Redmi 10A
 Rp
 25.000
@@ -660,13 +671,6 @@ No Ongkir
 Casing Redmi 10a Rugged Shield Militery Premium Case Cover
 Rp
 99.500
-Jakarta Pusat
-3rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Casing Xiaomi Redmi 10a Soft Case Canvas Cross Pattern Cover
-Rp
-109.450
 Jakarta Pusat
 3rb Feedback positif
 Bayar di Tempat (COD)
@@ -717,7 +721,7 @@ Case Xiaomi Redmi 10A KAWS Cartoon Anime Softcase Printing Gambar Silicone Tpu S
 Rp
 40.000
 Jakarta Barat
-36rb Feedback positif
+37rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 Soft Case Xiaomi Redmi 10A Softcase Free Tempered Glass Layar Dan Camera
@@ -739,6 +743,13 @@ Rp
 50.000
 Jakarta Utara
 14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Xiaomi Redmi 10a Soft Case Canvas Cross Pattern Cover
+Rp
+109.450
+Jakarta Pusat
+3rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 Casing Redmi 10a Soft Case Rugged Armor Thunder Cover
@@ -765,13 +776,6 @@ No Ongkir
 Casing Xiaomi Redmi 10a Soft Case Vegan Leather Cover
 Rp
 99.500
-Jakarta Pusat
-3rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Casing Xiaomi Redmi 10a Soft Case Brushed Carbon Cover
-Rp
-29.850
 Jakarta Pusat
 3rb Feedback positif
 Bayar di Tempat (COD)
@@ -1593,442 +1597,590 @@ VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
 BUKALAPAK Filter by Lowest Price                                      VALID_DATA_BELOW
-CASE FUZY HYBIRD MY CHOICE REDMI 10A POCO M4
+Case Manik Manik Permen REDMI 10A
 Rp
-21.500
-Surabaya
-4rb Feedback positif
-No Ongkir
-my choice case gambar lilac redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 3IN1 CASE Xiaomi Redmi 10A Luxury Shockproof Case Free Tempered Glass And Camera
-Rp
-22.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar ch06 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 2IN1 Case Xiaomi Redmi 10A Soft Hard HD Transparan Case Free Full Anti Gores Kaca
-Rp
-22.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar my02 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-soft Case Xiaomi Redmi 10A . Redmi 9C Motif gambar cowok STRBCK softcase softsell softshell silikon cover
-Rp
-22.000
-Jakarta Timur
-2rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar vans redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar nike redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-choice gambar anime astronot redmi 10a doff matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar my06 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 3IN1 CASE Xiaomi Redmi 10A Luxury Shockproof Case Free Tempered Glass And Garskin
-Rp
-22.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar my03 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar my05 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar off white redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar roro jump redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Kaws Smile Xiaomi Redmi 10 10A Redmi Note 10 Note 10S Note 10 5G Note 10 Pro Poco M3 Pro Poco X3 Pro NFC Dove Liquid Hybrid Pelindung Kamera
-Rp
-22.000
-Surabaya
-33rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-my choice case gambar my04 redmi 10a dove matte case
-Rp
-22.000
-Jakarta Pusat
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS TEMPERED GLASS BLUE LIGHT
-Rp
-22.000
-Jakarta Selatan
-5rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Redmi 10A Soft Case Matte Sandstone Ultra Thin
-Rp
-22.500
-Jakarta Barat
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A Free TG Anti Gores Layar Premium case-Tamam
-Rp
-22.500
-Jakarta Selatan
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A Casing Premium Slim Exellent Cover
-Rp
-22.500
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case XiaomI Redmi 10A Free TG Anti Gores Layar Premium case
-Rp
-22.500
-Jakarta Selatan
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A CASING COVER FREE TEMPERED GLASS LAYAR
-Rp
-22.500
-Jakarta Selatan
-16rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Soft Case Xiaomi Redmi 10A
-Rp
-22.500
-Jakarta Selatan
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-soft case Xiaomi Redmi 10A . 9C Motif gambar karakter GC softcase softsell softshell silikon cover
-Rp
-23.000
-5
-Terjual 3
-Jakarta Timur
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 3IN1 CASE Xiaomi Redmi 10A Luxury Shockproof Case Free Full Tempered Glass And Camera
-Rp
-23.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 3IN1 CASE Xiaomi Redmi 10A Luxury Shockproof Case Free Full Tempered Glass And Garskin
-Rp
-23.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS TEMPERED GLASS BENING DAN CAMERA
-Rp
-23.000
-Jakarta Selatan
-5rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS TEMPERED GLASS WARNA DAN CAMERA
-Rp
-24.000
-Jakarta Selatan
-5rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
-CASE XIAOMI REDMI 10A CASING FREE TEMPERED GLASS DAN GARSKIN
-Rp
-24.500
-Jakarta Selatan
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Soft Case Xiaomi Redmi 10A Soft Case Dan Tempered Glass
-Rp
-24.500
-Jakarta Selatan
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A CASING COVER FREE TEMPERED GLASS DAN GARSKIN
-Rp
-24.500
-Jakarta Selatan
-16rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A FREE TG ANTI GORES LAYAR DAN GARSKIN
-Rp
-24.500
-Jakarta Selatan
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE Xiaomi Redmi 10A My Choice Aero Luxury Shockproof & Tempered Glass
-Rp
-24.500
-Jakarta Selatan
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 2IN1 Case Xiaomi Redmi 10A Casing Premium Slim Exellent Cover
-Rp
-24.500
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A Premium Casing Transparan Beatle Series Clear
-Rp
-25.000
-5
-Terjual 2
-Jakarta Barat
-36rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Motif White OFF X Nike Xiaomi Redmi 10 10A Note 10 Note 10S Note 10 5G Note 10 Pro Poco M3 Pro Poco X3 Pro NFC Casing Liquid Hybrid Pelindung
-Rp
-25.000
-5
-Terjual 2
-Surabaya
-33rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10A Soft Case Sandstone Superthin Silicon Casing
-Rp
-25.000
-5
-Terjual 1
-Tangerang
-6rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Flip Mirror Clear View Standing Auto Lock Case REDMI 10A
-Rp
-25.000
-Tangerang
-8rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Redmi 10A Hard Case Fusion Free Screen Guard
-Rp
-25.000
-Jakarta Barat
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Hardcase Xioami Redmi 10 10A 10prime Casing StarWar Lens Cover Case
-Rp
-25.000
-Jakarta Barat
-14rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-REDMI 10A Case Flip Mirror Cover Clear View
-Rp
-25.000
+10.000
 Tangerang
 29rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Soft Case Xiaomi Redmi 10A motif cewek gambar bear presisi softcase silikon cover
+Case Kartun Lucu REDMI 10A
 Rp
-25.000
-Jakarta Timur
-2rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10A 6.5inc Case Softcase TRANSCULENT MATTE CAMERA PROTECTION Case Casing Hp Redmi 10A
-Rp
-25.000
-Jakarta Barat
-10rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A Casing Premium Slim Exellent Cover Free Ring
-Rp
-25.000
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10A Case Anti Crack Bahan Soft Casing
-Rp
-25.000
+10.000
 Tangerang
-6rb Feedback positif
+29rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Clear View Xiaomi Redmi 10A Standing Flip Cover Case Casing
+Case Glitter Motif Pita REDMI 10A
 Rp
-25.000
+10.000
+Tangerang
+29rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case REDMI 10A Fashion Laser Gambar Kartun
+Rp
+10.000
+Tangerang
+8rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Fashion Laser Kartun REDMI 10A
+Rp
+10.000
+Tangerang
+29rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Xiaomi Redmi 10A / Redmi 10C Casing Bumper Candy
+Rp
+10.500
+65%
+Rp30.000
 Jakarta Pusat
 2rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Hard Case Redmi 10A Case Fusion Shockproof
+CASE XIAOMI REDMI 9C / REDMI 10A ARMOR CARBON TPU - HITAM CASING XIAOMI
 Rp
-25.000
-Jakarta Barat
-9rb Feedback positif
+10.500
+Jakarta Selatan
+5rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-soft case Xiaomi Redmi 9C . Redmi 10A motif cewek gambar disney the Pooh softcase silikon cover
+Case Cartoon plus Pop Socket REDMI 10A
 Rp
-25.000
+11.000
+Tangerang
+8rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE SUPER SOFT 5W REDMI 10A
+Rp
+12.000
+Surabaya
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+xiaomi redmi 10A softcase aero sleding camera plus slot card case sleding plus slot card
+Rp
+12.000
 Jakarta Timur
 2rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Xiaomi Redmi 10a Case Softcase MACARON CAMERA PROTECTION Case Casing Hp Xiaomi Redmi 10A
+Soft Case Xiaomi Redmi 10A Casing Crack Macaron 2Tone Case
 Rp
-25.000
+12.500
+58%
+Rp30.000
+Jakarta Pusat
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+lanyard case redmi 10a my choice matte case aero bumper dove case
+Rp
+13.000
+Jakarta Pusat
+4rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION
+Rp
+13.500
+5
+Terjual 1
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Clear HD Xiaomi Redmi 10A Soft case Casing Transparan case Redmi10 A
+Rp
+14.000
+Bekasi
+12rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Clear Case Xiaomi Redmi 10A Soft Case Casing Redmi 10A Cristal Clear
+Rp
+15.000
+5
+Terjual 7
+Jakarta Timur
+10rb Feedback positif
+No Ongkir
+CASE Xiaomi Redmi 10A Luxury Shockproof Casing And Cover
+Rp
+15.000
+Jakarta Selatan
+9rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Jelly Case Xiaomi Redmi 10A Silicon Bening Bahan Tebal Anti Jamur
+Rp
+15.000
+Jakarta Pusat
+7rb Feedback positif
+No Ongkir
+Grosir
+REDMI 10a case Luxury 3D Camera Bluelight&Tali Moschino
+Rp
+15.000
+Tangerang
+8rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+clear card redmi 9 redmi 9a redmi 9c redmi 9t redmi 10 redmi 10 2022 redmi 10a soft case transparan
+Rp
+15.000
+Jakarta Pusat
+4rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Clear HD Xiaomi Redmi 10C Redmi 10A Redmi 9C Soft case Casing Transparan Case Redmi 9 C Redmi 10 C Redmi 10 A
+Rp
+15.000
+Bekasi
+10rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Xiaomi Redmi 10a Case Softcase AUTOFOCUS CAMERA PROTECTION Case Casing Hp Xiaomi Redmi 10a
+Rp
+15.000
 Jakarta Barat
 10rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Casing Xiaomi Redmi 10 10A Slide Case Clear With Camera Protaction
+Case Xiaomi Redmi 10A Soft Hard HD Transparan Case
 Rp
-25.000
-Surabaya
-19rb Feedback positif
-Bayar di Tempat (COD)
-Paket 3IN1 Case Xiaomi Redmi 10A Soft Hard HD Transparan Case Free Anti Gores Kaca & Garskin Carbon
-Rp
-25.000
+15.000
 Jakarta Selatan
 9rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-CASE XIAOMI REDMI 10A FREE TG ANTI GORES LAYAR + GARSKIN DAN GURITA
+Xiaomi Redmi 10A Case Softcase ANTICRACK CAMERA PROTECTION Case Casing Hp Xiaomi Redmi 10A
 Rp
-25.500
+15.000
+Jakarta Barat
+10rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Soft Case Redmi 10 4G / Redmi 10A / Redmi 10C Macaron Pro Camera Casing
+Rp
+15.000
+50%
+Rp30.000
+Jakarta Pusat
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A PREMIUM CASING COVER XIAOMI REDMI 10A
+Rp
+15.500
 5
 Terjual 2
 Jakarta Selatan
 4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Case Xiaomi Redmi 10A Softcase Aero Dove Free Tempered Glass
+CASE XIAOMI REDMI 10A CASING COVER SOFT CASE REDMI 10A
 Rp
-25.500
-5
-Terjual 2
-Jakarta Selatan
-4rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Paket 2IN1 Case Xiaomi Redmi 10A Casing Premium Slim Free Full Tempered Glass
-Rp
-25.500
-Jakarta Selatan
-9rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Soft Case Xiaomi Redmi 10A Free Tempered Glass Dan Garskin Carbon
-Rp
-25.500
-Jakarta Selatan
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-CASE XIAOMI REDMI 10A CASING COVER FREE TEMPERED GLASS + GARSKIN DAN GURITA
-Rp
-25.500
+15.500
 Jakarta Selatan
 16rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-PAKET 4IN1 CASE XIAOMI REDMI 10A SOFT CASE AERO DOVE
+CASE XIAOMI REDMI 10A HARDCASE FUSION SLIDE PROTECTOR PREMIUM CAMERA
 Rp
-25.500
+16.000
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Cloth Jeans Redmi 10 10A 10 Prime Black Cover Febric Motif Deer
+Rp
+16.000
+20%
+Rp20.000
+Terjual 3
+Jakarta Barat
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS GARSKIN
+Rp
+16.500
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE Xiaomi Redmi 10A Luxury Shockproof Transparent
+Rp
+16.500
+Jakarta Selatan
+11rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+soft case Xiaomi Redmi 9C . Redmi 10A gambar cewek motif flower softcase Softsell softshell silikon cover
+Rp
+17.000
+5
+Terjual 2
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+soft Case Xiaomi Redmi 9C . Redmi 10A motif cewek gambar kembang Softcase Softsell softshell silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+soft case Xiaomi Redmi 9C . Redmi 10A motif cewek gambar unicorns softcase softsell softshell silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+soft case Xiaomi Redmi 10A motif cowok gambar superhero softcase softsell softshell silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+soft case Xiaomi Redmi 10A motif cowok gambar brandd softcase softsell softshell silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+soft Case Xiaomi Redmi 9C . Redmi 10A gambar cowok motif Bola softcase softsell softshell silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Soft Case Xiaomi Redmi 10A motif cewek gambar Disney Doraemon softcase silikon cover
+Rp
+17.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE Xiaomi Redmi 10A My Choice Aero Plus Tempered Glass
+Rp
+17.000
+Jakarta Selatan
+11rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Nike X Off White Xioami Redmi 10 10A 10 Prime Casing Liquid Mate Premium
+Rp
+17.000
+15%
+Rp20.000
+Jakarta Barat
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case XIAOMI REDMI 10A Hardcase Frameless Transparan Matte REDMI 9C
+Rp
+17.500
+5
+Terjual 1
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A FREE GARSKIN CARBON 3D PEMIUM CASING COVER
+Rp
+17.500
 Jakarta Selatan
 4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Case Xiaomi Redmi 10A Case Free Tempered Glass
+CASE XIAOMI REDMI 10A CASING FREE GARSKIN CARBON 3D -TAMAM
 Rp
-26.000
+17.500
+Jakarta Selatan
+4rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A CASING COVER FREE GARSKIN CARBON 3D
+Rp
+17.500
+Jakarta Selatan
+16rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
+Rp
+18.000
+5
+Terjual 1
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+xiaomi redmi 10A softcase space transparan protect camera TPU bening case tebal
+Rp
+18.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Paket 2in1 CASE Xiaomi Redmi 10A Shockproof Hybrid + Tempered Glass
+Rp
+18.000
+Jakarta Selatan
+9rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Xiaomi Redmi 10A Soft Hard HD Transparan Case Free Ring
+Rp
+18.000
+Jakarta Selatan
+9rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE Xiaomi Redmi 10A Luxury Shockproof Hybrid Casing Cover
+Rp
+18.000
+Jakarta Selatan
+9rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE Xiaomi Redmi 10A My Choice Aero Dan Tempered Glass
+Rp
+18.500
 Jakarta Selatan
 11rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS TEMPERED GLASS BENING
+Rp
+18.500
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+case flip wallet dompet kulit redmi 10A
+Rp
+18.500
+Tangerang
+8rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+CASE XIAOMI REDMI 10A PREMIUM SOFTCASE AERO CAMERA PROTECTION BONUS TEMPERED GLASS WARNA
+Rp
+19.500
+Jakarta Selatan
+5rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Xiaomi Redmi 10A Soft case
+Rp
+19.500
+Jakarta Selatan
+4rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Casing Xiaomi Redmi 10A Macaron Original Case Casing Redmi 10A
+Rp
+20.000
+5
+Terjual 8
+Jakarta Timur
+10rb Feedback positif
+No Ongkir
+Case Xiaomi Redmi 10A Soft Case Casing Redmi 10 A Vague 3D Original
+Rp
+20.000
+5
+Terjual 5
+Jakarta Timur
+10rb Feedback positif
+No Ongkir
+SOFT CASE CLAER HD XIAOMI REDMI 10A CASE CASING REDMI 10A
+Rp
+20.000
+5
+Terjual 5
+Jakarta Timur
+2rb Feedback positif
+No Ongkir
+Case Xiaomi Redmi 10A Original Vague 3D Softcase Casing Redmi 10A Protec Camera
+Rp
+20.000
+5
+Terjual 6
+Jakarta Timur
+2rb Feedback positif
+No Ongkir
+soft Case Xiaomi Redmi 9C . Redmi 10A motif gambar cowok presisi softcase softsell softshell silikon cover
+Rp
+20.000
+Jakarta Timur
+2rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Hypebeast Xioami Redmi 10 10A 10 Prime Dove Candy Hybrid Hype Design
+Rp
+20.000
+Jakarta Barat
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Promo Case Transparan Redmi 10A Softcase Slim Armor
+Rp
+20.000
+Jakarta Barat
+6rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
 BUKALAPAK Filter by Highest Price                                     VALID_DATA_BELOW
+Hybrid Hard Soft Case Ring Armor Defence Series Standing Protection Casing XIAOMI REDMI 10A
+Rp
+100.000
+Jakarta Pusat
+4 Feedback positif
+No Ongkir
+Back Cover Soft Case TERLARIS VEGAN Leather Kulit Rubber Casing XIAOMI REDMI 10A
+Rp
+100.000
+Jakarta Pusat
+4 Feedback positif
+No Ongkir
+Casing Redmi 10a Rugged Shield Militery Premium Case Cover
+Rp
+99.500
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Xiaomi Redmi 10a Soft Case Vegan Leather Cover
+Rp
+99.500
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Xiaomi Redmi 10c 10a Soft Case Plexiglass Leather Cover
+Rp
+99.500
+5
+Terjual 2
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Xiaomi Redmi 10a Soft Case Hybrid Armor Defence Series Cover
+Rp
+99.500
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Casing Redmi 10a Soft Case Rugged Armor Thunder Cover
+Rp
+99.500
+Jakarta Pusat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Case Xiaomi Redmi 10A Soft Case Brushed Carbon Redmi 10A Hitam
+Rp
+99.000
+Jakarta Selatan
+68 Feedback positif
+Case Xiaomi Redmi 10A Soft Case Clear Armor Flexible Easy Ultra Slim Shockproof Casing Cover Protection
+Rp
+99.000
+Jakarta Selatan
+68 Feedback positif
+Soft Case Softcase Ring IRing Case Armor Slide Camera Protector Slim Original Casing Hp Premium Redmi 10A
+Rp
+95.000
+Jakarta Barat
+3rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Soft Case Softcase Ring IRing Case Armor Slide Camera Protector Slim Original Casing Hp Premium Redmi 10A
+Rp
+95.000
+Jakarta Pusat
+No Ongkir
+Case Xiaomi Redmi 10A Soft Case Matte Colored Frosted Hitam
+Rp
+95.000
+Jakarta Selatan
+68 Feedback positif
+Hybrid Case Xiaomi Redmi 10A Cover Soft Case
+Rp
+95.000
+Jakarta Pusat
+30rb Feedback positif
+Bamboo Textured Case Xiaomi Redmi 10C Redmi 10A Case
+Rp
+94.500
+Jakarta Pusat
+30rb Feedback positif
+Xiaomi Redmi 10A Redmi10A Digital Case Flip Clear View Standing Cover Casing
+Rp
+90.000
+Jakarta Utara
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Cover Casing Slim Presisi XIAOMI REDMI 10A SOFT CASE CLEAR ARMOR SHOCKPROOF Protector Hp Soft Case Original Ori
+Rp
+90.000
+Jakarta Selatan
+5 Feedback positif
+No Ongkir
+Xiaomi Redmi 10A Redmi10A Double Side Glass Magnetic Case Metal Cover Casing
+Rp
+90.000
+Jakarta Utara
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+Classic Design Case Xiaomi Redmi 10A Cover Soft Case
+Rp
+89.000
+Jakarta Pusat
+30rb Feedback positif
+Case Xiaomi Redmi 10A IMAK UX-5 TPU Casing
+Rp
+85.000
+Jakarta Timur
+13rb Feedback positif
+No Ongkir
+Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
+Rp
+85.000
+5
+Terjual 1
+Jakarta Timur
+13rb Feedback positif
+No Ongkir
+Case RZants Xiaomi Redmi 10 10A 10 Prime Motif Armi Camo Anti Shock Prof
+Rp
+80.000
+Jakarta Barat
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Case Xiaomi Redmi 10A Wood Textured Aioria Original
 Rp
 78.000
@@ -2067,17 +2219,19 @@ Rp
 Jakarta Pusat
 4 Feedback positif
 No Ongkir
-Xiaomi Redmi 10A Redmi10A Flip Wallet Dompet Kulit Leather Cover Case Casing
-Rp
-70.000
-Jakarta Utara
-14rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
 Case Wrist Strap Xioami Redmi 10 10A 10 Prime Casing Fashion Nasa
 Rp
 70.000
 Jakarta Barat
+14rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+Xiaomi Redmi 10A Redmi10A Flip Wallet Dompet Kulit Leather Cover Case Casing
+Rp
+70.000
+Jakarta Utara
 14rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
@@ -2216,13 +2370,6 @@ Jakarta Barat
 6rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Xiaomi Redmi 10A - Leather Texture Hybrid Soft Case Casing Cover
-Rp
-59.000
-Jakarta Barat
-6rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
 Xiaomi Redmi 10A - Full Carbon Fiber Hybrid Case Casing Cover
 Rp
 59.000
@@ -2230,8 +2377,13 @@ Jakarta Barat
 6rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
+Xiaomi Redmi 10A - Leather Texture Hybrid Soft Case Casing Cover
+Rp
+59.000
+Jakarta Barat
+6rb Feedback positif
+Bayar di Tempat (COD)
+No Ongkir
 Redmi 10A 10C Softcase Ezy Leather Soft Case Cover Hard Casing
 Rp
 59.000
@@ -2286,143 +2438,6 @@ Rp
 50.000
 Jakarta Utara
 45rb Feedback positif
-Xiaomi Redmi 10A Redmi10A Silicone Full Cover Soft Case Silikon Casing Original
-Rp
-50.000
-Jakarta Utara
-14rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A ZORO Anime One Piece Cartoon Softcase Gambar
-Rp
-50.000
-Jakarta Barat
-36rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10C / Redmi 10A Soft Case iRing Focus with Ring Stand ORI
-Rp
-50.000
-5
-Terjual 1
-Jakarta Utara
-45rb Feedback positif
-Redmi 10A iring Invisible Stand TPU Soft Case
-Rp
-50.000
-Jakarta Timur
-2rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10A Redmi10A GKK Armor 360 Full Slim Matte Cover Case Casing
-Rp
-50.000
-Jakarta Utara
-14rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10a - CardX Flip Lens Card Ring Armor Case Shockproof
-Rp
-50.000
-Jakarta Barat
-40rb Feedback positif
-Bayar di Tempat (COD)
-Redmi 10c / Redmi 10A Xiaomi Soft Case Auto Focus Lietchi Leather ORI
-Rp
-50.000
-Jakarta Utara
-45rb Feedback positif
-XIAOMI REDMI 10C / REDMI 10A CASE SOFT ARMOR RUGGED SHIELD ORIGINAL
-Rp
-50.000
-5
-Terjual 1
-Jakarta Utara
-45rb Feedback positif
-Xiaomi Redmi 10C / 10A Case CODE Leather Softcase Original
-Rp
-50.000
-Jakarta Utara
-45rb Feedback positif
-Xiaomi Redmi 10A Redmi10A Silicone Full Cover Soft Case Silikon Casing Original Casing
-Rp
-50.000
-Jakarta Utara
-14rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Casing Xiaomi Redmi 10a Soft Case Silicone Back Cover
-Rp
-49.750
-Jakarta Pusat
-3rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Brushed Soft case Redmi 10A - Redmi 10A Case
-Rp
-49.000
-Jakarta Pusat
-30rb Feedback positif
-Redmi 10A 10C Hardcase Lexii Stand Belt Hard Case Cover Casing
-Rp
-49.000
-Kab. Bekasi
-11rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-LANYARD SLING CASE REDMI 10A SOFT MACARON CANDY COLOR
-Rp
-45.000
-Karawang
-578 Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10a - Sergeant Military Slim Armor Case Rugged Shockproof
-Rp
-45.000
-Jakarta Barat
-40rb Feedback positif
-Bayar di Tempat (COD)
-Xiaomi Redmi 10a - Rugged Shield Army Military Silicone Armor Case
-Rp
-45.000
-Jakarta Barat
-40rb Feedback positif
-Bayar di Tempat (COD)
-Case XIAOMI REDMI 10A Milter Air Bag Shall Case Akrilik RZANTS
-Rp
-45.000
-Terjual 1
-Jakarta Selatan
-5rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Xiaomi Redmi 10A Soft Case Silicone Back Cover
-Rp
-42.000
-Jakarta Pusat
-Xiaomi Redmi 10a - Skinfeel Leather Wirst Strap Soft Lux Silicone Case
-Rp
-40.000
-Jakarta Barat
-40rb Feedback positif
-Bayar di Tempat (COD)
-Case Xiaomi REDMI 10A Glass Case HARD Tempered Backdoor Casing
-Rp
-40.000
-5
-Terjual 1
-Jakarta Barat
-36rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Case Xiaomi Redmi 10A KAWS Cartoon Anime Softcase Printing Gambar Silicone Tpu Softcase
-Rp
-40.000
-Jakarta Barat
-36rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------

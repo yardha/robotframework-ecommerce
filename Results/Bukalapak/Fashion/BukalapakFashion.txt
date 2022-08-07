@@ -35,9 +35,7 @@ Bayar di Tempat (COD)
 No Ongkir
 Sweater Rajut Ariel Cotton
 Rp
-49.980
-16%
-Rp59.500
+59.500
 4.7
 Terjual 16
 Bandung
@@ -831,32 +829,33 @@ Rp
 Terjual 7
 Jakarta Utara
 5rb Feedback positif
-Sweater Pria Sweater Rajut Ariel Noah Hijau Army Murah
+Sweater Rajut Murah Wanita
 Rp
-48.500
-3
-Terjual 2
-Kab. Bandung
-2rb Feedback positif
-Bayar di Tempat (COD)
-No Ongkir
-Sweater Rajut Pria Turtle Neck Tebal ..TERBARU
-Rp
-85.000
+55.000
+21%
+Rp70.000
 4.8
-Terjual 111
+Terjual 46
 Bandung
-2rb Feedback positif
+4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-sweater rajut cotton v neck pria biru
+Sweater Pria Jumbo Ukuran XXL Rajut Tone Arron Baju Cowok 20058
 Rp
-130.000
-4.6
-Terjual 5
-Cimahi
-3rb Feedback positif
+100.500
+Jakarta Pusat
+1rb Feedback positif
 Bayar di Tempat (COD)
+No Ongkir
+Sweater Rajut Pria Polos Basic 100% Katun Leher V Neck Hitam - Vleur Black Okechuku
+Rp
+67.200
+54%
+Rp145.000
+4.6
+Terjual 289
+Jakarta Barat
+13rb Feedback positif
 No Ongkir
 VALID_DATA_ABOVE
 | PASS |
@@ -1723,7 +1722,7 @@ Rp
 Jakarta Barat
 21 Feedback positif
 No Ongkir
-Sweater Rajut Pria Signature V-Neck Torque Peach
+Sweater Rajut Pria Signature Roll Neck Off White
 Rp
 350.000
 Jakarta Barat
@@ -1952,7 +1951,7 @@ Rp
 31.000
 4.5
 Terjual 10
-Kab. Bandung
+POJOKGROSIR
 4rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
@@ -2425,6 +2424,11 @@ Jakarta Pusat
 9rb Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
+BAJU KAOS JAKET HOODIE KUPLUK COWOK PRIA WANITA SWEATER RAJUT VCNR
+Rp
+100.000
+Tangerang
+11rb Feedback positif
 Sweater anak bayi perempuan cewek Impor Korea Jepang rajut nyaman
 Rp
 100.000
@@ -2438,6 +2442,11 @@ Terjual 1
 Jakarta Pusat
 24rb Feedback positif
 Bayar di Tempat (COD)
+Vest anak remaja cantik rompi biru denim dan hitam polos knit wear premium sweater turtle Neck atasan muslimah murah Wanita Cardigan rajut kardigan
+Rp
+100.000
+Kab. Bekasi
+3rb Feedback positif
 sweter rajut army
 Rp
 100.000
@@ -2445,24 +2454,19 @@ Cimahi
 838 Feedback positif
 Bayar di Tempat (COD)
 No Ongkir
-Vest anak remaja cantik rompi biru denim dan hitam polos knit wear premium sweater turtle Neck atasan muslimah murah Wanita Cardigan rajut kardigan
-Rp
-100.000
-Kab. Bekasi
-3rb Feedback positif
 ready Sweater Cardigan Panjang Anak Perempuan Rajut 7 8 9 10 Tahun LOL
 Rp
 100.000
 Jakarta Pusat
 No Ongkir
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
 Cardigan Cewe Sweater Polos Rajut
 Rp
 100.000
 Jakarta Pusat
 17 Feedback positif
 No Ongkir
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
 Knitwear jantzen sweater rajut cardigan
 Rp
 100.000
@@ -2532,6 +2536,13 @@ Rp
 99.700
 Kab. Bekasi
 3rb Feedback positif
+Jaket Rajut ariel sweater VC
+Rp
+99.500
+4.4
+Terjual 20
+Tangerang
+11rb Feedback positif
 Alat rajut Jahitan sweater Kait rajutan aluminium dengan pegangan plastik berwarna - Set 8 Pcs
 Rp
 99.500
@@ -2659,17 +2670,6 @@ Rp
 98.000
 Jakarta Barat
 4rb Feedback positif
-Jaket sweater pria cowo rajut ariel grenlight-sweater laki laki
-Rp
-98.000
-Kab. Tangerang
-72 Feedback positif
-Sweater Rajut Canaries Beach Style Baju Pantai Import - Z 5870 CME
-Rp
-98.000
-Kab. Tangerang
-241 Feedback positif
-No Ongkir
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------

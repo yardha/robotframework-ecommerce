@@ -54,12 +54,12 @@ View All Categories Blibli
 Choose Sort by Lowest Price Blibli
     Sleep                                    1
     Click Element                            ${SORT OPTIONS LOWEST PRICE BLIBLI}
-    Sleep                                    1
+    Sleep                                    2
     Click Element                            ${VIEW ALL PRODUCTS BLIBLI}
 
 Choose Sort by Highest Price Blibli
     Click Element                            ${SORT OPTIONS HIGHEST PRICE BLIBLI}
-    Sleep                                    1
+    Sleep                                    2
     Click Element                            ${VIEW ALL PRODUCTS BLIBLI}
 
 Set Minimum Price Blibli
