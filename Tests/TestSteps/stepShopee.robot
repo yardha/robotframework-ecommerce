@@ -123,7 +123,7 @@ Find and Click Box Shopee
 Get All Product Name Shopee
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  10
+    FOR                                      ${counter}                                     IN RANGE                         0                  12
         Sleep                                    1
         Execute Javascript                       window.scroll(0,${counter}*600)
         Sleep                                    1

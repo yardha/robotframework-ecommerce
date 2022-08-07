@@ -112,7 +112,7 @@ Find and Click Box Bukalapak
 Get All Product Name Bukalapak
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  20
+    FOR                                      ${counter}                                     IN RANGE                         0                  12
         Sleep                                    1
         Execute Javascript                       window.scrollTo(0,${counter}*600)
         Sleep                                    1

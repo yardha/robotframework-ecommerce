@@ -7,6 +7,7 @@ ${SEARCH BOX BLIBLI}                     xpath=//*[@id="blibliApp"]/div/header/d
 ${CLOSE POP UP BUTTON BLIBLI}            xpath=//*[@id="blibliApp"]
 ${X COORDINATES CLOSE BLIBLI}            500
 ${Y COORDINATES CLOSE BLIBLI}            100
+${CLOSE POP UP BUTTON PRICE BLIBLI}      xpath=//button[@class='ticker__close b-order-right']
 
 ${SEARCH BUTTON BLIBLI}                  xpath=//*[@id="blibliApp"]/div/header/div[2]/div[2]/div/div[1]/div[2]/button
 
@@ -26,6 +27,7 @@ ${INPUT BOX MAXIMUM PRICE BLIBLI}        xpath=//*[@id="quick-filter-price-input
 ${SUBMIT KEYS PRICE BLIBLI}             ENTER
 
 ${VIEW ALL PRODUCTS BLIBLI}              xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div[1]/article/div/div/a
+${VIEW ALL CATEGORIES BLIBLI}            xpath=//a[@class='info__found__category__result__link']
 ${SORT OPTIONS BLIBLI}                   xpath=//div[@class='blu-dropdown__trigger']
 ${SORT OPTIONS LOWEST PRICE BLIBLI}      xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[3]/button
 ${SORT OPTIONS HIGHEST PRICE BLIBLI}     xpath=//*[@id="catalogProductListContentDiv"]/div[1]/div/div[3]/div/div[3]/div[2]/ul/li[4]/button

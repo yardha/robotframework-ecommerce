@@ -48,10 +48,10 @@ BLIBLI Filter by Lowest Price
     Click Search Box Blibli
     Type Item 2 Name Blibli
     Hit Submit Button Blibli
-    Find and Click Box Minimum Price Filter Blibli
-    Set Minimum Price Blibli
     Click Sort Option Blibli
     Choose Sort by Lowest Price Blibli
+    Find and Click Box Minimum Price Filter Blibli
+    Set Minimum Price Blibli
     Get Product Name with Filter by Minimum Price Page 1 Blibli
     Get Product Name with Filter by Minimum Price Page 2 Blibli
     Close Browser

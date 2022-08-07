@@ -19,25 +19,25 @@ Kota Surabaya
 5,0
 (1)
 Terjual 1
-Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
-Rp85.100
-Rp105.000
-18%
-Kota Jakarta Timur
 Case Xiaomi Redmi 10A IMAK UX-5 TPU Casing
 Rp85.100
 Rp99.000
 14%
 Kota Jakarta Timur
+Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
+Rp85.100
+Rp105.000
+18%
+Kota Jakarta Timur
 Case Xiaomi Redmi 10A Spigen Rugged Armor Slim Softcase Carbon Casing
 Rp225.000
 Kota Surabaya
-8
-Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
-Rp39.999
-Kota Surabaya
 5
 Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
+Rp39.999
+Kota Surabaya
+8
+Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
 Rp39.999
 Kota Surabaya
 Aesthetic Case Xiaomi Redmi 10A Softcase Polos Casing
@@ -64,33 +64,37 @@ Kota Jakarta Barat
 Case Xiaomi Redmi 10A Spigen Thin Silicone Carbon Casing Anti Shock
 Rp375.000
 Kota Jakarta Barat
-XIAOMI REDMI 10A HARDCASE ICRYSTAL ROBOT STANDING TRANSFORMER
-Rp22.900
-Kota Bekasi
-SOFTCASE TRANSPARAN XIAOMI REDMI 9A PREMIUM CLEAR SOFT CASE
-Rp8.000
+Grosir
+CASE CASING SOFTCASE TRANSPARAN CLEAR BENING TPU XIAOMI REDMI 10A
+Rp30.000
+Rp51.500
+41%
+Kota Jakarta Barat
+Voucher seller
+CASE XIAOMI REDMI 10 2022 CASE SOFT SILICONE CASING REDMI 10 2022
+Rp60.000
+Rp65.000
+7%
+Kota Jakarta Barat
+Voucher seller
+CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
+Rp20.000
+Rp25.000
+20%
+Kota Jakarta Selatan
+5,0
+(1)
+Terjual 4
+Voucher seller
+CASE XIAOMI REDMI 8A SOFT ANTICRACK JELLY CASE
+Rp13.491
 Kota Jakarta Pusat
-Voucher seller
-Soft Case Xiaomi Redmi 10C Case TPU Silicone Transparant Casing Handphone
-Rp35.000
-Rp70.000
-50%
-Kota Jakarta Barat
-Voucher seller
-Hard Case Xiaomi Redmi Note 9 Case Fusion Shockproof Fusion Armor Transaparant Casing
-Rp15.000
-Rp30.000
-50%
-Kota Jakarta Barat
-Voucher seller
-Hard Case Xiaomi Redmi Note 10 5G Case Fusion Shockproof Armor Transparant Casing
-Rp15.000
-Rp30.000
-50%
-Kota Jakarta Barat
 5,0
 (1)
 Terjual 1
+Case Xiaomi Redmi 10C Case Softcase Rugged Armor Original
+Rp50.000
+Kota Jakarta Utara
 2
 CASE CASING XIAOMI REDMI 10A WOOD TEXTURED AIORIA ORIGINAL - Hitam
 Rp255.000
@@ -102,15 +106,15 @@ Rp10.000
 38%
 Kota Bekasi
 Terjual 1
-Shock Absorption TPU Case Xiaomi RedMi 10a - Casing Anti Crack
-Rp70.000
-Rp75.000
-6%
-Kota Bandung
 Solid TPU Case Xiaomi RedMi 10a - Casing Black matte original
 Rp60.000
 Rp75.000
 20%
+Kota Bandung
+Shock Absorption TPU Case Xiaomi RedMi 10a - Casing Anti Crack
+Rp70.000
+Rp75.000
+6%
 Kota Bandung
 Shock Gradient Case Xiaomi RedMi 10a - Casing Rainbow Soft Cover
 Rp70.000
@@ -146,11 +150,11 @@ Kota Jakarta Timur
 5,0
 (1)
 Terjual 1
-Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
-Rp259.000
-Kota Jakarta Barat
 Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
 Rp265.000
+Kota Jakarta Barat
+Solid TPU Case Casing Xiaomi RedMi 10a Camera Black Soft Cover Fit
+Rp259.000
 Kota Jakarta Barat
 Case Casing Xiaomi RedMi 10a 9c Rainbow Clear Soft Cover
 Rp269.000
@@ -174,22 +178,22 @@ Kota Jakarta Barat
 Carbon II TPU Case Casing Xiaomi RedMi 10a Black Soft Armor Original
 Rp265.000
 Kota Jakarta Barat
-XIAOMI REDMI 10A SOFT CASE CASING HYBRID PANTHER SERIES - Biru
-Rp235.000
-Kota Jakarta Barat
 3
 XIAOMI REDMI 10A SOFT CASE CASING CANVAS CROSS PATTERN - Hitam
 Rp255.000
+Kota Jakarta Barat
+XIAOMI REDMI 10A SOFT CASE CASING HYBRID PANTHER SERIES - Biru
+Rp235.000
 Kota Jakarta Barat
 5
 Xiaomi Redmi 10A Soft Case Sandstone Superthin Silicon Casing
 Rp25.000
 Kota Tangerang
-XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
-Rp250.000
-Kota Jakarta Barat
 3
 XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
+Rp250.000
+Kota Jakarta Barat
+XIAOMI REDMI 10A SOFT CASE CASING HYBRID ARMOR DEFENCE SERIES
 Rp250.000
 Kota Jakarta Barat
 VALID_DATA_ABOVE
@@ -255,12 +259,12 @@ XIAOMI REDMI 10C 10A SOFT CASE CASING PLEXIGLASS LEATHER - REDMI 10C, Hitam
 Rp250.000
 Kota Jakarta Barat
 6
-Xiaomi Redmi 10A Redmi10A Shiny Shell Diamond Glass Case Hard Cover
-Rp35.000
-Kota Jakarta Utara
-6
 Xiaomi Redmi 10A Redmi10A Double Side Glass Magnetic Case Metal Cover
 Rp90.000
+Kota Jakarta Utara
+6
+Xiaomi Redmi 10A Redmi10A Shiny Shell Diamond Glass Case Hard Cover
+Rp35.000
 Kota Jakarta Utara
 4
 Samsung A10 / M10 Flip Caseme POLA Dompet Kulit Leather Cover Case
@@ -359,16 +363,16 @@ Kota Jakarta Timur
 Softcase UME Black Matte Protecth Camera Lens Xiaomi Redmi 10A
 Rp14.700
 Kota Jakarta Utara
-Hingga Rp5.000
-HMC Tempered Glass Xiaomi Redmi 10A Redmi 10C - TG Screen Guard Anti Gores Protector Temper Antigores
-Rp50.000
-Kota Jakarta Utara
 7
 VARIAN Casing Softcase Pro Camera Macaron Redmi Note 8 Pro Note 9 Note 9 Pro Redmi 10 10C 8A 9A 9C 9T Kesing Mika Pelindung Hp
 Rp15.000
 Rp18.000
 16%
 Kota Jakarta Pusat
+Hingga Rp5.000
+HMC Tempered Glass Xiaomi Redmi 10A Redmi 10C - TG Screen Guard Anti Gores Protector Temper Antigores
+Rp50.000
+Kota Jakarta Utara
 6
 Case Redmi 10/9/9C/9A/Note 7/Note 8/Note 9/Note 10 4G-Softcase Glitter - Redmi 10, White
 Rp40.000
@@ -577,6 +581,7 @@ Rp24.000
 Rp29.000
 17%
 Kota Surabaya
+Tambah ke Bag
 Soft Case Silikon Xiaomi Redmi 10A Bening Transparant Anti Crack
 Rp25.000
 Kota Surabaya
@@ -698,12 +703,12 @@ Kota Jakarta Barat
 SOFTCASE SLIDE KARAKTER XIAOMI REDMI 8 9 9A 9C 10 NOTE 7 9 10
 Rp39.900
 Kota Jakarta Barat
-8
-Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
-Rp39.999
-Kota Surabaya
 5
 Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
+Rp39.999
+Kota Surabaya
+8
+Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
 Rp39.999
 Kota Surabaya
 6
@@ -715,10 +720,10 @@ Kota Jakarta Selatan
 Custom Case Aero MotoGP Rossi Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp42.000
 Kota Bandung
-Custom Case rimuru Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Boarding Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Boarding Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case rimuru Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
 Case MCDONALD'S Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
@@ -742,7 +747,7 @@ Kota Bandung
 Custom Case Spider Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Coque Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Shinchan Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
 VALID_DATA_ABOVE
@@ -896,6 +901,7 @@ Kota Jakarta Barat
 XIAOMI REDMI 10A SOFT CASE CASING VEGAN LEATHER - Hitam
 Rp250.000
 Kota Jakarta Barat
+Tambah ke Bag
 FREE ONGKIR Casing Soft Kartun Doraemon Doll Xiaom Redmi Note 10 9s 9 8 7 6 Pro 4 4X S2 5A Prime 5 Plus 9t 6a 4a 8a Stand
 Rp245.500
 Rp368.250
@@ -980,17 +986,12 @@ Case Samsung A01,A21S,A51 M30S,M31,Note 8,Note 9,Note 10,Note 10+
 Rp200.000
 Kota Jakarta Barat
 3%(Rp5.940)
-CASE SAMSUNG A01,A21S,A51 M30S,M31,NOTE 8,NOTE 9,NOTE 10,NOTE 10+
+CUSTOM CASE SAMSUNG A10, A10S, A11, A20S, A21, A30, A31, A50, A70, A71
 Rp198.000
 Kab. Bekasi
-Promo
-01
-:
-06
-:
-05
-CUSTOM CASE SAMSUNG A10, A10S, A11, A20S, A21, A30, A31, A50, A70, A71
-Rp195.000
+3%(Rp5.940)
+CASE SAMSUNG A01,A21S,A51 M30S,M31,NOTE 8,NOTE 9,NOTE 10,NOTE 10+
+Rp198.000
 Kab. Bekasi
 Soft Case Tpu Motif Pop It Untuk Xiaomi Redmi 9t Note 8 Pro 9s 7 10 9A 9C Poco M3 F3 X3 K40 Mi 11 Mi 8 Redmi 10 FREE ONGKIR
 Rp187.500
@@ -1041,12 +1042,12 @@ Rp148.600
 Rp222.900
 33%
 Kota Jakarta Selatan
-Astronaut Case Xiaomi Redmi 8 9 9a 9c 9t10 note7 note 8 8pro note 9 9pro 9s note10 note10s
+Astronaut Case Xiaomi Redmi 8 9 9a 9c 9t10 note7 note 8 8pro note 9 9pro 9s note10 note10s 10pro?4G?10pro?5g?Disney Square Soft FREE ONGKIR
 Rp148.100
 Rp222.150
 33%
 Kota Jakarta Selatan
-Astronaut Case Xiaomi Redmi 8 9 9a 9c 9t10 note7 note 8 8pro note 9 9pro 9s note10 note10s 10pro?4G?10pro?5g?Disney Square Soft FREE ONGKIR
+Astronaut Case Xiaomi Redmi 8 9 9a 9c 9t10 note7 note 8 8pro note 9 9pro 9s note10 note10s
 Rp148.100
 Rp222.150
 33%
@@ -1104,6 +1105,140 @@ VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
 BLIBLI Filter by Lowest Price                                         VALID_DATA_BELOW
+6
+Softcase Redmi 10X 4G 9A 9C 9T 9 Power Silikon Slim Fit Carbon Fiber Case Casing Shockproof Cover
+Rp11.500
+Rp55.000
+79%
+Kota Jakarta Utara
+3,0
+(1)
+Terjual 5
+CASE XIAOMI MI A1 POCO X3 POCO X3 GT POCO M3 REDMI 6 9 10 REDMI NOTE 4 NOTE 8 NOTE 9 PRO NOTE 10 PRO NOTE 3 NOTE 4 NOTE 5A NF CASE CARBON FIBER IPAKY
+Rp13.000 - Rp20.000
+Kota Surabaya
+10
+Macaron silicon softcase case Redmi note 8pro 9pro 10pro 10 5G 5a
+Rp13.950
+Kota Surabaya
+9
+Macaron silicon softcase cae Redmi 4a 5+ 5plus plus 9T Note 10 10s
+Rp13.950
+Kota Surabaya
+Softcase UME Black Matte Protecth Camera Lens Xiaomi Redmi 10A
+Rp14.700
+Kota Jakarta Utara
+4
+Case ,casing,silikon macaron Redmi 9 9A 9C 10 note 7 7pro
+Rp14.950
+Kota Surabaya
+5
+Soft Case Xiaomi Redmi 10A Aero Color Button Matte Frame Camera
+Rp15.000
+Rp20.000
+25%
+Kota Surabaya
+5,0
+(1)
+Terjual 1
+5
+Softcase Casing Hp RealMe 9 Pro Plus RealMe C31 RealMe C35 Reno 7 4G Reno 7Z Redmi 10A Redmi 10C Pocophone C31 Vivo Y75 Kesing Mika Case Silikon Hp
+Rp15.000
+Kota Jakarta Pusat
+7
+VARIAN Casing Softcase Pro Camera Macaron Redmi Note 8 Pro Note 9 Note 9 Pro Redmi 10 10C 8A 9A 9C 9T Kesing Mika Pelindung Hp
+Rp15.000
+Rp18.000
+16%
+Kota Jakarta Pusat
+CASE XIAOMI NOTE 5 PRO NOTE 7 NOTE 8 NOTE 9 NOTE 9 PRO NOTE 10 NOTE 10 PRO POCO M3 X3 REDMI 10 10C 5A 9 9A 9C SOFTCASE CUTE CASE CUTE KARTUN
+Rp15.000
+Rp22.000
+31%
+Kota Surabaya
+SOFTCASE KARAKTER XIAOMI NOTE 10 NOTE 4 POCO M3 POCO X3 REDMI 8 REDMI 9A REDMI 9C REDMI 9T CASE HANDPHONE SC GAMBAR
+Rp16.000
+Rp24.000
+33%
+Kota Surabaya
+CASE XIAOMI NOTE 8 8 PRO 9 9 PRO 10 NOTE 10 5G NOTE 10 PRO POCO F3 M3 X3 REDMI 8 8A 9 9A 9C 9T 10 SOFTCASE CANDY CRACK
+Rp16.000 - Rp18.000
+Kota Surabaya
+5,0
+(1)
+Terjual 1
+ANTI GORES XIAOMI NOTE 10 NOTE 7 NOTE 9 NOTE 9 PRO POCO X3 REDMI10C REDMI 9 REDMI 9A REDMI 9C HYDROGEL TALKTIME
+Rp16.000
+Rp21.000
+23%
+Kota Surabaya
+CASE XIAOMI NOTE 10 NOTE 10 PRO NOTE 8 NOTE 8 PRO NOTE 9 NOTE 9 PRO REDMI 8 REDMI 8A REDMI 9 REDMI 9A REDMI 9C SOFTCASE MACARON
+Rp17.000
+Rp28.000
+39%
+Kota Surabaya
+CASE XIAOMI NOTE 10 NOTE 10 PRO NOTE 4 NOTE 7 NOTE 8 NOTE 8 PRO NOTE 9 NOTE 9 PRO REDMI 9 REDMI 9A REDMI 9C 9T CASE RAINBOW COLOUR SOFTCASE UME DOVE
+Rp17.000
+Rp23.000
+26%
+Kota Surabaya
+CASE VIVO Y15s Y17 Y20 Y21S Y30 Y91 XIAOMI NOTE 10 10 PRO 11 11 PRO 4X 5 PRO 7 8 9 REDMI 10C 9 9A SOFTCASE MACARON CAMERA PROTECTION CASE CANDY POLOS
+Rp17.000
+Rp24.000
+29%
+Kota Surabaya
+CASE XIAOMI NOTE 10 NOTE 10 PRO NOTE 4 NOTE 7 POCO M3 POCO X3 REDMI 9A REDMI 9C REDMI 9T CASE HANDPHONE MOTIF KOPI SOFTCASE RUBBER KOPI
+Rp18.000
+Rp25.000
+28%
+Kota Surabaya
+CASE CLEAR XIAOMI 11T 11 LITE NOTE 8 8 PRO NOTE 9 NOTE 10 NOTE 10 PRO REDMI 6A REDMI 9 A 9C 9T REDMI 10 POCO F3 POCO X3 SOFTCASE CLEAR CANDY
+Rp18.000
+Rp26.000
+30%
+Kota Surabaya
+CASE XIAOMI NOTE 10 NOTE 5A NOTE 5 PRO NOTE 6 PRO NOTE 7 NOTE 8 NOTE 8 PRO NOTE 9 NOTE 9 PRO POCO M3 POCO X3 REDMI 8 9 9A 9C 9T SOFTCASE CLEAR BUTTON
+Rp18.000
+Rp24.000
+25%
+Kota Surabaya
+5
+5%(Rp1.000)
+CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
+Rp20.000
+Kota Jakarta Selatan
+5,0
+(1)
+Terjual 4
+CASE XIAOMI REDMI 10 S2 9A 7A 6 4X CASING TALI SLING GANTUNGAN LANYRAD
+Rp20.000
+Kota Jakarta Barat
+5
+Casing Softcase Bumper Case Xiaomi Pocophone X3 / Mi 10T Pro / Redmi 5A / Redmi 9T / Redmi Note 10 Pro Kesing Mika Silikon Hp
+Rp20.000
+Kota Jakarta Pusat
+5,0
+(1)
+Terjual 3
+8
+Softcase Anti Crack Macaron Casing Mika Redmi 8 8A Pro 9 9A 9C 9T Redmi Note 8 Pro Redmi Note 9 Pro Redmi Note 10 Pocophone M3 Kesing Silikon Pelindun
+Rp20.000
+Kota Jakarta Pusat
+Terjual 1
+4
+Xiaomi Redmi 8-Oppo Reno 10- A51-A71 Hydrogel anti gores full covered
+Rp20.000 - Rp22.900
+Kota Jakarta Barat
+CASE XIAOMI REDMI 10 9 9A 9C NOTE 10 NOTE 10 PRO NOTE 8 NOTE 8 PRO NOTE 9 NOTE 9 PRO SOFTCASE GLITTER BLINK SOFTCASE GLITTER
+Rp21.000
+Rp28.000
+25%
+Kota Surabaya
+SOFTCASE SLIDE CAMERA XIAOMI MI 10T NOTE 10 NOTE 10 PR NOTE 8 PRO NOTE 9 PRO POCO M3 POCO X3 REDMI 5A 9 9A 9C 9T CASE KARAKTER LUCU CASE RUBBER GAMBAR
+Rp21.000
+Rp29.000
+27%
+Kota Surabaya
 CASE XIAOMI REDMI 9A 9C NOTE 10 POCO M3 PRO X3 SOFTCASE K CANDY LENS COLOUR
 Rp22.000
 Rp28.000
@@ -1119,10 +1254,6 @@ Terjual 23
 XIAOMI REDMI 10A HARDCASE ICRYSTAL ROBOT STANDING TRANSFORMER
 Rp22.900
 Kota Bekasi
-2
-Xiaomi Redmi 8-Oppo Reno 10- A51-A71 Hydrogel anti gores full covered
-Rp22.900
-Kota Jakarta Barat
 CASE XIAOMI NOTE 10 8 8 PRO 9 REDMI 9 9A 9C 9T POCO X3 GT REALME C20 C11 2020 C21Y SOFTCASE DOVE CASE K DOVE PCM
 Rp24.000
 Rp29.000
@@ -1164,6 +1295,7 @@ Rp26.000
 Rp32.000
 18%
 Kota Surabaya
+Tambah ke Bag
 5
 Silikon Softcase HK Eraseable Xiaomi 9A 9C Note9 Pro Mi10T Pro Poco X3
 Rp26.250
@@ -1174,6 +1306,8 @@ Kab. Tangerang
 Case Samsung A32 4G Redmi note 10 pro Window Camera Slide Dove Casing
 Rp29.000
 Kota Jakarta Barat
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
 Grosir
 CASE CASING SOFTCASE TRANSPARAN CLEAR BENING TPU XIAOMI REDMI 10A
 Rp30.000
@@ -1247,12 +1381,12 @@ Kota Jakarta Barat
 SOFTCASE SLIDE KARAKTER XIAOMI REDMI 8 9 9A 9C 10 NOTE 7 9 10
 Rp39.900
 Kota Jakarta Barat
-8
-Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
-Rp39.999
-Kota Surabaya
 5
 Soft Case Xiaomi Redmi 10A Slim Matte Silicon Sandstone
+Rp39.999
+Kota Surabaya
+8
+Soft Case Xiaomi Redmi 10A Liquid Silikon Slim Skin
 Rp39.999
 Kota Surabaya
 6
@@ -1264,17 +1398,15 @@ Kota Jakarta Selatan
 Custom Case Aero MotoGP Rossi Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp42.000
 Kota Bandung
-Custom Case rimuru Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Boarding Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Boarding Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case rimuru Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
 Case MCDONALD'S Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
 Custom Case Gundam Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
@@ -1293,10 +1425,10 @@ Kota Bandung
 Custom Case Spider Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Coque Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Shinchan Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Shinchan Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Coque Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
 Case Nike Adidas Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
@@ -1308,553 +1440,415 @@ Kota Bandung
 Custom Case BTS Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Fornite Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
 Custom Case BTS Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case BLACKPINK Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case Fornite Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
 Custom Case Jesus Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
 Kota Bandung
-Custom Case Cokelat Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
+Custom Case BLACKPINK Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
 Rp43.000
-Kota Bandung
-Custom Case Muslim Islam Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Saiki Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Straykids Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case BTS Winter Package Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Goku siluet Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Martial Art Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Case DHL V4 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Arya Saloka Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case BTS MOTS Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Saiki v2 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Vampire Knight Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Dino Lucky Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Death Note Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Starbucks V2 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Doraemon V4 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Doraemon V8 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Red Velvet Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Marvel V4 Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Candy Candy Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Stray Kid Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Boba Drink Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case PP 0008 Pangram Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Boarding Pass Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-Custom Case Enhypen Candle Redmi 2 3 4 5 6 7 8 9 10 S2 GO K20 K30 Note Pro Prime MI 8 9T 10 11 5X A1 6X 1 2 3 A2 A2 Lite Play Max
-Rp43.000
-Kota Bandung
-VALID_DATA_ABOVE
-| FAIL |
-ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (1232, -14)
-  (Session info: chrome=99.0.4844.51)
-Stacktrace:
-Backtrace:
-	Ordinal0 [0x00F19943+2595139]
-	Ordinal0 [0x00EAC9F1+2148849]
-	Ordinal0 [0x00DA4528+1066280]
-	Ordinal0 [0x00DD7621+1275425]
-	Ordinal0 [0x00DD5657+1267287]
-	Ordinal0 [0x00DD333B+1258299]
-	Ordinal0 [0x00DD207D+1253501]
-	Ordinal0 [0x00DC7AB3+1211059]
-	Ordinal0 [0x00DEB9EC+1358316]
-	Ordinal0 [0x00DC7474+1209460]
-	Ordinal0 [0x00DEBC04+1358852]
-	Ordinal0 [0x00DFBAF2+1424114]
-	Ordinal0 [0x00DEB806+1357830]
-	Ordinal0 [0x00DC6086+1204358]
-	Ordinal0 [0x00DC6F96+1208214]
-	GetHandleVerifier [0x010BB232+1658114]
-	GetHandleVerifier [0x0117312C+2411516]
-	GetHandleVerifier [0x00FAF261+560433]
-	GetHandleVerifier [0x00FAE366+556598]
-	Ordinal0 [0x00EB286B+2173035]
-	Ordinal0 [0x00EB75F8+2192888]
-	Ordinal0 [0x00EB76E5+2193125]
-	Ordinal0 [0x00EC11FC+2232828]
-	BaseThreadInitThunk [0x764AFA29+25]
-	RtlGetAppContainerNamedObjectPath [0x770C7A9E+286]
-	RtlGetAppContainerNamedObjectPath [0x770C7A6E+238]
-------------------------------------------------------------------------------
-BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
-Hingga 5%
-Sarung Magnet/ Flip Cover/ Wallet/ Case Dompet Hp Samsung A10 / M10
-Rp82.000
-Kab. Bekasi
-Promo
-01
-:
-03
-:
-58
-Sarung Magnet/ Flip Cover/ Wallet/ Case Dompet Hp Samsung A10 / M10
-Rp79.000
-Kab. Bekasi
-Casing Samsung S20 BRRRRT A10 Warthog Milit A04507 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 Black Lancer Evolution 10 A03660 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10th Birthday Llama Llama A00425 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10 Things I Want In Life A00413 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10th Anniversary Wedding A00422 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10th Birthday Basketball A00423 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10 things I hate about yo A00412 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10th Birthday Level Up 10 A00424 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S3083Fish Art Image 10 A08868 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10. Panzerdivision A00415 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10th Mountain Division In A00426 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 Chelle Q10 A05161 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10 Kevin Hart Quote 20010 A00411 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S1096Devil A 10 A06902 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S3169Custom Toyota Corolla E10 A06163 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 10 Types of Cyclists le A00414 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-Casing Samsung S20 A10 OA10 Thunderbolt II A00968 Bahan 3d Hardcase Warna dasar casing Putih
-Rp79.000
-Rp95.000
-16%
-Kota Bogor
-(Ready Stock) Casing Softcase Xiaomi Mi 11 Lite Redmi 9 9a 9c Note 10s 10 9 9s Pro 8 Transparan Shockproof Motif Kartun Kelinci FREE ONGKIR
-Rp78.800
-Rp118.200
-33%
-Kota Jakarta Selatan
-Soft Case Pelindung Lensa Untuk Redmi Note 11 10 9 8 Pro Redmi 10 9a 9c 9t Xiaomi Poco X3 Pro X3 Nfc F3 M3 11t Pro 11 Lite
-Rp78.200
-Rp117.300
-33%
-Kota Jakarta Selatan
-(Ready Stock) Casing Softcase Xiaomi Mi 11 Lite Redmi 9 9a 9c Note 10s 10 9 9s Pro 8 Transparan Shockproof Motif Kartun Kelinci
-Rp78.200
-Rp117.300
-33%
-Kota Jakarta Pusat
-(Ready Stock) Casing Softcase Xiaomi Mi 11 Lite Redmi 9 9a 9c Note 10s 10 9 9s Pro 8 Transparan Shockproof Motif Kartun Kelinci FREE ONGKIR
-Rp78.200
-Rp117.300
-33%
-Kota Jakarta Pusat
-4
-Samsung Galaxy A10s Flip Caseme POLA Dompet Kulit Leather Cover Case
-Rp78.000
-Kota Jakarta Utara
-4
-Samsung A10 / M10 Flip Caseme POLA Dompet Kulit Leather Cover Case
-Rp78.000
-Kota Jakarta Utara
-5,0
-(1)
-Terjual 2
-SOFTCASE CONY BROWN SAMSUNG A10S A20S A70 OPPO F11 F11 PRO A37 A39 F7
-Rp77.900
-Rp82.000
-5%
-Kota Jakarta Pusat
-CASE KOREA MILK OPPO A9 2020 A5 2020 A1K A30 A10S F1S A37 Y95 V7 V9
-Rp77.900
-Rp82.000
-5%
-Kota Jakarta Pusat
-SOFTCASE STARWARS REALME 3 3 PRO A10 A50 A70 F11 PRO A37 A39 F7 F5 V11
-Rp77.900
-Rp82.000
-5%
-Kota Jakarta Pusat
-SOFTCASE SAMSUNG IPHONE 7 8 6 A10 M30 M20 M10 A8 A6 A7 A9 J7 PRO
-Rp77.900
-Rp82.000
-5%
-Kota Jakarta Pusat
-Redmi 10s 9s 10 9 8 Pro Redmi 10 9A 9C 9T Xiaomi Poco X3 Pro X3 NFC M3 11Lite 11T Pro Case Cute Couples Clear Card Soft Protective FREE ONGKIR
-Rp77.700
-Rp116.550
-33%
-Kota Jakarta Selatan
-Casing Tpu Xiaomi Redmi 10 9A POCO M3 Pro F3 MI 11 Lite 10 10T Redmi Note 10 10s 10pro Max Poco M3 X3 NFC Redmi 9t 9 Note 8 9 FREE ONGKIR
-Rp76.900
-Rp115.350
-33%
-Kota Jakarta Timur
-Casing Xiaomi POCO F3 POCO M3 Pro 5G Mi 11 Lite 10 10T Redmi 10 9A Love Heart Phone Case Xiaomi Redmi
-Rp76.500
-Rp114.750
-33%
-Kota Jakarta Selatan
-2
-rantai clover case redmi note 10 10s pro 9 9s 8 9a 9t poco m3 mi 11
-Rp76.500
-Kota Tangerang
-Casing Xiaomi POCO F3 POCO M3 Pro 5G Mi 11 Lite 10 10T Redmi 10 9A Love Heart Phone Case Xiaomi Redmi Note 9 8 10 10s FREE ONGKIR
-Rp76.100
-Rp114.150
-33%
-Kota Jakarta Timur
-Casing Xiaomi POCO F3 POCO M3 Pro 5G Mi 11 Lite 10 10T Redmi 10 9A Love Heart Phone Case Xiaomi FREE ONGKIR
-Rp76.100
-Rp114.150
-33%
-Kota Jakarta Selatan
-Promo
-01
-:
-03
-:
-58
-Soft Case Casing Redmi Note 5 7 8 9 10 Pro Xiaomi Starbuck Silikon - A. Note, Rdm Note 8
-Rp76.000
-Kota Jakarta Barat
-CARSTENEZIO Motif Batik 10 Casing for Xiaomi Redmi Note 5A Prime - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-HEAVENCASE Motif Bendera Indonesia 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-HEAVENCASE Motif Batik Bunga 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-G390 SOFTCASE KACA KILAU XIAOMI REDMI NOTE 9 9 PRO 8 8 PRO 7 7 PRO 9T 9C 9A 8A REDMI 8 9 REDMI 10 REDMI NOTE 10/10S NOTE 10
-Rp75.000
-Kota Tasikmalaya
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
-HEAVENCASE Motif Kucing Lucu 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-5,0
-(1)
-Terjual 1
-HEAVENCASE Motif Superhero Ironman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-HEAVENCASE Motif Superhero Captain America 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-HEAVENCASE Motif Superhero Spiderman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-CARSTENEZIO Motif Tribal 10 Casing for Xiaomi Redmi Note 5A Prime - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-HEAVENCASE Motif Superhero Superman 10 Hardcase Casing for Xiaomi REDMI 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-Aesthetic Case Xiaomi Redmi 10A Softcase Polos Casing
-Rp75.000
-Kota Bogor
-HEAVENCASE Motif Superhero Batman 10 Hardcase Casing for Xiaomi Redmi 5A - Hitam
-Rp75.000
-Rp135.000
-44%
-Kota Jakarta Timur
-Soft Case Bahan Tpu Desain Off-White Untuk Xiaomi Poco X3 Nfc Pro Poco M3 F3 M3 Pro Xiaomi 10 10T 11 Lite Redmi 9t 9A 10 9 9c
-Rp74.600
-Rp111.900
-33%
-Kota Jakarta Selatan
-Soft Case TPU Motif Hati Warna Gradasi Untuk Samsung A32 A53 A13 A22 A52 A03s A52s A33 A72 A11 A51 A10S M11 A71 A12 A31 A21s FREE ONGKIR
-Rp74.300
-Rp111.450
-33%
-Kota Jakarta Timur
-INS Gradient Love Heart Case Samsung A32 A22 A52 A03s A52s A72 A11 A51 A10S M11 M22 M32 F22 A71 A12 A31 A21s A20s A50 A30S FREE ONGKIR
-Rp74.300
-Rp111.450
-33%
-Kota Jakarta Selatan
-INS Gradient Love Heart Case Samsung A32 A22 A52 A03s A52s A72 A11 A51 A10S M11 M22 M32 F22 A71 A12 A31 A21s A20s A50 A30S A50s Colorful Soft
-Rp74.100
-Rp111.150
-33%
-Kota Jakarta Selatan
-Soft Case TPU untuk Realme C12 C15 5i C11 C17 C2 6 C3 5 7 7i Narzo C1 5S U1 6i 6S C3i 10 10A 20A Narzo 20 PRO FREE ONGKIR
-Rp73.800
-Rp110.700
-33%
-Kota Jakarta Timur
-Casing Xiaomi POCO X3 NFC Redmi 10 9A Mi Poco M3 Pro 5G POCO F3 Mi 11 Lite 10 10T Case Redmi Note10 Not
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Selatan
-Casing Handphone Xiaomi Redmi 9a 10 9c Nfc Note 9 10 10s 10pro Max Plus Note 11 Pro 11 Lite Poco M3 X3 Pro Model Dompet
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Selatan
-Case Samsung A31 A32 A11 A22 A51 A52 A72 A71 A21s A12 A50 A50s A30s M12 M11 M22 M32 F22 A20s A10 Cute Cartoon Rabbit Tsransparent Soft TPU Cover
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Selatan
-Case Samsung A31 A32 A11 A22 A51 A52 A72 A71 A21s A12 A50 A50s A30s M12 M11 M22 M32 F22 A20s A10 Cute Cartoon Rabbit Tsransparent Soft FREE ONGKIR
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Timur
-Case Samsung A31 A32 A11 A22 A51 A52 A72 A71 A21s A12 A50 A50s A30s M12 M11 M22 M32 F22 A20s A10 Cute Cartoon Rabbit Tsransparent Soft FREE ONGKIR
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Selatan
-Casing Samsung A21s A32 A03s A52s A12 A52 A72 A50 A50s A30s A51 A71 A31 M12 A11 A10s M11 A71 A70 A20s Straight Edge Ins
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Selatan
-Xiaomi Redmi 9 10 9A 9T 9C NFC Soft Case Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO FREE ONGKIR
-Rp72.000
-Rp108.000
-33%
-Kota Jakarta Timur
-Case Soft Tpu Smiley for Xiaomi 11 Lite 10T 10 POCO X3 NFC Pro POCO M3 Pro POCO F3 POCO M3 Redmi 9A 9T 10 9 9C NFC Note 8 9 FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Timur
-Casing Xiaomi POCO X3 NFC Redmi 10 9A Mi Poco M3 Pro 5G POCO F3 Mi 11 Lite 10 10T Case Redmi Note10 Note10pro FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Timur
-Xiaomi Redmi 9 10 9A 9T 9C NFC Soft Case Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Selatan
-Xiaomi Redmi 9 10 9A 9T 9C NFC Soft Case Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Selatan
-Casing Samsung A21s A32 A03s A52s A12 A52 A72 A50 A50s A30s A51 A71 A31 M12 A11 A10s M11 A71 A70 A20s FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Selatan
-Case Soft Tpu Smiley for Xiaomi 11 Lite 10T 10 POCO X3 NFC Pro POCO M3 Pro POCO F3 POCO M3 Redmi 9A 9T 10 9 9C FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Selatan
-Soft Case Tpu Motif Bunga Untuk Xiaomi Poco M3 X3 Pro Nfc Redmi 10 9A 9 9T 9C Nfc Redmi Note 9 8 Note 10S 10 Pro Max Plus FREE ONGKIR
-Rp71.500
-Rp107.250
-33%
-Kota Jakarta Selatan
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
-Kota Bandung
-Pre-order
-Case Pelindung Pola Naga Redmi Note 10 8 Pro K20 Pro 9A Note 7
-Rp71.000
-Rp101.000
-29%
 Kota Bandung
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
-BlibliElectronic :: This test suite to test functionality survey, ... | FAIL |
-5 tests, 4 passed, 1 failed
+BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
+5%(Rp5.150)
+Casing Samsung Galaxy M10 / A10 Fusion Softcase Anti Crack Tough Armor
+Rp103.000
+Kab. Bekasi
+Casing Hardcase Xiaomi Redmi Note 10 Pro Rabbit like a Banana FS7504
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Hardcase Casing Xiaomi Redmi Note 10 Couple Anime Hanako FLL0013A
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Casing Hardcase Xiaomi Redmi Note 10 Pro Lazy like a Monday FS7503
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Hardcase Casing Xiaomi Redmi Note 10 Im A Batcorn FS2024
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Casing Hardcase Xiaomi Redmi Note 10 Pro everything happens for a reason FS9592
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Cococase Goku Super Saiyan Blue Kaioken X10 Z5277 Casing for Xiaomi Redmi 6A
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Flazzstore Hardcase Casing Xiaomi Redmi Note 10 Pro be a Unicorn Magic FLL0037
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Casing Hardcase Xiaomi Redmi Note 10 Lazy like a Monday FS7503
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Casing Hardcase Xiaomi Redmi Note 10 Rabbit like a Banana FS7504
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Hardcase Casing Xiaomi Redmi Note 10 Pro Im A Batcorn FS2024
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Flazzstore Hardcase Casing Xiaomi Redmi Note 10 be a Unicorn Magic FLL0037
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Hardcase Casing Xiaomi Redmi Note 10 Pro Couple Anime Hanako FLL0013A
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+Casing Hardcase Xiaomi Redmi Note 10 everything happens for a reason FS9592
+Rp100.000
+Rp115.000
+13%
+Kota Semarang
+FREE ONGKIR Side Pattern Case Redmi 10 Note 10S 5G 9 8 7 9A 9C 9T POCO X3 GT F3 F2 Pro Xiaomi Mi 11 Lite 10T Cartoon Lovely Astronaut Moon NASA
+Rp98.800
+Rp148.200
+33%
+Kota Jakarta Selatan
+FREE ONGKIR Soft Case Tpu Transparan Dengan Ring Untuk Redmi 10 Redmi Note 10s 9s 8 10 9 Pro Redmi 9a 9t 9c Xiaomi Mi 11 Lite Mi 11t
+Rp98.300
+Rp147.450
+33%
+Kota Jakarta Barat
+shine chain case xiaomi 9c 8 8a Mi 11 10T 8 Lite PocoPhone X3 NFC M3
+Rp98.100
+Kota Tangerang
+Casing Redmi Note 10 10S 9 8 8A 7 6 6A 5 5A 4 4A 4X Pro Xiaomi MI A1 3D Milk Tea Cup Cute Bear Soft Case Cover+Doll GRATIS ONGKIR
+Rp97.900
+Rp146.850
+33%
+Kota Jakarta Selatan
+FREE ONGKIR Casing Xiaomi Redmi 10 Redmi Note 10 Pro Poco X3 Pro Poco X3 Nfc M3 Pro Redmi 9t 9a 9c Note 9s Note 9 Pro Note 8 Note 7 Motif Bunga Case
+Rp95.100
+Rp142.650
+33%
+Kota Jakarta Selatan
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C FREE ONGKIR
+Rp94.500
+Rp141.750
+33%
+Kota Jakarta Selatan
+Side Pattern Phone Case Xiaomi Redmi 10 9A 9T 9 9C NFC POCO X3 Pro NFC POCO M3 Redmi Note 10 10s 10pro Max Plus Note9 Note8 FREE ONGKIR
+Rp94.500
+Rp141.750
+33%
+Kota Jakarta Selatan
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C FREE ONGKIR
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Selatan
+FREE ONGKIR Casing Xiaomi Redmi 10 9a Redmi Note 10 9 8 10s 9pro 10pro Max Xiaomi Poco X3 Nfc X3 Pro Poco M3 Redmi 9c Nfc 9t 9 Motif One Piece
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Selatan
+FREE ONGKIR NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 PRO POCO M3 Redmi 9C
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Selatan
+NASA Astronaut Case Xiaomi Redmi 10 9A Redmi Note 10 9 8 10S 9PRO 10 PRO MAX Xiaomi POCO X3 NFC X3 FREE ONGKIR
+Rp94.100
+Rp141.150
+33%
+Kota Jakarta Timur
+2
+case fur bunny Huawei Y7 Y5 2019 Y6 2018 Y5P Y6P Y7A V9 Play4T V10 V20
+Rp92.500
+Kota Tangerang
+2
+case fur bunny samsung A10 M10 M20 M30 M403 A20 A30 A50 S A60 A70 A90
+Rp92.500
+Kota Tangerang
+6
+Samsung A10 A20 A30 A30S A50S A50 A10S A20S M20 A70 A80 Max double side magnetic case
+Rp90.000
+Rp105.000
+14%
+Kota Jakarta Barat
+6
+Xiaomi Redmi 10A Redmi10A Double Side Glass Magnetic Case Metal Cover
+Rp90.000
+Kota Jakarta Utara
+Aesthetic One Piece Case Xiaomi Redmi 10A Softcase Casing Silikon
+Rp90.000
+Kota Bogor
+Casing IPhone 11 12 Pro Max TPU Glasscase Devil A 10 520893
+Rp89.000
+Rp99.000
+10%
+Kota Bogor
+Casing IPhone 11 12 Pro Max TPU Glasscase A10 OA10 Thunderbolt II 152725
+Rp89.000
+Rp99.000
+10%
+Kota Bogor
+2
+dompet sling case unicorn A10 A20 A30 A40 A50 A60 A70 A80 M10 M20 M30
+Rp88.500
+Kota Tangerang
+dompet sling case unicorn A10 A20 A30 A40 A50 A60 A70 A80 M10 M20 M30 - putih
+Rp88.500
+Kota Tangerang
+Hingga Rp10.000
+Skin Gliter Oppo A39-Garskin Glitter-Stiker Gliter Oppo Neo 10-
+Rp88.000
+Kota Bandung
+Redmi 10 9T 9 9A Note 8 9 10 10S 4G 5G K30 Pro Xiaomi Mi 10 11 10T POCO M3 X3 GT F3 F2 Pro Pocophone X3 NFC Upgrade Camera Lens Protection FREE ONGKIR
+Rp87.900
+Rp131.850
+33%
+Kota Jakarta Timur
+Redmi 10 9T 9 9A Note 8 9 10 10S 4G 5G K30 Pro Xiaomi Mi 10 11 10T POCO M3 X3 GT F3 F2 Pro Pocophone X3 NFC UpgradeFREE ONGKIR
+Rp87.900
+Rp131.850
+33%
+Kota Jakarta Selatan
+CardHolder Casing For Xiaomi Mi 10T 11 Lite 10 Poco X3 M3 Pro NFC Redmi Note 10 9 8 Pro Max 10s 9s 9A 9C 9T Cover Cute Cartoon FREE ONGKIR
+Rp87.900
+Rp131.850
+33%
+Kota Jakarta Selatan
+Lihat Detail
+Redmi 10 9T 9 9A Note 8 9 10 10S 4G 5G K30 Pro Xiaomi Mi 10 11 10T POCO M3 X3 GT F3
+Rp87.900
+Rp131.850
+33%
+Kota Jakarta Selatan
+XIAOMI 11 4G 5G 9 8 Note10 Lite Pro Redmi Note11 Note10s Note9 Note8 Note7 Note6 9T 9 9A 9C 8 7 A3 Note 10 9 8 7 6 POCO M3 X3 Art Soft CASE
+Rp87.400
+Rp131.100
+33%
+Kota Jakarta Selatan
+VALID_DATA_ABOVE
+VALID_DATA_BELOW
+Casing Redmi Note 10 9s 9 8 7 Pro Redmi 9C 9A 9T Cool Tide Brand Kaws Soft Phone Case Shockproof Protective Cover
+Rp87.000
+Rp130.500
+33%
+Kota Jakarta Selatan
+Luffy & Son Goku Xiaomi Poco M3 Pro X3NFC X3Pro Redmi 10 9T 9A 9C 9 Note 10 9 8 Pro 9T Xiaomi Mi 11 lite 10T P
+Rp87.000
+Rp130.500
+33%
+Kota Jakarta Selatan
+FREE ONGKIR (Ready Stock) Casing Softcase Xiaomi Mi 11 Lite Redmi 9 9a 9c Note 10s 10 9 9s Pro 8 Transparan Shockproof Motif Kartun Kelinci
+Rp86.800
+Rp130.200
+33%
+Kota Jakarta Selatan
+Casing Popsocket Black DHL Case Samsung A50 A12 A51 A32 A71 A21S A11 M11 A52 A72 J2Prime J7Prime A10S A20S A70 A20 A10 A30S FREE ONGKIR
+Rp85.900
+Rp128.850
+33%
+Kota Jakarta Timur
+Soft Case Tpu Motif Nasa Astronot Untuk Xiaomi Redmi 9a 9 10 9t 9c Nfc Redmi Note 10 10s 10pro Max Plus Note9 Note8 Poco X3 Pro Nfc M3
+Rp85.800
+Rp128.700
+33%
+Kota Jakarta Selatan
+Xiaomi Redmi 9C 9T 9 10 8 8A 7A 9A 8A Ultra Redmi Note 9T 10 Pro 8 Pro 9 Pro 10X 10S 10Pro Max Note 9s Wallet Credit Card Slot Phone FREE ONGKIR
+Rp85.500
+Rp128.250
+33%
+Kota Jakarta Selatan
+Casing Xiaomi Redmi 10 9a Redmi Note 10 9 8 10s 9pro 10pro Max Xiaomi Poco X3 Nfc X3 Pro Poco M3 Redmi 9c Nfc 9t 9
+Rp85.500
+Rp128.250
+33%
+Kota Jakarta Selatan
+Soft Case Tpu Motif Nasa Nfc Untuk Xiaomi Redmi Note 10 9 8 10s 10pro Max Plus Redmi 9 9a 10 9t 9c Poco M3 X3 Pro
+Rp85.500
+Rp128.250
+33%
+Kota Jakarta Selatan
+Casing Xiaomi Redmi 10 9a Redmi Note 10 9 8 10s 9pro 10pro Max Xiaomi Poco X3 Nfc X3 Pro Poco M3 Redmi 9c Nfc 9t 9 FREE ONGKIR
+Rp85.500
+Rp128.250
+33%
+Kota Jakarta Selatan
+Soft Case Tpu Motif Nasa Nfc Untuk Xiaomi Redmi Note 10 9 8 10s 10pro Max Plus Redmi 9 9a 10 9t 9c Poco M3 X3 Pro FREE ONGKIR
+Rp85.500
+Rp128.250
+33%
+Kota Jakarta Selatan
+Casing Xiaomi Redmi 10 9a Redmi Note 10 9 8 10s 9pro 10pro Max Xiaomi Poco X3 Nfc X3 Pro Poco M3 Redmi 9c Nfc 9t 9 FREE ONGKIR
+Rp85.400
+Rp128.100
+33%
+Kota Jakarta Selatan
+Casing Xiaomi Redmi 10 9a Redmi Note 10 9 8 10s 9pro 10pro Max Xiaomi Poco X3 Nfc X3 Pro Poco M3 Redmi 9c Nfc 9t 9 FREE ONGKIR
+Rp85.400
+Rp128.100
+33%
+Kota Jakarta Timur
+Soft Case Tpu Motif Nasa Untuk Xiaomi Redmi Note 10 10s 10pro Max Plus Redmi 10 9 9a 9t 9c Nfc Poco X3 Pro Nfc Poco M3 Note9 Note8
+Rp85.400
+Rp128.100
+33%
+Kota Jakarta Selatan
+Soft Case Tpu Motif Astronot Nasa Untuk Samsung A32 A22 A12 M11 M22 M32 F22 A03S A31 A11 A51 A52 A50 A30S A50S A52S A21S M12 A20S A70 A10S
+Rp85.400
+Rp128.100
+33%
+Kota Jakarta Selatan
+Case Xiaomi Redmi 10A IMAK UC-3 Frosting Casing
+Rp85.100
+Rp105.000
+18%
+Kota Jakarta Timur
+Case Xiaomi Redmi 10A IMAK UX-5 TPU Casing
+Rp85.100
+Rp99.000
+14%
+Kota Jakarta Timur
+Casing Silikon Xiaomi Poco M3 X3 Nfc Poco X3 Pro Redmi 10 9 9a 9t 9c Note 10 9 8 10s 10pro Max Plus Motif One Piece FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Soft Case Motif Hati Untuk Xiaomi Redmi 10 9A 9 9T 9C NFC POCO X3 M3 Redmi Note 9 8 10 10S 10Pro Max
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Soft Case Tpu Motif Nasa Astronot Untuk Xiaomi Redmi 9a 9 10 9t 9c Nfc Redmi Note 10 10s 10pro Max Plus Note9 Note8 Poco X3 Pro Nfc M3
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Casing Silikon Xiaomi Poco M3 X3 NFC Poco X3 Pro Redmi 10 9 9A 9T 9C Note 10 9C 8 10s 10pro max plus Motif One Piece FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Timur
+Casing Silikon Xiaomi Poco M3 X3 Nfc Poco X3 Pro Redmi 10 9 9a 9t 9c Note 10 9 8 10s 10pro Max Plus Motif One Piece
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Casing Tpu Xiaomi Redmi 9a 10 9 9t 9c Nfc Poco M3 X3 Nfc Poco X3 Pro Redmi Note 9 8 10 10s 10pro Max Plus Motif Astronot Nasa
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Casing Silikon Xiaomi Redmi 9 10 9A 9T9C NFC Mi 11Lite POCO M3 Pro F3 X3 Pro NFC Redmi Note 9 10 10S 10Pro FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Soft Case Motif Print Astronot NFC Untuk Xiaomi Redmi 9A 10 9 9T 9C Poco M3 X3 Pro Redmi Note 9 8 10 10s 10pro max plus Samsung A03 FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Timur
+Casing Tpu Xiaomi Redmi 9a 10 9 9t 9c Nfc Poco M3 X3 Nfc Poco X3 Pro Redmi Note 9 8 10 10s 10pro Max Plus Motif Astronot Nasa FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Casing Silikon Xiaomi Poco M3 X3 NFC Poco X3 Pro Redmi 10 9 9A 9T 9C Note 10 9C 8 10s 10pro max plus Motif One Piece FREE ONGKIR
+Rp84.900
+Rp127.350
+33%
+Kota Jakarta Selatan
+Casing Redmi 10 9T 9C 9A Note 10 Pro 9s 9 8 Pro Xioami Poco X3 NFC X3Pro Tide Brand Kaws Soft Phone Case Shockproof Protective Cover
+Rp84.500
+Rp126.750
+33%
+Kota Jakarta Selatan
+Soft Case Motif Hati Untuk Samsung A11 A51 A52 A50 A21S A32 A22 A12 M11 A03S A30S A52S M12 A20S A71 A10S A72
+Rp83.300
+Rp124.950
+33%
+Kota Jakarta Selatan
+Casing Redmi Note 10 9s 9 8 7 Pro Redmi 9C 9A 9T Cool Tide Brand Kaws Soft Phone Case Shockproof Protective Cover FREE ONGKIR
+Rp83.300
+Rp124.950
+33%
+Kota Jakarta Timur
+Casing Redmi Note 10 9s 9 8 7 Pro Redmi 9C 9A 9T Cool Tide Brand Kaws Soft Phone Case Shockproof Protective Cover FREE ONGKIR
+Rp83.300
+Rp124.950
+33%
+Kota Jakarta Selatan
+Baru HARDCASE BLADE ACRYLIC REDMI 7 7A 8 8A PRO 9 9A 9C 9T 9 POWER REDMI 10 - REDMI 7A Berkualitas
+Rp82.950
+Rp112.180
+26%
+Kota Jakarta Timur
+Casing Handphone Samsung A03S A51 A50 A50S A30S A02S A72 A52S A32 A22 A10S A12 M12 M22 M32 F22 Motif Kartun
+Rp82.300
+Rp123.450
+33%
+Kota Jakarta Selatan
+Hingga 5%
+Sarung Magnet/ Flip Cover/ Wallet/ Case Dompet Hp Samsung A10 / M10
+Rp82.000
+Kab. Bekasi
+Hingga 5%
+Sarung Magnet/ Flip Cover/ Wallet/ Case Dompet Hp Samsung A10 / M10
+Rp82.000
+Kab. Bekasi
+Case HP Redmi 9 9C NFC POCO X3 NFC 8 6A 5A 4A 8A PRO 8A Dual 10X Redmi Note 9 8 7 5 4 4X 8 PRO 5 PRO 7 PRO 7S FREE ONGKIR
+Rp81.200
+Rp121.800
+33%
+Kota Jakarta Timur
+Soft Case Realme C2 C15 5i C11 C17 6 C3 C12 5 7 7i Narzo C1 5S U1 6i 6S C3i 10 10A 20A Narzo 20 PRO OPPO A53 2020 A9 A5 FREE ONGKIR
+Rp81.200
+Rp121.800
+33%
+Kota Jakarta Timur
+Samsung M10s A20 A30 A70 A10 A750 A7 2018 A51 A71 A50 A50s A30s A21s A11 M11 A31 M31 M30s Soft Silicone Cute Cartoon PopSocket Case FREE ONGKIR
+Rp81.200
+Rp121.800
+33%
+Kota Jakarta Timur
+Soft Case Relame 7i 7 5i 6 5 6i 6S C3i 5S U1 Realme C15 C11 C12 C17 C2 C3 C1 Narzo 10 10A 20A Narzo 20 PRO FREE ONGKIR
+Rp81.200
+Rp121.800
+33%
+Kota Jakarta Timur
+Casing Soft Case Realme C11 C15 5i C17 C2 6 C3 C12 5 7 7i Narzo C1 5S U1 6i 6S C3i 10 10A 20A Narzo 20 PRO FREE ONGKIR
+Rp81.200
+Rp121.800
+33%
+Kota Jakarta Timur
+Aesthetic Kaws Case Xiaomi Redmi 10A Softcase Casing Silikon
+Rp80.000
+Kota Bogor
+VALID_DATA_ABOVE
+| PASS |
+------------------------------------------------------------------------------
+BlibliElectronic :: This test suite to test functionality survey, ... | PASS |
+5 tests, 5 passed, 0 failed
 ==============================================================================
 Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Electronic\output.xml
 Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Electronic\log.html

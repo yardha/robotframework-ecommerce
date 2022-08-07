@@ -112,7 +112,7 @@ Find and Click Box Lazada
 Get All Product Name Lazada
     [Arguments]                             ${next button locator}          ${product group}
     Sleep                                    1
-    FOR                                      ${counter}                                     IN RANGE                         0                  8
+    FOR                                      ${counter}                                     IN RANGE                         0                  10
         Sleep                                    1
         Execute Javascript                       window.scrollTo(0,${counter}*600)
         Sleep                                    1

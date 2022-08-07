@@ -15,7 +15,9 @@ Open Website Blibli
 Close Pop Up Blibli
     Sleep                                    3
     Click Element At Coordinates             ${CLOSE POP UP BUTTON BLIBLI}      ${X COORDINATES CLOSE BLIBLI}                   ${Y COORDINATES CLOSE BLIBLI}
-    Sleep                                    2
+    Sleep                                    1
+    Click Element                            ${CLOSE POP UP BUTTON PRICE BLIBLI}
+    Sleep                                    1
 
 Click Search Box Blibli
     Sleep                                    1
@@ -40,11 +42,16 @@ Hit Submit Button Blibli
 
 Click Sort Option Blibli
     Sleep                                    1
+    Mouse Over                               ${SORT OPTIONS BLIBLI}
     Click Element                            ${SORT OPTIONS BLIBLI}
     Sleep                                    1
 
+View All Categories Blibli
+    Sleep                                    1
+    Click Element                            ${VIEW ALL CATEGORIES BLIBLI}
+    Sleep                                    1
+
 Choose Sort by Lowest Price Blibli
-    Mouse Over                               ${SORT OPTIONS BLIBLI}
     Sleep                                    1
     Click Element                            ${SORT OPTIONS LOWEST PRICE BLIBLI}
     Sleep                                    1
@@ -127,7 +134,7 @@ Get All Product Name Blibli
     Sleep                                    1
     FOR                                      ${counter}                                     IN RANGE                         0                  4
         Sleep                                    1
-        Execute Javascript                       window.scroll(0,${counter}150)
+        Execute Javascript                       window.scroll(0,${counter}125)
         Sleep                                    1
         ${status}                                Run Keyword And Return Status                Page Should Contain Button       ${next button locator}          loglevel=NONE
         # Log to Console                           ${status}
