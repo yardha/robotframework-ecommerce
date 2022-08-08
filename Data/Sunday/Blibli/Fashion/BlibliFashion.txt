@@ -24,10 +24,6 @@ Kab. Bandung
 4,0
 (5)
 Terjual 15
-7
-Gratis Ongkir Cardigan Rajut / Cardigan Wanita
-Rp173.600 - Rp174.600
-Kota Depok
 Okechuku Bruna Sweater Rajut Wanita - Hitam
 Rp79.900
 Rp149.900
@@ -36,6 +32,10 @@ Kota Jakarta Barat
 5,0
 (1)
 Terjual 4
+7
+Gratis Ongkir Cardigan Rajut / Cardigan Wanita
+Rp173.600 - Rp174.600
+Kota Depok
 HIKOS 2B bebe Sweater Rajut Wanita Motif Bulatan Tak Beraturan Dengan Gliter Model Kerah Bulat Lebar Warna Hitam
 Rp21.000
 Rp100.000
@@ -88,15 +88,15 @@ Kota Jakarta Barat
 5,0
 (1)
 Terjual 2
-9
-Gratis Ongkir Cardigan Rajut || Merissa Outer Cardy
-Rp155.100 - Rp157.000
-Kota Depok
 HIKOS Sweater Rajut Wanita Lengan Panjang Warna Hitam
 Rp21.000
 Rp100.000
 79%
 Kab. Pemalang
+9
+Gratis Ongkir Cardigan Rajut || Merissa Outer Cardy
+Rp155.100 - Rp157.000
+Kota Depok
 Sweater Rajut Aegyo Knit Polo Crop Atasan Rajut
 Rp50.000
 Kota Jakarta Barat
@@ -209,14 +209,6 @@ Kota Jakarta Pusat
 Cardigan Rajut Elizabeth – Baheera
 Rp280.000
 Kota Cimahi
-Gudang Fashion SWE 644 Sweater Rajutan Pria - Multicolor
-Rp75.999
-Rp145.000
-47%
-Kota Jakarta Barat
-4,5
-(2)
-Terjual 4
 FASHION.QU RAJUT HALUS CARDIGAN RAJUT WILLY HIJAU GREEN TEA
 Rp32.500
 Rp67.000
@@ -225,6 +217,22 @@ Kota Jakarta Barat
 5,0
 (1)
 Terjual 2
+Gudang Fashion SWE 644 Sweater Rajutan Pria - Multicolor
+Rp75.999
+Rp145.000
+47%
+Kota Jakarta Barat
+4,5
+(2)
+Terjual 4
+BANANA Jaket Rajut Bayi Perempuan Garis Abu Pink 5562
+Rp154.950
+Rp309.900
+50%
+Kota Jakarta Timur
+5,0
+(2)
+Terjual 4
 3
 Okechuku NEW RIKA Knit Cardigan Wanita Rajut Cardigan Rajut Wanita
 Rp135.000
@@ -236,14 +244,6 @@ Rp202.000
 Rp404.000
 50%
 Kota Bekasi
-BANANA Jaket Rajut Bayi Perempuan Garis Abu Pink 5562
-Rp154.950
-Rp309.900
-50%
-Kota Jakarta Timur
-5,0
-(2)
-Terjual 4
 5
 Hingga Rp3.000
 Baju Sweater Rajut Distro Polos Pria Lengan Panjang
@@ -263,17 +263,17 @@ Kota Bandung
 4,0
 (1)
 Terjual 8
-Gratis Ongkir Nyc Sweater Hoodie Sweater Rajut Sweater Wanita Sweater Bts Polos
-Rp139.500
-Rp214.500
-34%
-Kota Depok
 SWEATER RAJUT PRIA LONG NECK TURTLE NECK HITAM LENGAN PANJANG BHARATA SHOP
 Rp55.000
 Kota Bogor
 4,5
 (2)
 Terjual 2
+Gratis Ongkir Nyc Sweater Hoodie Sweater Rajut Sweater Wanita Sweater Bts Polos
+Rp139.500
+Rp214.500
+34%
+Kota Depok
 VALID_DATA_ABOVE
 VALID_DATA_BELOW
 4
@@ -301,55 +301,35 @@ Rp3.000
 Cardigan Wanita Import Sweater Rajut Cardigan
 Rp287.920
 Kota Jakarta Utara
-5
-Gratis Ongkir Sweater Rajut Angel Winter Sweater Wanita
-Rp215.500 - Rp217.500
-Kota Depok
 6
 Jovanka Sweater Rajut Wanita Balon Oversize Rajut Premium
 Rp56.925
 Rp75.900
 25%
 Kota Bandung
+5
+Gratis Ongkir Sweater Rajut Angel Winter Sweater Wanita
+Rp215.500 - Rp217.500
+Kota Depok
 Rp3.000
 Cardigan Rajut
 Rp120.450
 Kota Tasikmalaya
-6
-Gratis Ongkir Onie - Sweater Rajut Wanita Leher V Knit Sweater V Neck Fashion Wanita
-Rp235.000 - Rp238.000
-Kota Bekasi
 9
 OTNIEL - Okechuku Sweater Rajut O Neck Pria Knit Sweater Fashion Pria
 Rp87.500
 Rp149.900
 41%
 Kota Jakarta Barat
-Gratis Ongkir Cardigan Rajut G*Cci
-Rp388.100
-Rp597.000
-34%
-Kota Depok
-3
-Gratis Ongkir Blouse Cardigan Rajut Acha
-Rp475.800 - Rp478.800
-Kota Depok
-MJM Fashion Sweater Rajut Pria
-Rp124.950
-Rp147.000
-15%
-Kota Jakarta Pusat
+6
+Gratis Ongkir Onie - Sweater Rajut Wanita Leher V Knit Sweater V Neck Fashion Wanita
+Rp235.000 - Rp238.000
+Kota Bekasi
 Gratis Ongkir Sweater Rajut Pria-Wanita Cople Natal
 Rp138.500
 Rp213.000
 34%
 Kota Depok
-5
-Sweater Rajut / Sweater Rajut Polos / Boxy V neck Rajut / TERLARIS
-Rp163.000
-Rp250.000
-34%
-Kab. Ciamis
 3
 Baju rajut sweater LONGCARDI TWIST PANJANG/sweater longcardi wanita / long cardi rajutan
 Rp59.900
@@ -359,6 +339,42 @@ Kota Bandung
 5,0
 (1)
 Terjual 3
+Gratis Ongkir Cardigan Rajut G*Cci
+Rp388.100
+Rp597.000
+34%
+Kota Depok
+3
+Gratis Ongkir Blouse Cardigan Rajut Acha
+Rp475.800 - Rp478.800
+Kota Depok
+Gratis Ongkir Cardigan Rajut
+Rp197.000
+Rp303.000
+34%
+Kota Depok
+10
+Cardigan wanita rajut Cardi Amelia
+Rp73.000
+Kota Jakarta Barat
+5,0
+(2)
+Terjual 2
+MJM Fashion Sweater Rajut Pria
+Rp124.950
+Rp147.000
+15%
+Kota Jakarta Pusat
+6
+Gratis Ongkir Cardigan Rajut Oversize Wanita Sweater Outerwear Wanita
+Rp154.100 - Rp155.100
+Kota Depok
+5
+Sweater Rajut / Sweater Rajut Polos / Boxy V neck Rajut / TERLARIS
+Rp163.000
+Rp250.000
+34%
+Kab. Ciamis
 Sweater Rajut Millie WANITA TERLARIS
 Rp166.000
 Rp250.000
@@ -373,43 +389,6 @@ Kab. Ciamis
 Gratis Ongkir Sweater Rajut V-Neck
 Rp139.500 - Rp141.400
 Kota Depok
-Gratis Ongkir Cardigan Rajut
-Rp197.000
-Rp303.000
-34%
-Kota Depok
-Gratis Ongkir Sweater Rajut Wanita -Mc
-Rp208.700
-Rp321.000
-34%
-Kota Depok
-HIKOS Sweater Rajut wanita Lengan panjang Warna Hitam V neck
-Rp21.000
-Rp100.000
-79%
-Kab. Pemalang
-10
-Cardigan wanita rajut Cardi Amelia
-Rp73.000
-Kota Jakarta Barat
-5,0
-(2)
-Terjual 2
-10
-SWEATER CARDIGAN RAJUT ANAK
-Rp215.000
-Rp250.000
-14%
-Kab. Tasikmalaya
-8
-2%(Rp999)
-Fuji Sweater Skripe / Crop Rajut Wanita / Sweater Fuji / Croptop Wanita / Pakaian Rajut / Fuji / Lidya Danira
-Rp49.950
-Kota Bandung
-6
-Gratis Ongkir Cardigan Rajut Oversize Wanita Sweater Outerwear Wanita
-Rp154.100 - Rp155.100
-Kota Depok
 2
 Baju Sweater anak rajut halus Bear kids
 Rp39.000
@@ -417,6 +396,32 @@ Kota Jakarta Barat
 4,5
 (2)
 Terjual 3
+Gratis Ongkir Sweater Rajut Wanita -Mc
+Rp208.700
+Rp321.000
+34%
+Kota Depok
+8
+2%(Rp999)
+Fuji Sweater Skripe / Crop Rajut Wanita / Sweater Fuji / Croptop Wanita / Pakaian Rajut / Fuji / Lidya Danira
+Rp49.950
+Kota Bandung
+HIKOS Sweater Rajut wanita Lengan panjang Warna Hitam V neck
+Rp21.000
+Rp100.000
+79%
+Kab. Pemalang
+10
+SWEATER CARDIGAN RAJUT ANAK
+Rp215.000
+Rp250.000
+14%
+Kab. Tasikmalaya
+Gratis Ongkir Jump Marsmelow Sweater Hoodie Sweater Rajut Sweater Wanita Sweater Bts
+Rp182.400
+Rp280.500
+34%
+Kota Depok
 VM Sweater Rajut Zipper Knit Cardigan - Abu Muda
 Rp129.500
 Rp219.000
@@ -434,11 +439,6 @@ Kota Jakarta Barat
 4,7
 (7)
 Terjual 12
-Gratis Ongkir Jump Marsmelow Sweater Hoodie Sweater Rajut Sweater Wanita Sweater Bts
-Rp182.400
-Rp280.500
-34%
-Kota Depok
 Carla 694 Knit Sweater Wanita
 Rp199.000
 Kota Bandung
@@ -478,17 +478,13 @@ Kota Cimahi
 Gratis Ongkir Elza - Sweater Rajut Leher Tinggi Knit Sweater Korean Style Okechuku
 Rp127.000 - Rp128.000
 Kota Bekasi
-Gratis Ongkir Channel Sweater Jumbo Sweater Rajut Kaos Lengan Panjang Blouse Jumbo
-Rp209.700
-Rp322.500
-34%
-Kota Depok
-10
-Sweater Rajut Knit Pria Leher V Marun Katun Polos Vleur Okechuku
-Rp79.900
-Rp145.000
-44%
-Kota Jakarta Barat
+2
+Cardigan Rajut Elizabeth – Messya
+Rp180.000
+Kota Cimahi
+Cardigan Rajut Elizabeth – Edmonia
+Rp250.000
+Kota Cimahi
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
@@ -545,12 +541,12 @@ Rp100.000
 Kab. Pemalang
 Coba tambahkan kata pencarian yang lebih spesifik, seperti:
 anak
-HIKOS Sweater Rajut Wanita Dengan Kerah V Neck Model Lengan Panjang Warna Putih
+HIKOS Sweater Rajut Wanita Lengan 3/4 Warna Putih Bling-Bling
 Rp21.000
 Rp100.000
 79%
 Kab. Pemalang
-HIKOS Sweater Rajut Wanita Lengan 3/4 Warna Putih Bling-Bling
+HIKOS Sweater Rajut Wanita Dengan Kerah V Neck Model Lengan Panjang Warna Putih
 Rp21.000
 Rp100.000
 79%
@@ -693,13 +689,13 @@ Rp24.000
 Rp28.000
 14%
 Kota Jakarta Barat
-Cardigan Anak Unisex 08
+2
+Cardigan Anak Unisex 03
 Rp24.900
 Rp50.000
 50%
 Kab. Bandung
-2
-Cardigan Anak Unisex 03
+Cardigan Anak Unisex 08
 Rp24.900
 Rp50.000
 50%
@@ -845,10 +841,6 @@ Rp80.000
 57%
 Kota Jakarta Barat
 Terjual 1
-Hingga Rp3.000
-BAJU RAJUT O NECK ANAK SWEATER ONECK RAJUT ANAK PEREMPUAN MURAH TERBARU
-Rp34.000
-Kab. Kediri
 8
 2%(Rp680)
 Bailey Cardy Rajut / Kardigan Crop Bailey Cardy / Milenia Cardy / Bianca Crop Cardy / Crop Milenia / Cardigan Rajut / Kardigan Crop Rajut
@@ -880,15 +872,6 @@ Hingga Rp10.000
 Cardigan anak on sale (ttop dijual terpisah)
 Rp35.000
 Kota Jakarta Utara
-Hingga Rp3.000
-BAJU RAJUT O NECK ANAK SWEATER ONECK RAJUT ANAK PEREMPUAN MURAH
-Rp35.200
-Kab. Kediri
-15
-Hingga Rp3.000
-BAJU RAJUT ANAK PEREMPUAN 2 3 4 TAHUN MODEL KOREA TERBARU 2022 KEREN
-Rp35.200
-Kab. Kediri
 7
 KARDIGAN WILLY CARDY CARDIGAN RAJUT HALUS
 Rp35.500
@@ -928,6 +911,25 @@ Terjual 10
 FASHION.qu SWEATER RAJUT HALUS LOLIPOP JUMBO KNIT
 Rp36.900 - Rp41.900
 Kota Jakarta Barat
+Kampoeng Rajoet Ringgo Twist Tumblt Knit Cardigan Wanita
+Rp37.000
+Rp38.500
+3%
+Kota Bandung
+4,0
+(1)
+Terjual 6
+5
+Crope Vest / Sweater V Neck Rajut Oblong Wanita Crop Terbaru /Atasan wanita murah Premium berkualitas/Pakaian Wanita Terbaru
+Rp37.757
+Rp41.040
+7%
+Kab. Bandung
+8
+Hingga Rp3.000
+BOXY V NECK VIONA | sweater rajut wanita | sweater rajut wanita v-neck
+Rp38.000
+Kab. Sukabumi
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
@@ -1100,6 +1102,7 @@ Kota Depok
 Gratis Ongkir Christi Textured Knit Cardigan - Mint
 Rp701.100 - Rp705.900
 Kota Depok
+Lihat Detail
 STRADIVARIUS (NEW) ORIGINAL STORE 100% - Cable knit cardigan
 Rp659.900
 Kota Bandung
@@ -1344,12 +1347,12 @@ Rp100.000
 Kab. Pemalang
 Coba tambahkan kata pencarian yang lebih spesifik, seperti:
 anak
-HIKOS Sweater Rajut Wanita Dengan Kerah V Neck Model Lengan Panjang Warna Putih
+HIKOS Sweater Rajut Wanita Lengan 3/4 Warna Putih Bling-Bling
 Rp21.000
 Rp100.000
 79%
 Kab. Pemalang
-HIKOS Sweater Rajut Wanita Lengan 3/4 Warna Putih Bling-Bling
+HIKOS Sweater Rajut Wanita Dengan Kerah V Neck Model Lengan Panjang Warna Putih
 Rp21.000
 Rp100.000
 79%
@@ -1492,17 +1495,18 @@ Rp24.000
 Rp28.000
 14%
 Kota Jakarta Barat
-Cardigan Anak Unisex 08
-Rp24.900
-Rp50.000
-50%
-Kab. Bandung
 2
 Cardigan Anak Unisex 03
 Rp24.900
 Rp50.000
 50%
 Kab. Bandung
+Cardigan Anak Unisex 08
+Rp24.900
+Rp50.000
+50%
+Kab. Bandung
+Tambah ke Bag
 9
 2%(Rp520)
 RAJUT ANAK KRIWIL 3- 5 TAHUN / SWEATER ANAK / ATASAN RAJUT ANAK PEREMPUAN
@@ -1644,10 +1648,6 @@ Rp80.000
 57%
 Kota Jakarta Barat
 Terjual 1
-Hingga Rp3.000
-BAJU RAJUT O NECK ANAK SWEATER ONECK RAJUT ANAK PEREMPUAN MURAH TERBARU
-Rp34.000
-Kab. Kediri
 8
 2%(Rp680)
 Bailey Cardy Rajut / Kardigan Crop Bailey Cardy / Milenia Cardy / Bianca Crop Cardy / Crop Milenia / Cardigan Rajut / Kardigan Crop Rajut
@@ -1679,15 +1679,6 @@ Hingga Rp10.000
 Cardigan anak on sale (ttop dijual terpisah)
 Rp35.000
 Kota Jakarta Utara
-Hingga Rp3.000
-BAJU RAJUT O NECK ANAK SWEATER ONECK RAJUT ANAK PEREMPUAN MURAH
-Rp35.200
-Kab. Kediri
-15
-Hingga Rp3.000
-BAJU RAJUT ANAK PEREMPUAN 2 3 4 TAHUN MODEL KOREA TERBARU 2022 KEREN
-Rp35.200
-Kab. Kediri
 7
 KARDIGAN WILLY CARDY CARDIGAN RAJUT HALUS
 Rp35.500
@@ -1727,447 +1718,33 @@ Terjual 10
 FASHION.qu SWEATER RAJUT HALUS LOLIPOP JUMBO KNIT
 Rp36.900 - Rp41.900
 Kota Jakarta Barat
-VALID_DATA_ABOVE
-| PASS |
-------------------------------------------------------------------------------
-BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
-Sweater wanita - DOREEN KNIT
-Rp100.000
-Kota Jakarta Timur
-4
-sweater rajut korea v neck
-Rp100.000
-Rp150.000
-33%
-Kota Jakarta Selatan
-{HAZEERA} Long cardigan Rajut Premium Super
-Rp100.000
+Kampoeng Rajoet Ringgo Twist Tumblt Knit Cardigan Wanita
+Rp37.000
+Rp38.500
+3%
 Kota Bandung
-3
-SWEATER WANITA LENGAN PANJANG Griss RA STREET
-Rp100.000
-Rp199.900
-49%
-Kota Bandung
-6
-Kampoeng Rajoet Sweater Wanita
-Rp100.000
-Kota Bandung
-4,4
-(11)
-Terjual 59
-Cardigan Tunik switeer Rajut Belah Samping kadrigan Sweater Tunik Slit Rajut Belah Pinggir Samping
-Rp100.000
-Kota Bandung
-3
-Okechuku SWEATER API Knit Sweater Rajut Pria Motif Api Switer Pria
-Rp99.900
-Rp175.000
-42%
-Kota Jakarta Barat
-Okechuku HARUTO Knit Cardigan Korean Style Kardigan Rajut Pria Unisex
-Rp99.900
-Rp199.900
-50%
-Kota Jakarta Barat
-3
-Okechuku SWEATER API Knit Sweater Pria Sweater Rajut Wanita Gaya Korea
-Rp99.900
-Rp149.900
-33%
-Kota Jakarta Barat
-Okechuku SWEATER BTS SUGA Loved Sweter Switer Rajut Korea Unisex Pria
-Rp99.900
-Rp237.500
-57%
-Kota Jakarta Barat
-Coba tambahkan kata pencarian yang lebih spesifik, seperti:
-anak
-2
-Okechuku SWEATER MINGYU Sweater Korea Unisex Leher V Switer Sweter
-Rp99.900
-Rp189.900
-47%
-Kota Jakarta Barat
-Lovestruck Cardigan Rajut Wanita - Cream Knitt Cardigan Blazer Women
-Rp99.900
-Kota Bandung
-Okechuku HARUTO Cardigan Pria Wanita Unisex Kardigan Oversize Korean
-Rp99.900
-Rp119.900
-16%
-Kota Jakarta Barat
-Okechuku J-Hope Knit Cardigan Korean Style Kardigan Rajut Pria Korea
-Rp99.900
-Rp299.900
-66%
-Kota Jakarta Barat
-2
-Okechuku SWEATER MINGYU Crewneck Sweater Oversize Unisex Pria Wanita
-Rp99.900
-Rp189.900
-47%
-Kota Jakarta Barat
-3
-Okechuku SWEATER API Knit Sweater Rajut Pria Motif Api Switer Pria
-Rp99.900
-Rp175.000
-42%
-Kota Jakarta Barat
-ZARA knit cardigan rajut lengan pendek ungu
-Rp99.900
-Kota Kediri
-ZARA Knit short sleeve black Cardigan rajut lengan pendek hitam
-Rp99.900
-Kota Kediri
-9
-IELGY Sweater Rajut Tipis Joker Lengan Panjang
-Rp99.799
-Rp142.571
-30%
-Chengdu
-5
-SKYLIN Turtleneck Sweater Unisex
-Rp99.750
-Rp105.000
-5%
-Kota Bandung
-Keshia Cardigan Top Knit Import TM (13057)
-Rp99.500
-Kota Jakarta Pusat
-2
-Filleta LongSleeve Knit Cardigan Import TM 7372
-Rp99.101
-Rp399.101
-75%
-Kota Jakarta Barat
-2
-Ouchella Short Sleeve Cardigan Import TM 49000
-Rp99.101
-Rp399.101
-75%
-Kota Jakarta Barat
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL ABU ABU TUA UNISEX INDIES SWEATSUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL ABU MUDA UNISEX INDIES SWEATUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL TWOTONE NAVY UNISEX INDIES SWEATSUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL BIRU NAVY UNISEX INDIE SWEATSUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL TWOTONE MAROON UNISEX INDIES SWEATSUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL HITAM UNISEX INDIES SWEATSUIT
-Rp99.100
-Kota Bandung
-Hingga Rp5.000
-COD SWEATER RAJUT ARIEL TWOTONE HITAM JAKET INDIES SWITER UNISEX PRIA WANITA
-Rp99.100
-Kota Bandung
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY MERAH BATA
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY WARNA HIJAU BOTOL
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY WARNA MOCCA
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY WARNA HITAM
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY MAROON
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY HIJAU ARMY
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY PUTIH
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY BROWN
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-Tambah ke Bag
-CARDIGAN RAJUT WANITA || CARDY GET 7 || OUTER CARDY MUSTARD
-Rp99.000
-Rp119.000
-16%
-Kota Jakarta Pusat
-3
-Misun Suede Cardigan Knit Top | Atasan Wanita
-Rp99.000
-Kota Medan
-VALID_DATA_ABOVE
-VALID_DATA_BELOW
-4
-IELGY summer Vintage cut out lace knit White V-Neck French thin Slouchy cardigan short sleeve top women's wear
-Rp99.000
-Rp192.252
-48%
-Chengdu
-2
-IELGY Temperament port wind fashion loose V-neck thin knit cardigan
-Rp99.000
-Rp145.714
-32%
-Chengdu
-2
-Sweater Top Turtleneck Stripes Knit Import TM (42020)
-Rp99.000
-Kota Jakarta Pusat
-6
-Sweater Cotton Knit Top Shortsleeve (290)
-Rp99.000
-Kota Jakarta Pusat
-5,0
-(1)
-Terjual 1
-VM Rajut Panjang Long Knitt Sweater Oblong Pria PJG-08
-Rp99.000
-Rp219.000
-54%
-Kota Jakarta Utara
-VM Rajut Panjang Long Knitt Sweater Pria - Abu PJG-09
-Rp99.000
-Rp219.000
-54%
-Kota Jakarta Utara
-Terjual 1
-2
-Ciri Blouse Top Knit - Atasan Blouse Rajut Korea - Sweater Lengan Panjang TM (12308-1)
-Rp99.000
-Kota Jakarta Pusat
-Inficlo SRT 197 Sweater Anak Laki-Laki - Biru
-Rp99.000
-Rp150.000
-34%
-Kota Bandung
-Terjual 1
-2
-Rewa knit sweater -Thejanclothes
-Rp99.000
-Kota Jakarta Utara
-3,0
-(1)
-Terjual 1
-Mobile Power Ladies AG20280 Knitting Top Sweater Wanita
-Rp99.000
-Rp299.000
-66%
-VM Sweater Rajutan Polos Basic Oblong Panjang Atasan Pria - Hitam
-Rp99.000
-Rp199.000
-50%
-Kota Jakarta Utara
-Terjual 5
-Sweater Vest Houndstooth | Rompi Rajut Motif
-Rp99.000
-Kota Tangerang
-7
-DeRa UniQue Cardigan Rajut Halus Saku Boxi Belle Wanita
-Rp99.000
-Rp199.000
-50%
-Kab. Bandung
-3
-Polo Knit Puff Hand Tube TM (8281)
-Rp99.000
-Kota Jakarta Pusat
-Terjual 1
-VM Sweater Rajutan Polos Basic Oblong Panjang Atasan Pria - Abu Muda
-Rp99.000
-Rp199.000
-50%
-Kota Jakarta Utara
-5,0
-(1)
-Terjual 2
-5
-DeRa UniQue Rajut Polos Cardigan Wanita
-Rp99.000
-Rp199.000
-50%
-Kab. Bandung
-VM Zipper Long Knitt Rajut Sweater - Abu Kombinasi
-Rp99.000
-Rp199.000
-50%
-Kota Jakarta Utara
-5,0
-(1)
-Terjual 1
-4
-Nice Kids - Unisex Knitted Cardigan (1-5 Tahun)
-Rp99.000
-Rp165.000
-40%
-Kota Jakarta Utara
-VM Sweater Hoodie Rajut Sleting 2 tone - Hitam Abu
-Rp99.000
-Rp209.000
-52%
-Kota Jakarta Pusat
-Terjual 2
-VM Oblong Rajut Polos Panjang Sweater Pria - Merah Maroon
-Rp99.000
-Rp189.000
-47%
-Kota Jakarta Pusat
-4,5
-(2)
-Terjual 4
-VM Zipper Long Knit Rajut Sweater - Merah Marron
-Rp99.000
-Rp219.000
-54%
-Kota Jakarta Utara
-4,4
-(7)
-Terjual 18
-VM Oblong Rajut Polos Panjang Sweater Pria - Hitam
-Rp99.000
-Rp189.000
-47%
-Kota Jakarta Utara
-4,6
-(3)
-Terjual 18
-VM Sweater Rajutan Polos Basic Oblong Panjang Atasan Pria - Navy Blue
-Rp99.000
-Rp199.000
-50%
-Kota Jakarta Utara
-4,2
-(14)
-Terjual 26
-VM Rajut Polos Krah Tinggi Sweater - Navy Blue
-Rp99.000
-Rp229.000
-56%
-Kota Jakarta Utara
-4,5
-(7)
-Terjual 24
-VM Polos Rajutan Krah Tinggi Sweater - Hitam
-Rp99.000
-Rp229.000
-56%
-Kota Jakarta Pusat
-4,2
-(7)
-Terjual 19
-Fantasia Whatever You Say Sweater Pria
-Rp99.000
-Rp239.000
-58%
-Kota Jakarta Barat
 4,0
-(2)
-Terjual 3
-VM Rajut Polos Krah Tinggi Sweater - Grey
-Rp99.000
-Rp229.000
-56%
-Kota Jakarta Utara
-4,4
-(13)
-Terjual 20
-blouse kemeja wanita HanaFashion - Hyewon Cardigan Outer Wanita Murah Kardigan Rajut Wanita Korean Style - JK049
-Rp99.000
-Kab. Bandung
-LAVELA KNIT CARDIGAN
-Rp99.000
-Kota Bandung
-3
-SWEATER RAJUT WANITA KATUN MURNI RAJUT KOREA ATASAN SWEATER WANITA KEKINIAN SET RAJUT PREMIUM PRELOVED KATUN MURNI
-Rp98.900
-Rp149.000
-33%
-Kota Bandung
-berkahjaya Fina Knit Long Cardigan Import 9680
-Rp98.900
-Rp397.911
-75%
-Kota Jakarta Barat
-8
-Outer Rajut Oversize / Outwear Rajut Wanita / Sweater Rajut Cewek
-Rp98.316
-Rp146.740
-32%
-Kota Bandung
-5,0
-(6)
-Terjual 7
-Nalure Square Center Blue
-Rp98.000
-Rp261.359
-62%
-Kab. Bandung
-Cardigan Rajut Import murah
-Rp98.000
-Rp140.000
-30%
-Kota Jakarta Barat
+(1)
+Terjual 6
 5
-Nalure Amelia Crop Cardigan
-Rp97.514
-Rp203.153
-51%
+Crope Vest / Sweater V Neck Rajut Oblong Wanita Crop Terbaru /Atasan wanita murah Premium berkualitas/Pakaian Wanita Terbaru
+Rp37.757
+Rp41.040
+7%
 Kab. Bandung
-Okechuku CARDI OPPA JUNGKOOK Cardigan BTS Kardigan Rajut Kotak Pria
-Rp97.500
-Rp199.900
-51%
-Kota Jakarta Barat
-Nalure Aggie Cardigan
-Rp97.331
-Rp237.392
-58%
-Kab. Bandung
-Yona two tone sweater rajut murah nita
-Rp97.000
-Kota Bandung
-4
-Pre-order
-cardigan lengan panjang wanita dewasa afnas rajut warna (jubah) all size
-Rp97.000
-Kota Sukabumi
-Sweater VANNESA Sweater Wanita
-Rp96.000
-Kota Jakarta Timur
+8
+Hingga Rp3.000
+BOXY V NECK VIONA | sweater rajut wanita | sweater rajut wanita v-neck
+Rp38.000
+Kab. Sukabumi
 VALID_DATA_ABOVE
 | PASS |
 ------------------------------------------------------------------------------
-BlibliFashion :: This test suite to test functionality survey, eac... | PASS |
-5 tests, 5 passed, 0 failed
+BLIBLI Filter by Highest Price                                        | FAIL |
+Element with locator 'xpath=//div[@class='blu-dropdown__trigger']' not found.
+------------------------------------------------------------------------------
+BlibliFashion :: This test suite to test functionality survey, eac... | FAIL |
+5 tests, 4 passed, 1 failed
 ==============================================================================
 Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Fashion\output.xml
 Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Blibli\Fashion\log.html
