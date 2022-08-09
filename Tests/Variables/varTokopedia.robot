@@ -9,8 +9,8 @@ ${SEARCH BUTTON TOKOPEDIA}                  xpath=//*[@id="header-main-wrapper"]
 ${NEXT PAGE BUTTON TOKOPEDIA}               xpath=//button[@aria-label='Laman berikutnya']//*[name()='svg']
 ${DISPLAYED PRODUCTS TOKOPEDIA}             xpath=//div[@data-testid='divSRPContentProducts']
 
-${INPUT BOX MINIMUM PRICE TOKOPEDIA}        xpath=//*[@id="zeus-root"]/div/div[2]/div/div[1]/div[1]/div/div/div/div[4]/div/div/div/div[1]/div/div/div/input
-${INPUT BOX MAXIMUM PRICE TOKOPEDIA}        xpath=//*[@id="zeus-root"]/div/div[2]/div/div[1]/div[1]/div/div/div/div[4]/div/div/div/div[2]/div/div/div/input
+${INPUT BOX MINIMUM PRICE TOKOPEDIA}        xpath=//input[@placeholder='Harga Minimum']
+${INPUT BOX MAXIMUM PRICE TOKOPEDIA}        xpath=//input[@placeholder='Harga Maksimum']
 
 @{FILTER MINIMUM PRICE TOKOPEDIA}           ${INPUT BOX MINIMUM PRICE TOKOPEDIA}              ${MINIMUM PRICE}
 @{SUBMIT MINIMUM PRICE TOKOPEDIA}           ${INPUT BOX MINIMUM PRICE TOKOPEDIA}              ${SUBMIT KEYS PRICE TOKOPEDIA}

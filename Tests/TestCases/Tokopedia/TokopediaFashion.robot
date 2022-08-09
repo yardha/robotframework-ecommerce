@@ -24,7 +24,7 @@ TOKOPEDIA Sort by Lowest Price
     Hit Submit Button Tokopedia
     Click Sort Option Tokopedia
     Choose Sort by Lowest Price Tokopedia
-    View All Price Products Tokopedia
+    # View All Price Products Tokopedia
     Get Product Name with Sort by Lowest Price Page 1 Tokopedia
     Get Product Name with Sort by Lowest Price Page 2 Tokopedia
     Close Browser
