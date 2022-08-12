@@ -15,6 +15,9 @@ BUKALAPAK Sort by Relevance
     Hit Submit Button Bukalapak
     Get Product Name with Sort by Relevance Page 1 Bukalapak
     Get Product Name with Sort by Relevance Page 2 Bukalapak
+    Get Product Name with Sort by Relevance Page 3 Bukalapak
+    Get Product Name with Sort by Relevance Page 4 Bukalapak
+    Get Product Name with Sort by Relevance Page 5 Bukalapak
     Close Browser
 
 BUKALAPAK Sort by Lowest Price
@@ -26,6 +29,9 @@ BUKALAPAK Sort by Lowest Price
     Choose Sort by Lowest Price Bukalapak
     Get Product Name with Sort by Lowest Price Page 1 Bukalapak
     Get Product Name with Sort by Lowest Price Page 2 Bukalapak
+    Get Product Name with Sort by Lowest Price Page 3 Bukalapak
+    Get Product Name with Sort by Lowest Price Page 4 Bukalapak
+    Get Product Name with Sort by Lowest Price Page 5 Bukalapak
     Close Browser
 
 BUKALAPAK Sort by Highest Price
@@ -37,6 +43,9 @@ BUKALAPAK Sort by Highest Price
     Choose Sort by Highest Price Bukalapak
     Get Product Name with Sort by Highest Price Page 1 Bukalapak
     Get Product Name with Sort by Highest Price Page 2 Bukalapak
+    Get Product Name with Sort by Highest Price Page 3 Bukalapak
+    Get Product Name with Sort by Highest Price Page 4 Bukalapak
+    Get Product Name with Sort by Highest Price Page 5 Bukalapak
     Close Browser
 
 BUKALAPAK Filter by Lowest Price
@@ -50,6 +59,9 @@ BUKALAPAK Filter by Lowest Price
     Choose Sort by Lowest Price Bukalapak
     Get Product Name with Filter by Minimum Price Page 1 Bukalapak
     Get Product Name with Filter by Minimum Price Page 2 Bukalapak
+    Get Product Name with Filter by Minimum Price Page 3 Bukalapak
+    Get Product Name with Filter by Minimum Price Page 4 Bukalapak
+    Get Product Name with Filter by Minimum Price Page 5 Bukalapak
     Close Browser
 
 BUKALAPAK Filter by Highest Price
@@ -63,4 +75,7 @@ BUKALAPAK Filter by Highest Price
     Choose Sort by Highest Price Bukalapak
     Get Product Name with Filter by Maximum Price Page 1 Bukalapak
     Get Product Name with Filter by Maximum Price Page 2 Bukalapak
+    Get Product Name with Filter by Maximum Price Page 3 Bukalapak
+    Get Product Name with Filter by Maximum Price Page 4 Bukalapak
+    Get Product Name with Filter by Maximum Price Page 5 Bukalapak
     Close Browser

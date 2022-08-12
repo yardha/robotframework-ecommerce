@@ -15,6 +15,9 @@ TOKOPEDIA Sort by Relevance
     Hit Submit Button Tokopedia
     Get Product Name with Sort by Relevance Page 1 Tokopedia
     Get Product Name with Sort by Relevance Page 2 Tokopedia
+    Get Product Name with Sort by Relevance Page 3 Tokopedia
+    Get Product Name with Sort by Relevance Page 4 Tokopedia
+    Get Product Name with Sort by Relevance Page 5 Tokopedia
     Close Browser
 
 TOKOPEDIA Sort by Lowest Price
@@ -24,9 +27,12 @@ TOKOPEDIA Sort by Lowest Price
     Hit Submit Button Tokopedia
     Click Sort Option Tokopedia
     Choose Sort by Lowest Price Tokopedia
-    # View All Price Products Tokopedia
+    View All Price Products Tokopedia
     Get Product Name with Sort by Lowest Price Page 1 Tokopedia
     Get Product Name with Sort by Lowest Price Page 2 Tokopedia
+    Get Product Name with Sort by Lowest Price Page 3 Tokopedia
+    Get Product Name with Sort by Lowest Price Page 4 Tokopedia
+    Get Product Name with Sort by Lowest Price Page 5 Tokopedia
     Close Browser
 
 TOKOPEDIA Sort by Highest Price
@@ -35,8 +41,12 @@ TOKOPEDIA Sort by Highest Price
     Type Item 2 Name Tokopedia
     Hit Submit Button Tokopedia
     Click Sort Option Tokopedia
+    Choose Sort by Highest Price Tokopedia
     Get Product Name with Sort by Highest Price Page 1 Tokopedia
     Get Product Name with Sort by Highest Price Page 2 Tokopedia
+    Get Product Name with Sort by Highest Price Page 3 Tokopedia
+    Get Product Name with Sort by Highest Price Page 4 Tokopedia
+    Get Product Name with Sort by Highest Price Page 5 Tokopedia
     Close Browser
 
 TOKOPEDIA Filter by Lowest Price
@@ -50,6 +60,9 @@ TOKOPEDIA Filter by Lowest Price
     Choose Sort by Lowest Price Tokopedia
     Get Product Name with Filter by Minimum Price Page 1 Tokopedia
     Get Product Name with Filter by Minimum Price Page 2 Tokopedia
+    Get Product Name with Filter by Minimum Price Page 3 Tokopedia
+    Get Product Name with Filter by Minimum Price Page 4 Tokopedia
+    Get Product Name with Filter by Minimum Price Page 5 Tokopedia
     Close Browser
 
 TOKOPEDIA Filter by Highest Price
@@ -63,4 +76,7 @@ TOKOPEDIA Filter by Highest Price
     Choose Sort by Highest Price Tokopedia
     Get Product Name with Filter by Maximum Price Page 1 Tokopedia
     Get Product Name with Filter by Maximum Price Page 2 Tokopedia
+    Get Product Name with Filter by Maximum Price Page 3 Tokopedia
+    Get Product Name with Filter by Maximum Price Page 4 Tokopedia
+    Get Product Name with Filter by Maximum Price Page 5 Tokopedia
     Close Browser

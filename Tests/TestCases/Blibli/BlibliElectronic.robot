@@ -16,6 +16,9 @@ BLIBLI Sort by Relevance
     Hit Submit Button Blibli
     Get Product Name with Sort by Relevance Page 1 Blibli
     Get Product Name with Sort by Relevance Page 2 Blibli
+    Get Product Name with Sort by Relevance Page 3 Blibli
+    Get Product Name with Sort by Relevance Page 4 Blibli
+    Get Product Name with Sort by Relevance Page 5 Blibli
     Close Browser
 
 BLIBLI Sort by Lowest Price
@@ -28,6 +31,9 @@ BLIBLI Sort by Lowest Price
     Choose Sort by Lowest Price Blibli
     Get Product Name with Sort by Lowest Price Page 1 Blibli
     Get Product Name with Sort by Lowest Price Page 2 Blibli
+    Get Product Name with Sort by Lowest Price Page 3 Blibli
+    Get Product Name with Sort by Lowest Price Page 4 Blibli
+    Get Product Name with Sort by Lowest Price Page 5 Blibli
     Close Browser
 
 BLIBLI Sort by Highest Price
@@ -40,6 +46,9 @@ BLIBLI Sort by Highest Price
     Choose Sort by Highest Price Blibli
     Get Product Name with Sort by Highest Price Page 1 Blibli
     Get Product Name with Sort by Highest Price Page 2 Blibli
+    Get Product Name with Sort by Highest Price Page 3 Blibli
+    Get Product Name with Sort by Highest Price Page 4 Blibli
+    Get Product Name with Sort by Highest Price Page 5 Blibli
     Close Browser
 
 BLIBLI Filter by Lowest Price
@@ -54,6 +63,9 @@ BLIBLI Filter by Lowest Price
     Set Minimum Price Blibli
     Get Product Name with Filter by Minimum Price Page 1 Blibli
     Get Product Name with Filter by Minimum Price Page 2 Blibli
+    Get Product Name with Filter by Minimum Price Page 3 Blibli
+    Get Product Name with Filter by Minimum Price Page 4 Blibli
+    Get Product Name with Filter by Minimum Price Page 5 Blibli
     Close Browser
 
 BLIBLI Filter by Highest Price
@@ -62,10 +74,13 @@ BLIBLI Filter by Highest Price
     Click Search Box Blibli
     Type Item 1 Name Blibli
     Hit Submit Button Blibli
-    Find and Click Box Maximum Price Filter Blibli
-    Set Maximum Price Blibli
     Click Sort Option Blibli
     Choose Sort by Highest Price Blibli
+    Find and Click Box Maximum Price Filter Blibli
+    Set Maximum Price Blibli
     Get Product Name with Filter by Maximum Price Page 1 Blibli
     Get Product Name with Filter by Maximum Price Page 2 Blibli
+    Get Product Name with Filter by Maximum Price Page 3 Blibli
+    Get Product Name with Filter by Maximum Price Page 4 Blibli
+    Get Product Name with Filter by Maximum Price Page 5 Blibli
     Close Browser

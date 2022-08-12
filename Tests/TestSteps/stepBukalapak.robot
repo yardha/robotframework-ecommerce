@@ -56,10 +56,28 @@ Get Product Name with Sort by Relevance Page 1 Bukalapak
 Get Product Name with Sort by Relevance Page 2 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
+Get Product Name with Sort by Relevance Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Relevance Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Relevance Page 5 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
 Get Product Name with Sort by Lowest Price Page 1 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Lowest Price Page 2 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Lowest Price Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Lowest Price Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Lowest Price Page 5 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Sort by Highest Price Page 1 Bukalapak
@@ -68,10 +86,28 @@ Get Product Name with Sort by Highest Price Page 1 Bukalapak
 Get Product Name with Sort by Highest Price Page 2 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
+Get Product Name with Sort by Highest Price Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Highest Price Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Sort by Highest Price Page 5 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
 Get Product Name with Filter by Location Page 1 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Location Page 2 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Location Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Location Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Location Page 5 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Minimum Price Page 1 Bukalapak
@@ -80,10 +116,28 @@ Get Product Name with Filter by Minimum Price Page 1 Bukalapak
 Get Product Name with Filter by Minimum Price Page 2 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
+Get Product Name with Filter by Minimum Price Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Minimum Price Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Minimum Price Page 5 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
 Get Product Name with Filter by Maximum Price Page 1 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
 
 Get Product Name with Filter by Maximum Price Page 2 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Maximum Price Page 3 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Maximum Price Page 4 Bukalapak
+    Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
+
+Get Product Name with Filter by Maximum Price Page 5 Bukalapak
     Get All Product Name Bukalapak          ${NEXT PAGE BUTTON BUKALAPAK}           ${DISPLAYED PRODUCTS BUKALAPAK}
     
 Find and Click Box Minimum Price Filter Bukalapak
@@ -124,8 +178,6 @@ Get All Product Name Bukalapak
     END
     Sleep                                    1
     ${product group}=            Get Text                                       ${product group}
-    Log to Console                           VALID_DATA_BELOW
     Log to Console                           ${product group}
-    Log to Console                           VALID_DATA_ABOVE
     Sleep                                    1
     Click Element                            ${next button locator}

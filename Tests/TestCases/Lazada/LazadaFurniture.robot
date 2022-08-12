@@ -15,6 +15,9 @@ LAZADA Sort by Relevance
     Hit Submit Button Lazada
     Get Product Name with Sort by Relevance Page 1 Lazada
     Get Product Name with Sort by Relevance Page 2 Lazada
+    Get Product Name with Sort by Relevance Page 3 Lazada
+    Get Product Name with Sort by Relevance Page 4 Lazada
+    Get Product Name with Sort by Relevance Page 5 Lazada
     Close Browser
 
 LAZADA Sort by Lowest Price
@@ -26,6 +29,9 @@ LAZADA Sort by Lowest Price
     Choose Sort by Lowest Price Lazada
     Get Product Name with Sort by Lowest Price Page 1 Lazada
     Get Product Name with Sort by Lowest Price Page 2 Lazada
+    Get Product Name with Sort by Lowest Price Page 3 Lazada
+    Get Product Name with Sort by Lowest Price Page 4 Lazada
+    Get Product Name with Sort by Lowest Price Page 5 Lazada
     Close Browser
 
 LAZADA Sort by Highest Price
@@ -37,8 +43,11 @@ LAZADA Sort by Highest Price
     Choose Sort by Highest Price Lazada
     Get Product Name with Sort by Highest Price Page 1 Lazada
     Get Product Name with Sort by Highest Price Page 2 Lazada
+    Get Product Name with Sort by Highest Price Page 3 Lazada
+    Get Product Name with Sort by Highest Price Page 4 Lazada
+    Get Product Name with Sort by Highest Price Page 5 Lazada
     Close Browser
-    
+
 LAZADA Filter by Lowest Price
     Open Website Lazada
     Click Search Box Lazada
@@ -50,6 +59,9 @@ LAZADA Filter by Lowest Price
     Choose Sort by Lowest Price Lazada
     Get Product Name with Filter by Minimum Price Page 1 Lazada
     Get Product Name with Filter by Minimum Price Page 2 Lazada
+    Get Product Name with Filter by Minimum Price Page 3 Lazada
+    Get Product Name with Filter by Minimum Price Page 4 Lazada
+    Get Product Name with Filter by Minimum Price Page 5 Lazada
     Close Browser
 
 LAZADA Filter by Highest Price
@@ -63,4 +75,7 @@ LAZADA Filter by Highest Price
     Choose Sort by Highest Price Lazada
     Get Product Name with Filter by Maximum Price Page 1 Lazada
     Get Product Name with Filter by Maximum Price Page 2 Lazada
+    Get Product Name with Filter by Maximum Price Page 3 Lazada
+    Get Product Name with Filter by Maximum Price Page 4 Lazada
+    Get Product Name with Filter by Maximum Price Page 5 Lazada
     Close Browser

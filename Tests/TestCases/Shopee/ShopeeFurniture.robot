@@ -10,15 +10,20 @@ Resource                                  ../../Variables/varMain.robot
 *** Test Cases ***
 SHOPEE Sort by Relevance
     Open Website Shopee
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 3 Name Shopee
     Hit Submit Button Shopee
     Get Product Name with Sort by Relevance Page 1 Shopee
     Get Product Name with Sort by Relevance Page 2 Shopee
+    Get Product Name with Sort by Relevance Page 3 Shopee
+    Get Product Name with Sort by Relevance Page 4 Shopee
+    Get Product Name with Sort by Relevance Page 5 Shopee
     Close Browser
 
 SHOPEE Sort by Lowest Price
     Open Website Shopee
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 3 Name Shopee
     Hit Submit Button Shopee
@@ -26,10 +31,14 @@ SHOPEE Sort by Lowest Price
     Choose Sort by Lowest Price Shopee
     Get Product Name with Sort by Lowest Price Page 1 Shopee
     Get Product Name with Sort by Lowest Price Page 2 Shopee
+    Get Product Name with Sort by Lowest Price Page 3 Shopee
+    Get Product Name with Sort by Lowest Price Page 4 Shopee
+    Get Product Name with Sort by Lowest Price Page 5 Shopee
     Close Browser
 
 SHOPEE Sort by Highest Price
     Open Website Shopee
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 3 Name Shopee
     Hit Submit Button Shopee
@@ -37,10 +46,14 @@ SHOPEE Sort by Highest Price
     Choose Sort by Highest Price Shopee
     Get Product Name with Sort by Highest Price Page 1 Shopee
     Get Product Name with Sort by Highest Price Page 2 Shopee
+    Get Product Name with Sort by Highest Price Page 3 Shopee
+    Get Product Name with Sort by Highest Price Page 4 Shopee
+    Get Product Name with Sort by Highest Price Page 5 Shopee
     Close Browser
 
 SHOPEE Filter by Lowest Price
     Open Website Shopee
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 3 Name Shopee
     Hit Submit Button Shopee
@@ -50,10 +63,14 @@ SHOPEE Filter by Lowest Price
     Choose Sort by Lowest Price Shopee
     Get Product Name with Filter by Minimum Price Page 1 Shopee
     Get Product Name with Filter by Minimum Price Page 2 Shopee
+    Get Product Name with Filter by Minimum Price Page 3 Shopee
+    Get Product Name with Filter by Minimum Price Page 4 Shopee
+    Get Product Name with Filter by Minimum Price Page 5 Shopee
     Close Browser
 
 SHOPEE Filter by Highest Price
     Open Website Shopee
+    Close Pop Up Shopee
     Click Search Box Shopee
     Type Item 3 Name Shopee
     Hit Submit Button Shopee
@@ -63,4 +80,7 @@ SHOPEE Filter by Highest Price
     Choose Sort by Highest Price Shopee
     Get Product Name with Filter by Maximum Price Page 1 Shopee
     Get Product Name with Filter by Maximum Price Page 2 Shopee
+    Get Product Name with Filter by Maximum Price Page 3 Shopee
+    Get Product Name with Filter by Maximum Price Page 4 Shopee
+    Get Product Name with Filter by Maximum Price Page 5 Shopee
     Close Browser

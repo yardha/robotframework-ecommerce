@@ -78,10 +78,28 @@ Get Product Name with Sort by Relevance Page 1 Blibli
 Get Product Name with Sort by Relevance Page 2 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
+Get Product Name with Sort by Relevance Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Relevance Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Relevance Page 5 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
 Get Product Name with Sort by Lowest Price Page 1 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Lowest Price Page 2 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Lowest Price Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Lowest Price Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Lowest Price Page 5 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Sort by Highest Price Page 1 Blibli
@@ -90,10 +108,28 @@ Get Product Name with Sort by Highest Price Page 1 Blibli
 Get Product Name with Sort by Highest Price Page 2 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
+Get Product Name with Sort by Highest Price Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Highest Price Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Sort by Highest Price Page 5 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
 Get Product Name with Filter by Location Page 1 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Location Page 2 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Location Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Location Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Location Page 5 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Minimum Price Page 1 Blibli
@@ -102,10 +138,28 @@ Get Product Name with Filter by Minimum Price Page 1 Blibli
 Get Product Name with Filter by Minimum Price Page 2 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
+Get Product Name with Filter by Minimum Price Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Minimum Price Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Minimum Price Page 5 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
 Get Product Name with Filter by Maximum Price Page 1 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
 
 Get Product Name with Filter by Maximum Price Page 2 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Maximum Price Page 3 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Maximum Price Page 4 Blibli
+    Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
+
+Get Product Name with Filter by Maximum Price Page 5 Blibli
     Get All Product Name Blibli          ${NEXT PAGE BUTTON BLIBLI}               ${DISPLAYED PRODUCTS BLIBLI}
     
 Find and Click Box Minimum Price Filter Blibli
@@ -144,9 +198,7 @@ Get All Product Name Blibli
     END
     Sleep                                    2
     ${product group}=            Get Text                                       ${product group}
-    Log to Console                           VALID_DATA_BELOW
     Log to Console                           ${product group}
-    Log to Console                           VALID_DATA_ABOVE
     Sleep                                    2
     Wait Until Element Is Visible            ${next button locator}
     Click Element                            ${next button locator}
