@@ -1,0 +1,24 @@
+==============================================================================
+BukalapakElectronic :: This test suite to test functionality survey, each t...
+==============================================================================
+BUKALAPAK Sort by Relevance                                           | FAIL |
+Execution terminated by signal
+------------------------------------------------------------------------------
+BUKALAPAK Sort by Lowest Price                                        | FAIL |
+Test execution stopped due to a fatal error.
+------------------------------------------------------------------------------
+BUKALAPAK Sort by Highest Price                                       | FAIL |
+Test execution stopped due to a fatal error.
+------------------------------------------------------------------------------
+BUKALAPAK Filter by Lowest Price                                      | FAIL |
+Test execution stopped due to a fatal error.
+------------------------------------------------------------------------------
+BUKALAPAK Filter by Highest Price                                     | FAIL |
+Test execution stopped due to a fatal error.
+------------------------------------------------------------------------------
+BukalapakElectronic :: This test suite to test functionality surve... | FAIL |
+5 tests, 0 passed, 5 failed
+==============================================================================
+Output:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Electronic\output.xml
+Log:     E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Electronic\log.html
+Report:  E:\Programs\Informatics\Github\robotframework-ecommerce\Results\Bukalapak\Electronic\report.html
