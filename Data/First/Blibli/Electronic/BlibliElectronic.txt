@@ -1,7 +1,8 @@
 ==============================================================================
 BlibliElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-BLIBLI Sort by Relevance                                              5
+BLIBLI Sort by Relevance                                              VALID_DATA_BELOW
+5
 5%(Rp1.000)
 CASE XIAOMI REDMI 10A LIQUID SILICONE RUBBER SOFT CASE REDMI 10A
 Rp20.000
@@ -975,7 +976,8 @@ Rp216.150
 Kota Jakarta Selatan
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Lowest Price                                           4
+BLIBLI Sort by Lowest Price                                           VALID_DATA_BELOW
+4
 Xiaomi Redmi 8-Oppo Reno 10- A51-A71 Hydrogel anti gores full covered
 Rp1.000 - Rp22.900
 Kota Jakarta Barat
@@ -1707,7 +1709,8 @@ Kota Jakarta Timur
 Terjual 1
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Highest Price                                          3
+BLIBLI Sort by Highest Price                                          VALID_DATA_BELOW
+3
 Xiaomi Redmi 10A - 3GB/64GB
 Rp1.585.000
 Kota Jakarta Selatan
@@ -2632,7 +2635,8 @@ Rp95.000
 Kota Bogor
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Lowest Price                                         6
+BLIBLI Filter by Lowest Price                                         VALID_DATA_BELOW
+6
 Softcase Redmi 10X 4G 9A 9C 9T 9 Power Silikon Slim Fit Carbon Fiber Case Casing Shockproof Cover
 Rp11.500
 Rp55.000
@@ -3366,7 +3370,8 @@ Rp135.000
 Kota Jakarta Timur
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Highest Price                                        Hardcase Casing Xiaomi Redmi Note 10 Couple Anime Hanako FLL0013A
+BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
+Hardcase Casing Xiaomi Redmi Note 10 Couple Anime Hanako FLL0013A
 Rp100.000
 Rp115.000
 13%

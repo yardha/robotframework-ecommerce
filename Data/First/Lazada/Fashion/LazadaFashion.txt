@@ -1,7 +1,8 @@
 ==============================================================================
 LazadaFashion :: This test suite to test functionality survey, each type su...
 ==============================================================================
-LAZADA Sort by Relevance                                              Sweater Rajut Lengan Panjang Bahan Wol Hangat Untuk Wanita
+LAZADA Sort by Relevance                                              VALID_DATA_BELOW
+Sweater Rajut Lengan Panjang Bahan Wol Hangat Untuk Wanita
 Rp112.600
 32%off
 (29)
@@ -955,7 +956,8 @@ Rp35.000
 Kota Cimahi
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Lowest Price                                           Rajut resleting /rajut pria/ sweater pria
+LAZADA Sort by Lowest Price                                           VALID_DATA_BELOW
+Rajut resleting /rajut pria/ sweater pria
 Rp1.000
 Baru
 Kab. Bandung Barat
@@ -1936,7 +1938,8 @@ Murah
 Kota Bandung
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Highest Price                                          SWEATER RAJUT WANITA BATWING/ NEW BEST SELLER
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+SWEATER RAJUT WANITA BATWING/ NEW BEST SELLER
 Rp460.000
 Baru
 Kota Bandung
@@ -2948,7 +2951,8 @@ Rp120.000
 Kota Bandung
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Lowest Price                                         Cardigan Outer Sweater Knit Rajut Korean Thrift Murah
+LAZADA Filter by Lowest Price                                         VALID_DATA_BELOW
+Cardigan Outer Sweater Knit Rajut Korean Thrift Murah
 Rp10.000
 Kota Bandung
 (GRATIS LOGAM EMAS) GRATIS ONGKIR COD WANITA ll Baju Rajut Liam 7 Get terbaru crop | hoodie wanita aesthetic / sweater crop wanita kekinian / baju rajut pendek wanita /sweater cewek murah / sweater crop korea / baju sweater wanita panjang
@@ -3888,7 +3892,8 @@ Rp25.000
 Kab. Bandung Barat
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        SWEATER AWAN RAJUT
+LAZADA Filter by Highest Price                                        VALID_DATA_BELOW
+SWEATER AWAN RAJUT
 Rp100.000
 Kab. Bandung
 ORIGINALL!! Outwear Rajut Knit Tessa Cardy #4 Valent Hijab JACKET

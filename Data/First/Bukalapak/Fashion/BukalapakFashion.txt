@@ -1,7 +1,8 @@
 ==============================================================================
 BukalapakFashion :: This test suite to test functionality survey, each type...
 ==============================================================================
-BUKALAPAK Sort by Relevance                                           Jaket Rajut ariel sweater VC
+BUKALAPAK Sort by Relevance                                           VALID_DATA_BELOW
+Jaket Rajut ariel sweater VC
 Rp
 99.500
 4.4
@@ -1681,7 +1682,8 @@ Bandung
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Sort by Lowest Price                                        Bahan Rajut Untuk Baju Hangat Sweater Syal Coat
+BUKALAPAK Sort by Lowest Price                                        VALID_DATA_BELOW
+Bahan Rajut Untuk Baju Hangat Sweater Syal Coat
 Rp
 20.000
 Surabaya
@@ -2942,7 +2944,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Sort by Highest Price                                       Bal Segel Import SWEATER RAJUT W9 - MONKEY
+BUKALAPAK Sort by Highest Price                                       VALID_DATA_BELOW
+Bal Segel Import SWEATER RAJUT W9 - MONKEY
 Rp
 4.800.000
 Bandung
@@ -3877,7 +3880,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Filter by Lowest Price                                      Bahan Rajut Untuk Baju Hangat Sweater Syal Coat
+BUKALAPAK Filter by Lowest Price                                      VALID_DATA_BELOW
+Bahan Rajut Untuk Baju Hangat Sweater Syal Coat
 Rp
 20.000
 Surabaya
@@ -5138,7 +5142,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Filter by Highest Price                                     Jaket Sweater Ariel Rajut Dark Grey Allsize
+BUKALAPAK Filter by Highest Price                                     VALID_DATA_BELOW
+Jaket Sweater Ariel Rajut Dark Grey Allsize
 Rp
 100.000
 4.7

@@ -1,7 +1,8 @@
 ==============================================================================
 LazadaFurniture :: This test suite to test functionality survey, each type ...
 ==============================================================================
-LAZADA Sort by Relevance                                              Keranjang Besi Tengah Hitam Astrea Grand Prima/satria/fizr/jupiter
+LAZADA Sort by Relevance                                              VALID_DATA_BELOW
+Keranjang Besi Tengah Hitam Astrea Grand Prima/satria/fizr/jupiter
 Rp85.000
 Rp150.000
 -43%
@@ -965,7 +966,8 @@ Rp599.500
 Kab. Kepulauan Seribu
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Lowest Price                                           Rak Bunga Besi Minimalis Tanaman Hias Bertingkat 20 Dudukan Susun 9 Kotak Bulat Bahan Beton Ulir Polos Hollo Tebal 10 Mm Tinggi 100 Lebar 20 Panjang 100 cm Hitam Putih Tembaga Gold Emas Standing Pot Murah Flower Rack Iron Model Jumbo Tenda
+LAZADA Sort by Lowest Price                                           VALID_DATA_BELOW
+Rak Bunga Besi Minimalis Tanaman Hias Bertingkat 20 Dudukan Susun 9 Kotak Bulat Bahan Beton Ulir Polos Hollo Tebal 10 Mm Tinggi 100 Lebar 20 Panjang 100 cm Hitam Putih Tembaga Gold Emas Standing Pot Murah Flower Rack Iron Model Jumbo Tenda
 Rp2.000
 Kab. Bekasi
 Rak Bunga Besi Susun Hollow Minimalis Tanaman Hias 11 Dudukan Bertingkat Standing Pot Antik Tinggi 150 Cm Panjang 70 Lebar 20 cm Warna Hitam
@@ -1825,7 +1827,8 @@ Rp199.000
 Kota Tangerang
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Highest Price                                          TROLI TROLLEY BESI BELANJA DORONG LIPAT GEROBAK KERANJANG KERETA SERBAGUNA ANGKUT BARANG GAS GALON
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+TROLI TROLLEY BESI BELANJA DORONG LIPAT GEROBAK KERANJANG KERETA SERBAGUNA ANGKUT BARANG GAS GALON
 Rp2.999.000
 Kota Jakarta Barat
 Kitarack Rak Gudang Besi 4 Susun 2,1 M Rak Toko Minimarket Supermarket Jeprisapriadistore
@@ -2753,7 +2756,8 @@ Rp80.000
 Kab. Cirebon
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Lowest Price                                         GUNINCO keranjang besi gantung tempat aksesoris serbaguna rak bumbu dapur wall grid dekorasi
+LAZADA Filter by Lowest Price                                         VALID_DATA_BELOW
+GUNINCO keranjang besi gantung tempat aksesoris serbaguna rak bumbu dapur wall grid dekorasi
 Rp10.000
 52%off
 (155)
@@ -3613,7 +3617,8 @@ Rp215.000
 Kota Medan
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        RAK KERANJANG JEPIT TENGAH SUZUKI SHOGUN NEW 110 CROME BESI TEBAL HIGH QUALITY NOS
+LAZADA Filter by Highest Price                                        VALID_DATA_BELOW
+RAK KERANJANG JEPIT TENGAH SUZUKI SHOGUN NEW 110 CROME BESI TEBAL HIGH QUALITY NOS
 Rp100.000
 Kab. Klaten
 RAK KERANJANG JEPIT TENGAH HONDA KHARISMA 125 CROME BESI TEBAL HIGH QUALITY NOS

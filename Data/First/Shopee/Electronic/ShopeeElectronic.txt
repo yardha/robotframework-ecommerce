@@ -1,7 +1,8 @@
 ==============================================================================
 ShopeeElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-SHOPEE Sort by Relevance                                              Star
+SHOPEE Sort by Relevance                                              VALID_DATA_BELOW
+Star
 Iklan
 CASE REDMI 10C REDMI 10A - SOFTCASE CASE MATTE COVE DOVE FULL COLOUR REDMI 10C REDMI 10A ~ GT
 Rp6.000
@@ -2226,7 +2227,8 @@ Rp7.200
 KOTA JAKARTA PUSAT
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Lowest Price                                           Iklan
+SHOPEE Sort by Lowest Price                                           VALID_DATA_BELOW
+Iklan
 Casing Redmi Buds 3 Lite/Airdotspro/3 Transparan Kartun Softcase
 Diskon 55%
 Pilih 2, diskon Rp2.000
@@ -4486,7 +4488,8 @@ Rp6.000
 KOTA JAKARTA UTARA
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Highest Price                                          Star
+SHOPEE Sort by Highest Price                                          VALID_DATA_BELOW
+Star
 Iklan
 Xiaomi Redmi Note 10 5G - Full Carbon Fiber Hybrid Case Casing Cover
 Pilih 2, diskon Rp3.000
@@ -7076,7 +7079,8 @@ Rp28.001
 Luar Negeri
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Lowest Price                                         Iklan
+SHOPEE Filter by Lowest Price                                         VALID_DATA_BELOW
+Iklan
 Casing Redmi Buds 3 Lite/Airdotspro/3 Transparan Kartun Softcase
 Diskon 55%
 Pilih 2, diskon Rp2.000
@@ -9245,7 +9249,8 @@ Rp12.000 - Rp22.000
 KOTA JAKARTA UTARA
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Highest Price                                        Iklan
+SHOPEE Filter by Highest Price                                        VALID_DATA_BELOW
+Iklan
 Casing Redmi Buds 3 Lite/Airdotspro/3 Transparan Kartun Softcase
 Diskon 55%
 Pilih 2, diskon Rp2.000

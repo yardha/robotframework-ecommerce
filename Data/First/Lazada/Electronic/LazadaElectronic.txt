@@ -1,7 +1,8 @@
 ==============================================================================
 LazadaElectronic :: This test suite to test functionality survey, each type...
 ==============================================================================
-LAZADA Sort by Relevance                                              Case REDMI 10A - Casing REDMI 10A Terbaru 2021 AERO CASE [ WANPIS ] Silikon REDMI 10A - Case Hp REDMI 10A - Cassing Hp - Softcase Glass Kaca - Softcase REDMI 10A - Kesing REDMI 10A - Kondom Hp - Case Terlaris - Case Terbaru
+LAZADA Sort by Relevance                                              VALID_DATA_BELOW
+Case REDMI 10A - Casing REDMI 10A Terbaru 2021 AERO CASE [ WANPIS ] Silikon REDMI 10A - Case Hp REDMI 10A - Cassing Hp - Softcase Glass Kaca - Softcase REDMI 10A - Kesing REDMI 10A - Kondom Hp - Case Terlaris - Case Terbaru
 Rp19.500
 70%off
 (1)
@@ -907,7 +908,8 @@ Rp29.900
 Kab. Bogor
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Lowest Price                                           XIAOMI AUTOFOCUS KULIT ALL TYPE HP / SOFTCASE BLACK / CASE / REDMI 10/5+/5+/3S+/3PRO/4X/4A5A/6A/6/7/8A/8A PRO/9A/9C/9/9T/K20/K20PRO/
+LAZADA Sort by Lowest Price                                           VALID_DATA_BELOW
+XIAOMI AUTOFOCUS KULIT ALL TYPE HP / SOFTCASE BLACK / CASE / REDMI 10/5+/5+/3S+/3PRO/4X/4A5A/6A/6/7/8A/8A PRO/9A/9C/9/9T/K20/K20PRO/
 Rp2.300
 54%off
 (9)
@@ -1833,7 +1835,8 @@ Rp16.300
 Kota Depok
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Sort by Highest Price                                          HANNEY untuk Xiaomi Redmi 10C 10A 10 9 9A 9C 9T Casing Ponsel Bisnis Kulit Flip Cover Penyerapan Guncangan Penuh Folio Dompet Berdiri dengan Pemegang Kartu SD-SXK
+LAZADA Sort by Highest Price                                          VALID_DATA_BELOW
+HANNEY untuk Xiaomi Redmi 10C 10A 10 9 9A 9C 9T Casing Ponsel Bisnis Kulit Flip Cover Penyerapan Guncangan Penuh Folio Dompet Berdiri dengan Pemegang Kartu SD-SXK
 Rp90.900
 41%off
 Luar Negeri
@@ -2699,7 +2702,8 @@ Rp33.000
 Luar Negeri
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Lowest Price                                         Case Aero My Choice Xiaomi Redmi 10a Silikon Casing Selicon Dove Pelindung Camera
+LAZADA Filter by Lowest Price                                         VALID_DATA_BELOW
+Case Aero My Choice Xiaomi Redmi 10a Silikon Casing Selicon Dove Pelindung Camera
 Rp10.000
 Kota Surabaya
 SOFTCASE ANTICRACK ORI Xiaomi Redmi 10A 10C 10-2022 Redmi 8 8A 8APRO Redmi 9 9A 9C 9T SOFTCASE ANTI BREAK ORIGINAL / SOFTCASE CLEAR TRANSPARANT / CLEAR GLOSSY / ANTI KNOCK / TAHAN BANTING / SILIKON PLASTIK KARET PREMIUM / SOFTCASE SUPER TEBAL
@@ -3753,7 +3757,8 @@ Rp78.000
 Luar Negeri
 | PASS |
 ------------------------------------------------------------------------------
-LAZADA Filter by Highest Price                                        HANNEY untuk Xiaomi Redmi 10C 10A 10 9 9A 9C 9T Casing Ponsel Bisnis Kulit Flip Cover Penyerapan Guncangan Penuh Folio Dompet Berdiri dengan Pemegang Kartu SD-SXK
+LAZADA Filter by Highest Price                                        VALID_DATA_BELOW
+HANNEY untuk Xiaomi Redmi 10C 10A 10 9 9A 9C 9T Casing Ponsel Bisnis Kulit Flip Cover Penyerapan Guncangan Penuh Folio Dompet Berdiri dengan Pemegang Kartu SD-SXK
 Rp90.900
 41%off
 Luar Negeri

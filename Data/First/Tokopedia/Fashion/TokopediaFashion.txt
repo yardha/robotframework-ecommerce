@@ -1,7 +1,8 @@
 ==============================================================================
 TokopediaFashion :: This test suite to test functionality survey, each type...
 ==============================================================================
-TOKOPEDIA Sort by Relevance                                           Ad
+TOKOPEDIA Sort by Relevance                                           VALID_DATA_BELOW
+Ad
 Cantik Fest
 Outwear Cardigan Sweater Cable Rajut Premium - Putih, all size
 Rp58.000
@@ -2866,7 +2867,8 @@ NADIRA STORE 09
 Terjual 30+
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Lowest Price                                        sweater rajut hodie wanita
+TOKOPEDIA Sort by Lowest Price                                        VALID_DATA_BELOW
+sweater rajut hodie wanita
 Rp135
 Kab. Bantaeng
 kimoracolection
@@ -4363,7 +4365,8 @@ Bandung
 Bari0elin Cloth Bandung
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Highest Price                                       Ad
+TOKOPEDIA Sort by Highest Price                                       VALID_DATA_BELOW
+Ad
 Produk Terbaru
 SWEATER RAJUT FEAR OF GOD ESSENTIALS KNIT PK FG-ST6035
 Rp1.023.000
@@ -6149,7 +6152,8 @@ Mahameru Survival Soul
 Terjual 4
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Lowest Price                                      jaket sweater rajut knit preloved
+TOKOPEDIA Filter by Lowest Price                                      VALID_DATA_BELOW
+jaket sweater rajut knit preloved
 Rp10.000
 Surakarta
 adita-sh0p
@@ -7647,7 +7651,8 @@ Sora Knit
 Terjual 50+
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Highest Price                                     Ad
+TOKOPEDIA Filter by Highest Price                                     VALID_DATA_BELOW
+Ad
 Okechuku SWEATER API Knit Sweater Pria Sweater Rajut Wanita Gaya Korea - Hitam-Mocca
 Rp99.900
 33%

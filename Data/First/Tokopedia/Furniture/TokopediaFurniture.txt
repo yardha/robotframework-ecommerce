@@ -1,7 +1,8 @@
 ==============================================================================
 TokopediaFurniture :: This test suite to test functionality survey, each ty...
 ==============================================================================
-TOKOPEDIA Sort by Relevance                                           Ad
+TOKOPEDIA Sort by Relevance                                           VALID_DATA_BELOW
+Ad
 TokopediaParents
 Keranjang Penyimpanan Serbaguna Material Besi Tempat Penyimpanan Murah - 138 TNP Kanvas, Hitam
 Rp100.000
@@ -2463,7 +2464,8 @@ HDS DEKORSHOP
 Terjual 4
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Lowest Price                                        WIRE GRID KAWAT RAM KERANJANG BESI WALL MESH RAK BESI RAK KAWAT DINDIN
+TOKOPEDIA Sort by Lowest Price                                        VALID_DATA_BELOW
+WIRE GRID KAWAT RAM KERANJANG BESI WALL MESH RAK BESI RAK KAWAT DINDIN
 Rp400
 Jakarta Barat
 katari_homedecor
@@ -4138,7 +4140,8 @@ HDS DEKORSHOP
 Terjual 4
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Highest Price                                       Preorder
+TOKOPEDIA Sort by Highest Price                                       VALID_DATA_BELOW
+Preorder
 Ad
 Loft bed besi ranjang dipan divan besi variasi set kamar mezzanine
 Rp6.000.000
@@ -5807,7 +5810,8 @@ pakubuana rotan
 Terjual 15
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Lowest Price                                      Sisa 3
+TOKOPEDIA Filter by Lowest Price                                      VALID_DATA_BELOW
+Sisa 3
 KESI Rak Bumbu Kamar mandi Keranjang Besi Gantung Dinding Serbaguna
 Rp10.000
 Cashback
@@ -7485,7 +7489,8 @@ sikusiku
 Terjual 250+
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Highest Price                                     Ad
+TOKOPEDIA Filter by Highest Price                                     VALID_DATA_BELOW
+Ad
 TokopediaParents
 Keranjang Penyimpanan Serbaguna Material Besi Tempat Penyimpanan Murah - 138 TNP Kanvas, Hitam
 Rp100.000

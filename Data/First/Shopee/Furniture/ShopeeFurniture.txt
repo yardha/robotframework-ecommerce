@@ -1,7 +1,8 @@
 ==============================================================================
 ShopeeFurniture :: This test suite to test functionality survey, each type ...
 ==============================================================================
-SHOPEE Sort by Relevance                                              Star
+SHOPEE Sort by Relevance                                              VALID_DATA_BELOW
+Star
 45%
 OFF
 Iklan
@@ -1971,7 +1972,8 @@ Rp324.900
 KAB. TANGERANG
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Lowest Price                                           43%
+SHOPEE Sort by Lowest Price                                           VALID_DATA_BELOW
+43%
 OFF
 Iklan
 APHOME Keranjang Besi Estetik Anti Karat Metal Basket Keranjang Baja Handel Kayu Model Bulat IVANKA
@@ -3945,7 +3947,8 @@ Rp9.000 - Rp16.500
 KAB. TRENGGALEK
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Highest Price                                          Iklan
+SHOPEE Sort by Highest Price                                          VALID_DATA_BELOW
+Iklan
 Lemari Pakaian Besi 2 Pintu Minimalis Modern - Almari Baju Besi
 Rp1.849.000 - Rp2.400.000
 66 Terjual
@@ -5786,7 +5789,8 @@ Rp179.000 - Rp219.000
 KOTA TANGERANG SELATAN
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Lowest Price                                         Star
+SHOPEE Filter by Lowest Price                                         VALID_DATA_BELOW
+Star
 Iklan
 Keranjang Multifungsi bisa untuk tempat pakaian dan mainan anak
 Rp30.000
@@ -7714,7 +7718,8 @@ Rp39.000 - Rp75.000
 KOTA JAKARTA UTARA
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Highest Price                                        Iklan
+SHOPEE Filter by Highest Price                                        VALID_DATA_BELOW
+Iklan
 Jual Keranjang Anyaman/Storage/cover pot set 3 Seagrass Zig zag
 Rp90.000
 KOTA JAKARTA TIMUR

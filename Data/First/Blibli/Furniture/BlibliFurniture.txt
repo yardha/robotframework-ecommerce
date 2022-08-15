@@ -1,7 +1,8 @@
 ==============================================================================
 BlibliFurniture :: This test suite to test functionality survey, each type ...
 ==============================================================================
-BLIBLI Sort by Relevance                                              IRON STORAGE BASKET STEEL / KERANJANG PENYIMPANAN PUTIH BESI H374
+BLIBLI Sort by Relevance                                              VALID_DATA_BELOW
+IRON STORAGE BASKET STEEL / KERANJANG PENYIMPANAN PUTIH BESI H374
 Rp128.250
 Rp135.000
 5%
@@ -864,7 +865,8 @@ Rp307.800
 Kota Jakarta Barat
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Lowest Price                                           Gantungan Dinding Hook Transparan
+BLIBLI Sort by Lowest Price                                           VALID_DATA_BELOW
+Gantungan Dinding Hook Transparan
 Rp1.050
 Rp1.500
 30%
@@ -1816,7 +1818,8 @@ Rp87.000
 Kota Jakarta Barat
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Highest Price                                          Paket Start Up Laundry Kode 347
+BLIBLI Sort by Highest Price                                          VALID_DATA_BELOW
+Paket Start Up Laundry Kode 347
 Rp21.231.000
 Kota Jakarta Barat
 Paket Usaha Laundry Terlaris 15Jt Al New (Tanpa Dp)) Kode 177
@@ -2627,7 +2630,8 @@ Rp472.000
 Kota Jakarta Barat
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Lowest Price                                         5
+BLIBLI Filter by Lowest Price                                         VALID_DATA_BELOW
+5
 Keranjang Storage Box Mini Organizer Kotak Penyimpanan Serbaguna
 Rp12.947
 Rp13.211
@@ -3579,7 +3583,8 @@ Rp180.000
 Kota Jakarta Barat
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Highest Price                                        Hingga Rp3.000
+BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
+Hingga Rp3.000
 Rak Gantungan Barang Keran Kran Air Peralatan Dapur Storage Sabun Cuci 100 % ORIGINAL
 Rp100.000
 Kota Jakarta Pusat

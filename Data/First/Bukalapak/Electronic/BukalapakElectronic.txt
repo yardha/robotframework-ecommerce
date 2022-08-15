@@ -1,7 +1,8 @@
 ==============================================================================
 BukalapakElectronic :: This test suite to test functionality survey, each t...
 ==============================================================================
-BUKALAPAK Sort by Relevance                                           Casing Hardcase Robot Xiaomi Redmi 8A Pro Hard Back Case
+BUKALAPAK Sort by Relevance                                           VALID_DATA_BELOW
+Casing Hardcase Robot Xiaomi Redmi 8A Pro Hard Back Case
 Rp
 99.000
 5
@@ -2091,7 +2092,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Sort by Lowest Price                                        REDMI 10A Case Auto Focus Kulit Camera Protection
+BUKALAPAK Sort by Lowest Price                                        VALID_DATA_BELOW
+REDMI 10A Case Auto Focus Kulit Camera Protection
 Rp
 3.500
 5
@@ -3190,7 +3192,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Sort by Highest Price                                       Case Xiaomi Redmi 10A Spigen Rugged Armor Slim Softcase Carbon Casing Cover Sarung Pelindung HP
+BUKALAPAK Sort by Highest Price                                       VALID_DATA_BELOW
+Case Xiaomi Redmi 10A Spigen Rugged Armor Slim Softcase Carbon Casing Cover Sarung Pelindung HP
 Rp
 485.000
 Tangerang
@@ -4128,7 +4131,8 @@ Rp
 Jakarta Pusat
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Filter by Lowest Price                                      Case Manik Manik Permen REDMI 10A
+BUKALAPAK Filter by Lowest Price                                      VALID_DATA_BELOW
+Case Manik Manik Permen REDMI 10A
 Rp
 10.000
 Tangerang
@@ -5219,7 +5223,8 @@ Bayar di Tempat (COD)
 No Ongkir
 | PASS |
 ------------------------------------------------------------------------------
-BUKALAPAK Filter by Highest Price                                     Hybrid Hard Soft Case Ring Armor Defence Series Standing Protection Casing XIAOMI REDMI 10A
+BUKALAPAK Filter by Highest Price                                     VALID_DATA_BELOW
+Hybrid Hard Soft Case Ring Armor Defence Series Standing Protection Casing XIAOMI REDMI 10A
 Rp
 100.000
 Jakarta Pusat

@@ -1,7 +1,8 @@
 ==============================================================================
 ShopeeFashion :: This test suite to test functionality survey, each type su...
 ==============================================================================
-SHOPEE Sort by Relevance                                              Star
+SHOPEE Sort by Relevance                                              VALID_DATA_BELOW
+Star
 50%
 OFF
 Iklan
@@ -2032,7 +2033,8 @@ Rp229.000
 KOTA CIMAHI
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Lowest Price                                           20%
+SHOPEE Sort by Lowest Price                                           VALID_DATA_BELOW
+20%
 OFF
 Iklan
 Sweater BAND STYLE Premium Distro Crewneck M L XL
@@ -4095,7 +4097,8 @@ Rp80.750 - Rp90.000
 KAB. BOGOR
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Sort by Highest Price                                          66%
+SHOPEE Sort by Highest Price                                          VALID_DATA_BELOW
+66%
 OFF
 Iklan
 Russ Sweater Crewneck Just Me Black
@@ -6198,7 +6201,8 @@ Rp85.000
 KAB. BANDUNG BARAT
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Lowest Price                                         Iklan
+SHOPEE Filter by Lowest Price                                         VALID_DATA_BELOW
+Iklan
 Sweater rajut ANU Murah Berkualitas Vneck Classy Long sleeve ANU - Sweater Vneck Pria Wanita Premium
 Grosir
 Rp85.000
@@ -8267,7 +8271,8 @@ Rp87.000
 KOTA BANDUNG
 | PASS |
 ------------------------------------------------------------------------------
-SHOPEE Filter by Highest Price                                        Star
+SHOPEE Filter by Highest Price                                        VALID_DATA_BELOW
+Star
 46%
 OFF
 Iklan

@@ -1,7 +1,8 @@
 ==============================================================================
 TokopediaElectronic :: This test suite to test functionality survey, each t...
 ==============================================================================
-TOKOPEDIA Sort by Relevance                                           Ad
+TOKOPEDIA Sort by Relevance                                           VALID_DATA_BELOW
+Ad
 XIAOMI REDMI 10A SOFT CASE VEGAN LEATHER - Hitam
 Rp39.000
 22%
@@ -2485,7 +2486,8 @@ Jakarta Selatan
 AXTON_ACC
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Lowest Price                                        New Case xiaomi redmi 10A dan redmi 10c - silikon Redmi 10A/Redmi 10c
+TOKOPEDIA Sort by Lowest Price                                        VALID_DATA_BELOW
+New Case xiaomi redmi 10A dan redmi 10c - silikon Redmi 10A/Redmi 10c
 Rp1.500
 Kab. Tangerang
 1112 STORE
@@ -4255,7 +4257,8 @@ Jakarta Selatan
 AXTON_ACC
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Sort by Highest Price                                       Ad
+TOKOPEDIA Sort by Highest Price                                       VALID_DATA_BELOW
+Ad
 Spigen Ultra Hybrid Case Xiaomi RedMi Note 10 Pro - Acrylic Clear Fit
 Rp227.700
 1%
@@ -5917,7 +5920,8 @@ Best accesories hp
 Terjual 14
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Lowest Price                                      Produk Terbaru
+TOKOPEDIA Filter by Lowest Price                                      VALID_DATA_BELOW
+Produk Terbaru
 Redmi 10A Clear Wallet Card Case Bening / Card Holder Kart
 Rp10.000
 Jakarta Pusat
@@ -7603,7 +7607,8 @@ Toko 88 Acc
 Terjual 11
 | PASS |
 ------------------------------------------------------------------------------
-TOKOPEDIA Filter by Highest Price                                     Ad
+TOKOPEDIA Filter by Highest Price                                     VALID_DATA_BELOW
+Ad
 Casing Redmi Note 10 10s Note 10 Pro Max Dux Ducis Pro ORI Flip Case
 Rp99.900
 Cashback

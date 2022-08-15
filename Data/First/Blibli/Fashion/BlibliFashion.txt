@@ -1,7 +1,8 @@
 ==============================================================================
 BlibliFashion :: This test suite to test functionality survey, each type su...
 ==============================================================================
-BLIBLI Sort by Relevance                                              Cardigan Rajut Elizabeth – Alula
+BLIBLI Sort by Relevance                                              VALID_DATA_BELOW
+Cardigan Rajut Elizabeth – Alula
 Rp200.000
 Rp250.000
 20%
@@ -1121,7 +1122,8 @@ Rp319.600
 Kota Tangerang
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Lowest Price                                           Sweater Wanita Stripe
+BLIBLI Sort by Lowest Price                                           VALID_DATA_BELOW
+Sweater Wanita Stripe
 Rp15.000
 Kota Jakarta Timur
 8
@@ -2237,7 +2239,8 @@ Rp65.000
 Kab. Bandung
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Sort by Highest Price                                          Rp250.000
+BLIBLI Sort by Highest Price                                          VALID_DATA_BELOW
+Rp250.000
 Prada Milano Logo Print Knit Sweater Navy
 Rp12.800.000
 Kota Surabaya
@@ -3132,7 +3135,8 @@ Rp752.000
 Kota Bekasi
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Lowest Price                                         Sweater Wanita Stripe
+BLIBLI Filter by Lowest Price                                         VALID_DATA_BELOW
+Sweater Wanita Stripe
 Rp15.000
 Kota Jakarta Timur
 8
@@ -4248,7 +4252,8 @@ Rp65.000
 Kab. Bandung
 | PASS |
 ------------------------------------------------------------------------------
-BLIBLI Filter by Highest Price                                        Sweater wanita - DOREEN KNIT
+BLIBLI Filter by Highest Price                                        VALID_DATA_BELOW
+Sweater wanita - DOREEN KNIT
 Rp100.000
 Kota Jakarta Timur
 Cardigan Tunik switeer Rajut Belah Samping kadrigan Sweater Tunik Slit Rajut Belah Pinggir Samping
